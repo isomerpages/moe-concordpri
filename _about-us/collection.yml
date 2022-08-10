@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - "#clapforConcord.md"
       - Virtual Open House 2021.md
       - Environmental Commitment.md
