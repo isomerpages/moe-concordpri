@@ -5,7 +5,9 @@ description: ""
 ---
 ##### Environmental Mission Statement: 
 
-![](/images/E-club_03.jpeg)
+<img src="/images/E-club_03.jpeg" 
+     style="width:55%">
+
 
 _We develop Concordians with a strong commitment to improve the environment in our community._
 
