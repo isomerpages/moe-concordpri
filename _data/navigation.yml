@@ -3,4 +3,14 @@ links:
   - title: About Us
     collection: about-us
   - title: Our People
-    collection: about-us
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: For Parents
+    collection: for-parents
+  - title: Highlights
+    collection: highlights
+  - title: Learning Platforms
+    url: /learning-platforms
+  - title: Contact Us
+    url: /contact-us
