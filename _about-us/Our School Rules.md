@@ -31,7 +31,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xi4p">Responsibility</td>
-    <td class="tg-8jx4">I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br><br><br>I will not bring large sums of money, unauthorized electronic devices, card games that can lead to gambling activities, jewelry and handphones to school.<br><br>I will not have in my possession any weapons or weapon-like items that can be used to cause harm to others.<br><br>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br></td>
+    <td class="tg-8jx4">I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br><br>I will not bring large sums of money, unauthorized electronic devices, card games that can lead to gambling activities, jewelry and handphones to school.<br><br>I will not have in my possession any weapons or weapon-like items that can be used to cause harm to others.<br><br>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br></td>
   </tr>
   <tr>
     <td class="tg-wrbi">Respect</td>
