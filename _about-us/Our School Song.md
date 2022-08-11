@@ -3,7 +3,7 @@ title: Our School Song
 permalink: /about-us/our-school-song
 description: ""
 ---
-Together We Soar To Greater Heights    
+##### Together We Soar To Greater Heights    
 Music and Lyrics by Loo Teng Kiat
 
   
