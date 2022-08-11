@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Song.md
       - The Concord Creed.md
       - Our School Mascot.md
       - Our School Rules.md
