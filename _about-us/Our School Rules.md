@@ -35,15 +35,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wrbi">Respect</td>
-    <td class="tg-icg1">I will wear the prescribed school uniform. Modifications to the uniform are not allowed.<br><br><br>Jewellery, multi-ear piercing and tattoos are not part of the prescribed school uniform.<br><br>Moustache, beard and long sideburns are not permitted.<br><br>I will respect all school staff, students and visitors.</td>
+    <td class="tg-icg1">I will wear the prescribed school uniform. Modifications to the uniform are not allowed.<br><br>Jewellery, multi-ear piercing and tattoos are not part of the prescribed school uniform.<br><br>Moustache, beard and long sideburns are not permitted.<br><br>I will respect all school staff, students and visitors.</td>
   </tr>
   <tr>
     <td class="tg-xi4p">Integrity</td>
-    <td class="tg-8jx4"><br>I will not leave the school during school hours.<br><br>I will be honest at all times.<br></td>
+    <td class="tg-8jx4">I will not leave the school during school hours.<br><br>I will be honest at all times.<br></td>
   </tr>
   <tr>
     <td class="tg-wrbi">Loyalty</td>
-    <td class="tg-icg1"><br>All Singapore Citizens must sing the National Anthem and take the Pledge.<br><br>Students will take the Pledge with the right fist over the heart.<br></td>
+    <td class="tg-icg1">All Singapore Citizens must sing the National Anthem and take the Pledge.<br><br>Students will take the Pledge with the right fist over the heart.<br></td>
   </tr>
   <tr>
     <td class="tg-xi4p">Resilience</td>
