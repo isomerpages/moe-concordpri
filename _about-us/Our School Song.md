@@ -19,9 +19,8 @@ We'll take on the world with love and flair
 Responsible words and thoughts we'll share    
 Resounding in laughter everywhere
 
-  
 
-(Chorus)
+(Chorus)   
 Staying true to this land we call home     
 Our hearts will beat as one   
 Staying true to our dreams, our hopes   
