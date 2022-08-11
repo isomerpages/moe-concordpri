@@ -3,7 +3,9 @@ title: Our School Crest
 permalink: /about-us/our-school-crest
 description: ""
 ---
-![](/images/Color%20School%20Logo%201.png)
+
+<img src="/images/Color%20School%20Logo%201.png" 
+     style="width:65%">
 
 <center>The school crest is encircled by the school’s name and motto<br>– <em>Together We Soar to Greater Heights</em>.</center>
 
