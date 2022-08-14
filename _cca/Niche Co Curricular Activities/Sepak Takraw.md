@@ -65,7 +65,4 @@ In 2019, the Junior Teams performed exceptionally well. Both Team 1 and Team 2 a
 
 ![](/images/Takraw04.jpeg)
 
-<center>Our team doing us proud</center>
-
 ![](/images/Takraw05.jpeg)
-
