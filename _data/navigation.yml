@@ -5,7 +5,10 @@ links:
   - title: Our People
     collection: our-people
   - title: Our Curriculum
-    collection: our-curriculum
+    url: /cca/badminton
+    sublinks:
+      - title: CCA
+        url: /cca/badminton
   - title: For Parents
     collection: for-parents
   - title: Highlights
@@ -14,8 +17,3 @@ links:
     url: /learning-platforms
   - title: Contact Us
     url: /contact-us
-  - title: Our Curriculum
-    url: /cca/badminton
-    sublinks:
-      - title: CCA
-        url: /cca/badminton
