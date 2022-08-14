@@ -58,6 +58,6 @@ The same identification process is employed when the P3 students undergo the Mod
 
   
 
-All Nice CCAs will have qualified MOE-registered instructors and coaches to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
+All Nice CCAs will have <u>qualified MOE-registered instructors and coaches</u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
 
 Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
