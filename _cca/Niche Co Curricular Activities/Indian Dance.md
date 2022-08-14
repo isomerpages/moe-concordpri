@@ -13,3 +13,19 @@ Our dancers learn a mix of folk, traditional and contemporary dances. We believe
 For the past few years, we have been performing at school, external venues and also taking part in the SYF Central Judging.Our dance group has achieved Certificate of Distinction in 2016 and 2018.
 
 As part of the National Day 2017 celebration at The Treasury building, we were invited by the Ministry of Finance to perform a fusion dance, together with the International Dance members. It was indeed a proud moment for the dancers as they performed in front of for 4 Ministers. The dance was well received by the public.
+
+<center>SYF 2016 - Our Vibrant Performers</center>
+
+![](/images/ind1.jpeg)
+
+<center>SYF 2016 - Our Vibrant Performers</center>
+
+![](/images/ind2.jpeg)
+
+<center>Performance at Ministry of Finance</center>
+
+![](/images/ind3.png)
+
+<center>Performance at Ministry of Finance</center>
+
+![](/images/ind4.jpeg)
