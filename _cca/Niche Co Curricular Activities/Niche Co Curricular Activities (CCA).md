@@ -16,30 +16,30 @@ Students who have demonstrated Sports and Performing Arts related savviness, are
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5o1s{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8n5d{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:top}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-5o1s">Sports CCAs</td>
-    <td class="tg-5o1s">Performing Arts CCAs</td>
+    <td class="tg-1pw2">Sports CCAs</td>
+    <td class="tg-1pw2">Performing Arts CCAs</td>
   </tr>
   <tr>
-    <td class="tg-8n5d">Badminton (Boys)</td>
-    <td class="tg-8n5d">Band</td>
+    <td class="tg-yhj3">Badminton (Boys)</td>
+    <td class="tg-yhj3">Band</td>
   </tr>
   <tr>
-    <td class="tg-8n5d">Floorball</td>
-    <td class="tg-8n5d">Choir</td>
+    <td class="tg-yhj3">Floorball</td>
+    <td class="tg-yhj3">Choir</td>
   </tr>
   <tr>
-    <td class="tg-8n5d">Sepak Takraw (Boys)</td>
-    <td class="tg-8n5d">Indian Dance</td>
+    <td class="tg-yhj3">Sepak Takraw (Boys)</td>
+    <td class="tg-yhj3">Indian Dance</td>
   </tr>
   <tr>
-    <td class="tg-8n5d">Volleyball (Girls)</td>
-    <td class="tg-8n5d">International Dance</td>
+    <td class="tg-yhj3">Volleyball (Girls)</td>
+    <td class="tg-yhj3">International Dance</td>
   </tr>
 </tbody>
 </table>
