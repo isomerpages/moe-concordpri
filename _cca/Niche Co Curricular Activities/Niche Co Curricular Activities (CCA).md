@@ -61,3 +61,68 @@ The same identification process is employed when the P3 students undergo the Mod
 All Nice CCAs will have <u>qualified MOE-registered instructors and coaches</u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
 
 Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-1pw2" colspan="4">Tentative Schedule (2022)</td>
+  </tr>
+  <tr>
+    <td class="tg-1pw2">Mondays</td>
+    <td class="tg-1pw2">Tuesday</td>
+    <td class="tg-1pw2">Wednesdays</td>
+    <td class="tg-1pw2">Thursday</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Floorball</td>
+    <td class="tg-yhj3">Sepak Takraw</td>
+    <td class="tg-yhj3">Badminton</td>
+    <td class="tg-yhj3">Floorball</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Volleyball</td>
+    <td class="tg-yhj3">Choir</td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">Volleyball</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Indian Dance</td>
+    <td class="tg-yhj3">Band</td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">Indian Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">International Dance</td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">International Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Badminton</td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">Sepak Takraw</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">Choir</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3"> </td>
+    <td class="tg-yhj3">Band</td>
+  </tr>
+</tbody>
+</table>
