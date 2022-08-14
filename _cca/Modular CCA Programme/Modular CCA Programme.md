@@ -70,3 +70,9 @@ Every Wednesday, 7.30am to 9am
   </tr>
 </tbody>
 </table>
+
+The Primary 3 to P6 classes will be having Modular CCA according to the schedule below. To provide an integrated approach to addressing our students’ development of leadership, E3 Reasoning and executive functioning skills in a coherent and holistic way, a new module – Soar For Life, has been designed for this purpose.
+
+  
+
+P3 students will be involved in the Sports Talent Identification Programme. Students will be exposed to Niche Sports CCAs such as Sepak Takraw, Volleyball, Floorball and Badminton. Students who exhibit talent in these CCAs will receive additional training during the Niche CCA sessions conducted after school.
