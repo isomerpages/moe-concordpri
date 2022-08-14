@@ -43,3 +43,21 @@ Students who have demonstrated Sports and Performing Arts related savviness, are
   </tr>
 </tbody>
 </table>
+
+Primary 1 and 2 students undergo a talent identification process for Performing Arts CCAs. Students who demonstrate special aptitude for singing and music will be identified and offered the Choir and Band CCA respectively.
+
+  
+
+P3 students undergo talent identification during the Modular CCA Sports Module (Term 1, Weeks 1-10). During the 10 weeks, all students will be exposed to the basic skills of 4 Niche Sports CCAs, conducted by the teachers in charge of each respective CCA. Students who demonstrate keen interest and savviness for the sports, will be matched accordingly.   
+
+  
+
+  
+
+The same identification process is employed when the P3 students undergo the Modular CCA Dance Module. Students who demonstrate special aptitude for dance will be offered either the Indian or International Dance CCA.
+
+  
+
+All Nice CCAs will have qualified MOE-registered instructors and coaches to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
+
+Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
