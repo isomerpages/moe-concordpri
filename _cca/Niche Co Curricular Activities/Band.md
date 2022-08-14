@@ -16,9 +16,13 @@ Recruitment begins from P1 level where potential members are selected and accept
 
 Apart from participating in the SYF competitions and performing for school functions, the Band also aims to provide public performances in collaboration with neighbouring organizations during events like New Year and National Day celebrations.
 
+<center><strong>National Day Performance at Keat Hong CC</strong></center>
+
 ![](/images/band1.jpeg)
 
 ![](/images/band3.png)
+
+<center>Naval Base Secondary School Band Exchange Programme</center>
 
 ![](/images/band2.jpeg)
 
@@ -26,11 +30,16 @@ Apart from participating in the SYF competitions and performing for school funct
 
 ![](/images/band5.jpeg)
 
+<center>Guest Band for ITE West Symphonia at SOTA</center>
+
 ![](/images/band6.jpeg)
 
+<center>Let's Bond Activities</center>
+
 ![](/images/band7.png)
+
+<center>Buddy System Sectionals</center>
 
 ![](/images/band8.jpeg)
 
 ![](/images/band9.jpeg)
-
