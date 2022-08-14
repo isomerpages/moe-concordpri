@@ -14,3 +14,8 @@ links:
     url: /learning-platforms
   - title: Contact Us
     url: /contact-us
+  - title: Our Curriculum
+    url: /cca/badminton
+    sublinks:
+      - title: CCA
+        url: /cca/badminton
