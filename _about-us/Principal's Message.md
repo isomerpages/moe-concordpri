@@ -4,7 +4,7 @@ permalink: /about-us/principals-message
 description: ""
 ---
 <img src="/images/IMG_2363.jpeg" 
-     style="width:45%">
+     style="width:25%">
 
 'As we step into 2022, we will remember and recall the numerous challenges that we experienced over the last two years. Our students have missed out on unique school experiences such as the Primary 5 Annual Camp, National Education (NE) Show, Learning Journeys, National School Games and the Singapore Youth Festival. With the enhanced Safe Management Measures (SMM), simple activities like group interactions during class discussions and at recess times have changed. With the new year, we look forward to return to some normalcy so as to allow our students to experience more social interaction and greater joy in their learning.
 
