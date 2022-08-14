@@ -92,3 +92,35 @@ The Choir has established itself as a recognized Choir nationally and internatio
 </tbody>
 </table>
 
+To keep improving, the choristers are taught various singing techniques and exposed to a wide repertoire of songs in different international languages. The school’s support for the children to attend concerts by prestigious choirs all over the world and the choir exchanges have also enriched the choristers as they learn from each other. With the holistic approach to vocal training, we are hopeful that the choristers will soar to greater heights in singing.
+
+Conductor: Ms. Angila Tan
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/ch1.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/ch2.jpeg"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/ch3.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/ch4.jpeg"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/ch5.jpeg"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
