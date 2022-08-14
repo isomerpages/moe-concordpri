@@ -15,3 +15,22 @@ Recruitment begins from P1 level where potential members are selected and accept
   
 
 Apart from participating in the SYF competitions and performing for school functions, the Band also aims to provide public performances in collaboration with neighbouring organizations during events like New Year and National Day celebrations.
+
+![](/images/band1.jpeg)
+
+![](/images/band3.png)
+
+![](/images/band2.jpeg)
+
+![](/images/band4.jpeg)
+
+![](/images/band5.jpeg)
+
+![](/images/band6.jpeg)
+
+![](/images/band7.png)
+
+![](/images/band8.jpeg)
+
+![](/images/band9.jpeg)
+
