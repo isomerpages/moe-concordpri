@@ -51,3 +51,37 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
   </tr>
 </tbody>
 </table>
+
+IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-jgjh{background-color:#FFF;color:#0C463A;font-style:italic;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
+<colgroup>
+<col style="width: 198px">
+<col style="width: 198px">
+<col style="width: 202px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-jgjh">Subjects</td>
+    <td class="tg-jgjh">Creative Thinking Tools*</td>
+    <td class="tg-jgjh">ICT</td>
+    <td class="tg-jgjh">E3 Reasoning Skills</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">- English<br>- Mathematics<br>- Science<br>- Mother Tongue<br>- Social Studies<br>- Health Education<br></td>
+    <td class="tg-yhj3">- Brainstorming Web<br>- Graphic Organisers<br></td>
+    <td class="tg-yhj3">- Research on the internet on nutritional values printed on the products<br>- Creation of powerpoint slides<br></td>
+    <td class="tg-yhj3">- Observation<br>- Recalling<br>- Elimination<br>- Visualization<br>- Communication<br>- Perspective -taking<br>- Examination<br>- Evaluation<br>- Decision-making<br>- Idea-generation<br>- Problem-solving</td>
+  </tr>
+</tbody>
+</table>
