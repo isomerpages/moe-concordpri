@@ -19,6 +19,7 @@ Conducted within curriculum time, PAL @ Concord provides students with broad exp
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
@@ -31,14 +32,24 @@ Conducted within curriculum time, PAL @ Concord provides students with broad exp
     <td class="tg-0lax"><img src="/images/pal1.jpeg"></td>
     <td class="tg-0lax"><img src="/images/pal2.jpeg"></td>
   </tr>
+	<tr>
+    <td class="tg-baqh">Animals Lovers</td>
+    <td class="tg-baqh">Creating Music Together</td>
+  </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/pal3.jpeg"></td>
     <td class="tg-0lax"><img src="/images/pal4.jpeg"></td>
+  </tr>
+	<tr>
+    <td class="tg-baqh">Exploring outdoors with Binoculars</td>
+    <td class="tg-baqh">Building tents together as a team</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2"><img src="/images/pal5.jpeg" 
      style="width:55%">
 </td>
+		<tr>
+    <td class="tg-baqh" colspan="2">Exploring sound using different instrument</td>
   </tr>
 </tbody>
 </table>
