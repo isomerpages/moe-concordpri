@@ -128,3 +128,16 @@ Cooking Lessons @ NEWTON LAB
   </tr>
 </tbody>
 </table>
+
+**<center>Research for IPW</center>**
+
+![](/images/ipw.png)
+
+**<center>Measuring Ingredients</center>**
+
+![](/images/ip2.png)
+
+**<center>Making pancakes</center>**
+
+![](/images/ipw3.png)
+
