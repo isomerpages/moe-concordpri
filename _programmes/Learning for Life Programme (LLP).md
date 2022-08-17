@@ -46,19 +46,23 @@ By providing high-quality outdoor education, we will see our students: 
 
 2) Gain personal **confidence** and **self-esteem** through taking challenges and achieving success.
 
-![](/images/Abseiling%20Exposure%20Programme.jpg)
+<img src="/images//Abseiling%20Exposure%20Programme.jpg" 
+     style="width:45%">
+<center>Abseiling Exposure Programme</center>
 
 3) Develop their **SEL competencies** and appreciate the contributions and achievements of themselves and of others.
 
-![](/images/llp3-5.jpeg)
-  
+<img src="/images/llp3-5.jpeg" 
+     style="width:45%">
+
 Team Building Games in PAL
 
   
 
 4) **Becoming alive to the natural environment** and understand the importance of conservation and sustainable development.
  
- 
+ <img src="/images/llp4-5.jpg" 
+     style="width:35%">
 Nature Appreciation in PAL
 
 
@@ -67,11 +71,12 @@ Nature Appreciation in PAL
 
 5) Acquiring and developing a range of **skills in outdoor activities, expeditions and explorations**.
 
-  
-
+ <img src="/images/llp5.jpeg" 
+     style="width:35%">
 Tent Building
 
-
+ <img src="/images/llp4-5.jpg" 
+     style="width:35%">
 Kayaking Orienteering Programme
 
   
