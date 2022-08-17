@@ -19,3 +19,7 @@ The SOAR REDEMPTION Card is a redemption card which enables students to redeem i
 
 ### Programme Highlights:
 
+![](/images/soar1.png)
+![](/images/soar2.png)
+![](/images/soar3.png)
+![](/images/soar4.png)
