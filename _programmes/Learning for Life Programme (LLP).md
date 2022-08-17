@@ -83,7 +83,7 @@ Kayaking Orienteering Programme
 
 6) Demonstrating **increased initiative, self-reliance, responsibility, resilience and commitment**.
 
-  
+**(missing image)**
 
 National Climbing Competition
 
@@ -91,30 +91,30 @@ National Climbing Competition
 
 7) Developing and extending their key skills of **communication, problem solving, leadership and teamwork**.
 
- 
- 
+**(missing image)** 
+
 P5 Adventure Camp   
 
   
 
 8) Learning to appreciate the benefits of **physical fitness and lifelong value of participation** in healthy leisure activities.
 
-
+ <img src="/images/llp8.jpg" 
+     style="width:35%">
 Simulated Caving in PAL
 
   
 
 9) Displaying an **increased motivation and appetite for learning** that is contributing to raised levels of attainment in other aspects of education.
 
-  
-
-
+<img src="/images/llp9.jpg" 
+     style="width:35%">
 National Super Outdoor Race 
 
   
 
 10) Broadening their horizons and becoming open to a **wider range of employment opportunities and life chances**. 
 
-  
-
+ <img src="/images/llp10.jpg" 
+     style="width:35%">
 Level 1 Sport Climbing Course
