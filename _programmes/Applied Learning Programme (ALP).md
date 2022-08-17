@@ -166,3 +166,101 @@ Lego Robotics is our Tier 2 programme to stretch our students with greater inter
   </tr>
 </tbody>
 </table>
+
+Anchoring on Bloom’s Taxonomy and Hierarchy of Thinking, the school has developed the 3 levels of reasoning in Concord.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Bloom’s Taxonomy and Hierarchy of Thinking</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Concord’s E3 Reasoning</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Target Group</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Duration</span></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Basic thinking</td>
+    <td class="tg-yhj3">Enable Reasoning</td>
+    <td class="tg-yhj3">P1-2 students</td>
+    <td class="tg-yhj3">2 periods weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Critical thinking</td>
+    <td class="tg-yhj3">Enrich Reasoning</td>
+    <td class="tg-yhj3">P3-4 students</td>
+    <td class="tg-yhj3">1 period weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Creative Thinking</td>
+    <td class="tg-yhj3">Empower Reasoning</td>
+    <td class="tg-yhj3">P5-6 students</td>
+    <td class="tg-yhj3">1 period weekly</td>
+  </tr>
+</tbody>
+</table>
+
+### E3 Reasoning (Enable, Enrich, Empower) Programmes @ Concord
+
+TIER 1 : Providing Opportunities for ALL
+
+**(embed media here)**
+  
+
+TIER 2 : Provision of enhanced experiences for students who have shown greater interest and aptitude in E3 Reasoning
+
+**(embed media here)**
+  
+
+Character Development of Students – Communication & Collaboration Skills, Global Awareness Skills (In alignment to 21st CC)
+
+**(embed media here)**
+
+Building Staff Capacity Our staff - the key drivers of E3 Reasoning@ Concord  
+
+
+**(embed media here)**
+
+### E3 Reasoning Skills to focus
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zdls{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-k9zj{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 135px">
+<col style="width: 455px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-k9zj"><img src="/images/e1.jpeg"></td>
+    <td class="tg-zdls">Enable Reasoning</td>
+    <td class="tg-k9zj"><span style="color:inherit;background-color:transparent">Acquisition of basic reasoning skills such as recalling, elimination, visualisation and clarity in communication</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k9zj"><img src="/images/e2.jpeg"></td>
+    <td class="tg-zdls">Enrich Reasoning</td>
+    <td class="tg-k9zj"><span style="color:inherit;background-color:transparent">Application of basic skills to examine, relate and evaluate situations and problems</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k9zj"><img src="/images/e3.jpeg"></td>
+    <td class="tg-zdls">Empower Reasoning</td>
+    <td class="tg-k9zj"><span style="color:inherit;background-color:transparent">Ability to make decisions and generate new ideas, using creative thinking tools</span></td>
+  </tr>
+</tbody>
+</table>
+
