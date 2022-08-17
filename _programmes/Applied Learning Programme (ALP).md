@@ -264,3 +264,15 @@ Building Staff Capacity Our staff - the key drivers of E3 Reasoning@ Concord
 </tbody>
 </table>
 
+### Our Learner-Centred Pedagogy
+
+![Picture2 (640x399).jpg](https://concordpri.moe.edu.sg/qql/slot/u754/2020/Our%20Programmes/ALP/Picture2%20(640x399).jpg)
+
+### Approach to develop E3 Reasoning
+
+Concord adopts the 4-prong approach to develop E3 Reasoning in our students.
+
+They are:
+
+ 
+![Picture3 (640x312).jpg](https://concordpri.moe.edu.sg/qql/slot/u754/2020/Our%20Programmes/ALP/Picture3%20(640x312).jpg)
