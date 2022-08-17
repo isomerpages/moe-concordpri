@@ -75,7 +75,7 @@ Nature Appreciation in PAL
      style="width:35%">
 Tent Building
 
- <img src="/images/llp4-5.jpg" 
+ <img src="/images/llp5-5.jpg" 
      style="width:35%">
 Kayaking Orienteering Programme
 
