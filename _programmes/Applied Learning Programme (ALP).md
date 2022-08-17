@@ -137,7 +137,7 @@ Lego Robotics is our Tier 2 programme to stretch our students with greater inter
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix" colspan="3"><em>Learn to Play, Play to learn Corner<br>- Students gathered at the corner to play games with their friends during recess.</em></td>
+    <td class="tg-yhj3" colspan="3"><em>Learn to Play, Play to learn Corner<br>- Students gathered at the corner to play games with their friends during recess.</em></td>
   </tr>
   <tr>
     <td class="tg-1pw2">Level</td>
