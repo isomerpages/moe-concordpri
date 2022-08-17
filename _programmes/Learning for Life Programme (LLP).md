@@ -54,8 +54,7 @@ By providing high-quality outdoor education, we will see our students: 
 
 <img src="/images/llp3-5.jpeg" 
      style="width:45%">
-
-Team Building Games in PAL
+<center>Team Building Games in PAL</center>
 
   
 
@@ -63,37 +62,31 @@ Team Building Games in PAL
  
  <img src="/images/llp4-5.jpg" 
      style="width:35%">
-Nature Appreciation in PAL
-
-
-
-  
+<center>Nature Appreciation in PAL</center>
 
 5) Acquiring and developing a range of **skills in outdoor activities, expeditions and explorations**.
 
  <img src="/images/llp5.jpeg" 
      style="width:35%">
-Tent Building
+<center>Tent Building</center>
 
  <img src="/images/llp5-5.jpg" 
      style="width:35%">
-Kayaking Orienteering Programme
+<center>Kayaking Orienteering Programme</center>
 
   
 
 6) Demonstrating **increased initiative, self-reliance, responsibility, resilience and commitment**.
 
 **(missing image)**
-
-National Climbing Competition
+<center>National Climbing Competition</center>
 
   
 
 7) Developing and extending their key skills of **communication, problem solving, leadership and teamwork**.
 
 **(missing image)** 
-
-P5 Adventure Camp   
+<center>P5 Adventure Camp</center>
 
   
 
@@ -101,7 +94,7 @@ P5 Adventure Camp 
 
  <img src="/images/llp8.jpg" 
      style="width:35%">
-Simulated Caving in PAL
+<center>Simulated Caving in PAL</center>
 
   
 
@@ -109,7 +102,7 @@ Simulated Caving in PAL
 
 <img src="/images/llp9.jpg" 
      style="width:35%">
-National Super Outdoor Race 
+<center>National Super Outdoor Race</center>
 
   
 
@@ -117,4 +110,4 @@ National Super Outdoor Race 
 
  <img src="/images/llp10.jpg" 
      style="width:35%">
-Level 1 Sport Climbing Course
+	<center>Level 1 Sport Climbing Course</center>
