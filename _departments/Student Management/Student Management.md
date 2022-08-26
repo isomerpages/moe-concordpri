@@ -50,7 +50,18 @@ Mass Leadership Modular CCA
 
 ![](/images/sm5.png)
 
+Monthly Birthday Celebrations 
+------------------------------
+
 ![](/images/sm6.png)
 
 
+Buddy Programme  
+-----------------
 
+![](/images/sm7.png)
+
+Connor and Caylee (Soar Redemption Programme)
+---------------------------------------------
+
+![](/images/sm9.png)
