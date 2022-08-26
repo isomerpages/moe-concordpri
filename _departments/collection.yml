@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Student Management/.keep
       - Information and Communications Technology (ICT).md
