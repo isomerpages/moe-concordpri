@@ -64,4 +64,6 @@ Buddy Programme  
 Connor and Caylee (Soar Redemption Programme)
 ---------------------------------------------
 
+![](/images/sm8.png)
+
 ![](/images/sm9.png)
