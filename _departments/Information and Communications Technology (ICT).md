@@ -63,7 +63,3 @@ Concord’s Student Cyber Wellness Pledge is a feature in our Student Handbook w
      style="width:35%">
 		 
 Explicit cyber wellness lessons are integrated into FTGP and CCE curriculum. In addition, Primary 4 students undergo a 3-day workshop on Media Literacy to provide them with skills to evaluate media effectively and to use, create and share content safely and responsibly. In-house Cyber Wellness competition also provides students a fun way to learn and share cyber wellness tips and messages.
-
-
-
-
