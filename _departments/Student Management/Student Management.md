@@ -43,3 +43,14 @@ The Prefectorial Board aims to develop every Prefects into confident leaders who
 ![](/images/sm2.jpeg)
 
 ![](/images/sm3.jpeg)
+
+Mass Leadership Modular CCA
+---------------------------
+![](/images/sm4.png)
+
+![](/images/sm5.png)
+
+![](/images/sm6.png)
+
+
+
