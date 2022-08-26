@@ -5,14 +5,14 @@ links:
   - title: Our People
     collection: our-people
   - title: Our Curriculum
-    url: /cca/Niche-Co-Curricular-Activities/badminton
+    url: /departments/english
     sublinks:
+      - title: Departments
+        url: /departments/ict
       - title: Programmes
         url: /programmes/pal
       - title: CCA
         url: /cca/Niche-Co-Curricular-Activities/badminton
-      - title: Departments
-        url: /departments/ict
   - title: For Parents
     collection: for-parents
   - title: Highlights
