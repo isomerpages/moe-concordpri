@@ -97,6 +97,15 @@ The Five Practices of The Leadership Challenge Model and the key behavior of Pre
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+Key Programmes/events
+---------------------
+
+*   **Daily Duties**
+
+The prefects are involved in various duties such as recess duties, late-comers duty, and pledge taking duties. The prefects also actively support the school programmes by taking on roles of emcees and prefects ushers.
+
+![](/images/pb7.png)
+![](/images/pb8.png)
 
 
 
