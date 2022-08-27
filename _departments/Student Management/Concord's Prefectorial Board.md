@@ -77,3 +77,16 @@ The Five Practices of The Leadership Challenge Model and the key behavior of Pre
 
 ##### Executive Committee Prefects 2022
 
+![](/images/pb.jpeg)
+
+![](/images/pb1.jpeg)
+
+![](/images/pb2.jpeg)
+
+##### 2022 Prefectorial Board 
+
+![](/images/pb3.jpeg)
+
+![](/images/pb4.jpeg)
+![](/images/pb5.jpeg)
+![](/images/pb6.jpeg)
