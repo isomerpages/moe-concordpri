@@ -122,3 +122,22 @@ The Prefects Investiture, which is held in term 2, is an important ceremony held
 
 *   **Prefect Training**
 
+![](/images/pb13.png)
+
+*   **Prefects Camp 2021**  
+
+The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
+
+![](/images/pb14.jpeg)
+
+![](/images/pb15.jpeg)
+
+![](/images/pb16.jpeg)
+
+* **Teachers’ Day Celebration**
+
+Every year, the prefects put together a performance and the Executive Committee prefects will put together a gift to show appreciation to the school on this special day.
+
+![](/images/pb17.jpeg)
+
+![](/images/pb18.jpeg)
