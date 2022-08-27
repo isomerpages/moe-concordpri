@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE & Aesthetics.md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Total Defence Day Commemoration.md
       - CCE/International Friendship Day.md
