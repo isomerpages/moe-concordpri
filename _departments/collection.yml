@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics.md
       - Science/Science.md
       - Science/Different types of Learning.md
       - Science/Key Programmes.md
