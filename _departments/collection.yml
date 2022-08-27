@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Language.md
       - Mathematics.md
       - Science/Science.md
       - Science/Different types of Learning.md
