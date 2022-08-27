@@ -107,5 +107,18 @@ The prefects are involved in various duties such as recess duties, late-comers d
 ![](/images/pb7.png)
 ![](/images/pb8.png)
 
+*   **Prefects Investiture**
 
+The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
+
+![](/images/pb9.png)
+
+![](/images/pb10.png)
+
+![](/images/pb11.jpeg)
+
+![](/images/pb12.jpeg)
+
+
+*   **Prefect Training**
 
