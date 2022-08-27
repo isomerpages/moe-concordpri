@@ -45,3 +45,18 @@ Opportunities are created for our students to explore, experience and discover M
 ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.
 
 ![](/images/m3.png)
+
+<u>Math Playground (Primary 1 to 2)</u>.  
+Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.  
+
+**_Alternative mode of assessments (Primary 1 to 6)_**
+
+<u>Math Performance Tasks</u>   
+Mathematics Performance Task is one of the alternative assessments to enable the students to apply the mathematical concepts and skills through hands-on activities independently. It also enables the teachers to assess and guide students to improve their learning. Through the activities designed for our students, the teachers will give feedback and highlight some of the misconceptions which the students have to allow them to move forward and to improve in their learning.  
+
+<u>Math Reasoning Tasks</u>   
+Mathematical Reasoning Tasks have been crafted to develop students’ mathematical reasoning, communication and connections. Through hands-on activities and class discussions, students are given platforms to make use of the mathematical language to express their mathematical ideas. This will help them develop their mathematical understanding and deepen their thinking in various problem-solving contexts. At the same time, teachers can also assess on students’ understanding of concepts and provide feedback for improvement.  
+  
+**_Developing Metacognition and Problem-Solving skills (Primary 1 to 6)  
+_**S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - **S**top, **T**hink, **A**ct, **R**eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
+The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.
