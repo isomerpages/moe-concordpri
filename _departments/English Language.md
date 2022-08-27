@@ -48,3 +48,9 @@ Students will be exposed to a variety of listening texts, encouraged to speak co
 ![](/images/e2.png)
 ![](/images/e3.png)
 
+Primary 1/2 Drama Performance
+-----------------------------
+
+![](/images/DRAMA%201.jpeg)
+
+![](/images/dRAMA%202.jpeg)
