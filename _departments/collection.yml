@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Outdoor Science Learning Trails.md
       - Science/Eco Pals @ Concord.md
       - Science/Our Achievements.md
       - Science/.keep
