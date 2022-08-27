@@ -29,5 +29,4 @@ The school has an extensive and whole-school approach Reading Programme to cater
 ![](/images/READING.png)
 
 **#TheQUEST Library**
-
 ![](/images/READING%20SCHEDULE.png)
