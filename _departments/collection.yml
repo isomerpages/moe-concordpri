@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Different types of Learning.md
       - Science/Key Programmes.md
       - Science/Outdoor Science Learning Trails.md
       - Science/Eco Pals @ Concord.md
