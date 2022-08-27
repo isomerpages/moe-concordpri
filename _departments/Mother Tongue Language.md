@@ -78,3 +78,33 @@ For the **“List of approved dictionaries”**, please click [here](https://w
 <img src="/images/mtl4.jpeg" 
      style="width:65%">
 <center>ML students prepared healthy sandwiches for snack time</center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><img src="/images/mtl5.jpeg" 
+     style="width:65%"></td>
+    <td class="tg-nrix"><img src="/images/mtl6.jpeg" 
+     style="width:65%"></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><img src="/images/mtl7.png" 
+     style="width:65%"></td>
+    <td class="tg-nrix"><img src="/images/mtl8.jpeg" 
+     style="width:65%"></td>
+  </tr>
+</tbody>
+</table>
