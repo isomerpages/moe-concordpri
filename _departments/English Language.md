@@ -26,8 +26,8 @@ The EL department is committed in ensuring that our students grow up to be confi
 
 The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
 
-**#TheQUEST Library**
 ![](/images/READING.png)
 
+**#TheQUEST Library**
 
 ![](/images/READING%20SCHEDULE.png)
