@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Student Management/Concord's Prefectorial Board.md
-      - Student Management/Student Management.md
       - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Concord's Prefectorial Board.md
       - Information and Communications Technology (ICT).md
