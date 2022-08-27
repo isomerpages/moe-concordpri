@@ -60,3 +60,21 @@ Mathematical Reasoning Tasks have been crafted to develop students’ mathematic
 **_Developing Metacognition and Problem-Solving skills (Primary 1 to 6)_**     
 S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - <u>**S**</u>top, <u>**T**</u>hink, <u>**A**</u>ct, <u>**R**</u>eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
 The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.
+
+![](/images/m4.png)
+
+**_Developing students' interest and talent in Mathematics_**    
+<u>E2K Mathematics Programme (P4 and 5)</u>    
+This programme was developed by Israel Centre for Excellence through Education (ICEE).  It was conceptualized as a Mathematics enrichment programme for upper primary students who demonstrate strong interest and ability in Mathematics.  
+The programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness and to enhance critical and inventive thinking and effective communication skills.  
+  
+<u>Math Olympiad Enrichment Programme (Primary 4 and 5)</u>  
+The objectives of the programme are to enrich and stretch our students’ learning in Mathematics. Through this programme, students have the opportunities to deepen their thinking and be equipped with strategies to solve non-routine and higher order challenges.  
+  
+<u>Math Competitions (Primary 4 to 6)</u>  
+The objectives of participating in Math competitions are to expose our students to intellectually challenging mathematical questions, to challenge and stretch their mathematical potential, to stimulate their interest and ignite their passion in Mathematics. Our students have been exposed to the following competitions:  
+
+*   Raffles Institution Primary Mathematics World Contest (RIPMWC)
+*   National Mathematical Olympiad of Singapore (NMOS)
+*   Singapore and Asian Schools Math Olympiad (SASMOS)
+*   Singapore Mathematical Olympiad for Primary Schools (SMOPS)
