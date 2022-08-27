@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Eco Pals @ Concord.md
       - Science/Our Achievements.md
       - Science/.keep
       - PE & Aesthetics.md
