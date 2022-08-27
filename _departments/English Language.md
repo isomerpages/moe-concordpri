@@ -30,3 +30,14 @@ The school has an extensive and whole-school approach Reading Programme to cater
 
 **#TheQUEST Library**
 ![](/images/READING%20SCHEDULE.png)
+
+
+<iframe width="720" height="404" src="https://www.youtube.com/embed/Ag_Jz3wSBi0" title="Best Reading Corner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### <u>WRITING</u>
+
+
+Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
+
+![](/images/e1.png)
+
