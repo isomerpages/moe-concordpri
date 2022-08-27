@@ -125,3 +125,4 @@ By the end of Primary 6, students will be able to appreciate arts from the Singa
 
 Key Programmes and Highlights
 -----------------------------
+
