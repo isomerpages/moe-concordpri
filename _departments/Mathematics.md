@@ -40,3 +40,8 @@ Opportunities are created for our students to explore, experience and discover M
 
 ![](/images/m1.png)
 ![](/images/m2.png)
+
+<u>Use of ICT tools</u>   
+ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.
+
+![](/images/m3.png)
