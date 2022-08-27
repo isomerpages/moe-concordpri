@@ -3,6 +3,7 @@ title: PE & Aesthetics
 permalink: /departments/pe-n-aesthetics
 description: ""
 ---
+
 ![](/images/PHYSICAL%20EDUCATION%20%20MUSIC_P1.jpeg)
 
 Mission
@@ -125,4 +126,9 @@ By the end of Primary 6, students will be able to appreciate arts from the Singa
 
 Key Programmes and Highlights
 -----------------------------
-
+![](/images/pea1.png)
+![](/images/pea2.png)
+![](/images/pea3.png)
+![](/images/pea4.png)
+![](/images/pea5.png)
+![](/images/pea6.png)
