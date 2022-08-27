@@ -34,10 +34,17 @@ The school has an extensive and whole-school approach Reading Programme to cater
 
 <iframe width="720" height="404" src="https://www.youtube.com/embed/Ag_Jz3wSBi0" title="Best Reading Corner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <u>WRITING</u>
+#### **WRITING**
 
 
 Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
 
 ![](/images/e1.png)
+
+#### **LISTENING & SPEAKING**
+
+Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
+
+![](/images/e2.png)
+![](/images/e3.png)
 
