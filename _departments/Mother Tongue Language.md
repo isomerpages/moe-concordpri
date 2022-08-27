@@ -96,15 +96,17 @@ For the **“List of approved dictionaries”**, please click [here](https://w
 <tbody>
   <tr>
     <td class="tg-nrix"><img src="/images/mtl5.jpeg" 
-     style="width:65%"></td>
+     style="width:65%">Origami making (animal) for ML storytelling activity	</td>
     <td class="tg-nrix"><img src="/images/mtl6.jpeg" 
-     style="width:65%"></td>
+     style="width:65%">Batik painting activity conducted for ML students 
+</td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/mtl7.png" 
-     style="width:65%"></td>
+     style="width:65%">TL Reading Activity – Clay Making 
+</td>
     <td class="tg-nrix"><img src="/images/mtl8.jpeg" 
-     style="width:65%"></td>
+     style="width:65%">Kolam Drawing</td>
   </tr>
 </tbody>
 </table>
