@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Concord Daddies/Sleepover 2018Q2.md
       - Concord Daddies/Easter Picnic 2018Q1 Event.md
       - Concord Daddies/Bi Annual 2018Q1 Meeting.md
       - Concord Daddies/Back to School 2018.md
