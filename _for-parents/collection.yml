@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Concord Daddies/Breakfast with Dad 2017.md
       - Concord Daddies/.keep
       - FamilyMatters @ School.md
       - Sexuality Education (P5 & P6)/.keep
