@@ -41,7 +41,7 @@ Homework is any learning activity that is deemed beneficial for the students’ 
   <tr>
     <td class="tg-8u5m">Preparation</td>
     <td class="tg-561x">Provide opportunities for students to gain background information on a unit of study so as to be better prepared for the coming lessons.</td>
-    <td class="tg-f8hf"><br>Background reading<br>Research-based work<br></td>
+		<td class="tg-f8hf"><ul><li>Background reading</li><li>Research-based work</li></ul></td>
   </tr>
   <tr>
     <td class="tg-iig7">Extension</td>
