@@ -53,3 +53,76 @@ Overview of SEXUALITY Education Programme for 2022
 6\.         The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
 7\.         The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-zdls{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-k9zj{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 669px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 165px">
+<col style="width: 269px">
+<col style="width: 112px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1pw2">UNIT</td>
+    <td class="tg-1pw2">LESSONS / DURATION</td>
+    <td class="tg-zdls">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-1pw2">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3" rowspan="4">Gosh! I<br>Am Changing<br></td>
+    <td class="tg-yhj3">What Is Happening<br> To Me?<br>(30 min)</td>
+    <td class="tg-k9zj">- know what puberty is<br>- identify the physical changes during puberty</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">What Can I Do? (Part 1)<br> (30 min)</td>
+    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">What Can I Do? (Part 2)<br> (30 min)</td>
+    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Main Task<br>(30 min)<br></td>
+    <td class="tg-k9zj"><span style="background-color:initial">Description of the Main Task:</span>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Where I Belong<br></td>
+    <td class="tg-yhj3">What Are Families?<br>(30 min)<br> <br></td>
+    <td class="tg-k9zj">- know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Where I Belong<br></td>
+    <td class="tg-yhj3">What is My Role?<br> (30 min)<br></td>
+    <td class="tg-k9zj">- know that gender is about being male or female<br>- choose not to stereotype by gender</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3" rowspan="2">How Do I Keep Myself Safe?<br></td>
+    <td class="tg-yhj3">What is Safety?<br>(30 min)<br></td>
+    <td class="tg-k9zj">- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-yhj3">Term 2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Stop It! Run! Tell!<br>(30 min)<br></td>
+    <td class="tg-k9zj">- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-yhj3">Term 2</td>
+  </tr>
+</tbody>
+</table>
