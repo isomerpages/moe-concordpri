@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education (P5 & P6)/.keep
       - P1 Registration Exercise.md
       - Parents Gateway (PG).md
       - Student Learning Space (SLS).md
