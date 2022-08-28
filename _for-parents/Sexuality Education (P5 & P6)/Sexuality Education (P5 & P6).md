@@ -40,11 +40,10 @@ Overview of SEXUALITY Education Programme for 2022
 
   
 
-5\.      The subjects that incorporate topics on sexuality include:
-
-	a.       Science
-	b.       Form Teacher Guidance Period (FTGP)
-	c.       Character and Citizenship Education (CCE)
+5\.      The subjects that incorporate topics on sexuality include:   
+* Science
+* Form Teacher Guidance Period (FTGP)
+* Character and Citizenship Education (CCE)
 
   
 
