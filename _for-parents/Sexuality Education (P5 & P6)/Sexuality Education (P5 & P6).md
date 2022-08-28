@@ -55,6 +55,12 @@ Overview of SEXUALITY Education Programme for 2022
 7\.         The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 
+At Concord Primary School, the following lessons will be taught in 2022:
+------------------------------------------------------------------------
+
+<center><strong>Primary 5</strong></center>
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -126,3 +132,80 @@ Overview of SEXUALITY Education Programme for 2022
   </tr>
 </tbody>
 </table>
+
+
+
+
+<center><strong>Primary 6</strong></center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-k9zj{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 669px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 165px">
+<col style="width: 269px">
+<col style="width: 112px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1pw2">UNIT</td>
+    <td class="tg-1pw2">LESSONS / DURATION</td>
+    <td class="tg-1pw2">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-1pw2">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3" rowspan="5">Are We More Than Friends?<br></td>
+    <td class="tg-yhj3">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-k9zj">- identify the qualities of a healthy friendship<br><br>- recognise the importance of making wise choices in friendship</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-k9zj">- identify the qualities that they have as a friend<br><br>- recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">What is Love?<br>(30 min)</td>
+    <td class="tg-k9zj">- identify the characteristics of love and infatuation<br><br>- distinguish between the characteristics of love versus infatuation<br><br>- identify strong feelings arising from infatuation</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Am I Falling In Love?<br>(30 min)</td>
+    <td class="tg-k9zj">- manage strong feelings arising from infatuation<br><br>- identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Main Task<br> (30 min)</td>
+    <td class="tg-k9zj">Description of the Main Task:<br><br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.<br><br></td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3" rowspan="3">Friends or Foes?<br></td>
+    <td class="tg-yhj3">Are You Really My Friend?<br>(30 min)</td>
+    <td class="tg-k9zj">- identify the pros and cons of forming relationships through social networking websites<br><br>- know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-k9zj">- know that some information (like pornography) received through the Internet may be harmful<br><br>- know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td class="tg-yhj3">Term 1 <br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Main Task<br> (30 min)</td>
+    <td class="tg-k9zj">Description of the Main Task:<br><br><span style="background-color:initial">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br><br></td>
+    <td class="tg-yhj3">Term 1 </td>
+  </tr>
+</tbody>
+</table>
+
+
