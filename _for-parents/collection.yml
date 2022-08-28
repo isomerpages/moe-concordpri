@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/2017 Lunar New Year.md
       - Parent Support Group/2017 PSG Introduction Session.md
       - Parent Support Group/.keep
       - Concord Daddies/Concord Daddies Photo Album.md
