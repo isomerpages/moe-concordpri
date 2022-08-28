@@ -41,18 +41,17 @@ Homework is any learning activity that is deemed beneficial for the students’ 
   <tr>
     <td class="tg-8u5m">Preparation</td>
     <td class="tg-561x">Provide opportunities for students to gain background information on a unit of study so as to be better prepared for the coming lessons.</td>
-		<td class="tg-f8hf"><ul><li>Background reading</li><li>Research-based work</li></ul></td>
+    <td class="tg-f8hf">- Background reading<br>- Research-based work<br></td>
   </tr>
   <tr>
     <td class="tg-iig7">Extension</td>
     <td class="tg-7jbe">Provide opportunities for students to pursue knowledge collaboratively and independently so as to build on their prior knowledge and allow for the application of higher-order thinking.</td>
-		<td class="tg-muik"><ul><li>Project-based work</li><li>Creative writing</li><li>Non-routine tasks</li></ul></td>
+    <td class="tg-muik">- Project-based work<br>- Creative writing<br>- Non-routine tasks</td>
   </tr>
   <tr>
     <td class="tg-8u5m">Practice</td>
     <td class="tg-561x">Provide opportunities for students to reinforce learning or consolidate newly acquired skills or knowledge so as to facilitate the retention of facts and understanding of concepts.</td>
-    <td class="tg-f8hf"><ul>
-			<li>Workbook exercises, revision exercises</li><li>Learning of spelling, multiplication tables, etc.</li><li>ICT based platforms e.g. SLS, Koobits, etc.</li></ul></td>
+    <td class="tg-f8hf">- Workbook exercises, revision exercises<br>- Learning of spelling, multiplication tables, etc.<br>- ICT based platforms e.g. SLS, Koobits, etc.<br></td>
   </tr>
 </tbody>
 </table>
