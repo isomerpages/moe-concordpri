@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Concord Daddies/Bi Annual 2018Q1 Meeting.md
       - Concord Daddies/Back to School 2018.md
       - Concord Daddies/Breakfast with Dad 2017.md
       - Concord Daddies/.keep
