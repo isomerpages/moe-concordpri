@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Learning Space (SLS).md
       - School Home Partnership/Homework Guidelines.md
       - School Home Partnership/.keep
