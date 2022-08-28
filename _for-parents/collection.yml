@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education (P5 & P6)/Opting Out of Growing Years (GY) Series
+        Form.md
       - Sexuality Education (P5 & P6)/Sexuality Education (P5 & P6).md
       - Sexuality Education (P5 & P6)/.keep
       - P1 Registration Exercise.md
