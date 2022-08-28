@@ -209,3 +209,16 @@ At Concord Primary School, the following lessons will be taught in 2022:
 </table>
 
 
+
+Information for Parents
+-----------------------
+
+  
+
+8\.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year. The completed opt-out form is to be submitted by 17 January 2022.
+
+10\.       Parents can contact the school at 67632139 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\.       Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
