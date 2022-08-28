@@ -46,32 +46,26 @@ Vehicles Entering and Exiting School
 			*    Turn into the immediate left lane to minimize unnecessary traffic congestions and risk of traffic accidents along Choa Chu Kang Avenue 4.
 
 
- **Pedestrians Entering and Exiting School**
+**Pedestrians Entering and Exiting School**
+*   All students and staff entering or exiting school must use the Main Gates, Gate 4 and Gate 12 following the respective opening periods. They will be assisted crossing in front of these gates, at the HDB carpark entrance in front of Block 448 Choa Chu Kang Avenue 4 and the traffic light crossing in front of the Main Gate during Arrival and Dismissal periods. 
 
-> *   All students and staff entering or exiting school must use the Main Gates, Gate 4 and Gate 12 following the respective opening periods. They will be assisted crossing in front of these gates, at the HDB carpark entrance in front of Block 448 Choa Chu Kang Avenue 4 and the traffic light crossing in front of the Main Gate during Arrival and Dismissal periods. 
-> 
->   
-> 
-> *   Pedestrians are to walk only on designated footpaths.
+*   Pedestrians are to walk only on designated footpaths.
 
   
 
 **Cyclists Entering and Exiting School**
-
-> *   All cyclists entering and exiting school must dismount from their bicycles when they are within school compound. They are not allowed to cycle on the road or pedestrian walkways within the school.
-> 
->   
-> 
-> *   Cyclists must only park their bicycles at designated lots located besides the Security Guard Post.
+*   All cyclists entering and exiting school must dismount from their bicycles when they are within school compound. They are not allowed to cycle on the road or pedestrian walkways within the school.
+* Cyclists must only park their bicycles at designated lots located besides the Security Guard Post.
 
   
 
 **Visitors**
-
-> *   Visitors including parents/guardians should use only the Main Gate to enter and exit the school. They have to register at the Security Guard Post, put on a security sticker throughout the visit and comply with all Safe Management Measures.
+*   Visitors including parents/guardians should use only the Main Gate to enter and exit the school. They have to register at the Security Guard Post, put on a security sticker throughout the visit and comply with all Safe Management Measures.
 
   
 
 **Safe Routes for Vehicles**
 
 Figure 2 depicts safe vehicular movement in the school during Drop Offs in the morning and Pick Ups during dismissals (during inclement weather only).
+
+![](/images/Traffic%20Management%20Plan%202.jpeg)
