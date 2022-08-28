@@ -83,17 +83,17 @@ Overview of SEXUALITY Education Programme for 2022
   <tr>
     <td class="tg-yhj3" rowspan="4">Gosh! I<br>Am Changing<br></td>
     <td class="tg-yhj3">What Is Happening<br> To Me?<br>(30 min)</td>
-    <td class="tg-k9zj">- know what puberty is<br>- identify the physical changes during puberty</td>
+    <td class="tg-k9zj">- know what puberty is<br><br>- identify the physical changes during puberty</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">What Can I Do? (Part 1)<br> (30 min)</td>
-    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br><br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>- describe the emotions caused by physical changes during puberty<br><br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">What Can I Do? (Part 2)<br> (30 min)</td>
-    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-k9zj">- identify the stresses caused by physical and emotional changes during puberty<br><br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>- describe the emotions caused by physical changes during puberty<br><br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
@@ -104,24 +104,24 @@ Overview of SEXUALITY Education Programme for 2022
   <tr>
     <td class="tg-yhj3">Where I Belong<br></td>
     <td class="tg-yhj3">What Are Families?<br>(30 min)<br> <br></td>
-    <td class="tg-k9zj">- know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need</td>
+    <td class="tg-k9zj">- know that there are different types of family structures<br><br>- know that every family is unique<br><br>- state that the three basic functions of families are to provide love, protection and guidance<br><br>- identify the right sources of help to turn to when in need</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Where I Belong<br></td>
     <td class="tg-yhj3">What is My Role?<br> (30 min)<br></td>
-    <td class="tg-k9zj">- know that gender is about being male or female<br>- choose not to stereotype by gender</td>
+    <td class="tg-k9zj">- know that gender is about being male or female<br><br>- choose not to stereotype by gender</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
     <td class="tg-yhj3" rowspan="2">How Do I Keep Myself Safe?<br></td>
     <td class="tg-yhj3">What is Safety?<br>(30 min)<br></td>
-    <td class="tg-k9zj">- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-k9zj">- know what sexual abuse is<br><br>- know that there are laws in Singapore that can protect them from sexual abuse<br><br>- know their rights in keeping themselves safe from sexual abuse</td>
     <td class="tg-yhj3">Term 2<br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Stop It! Run! Tell!<br>(30 min)<br></td>
-    <td class="tg-k9zj">- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-k9zj">- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>- know their responsibilities in minimising the risk of sexual harm</td>
     <td class="tg-yhj3">Term 2</td>
   </tr>
 </tbody>
