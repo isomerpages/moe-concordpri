@@ -35,13 +35,13 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
   
 
-**4.**  **Lightning Warning System**
+**4\. Lightning Warning System**
 
 *   In the event of inclement weather such as rain or risk of lightning strike, the Lightning Warning System (LWS) will be activated. For the safety of all students and staff, all outdoor activities will cease and move indoors.
 
   
 
-**5.**  **Recess/Snack Break/Lunch**
+**5\. Recess/Snack Break/Lunch**
 
 *   The use of the canteen is only meant for students and staff of the school.
 *   Students may choose to bring their own packed food for recess. Students are encouraged to bring healthy food options (eg. fruits, wholemeal sandwiches, etc) instead of food items which are high in salt and sugar such as processed foods, chips and sweets.
@@ -50,7 +50,7 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
   
 
-**6.**  **Leaving School Premises**
+**6\.Leaving School Premises**
 
 *   Students are not allowed to leave school premises without approval from the School Leaders. Disciplinary action will be taken against students who leave the school premises without prior permission from School Leaders.
 *   Students are not allowed to leave school premises during curriculum hours unless parents or responsible adults, authorised by their parents have obtained permission or provided written explanation to form teacher or school leaders.
@@ -58,7 +58,7 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
   
 
-**7.**  **Attendance**
+**7\. Attendance**
 
 *   Please do not send your child / ward to school if he/she is unwell.
 *   Please call the school to inform the Form Teacher of your child’s absence.
@@ -69,30 +69,26 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
   
 
-**8.**  **Counselling For Students**
+**8\. Counselling For Students**
 
 *   Students with academic, social, emotional or behavioural issues may be referred to the schools Case Management Team (CMT). Each case will be assessed before recommended follow up actions are implemented to provide students with the required support. Students can also approach the school’s full-time counsellor at the counselling room should they require social emotional support.
 
   
 
-**9.**  **Personal Responsibility For Personal Property**
+**9\. Personal Responsibility For Personal Property**
 
 *   Students are not allowed to bring the following items to school:
-
-> o   Large amounts of money
-> 
-> o   Electronic games or toys
-> 
-> o   Mobile phones
-> 
-> o   Sharp objects (pen knives, pointed head scissors, paper-cutters, etc)
+	* Large amounts of money
+	* Electronic games or toys
+	* Mobile phones
+	* Sharp objects (pen knives, pointed head scissors, paper-cutters, etc)
 
 *   The school hopes to instil personal responsibility in students to care for their own belongings. Do write your child’s / ward’s name on his/ her belongings such wallets, files, pencil case, water bottles, etc. This will facilitate the returning of lost items to their rightful owners.
 *   Students are also strongly encouraged to pack their school bag daily and be responsible to bring all required items for the day’s learning and activities. Parents are strongly encouraged to refrain from bringing non-essential items (eg. stationeries, water bottles etc.) in the event that your child forgets to bring these non- essential items.
 
   
 
-**10.**  **School And Home Partnership**
+**10\. School And Home Partnership**
 
 *   The school seeks the support of parents / guardians in the following:
 *   Supervising your child’s homework and ensure that all assignments are completed and submitted on time.
@@ -101,20 +97,14 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
   
 
-**11.**   **Communication with Parents**
+**11\. Communication with Parents**
 
 *   The school and teachers will be communicating with parents through:
-
-> o   Student Handbook
-> 
-> o   School Letters / Principal’s Term Notes (Via Parents Gateway)
-> 
-> o   Telephone
-> 
-> o   Email
-> 
-> o   Parents Gateway
-> 
-> o   School Website [https://concordpri.moe.edu.sg/](https://concordpri.moe.edu.sg/)
+	*   Student Handbook
+	*   School Letters / Principal’s Term Notes (Via Parents Gateway)
+	*   Telephone
+	*   Email
+	*   Parents Gateway
+	*   School Website 
 
 *   Parents are strongly encouraged to attend school engagement sessions such as Parent-Teacher Conference (PTC), Parent-Child-Teacher-Conference (PCTC) and parents’ briefings. These are important platforms for parents to understand their child’s learning process and how they can better support his/her holistic development. We seek your fullest support to attend all school engagement sessions.
