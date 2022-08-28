@@ -19,9 +19,8 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
 
 Kindly download the Parents Gateway at
 
-·        iOS (hyperlink to [https://apps.apple.com/sg/app/parents-gateway/id1267198708](https://apps.apple.com/sg/app/parents-gateway/id1267198708))
-
-·        Android (hyperlink to [https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)) 
+* iOS (hyperlink to [https://apps.apple.com/sg/app/parents-gateway/id1267198708](https://apps.apple.com/sg/app/parents-gateway/id1267198708))
+* Android (hyperlink to [https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)) 
 
   
 
