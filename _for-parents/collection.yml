@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - School Home Partnership/Homework Guidelines.md
       - School Home Partnership/.keep
