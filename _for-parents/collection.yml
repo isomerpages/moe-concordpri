@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/.keep
       - Concord Daddies/Concord Daddies Photo Album.md
       - Concord Daddies/Back to School 2021.md
       - Concord Daddies/Sleepover 2018Q2.md
