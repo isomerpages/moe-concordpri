@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/Teacher's Day 2017.md
       - Parent Support Group/2017 Lunar New Year.md
       - Parent Support Group/2017 PSG Introduction Session.md
       - Parent Support Group/.keep
