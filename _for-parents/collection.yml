@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - S1 Posting Exercise.md
       - Term Calendar and Note.md
       - Parent Support Group/.keep
       - Parent Support Group/PSG Photo Album.md
@@ -20,6 +19,7 @@ collections:
       - Concord Daddies/Back to School 2018.md
       - Concord Daddies/Breakfast with Dad 2017.md
       - P1 Registration Exercise.md
+      - S1 Posting Exercise.md
       - Student Learning Space (SLS).md
       - Parents Gateway (PG).md
       - School Information/.keep
