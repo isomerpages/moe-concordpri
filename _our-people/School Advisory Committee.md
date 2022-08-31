@@ -20,10 +20,10 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/sac1.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac2.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac3.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac4.jpeg"></td>
   </tr>
   <tr>
 		<td class="tg-nrix"><strong>Mr Perumal Arumai Chandran</strong><br>Chairman</td>
@@ -33,10 +33,10 @@ Principal</strong><br>Secretary</td>
     <td class="tg-nrix"><strong>Mr Tan Vincent</strong><br>Member </td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/sac5.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac6.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac7.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/sac8.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><strong>Mr Steven Heng</strong><br>Member</td>
