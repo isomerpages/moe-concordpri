@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Our Achievements/2020.md
       - Our Achievements/2019.md
       - Our Achievements/.keep
