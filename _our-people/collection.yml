@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Operations Support Officers (OSOs).md
       - School Advisory Committee.md
