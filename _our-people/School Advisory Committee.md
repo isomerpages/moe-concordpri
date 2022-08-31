@@ -26,11 +26,11 @@ description: ""
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-		<td class="tg-nrix"><strong>Mr Perumal Arumai Chandran</strong><br>
-Chairman</td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+		<td class="tg-nrix"><strong>Mr Perumal Arumai Chandran</strong><br>Chairman</td>
+    <td class="tg-nrix"><strong>Mr Tan Siew Tiong,
+Principal</strong><br>Secretary</td>
+    <td class="tg-nrix"><strong>Mr Ganesan S/O Maniam</strong><br>Member</td>
+    <td class="tg-nrix"><strong>Mr Tan Vincent</strong><br>Member </td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
@@ -39,10 +39,10 @@ Chairman</td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><strong>Mr Steven Heng</strong><br>Member</td>
+    <td class="tg-nrix"><strong>Mdm Bernardette Lim</strong><br>Member</td>
+    <td class="tg-nrix"><strong>Mr Henry Toh</strong><br>Member</td>
+    <td class="tg-nrix"><strong>Mr Seah Hui Chou PBM</strong><br>Member</td>
   </tr>
 </tbody>
 </table>
