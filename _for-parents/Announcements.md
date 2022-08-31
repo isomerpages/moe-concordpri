@@ -53,7 +53,7 @@ description: ""
     <td class="tg-jpkv"><a href="/files/upt1w10.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 10</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W3_Vetted.pdf">Term 2 Week 3</span></a> </td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W3_Vetted.pdf">Term 2 Week 3</a></td>
     <td class="tg-ppzb"><a href="/files/mpt2w2.pdf">Term 2 Week 2 </a> </td>
     <td class="tg-ppzb"><a href="/files/upt2w4.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 4</span></a> </td>
   </tr>
