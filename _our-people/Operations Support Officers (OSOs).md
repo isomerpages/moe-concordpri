@@ -26,10 +26,10 @@ description: ""
     <td class="tg-nrix"><img src="/images/oso4.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+		<td class="tg-nrix"><strong>Mr Tan Siam Seng</strong><br>OSO</td>
+    <td class="tg-nrix"><strong>Mdm Hoo Yoke Mooi</strong><br>OSO</td>
+    <td class="tg-nrix"><strong>Mdm Anita</strong><br>OSO</td>
+    <td class="tg-nrix"><strong>Mdm Rokiah</strong><br>OSO</td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/oso5.jpeg"></td>
@@ -38,8 +38,8 @@ description: ""
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><strong>Mdm Loke Sue Feng</strong><br>OSO</td>
+    <td class="tg-nrix"><strong>Mr Teo Lit Onn</strong><br>OSO</td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
   </tr>
