@@ -43,44 +43,44 @@ description: ""
     <td class="tg-a4yv">Upper Primary </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1 Week 6</a></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%201%20Week%207%20vetted%201.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a><br></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20Upper%20Primary%20T1W8_Vetted.pdf">Term 1 Week 8</a></td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1 Week 6</a></td>
+    <td class="tg-ppzb"><a href="/files/mpT1W7.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a><br></td>
+    <td class="tg-ppzb"><a href="HERE">Term 1 Week 8</a></td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Lower%20Primary_T1W9.pdf">Term 1 Week 9</a></td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T1W9.pdf">Term 1 Week 9</a></td>
     <td class="tg-yhj3">-----</td>
-    <td class="tg-jpkv"> <a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20T1W10_UP.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 10</span></a></td>
+    <td class="tg-jpkv"><a href="HERE"><span style="text-decoration:none;color:#FD6500">Term 1 Week 10</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Lower%20Primary_T2W3_Vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 3</span></a> </td>
-    <td class="tg-ppzb"><a href="https://concordpri-moe-edu-sg-admin.cwp.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%202%20Week%202_Vetted.pdf">Term 2 Week 2 </a> </td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T2W4%20UP%20Newsletter%20V1.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 4</span></a> </td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W3_Vetted.pdf">Term 2 Week 3</span></a> </td>
+    <td class="tg-ppzb"><a href="/files/mpt2w2.pdf">Term 2 Week 2 </a> </td>
+    <td class="tg-ppzb"><a href="HERE"><span style="text-decoration:none;color:#FD6500">Term 2 Week 4</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Lower%20Primary_T2W6_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 6</span></a></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%202%20Week%205_Vetted.pdf">Term 2 Week 5 </a></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T2W7%20UP%20Newsletter%20V4.pdf">Term 2 Week 7 </a></td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W6_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 6</span></a></td>
+    <td class="tg-ppzb"><a href="/files/mpt2w5.pdf">Term 2 Week 5 </a></td>
+    <td class="tg-ppzb"><a href="HERE">Term 2 Week 7 </a></td>
   </tr>
   <tr>
     <td class="tg-yhj3"> -----</td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%202%20Week%209_vetted.pdf">Term 2 Week 9</a></td>
+    <td class="tg-ppzb"><a href="/files/mpt2w9.pdf">Term 2 Week 9</a></td>
     <td class="tg-yhj3"> -----</td>
   </tr>
   <tr>
-    <td class="tg-jpkv"> <a href="https://concordpri-moe-edu-sg-admin.cwp.sg/qql/slot/u754/2022/Newsletter/NEWSLETTER%20July%202022.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 3</span></a></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%203%20Week%204_vetted.pdf">Term 3 Week 4</a></td>
-    <td class="tg-jpkv"> <a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T3W2%20UP%20Newsletter%20V1_Vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 2</span></a> </td>
+    <td class="tg-jpkv"><a href="/files/Lower_Primary_T3W3.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 3</span></a></td>
+    <td class="tg-ppzb"><a href="/files/mpt3w4.pdf">Term 3 Week 4</a></td>
+    <td class="tg-jpkv"> <a href="HERE">Term 3 Week 2</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T3W6%20LP%20Newsletter%20V1.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 6</span></a></td>
+    <td class="tg-ppzb"><a href="/files/LOWER%20PRIMARY%20T3W6%20LP%20Newsletter%20V1.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 6</span></a></td>
     <td class="tg-yhj3"> -----</td>
-    <td class="tg-jpkv"> <a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T3W5%20UP%20Newsletter%20V1_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 5</span></a> </td>
+    <td class="tg-jpkv"><a href="HERE"><span style="text-decoration:none;color:#FD6500">Term 3 Week 5</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> </td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/Newsletter%20for%20Middle%20Primary_Term%203%20Week%208_vetted.pdf">Term 3 Week  8</a></td>
-    <td class="tg-ppzb"><a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/Newsletter/T3W9%20UP%20Newsletter%20V1.pdf">Term 3 Week 9</a></td>
+    <td class="tg-yhj3">  </td>
+    <td class="tg-ppzb"><a href="/files/mpt3w8.pdf">Term 3 Week  8</a></td>
+    <td class="tg-ppzb"><a href="HERE">Term 3 Week 9</a></td>
   </tr>
 </tbody>
 </table>
