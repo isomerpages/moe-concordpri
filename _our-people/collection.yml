@@ -2,6 +2,8 @@ collections:
   our-people:
     output: true
     order:
+      - School Management Committee/Head of Departments(HODs) | Year
+        Heads(YHs).md
       - School Management Committee/Level Heads (LHs) | Subject Heads (SHs) |
         Assistant Year Heads (AYHs).md
       - School Management Committee/Senior Teachers.md
