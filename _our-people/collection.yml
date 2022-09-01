@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Executive and Administration Staff (EAS).md
       - Operations Support Officers (OSOs).md
       - School Advisory Committee.md
