@@ -29,7 +29,7 @@ description: ""
     <td class="tg-nrix"><img src="/images/eas4.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold">Mr Tan Yian Chye</span><br>Operations Manager (OM)<br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">tan_yian_chye</span></a><br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">@moe.edu.sg</span></a></td>
+    <td class="tg-yhj3"><span style="font-weight:bold">Mr Tan Yian Chye</span><br>Operations Manager (OM)<br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">tan_yian_chye@moe.edu.sg</span></a></td>
     <td class="tg-yhj3"><span style="font-weight:bold">Mr Moham</span><span style="font-weight:bold;background-color:initial">ad Nassir Bin Osman</span><br>Operations Manger (OM)<br><a href="mailto:mohamad_nassir_osman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500">mohamad_nassir_osan@moe.edu.sg</span></a></td>
     <td class="tg-yhj3"><span style="font-weight:bold">Ms Wong Siew Ling</span><br>Administration Manager (AM)<br><a href="mailto:Managerwong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500">wong_siew_ling@ moe.edu.sg</span></a></td>
     <td class="tg-yhj3"><span style="font-weight:bold">Mdm Mala</span><br>Admin Executive (AE)<br><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500">mala_ramiah@moe.edu.sg</span></a></td>
