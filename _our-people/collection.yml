@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Management Committee/.keep
       - Teaching Staff/Adjunct Teachers.md
       - Teaching Staff/Allied Educators (AED).md
       - Teaching Staff/.keep
