@@ -24,4 +24,12 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Newsletter for Concordians
+      subtitle: school updates
+      description: Find out more on what your child is going through in school!
+      button: View All
+      url: /for-parents/announcements/
+      image: /images/infoexample.png
+      alt: newsletters
 ---
