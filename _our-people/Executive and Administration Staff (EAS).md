@@ -23,10 +23,10 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/eas1.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas2.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas3.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas4.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold">Mr Tan Yian Chye</span><br>Operations Manager (OM)<br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">tan_yian_chye</span></a><br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">@moe.edu.sg</span></a></td>
@@ -35,10 +35,10 @@ description: ""
     <td class="tg-yhj3"><span style="font-weight:bold">Mdm Mala</span><br>Admin Executive (AE)<br><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500">mala_ramiah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/eas5.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas6.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas7.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas8.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Lee Sook Hoon</span><br>Admin Executive (AE)<br><a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">lee_sook_hoon</span></a><a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500">@moe.e</span></a><a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FD6500;background-color:initial">du.sg</span></a></td>
@@ -47,9 +47,9 @@ description: ""
     <td class="tg-yhj3"><span style="font-weight:bold">Miss Dawn Lum</span><br>Corporate Support Officer<br> (CSO)<br><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">lum_git_har@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas11.jpeg"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
