@@ -16,10 +16,12 @@ sections:
       url: /for-parents/announcements/
       image: /images/infoexample.png
       alt: newsletters
-  - infobar:
+  - infopic:
       title: Highlights
       subtitle: Concord Events
-      description: All Our Pictures in One Place
+      description: Concordians in Action
       button: View Gallery
       url: /highlights/Photos/2022/
+      image: /images/scizoom.jpeg
+      alt: concordians
 ---
