@@ -4,7 +4,7 @@ title: Concord Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Color School Logo 1.png
 permalink: /
-notification: testing
+notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
