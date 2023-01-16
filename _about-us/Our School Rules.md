@@ -22,8 +22,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-k1f1"><span style="color:#FFF;background-color:#F99D1C">6 Core Values</span></td>
-    <td class="tg-k1f1"><span style="color:#FFF;background-color:#F99D1C">Values in Action</span></td>
+		<td class="tg-k1f1"><span style="font-size:22px"><b> 6 Core Values </b></span></td>
+		<td class="tg-k1f1"><span style="font-size:22px"><b>Values in Action</b></span></td>
   </tr>
   <tr>
     <td class="tg-wrbi"><br>Care</td>
