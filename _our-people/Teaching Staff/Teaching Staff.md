@@ -261,9 +261,3 @@ third_nav_title: Teaching Staff
 			</tr>
 </tbody>
 </table>
-			
-			
-
-| Column 1 | Form Teachers| Column 3
-| -------- | -------- | -------- |
-| Text     | [Siti Razilah](siti_razilah@moe.edu.sg)     | Text     |
