@@ -4,7 +4,6 @@ permalink: /our-people/School-Management-Committee/HODs-YHs/
 description: ""
 third_nav_title: School Management Committee
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -15,12 +14,12 @@ third_nav_title: School Management Committee
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="width:150%" class="tg">
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
+    <td class="tg-feqv"><span style="color:#666">Name</span></td>
+    <td class="tg-feqv"><span style="color:#666">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#666">Email address</span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Tan Kim Keong<br></td>
@@ -77,6 +76,6 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
     <td class="tg-yhj3">Year Head Upper Primary <br></td>
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
-  </tr>
+</tr>
 </tbody>
 </table>
