@@ -14,17 +14,18 @@ third_nav_title: School Management Committee
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="width:150%">
 <tbody>
-  <tr>
+	<tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+    <td style="width:30%" class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Miss Maslina Bte Nis Bee<br></td>
     <td class="tg-yhj3">LH English Language<br></td>
-    <td class="tg-o5fr"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
+			<td class="tg-o5fr"><a
+													 href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nur Eva Binte Jailani<br></td>
