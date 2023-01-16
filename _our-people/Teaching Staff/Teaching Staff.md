@@ -440,3 +440,57 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+			
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+<col style="width: 280px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+  </tr>
+  
+<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span>	
+	<tr>
+    <td class="tg-yhj3">P5A<br></td>
+    <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P5B<br></td>
+    <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P5C<br></td>
+    <td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P5D<br></td>
+    <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P5E<br></td>
+    <td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P5F<br></td>
+    <td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</span></a><br></td>
+		<td><br></td>
+  </tr>
+</tbody>
+</table>
