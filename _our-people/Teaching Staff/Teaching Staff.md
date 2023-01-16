@@ -121,14 +121,12 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
-			
+						
 <span style="font-size:24px"><b>Primary 3 Form Teachers</b></span>
-			
 <table class="tg" style="undefined;table-layout: fixed; width: 775px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
-<col style="width: 284px">
 <col style="width: 284px">
 </colgroup>
 <tbody>
@@ -140,11 +138,19 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-yhj3">P3A </td>
-    <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</td>
-    <td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</span></a></td>
+    <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</td>
+    <td class="tg-yhj3"><a href="mailto:ng_jia_hui@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Ng Jia Hui</span></a></td>
+			<td></td>
+			<tr>
+    <td class="tg-yhj3">P3B </td>
+    <td class="tg-yhj3"><a href="mailto:tan_wee_loon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Tan Wee Loon</td>
+    <td></td>
+			<td></td>
+			<tr>
+    <td class="tg-yhj3">P3A </td>
+    <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</td>
+    <td class="tg-yhj3"><a href="mailto:ng_jia_hui@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Ng Jia Hui</span></a></td>
 			<td></td>
 			</tr>
-			<tr>
-  </tr>
 </tbody>
 </table>
