@@ -17,9 +17,9 @@ third_nav_title: School Management Committee
 <table class="tg" style="width:150%">
 <tbody>
 	<tr>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td style="width:30%" class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
+    <td class="tg-feqv"><span style="color:#666">Name</span></td>
+    <td style="width:30%" class="tg-feqv"><span style="color:#666">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#666">Email address</span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Miss Maslina Bte Nis Bee<br></td>
