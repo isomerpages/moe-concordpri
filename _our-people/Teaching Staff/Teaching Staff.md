@@ -277,5 +277,5 @@ third_nav_title: Teaching Staff
     <td class="tg-o5fr">P1A<br></td>
     <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
   </tr>
-    <td class="tg-o5fr"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Heng Chwee Hong</span></a><br></td>
+    <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Heng Chwee Hong</span></a><br></td>
   </tr>
