@@ -25,7 +25,7 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-feqv"><span style="color:#666"><b>Class</b></span></td>
     <td class="tg-feqv"><span style="color:#666"><b>Form Teachers</b></span></td>
-    <td></span></td>
+		<td><span style="color:#666"></span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">P1A </td>
@@ -265,4 +265,3 @@ third_nav_title: Teaching Staff
 | Column 1 | Form Teachers| Column 3
 | -------- | -------- | -------- |
 | Text     | [Siti Razilah](siti_razilah@moe.edu.sg)     | Text     |
-
