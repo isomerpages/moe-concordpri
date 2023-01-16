@@ -1,6 +1,6 @@
 ---
 title: Our School Rules
-permalink: /about-us/our-school-rules
+permalink: /about-us/our-school-rules/
 description: ""
 ---
 <style type="text/css">
@@ -27,27 +27,27 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wrbi">Care</td>
-    <td class="tg-icg1"><span style="background-color:initial">I will help to keep the school premises clean and take care of the school property.</span></td>
+    <td class="tg-icg1"><span style="background-color:initial"><ul><li>I will help to keep the school premises clean and take care of the school property.</li><ul></span></td>
   </tr>
   <tr>
     <td class="tg-xi4p">Responsibility</td>
-    <td class="tg-8jx4">I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br><br>I will not bring large sums of money, unauthorized electronic devices, card games that can lead to gambling activities, jewelry and handphones to school.<br><br>I will not have in my possession any weapons or weapon-like items that can be used to cause harm to others.<br><br>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.<br></td>
+    <td class="tg-8jx4"><ul><li>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.</li><li>I will not bring large sums of money, unauthorized electronic devices, card games that can lead to gambling activities, jewelry and handphones to school.</li><li>I will not have in my possession any weapons or weapon-like items that can be used to cause harm to others.<li>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.</li></ul></td>
   </tr>
-  <tr>
+ <br><tr>
     <td class="tg-wrbi">Respect</td>
-    <td class="tg-icg1">I will wear the prescribed school uniform. Modifications to the uniform are not allowed.<br><br>Jewellery, multi-ear piercing and tattoos are not part of the prescribed school uniform.<br><br>Moustache, beard and long sideburns are not permitted.<br><br>I will respect all school staff, students and visitors.</td>
+    <td class="tg-icg1"><ul><li>I will wear the prescribed school uniform. Modifications to the uniform are not allowed.</li><li>Jewellery, multi-ear piercing and tattoos are not part of the prescribed school uniform.</li><li>Moustache, beard and long sideburns are not permitted.</li><li>I will respect all school staff, students and visitors.</li></ul></td>
   </tr>
   <tr>
     <td class="tg-xi4p">Integrity</td>
-    <td class="tg-8jx4">I will not leave the school during school hours.<br><br>I will be honest at all times.<br></td>
+		<td class="tg-8jx4"><ul><li>I will not leave the school during school hours.</li><li>I will be honest at all times.</li></ul></td>
   </tr>
   <tr>
     <td class="tg-wrbi">Loyalty</td>
-    <td class="tg-icg1">All Singapore Citizens must sing the National Anthem and take the Pledge.<br><br>Students will take the Pledge with the right fist over the heart.<br></td>
+    <td class="tg-icg1"><ul><li>All Singapore Citizens must sing the National Anthem and take the Pledge.</li><li>Students will take the Pledge with the right fist over the heart.</li></ul></td>
   </tr>
   <tr>
     <td class="tg-xi4p">Resilience</td>
-    <td class="tg-8jx4">I will persist to complete the task(s) given by my teacher to the best of my ability.</td>
+    <td class="tg-8jx4"><ul><li>I will persist to complete the task(s) given by my teacher to the best of my ability.</li></ul></td>
   </tr>
 </tbody>
 </table>
