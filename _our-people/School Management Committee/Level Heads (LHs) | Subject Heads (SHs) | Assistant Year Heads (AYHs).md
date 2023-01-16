@@ -49,7 +49,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Siti Khamsiah Bte Sapuan </td>
-    <td class="tg-yhj3">SH Character &amp; Citizenship Education(CCE) </td>
+    <td class="tg-yhj3">SH Character &amp; Citizenship Education (CCE) </td>
     <td class="tg-o5fr"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">siti_khamsiah_sapuan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nithiya d/o Krishnasamy </td>
-    <td class="tg-yhj3"> SH ICT (internal)</td>
+    <td class="tg-yhj3"> SH ICT</td>
     <td class="tg-o5fr"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nithiya_krishnasamy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -78,14 +78,14 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chua_baofeng_jenny@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Miss Norishah Binte Anwar </td>
-    <td class="tg-yhj3">AYH Middle Primary </td>
-    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-yhj3"> Mdm Nur Jihan Bte Kahar</td>
-    <td class="tg-yhj3">AYH Upper Primary </td>
+    <td class="tg-yhj3">AYH Middle Primary </td>
     <td class="tg-o5fr"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nur_jihan_kahar@moe.edu.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-yhj3">Miss Norishah Binte Anwar </td>
+    <td class="tg-yhj3">AYH Upper Primary </td>
+    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
