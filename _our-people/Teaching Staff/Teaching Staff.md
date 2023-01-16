@@ -425,6 +425,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">P4D<br></td>
     <td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Joyce Fang Bee Hoon</span></a><br></td>
+		<td><br></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">P4E<br></td>
@@ -479,6 +480,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">P5D<br></td>
     <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</span></a><br></td>
+		<td><br></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">P5E<br></td>
@@ -494,3 +496,58 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+			
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+<col style="width: 280px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+  </tr>
+  
+<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span>	
+	<tr>
+    <td class="tg-yhj3">P6A<br></td>
+    <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Muhammad Osman Bin Rahmat Ali</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:nur_alisa_abdul_samad@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Alisa Binte Abdul Samad</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P6B<br></td>
+    <td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P6C<br></td>
+    <td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P6D<br></td>
+    <td class="tg-yhj3"><a href="mailto:see_kai_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr See Kai Wen</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P6E<br></td>
+    <td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P6F<br></td>
+    <td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</span></a><br></td>
+		<td><br></td>
+  </tr>
+</tbody>
+</table>			
