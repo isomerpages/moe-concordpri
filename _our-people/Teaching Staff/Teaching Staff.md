@@ -386,3 +386,57 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+			
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+<col style="width: 280px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+  </tr>
+  
+<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span>	
+	<tr>
+    <td class="tg-yhj3">P4A<br></td>
+    <td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P4B<br></td>
+    <td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P4C<br></td>
+    <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P4D<br></td>
+    <td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Joyce Fang Bee Hoon</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P4E<br></td>
+    <td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</span></a><br></td>
+		<td><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P4F<br></td>
+    <td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</span></a><br></td>
+		<td><br></td>
+  </tr>
+</tbody>
+</table>
