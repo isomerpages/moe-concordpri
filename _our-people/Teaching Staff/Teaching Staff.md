@@ -286,5 +286,10 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:liao_han@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Liao Han</span></a><br></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">P1C<br></td>
+    <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</span></a><br></td>
+  </tr>
 </tbody>
 </table>
