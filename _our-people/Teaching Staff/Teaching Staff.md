@@ -23,8 +23,8 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#666"><b>Class</b>
-    <td class="tg-feqv"><span style="color:#666"><b>Form Teachers<b></span></td>
+    <td class="tg-feqv"><span style="color:#666"><b>Class</b></span></td>
+    <td class="tg-feqv"><span style="color:#666"><b>Form Teachers</b></span></td>
     <td></span></td>
   </tr>
   <tr>
