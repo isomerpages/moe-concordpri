@@ -291,5 +291,30 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</span></a><br></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">P1D<br></td>
+    <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P1E<br></td>
+    <td class="tg-yhj3"><a href="mailto:siti_aishah_hussain@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Aishah Bte Hussain</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:teng_yue_ting@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Teng Yue Ting</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P1F<br></td>
+    <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P1G<br></td>
+    <td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sabrina Yap Yan Ting</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">P1H<br></td>
+    <td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</span></a><br></td>
+  </tr>
 </tbody>
 </table>
