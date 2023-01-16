@@ -14,7 +14,7 @@ third_nav_title: School Management Committee
 .tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="width:150%" class="tg">
 <tbody>
   <tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
@@ -40,6 +40,11 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">Mrs Thanaletchimi Ganeson </td>
     <td class="tg-yhj3"> Tamil Language</td>
     <td class="tg-ppzb"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">thanaletchimi_ganeson@moe.edu.sg</span></a> </td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Norhariaty Mohamed Ismail </td>
+    <td class="tg-yhj3"> English Language</td>
+    <td class="tg-ppzb"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norhariaty_mohamed_ismail@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
