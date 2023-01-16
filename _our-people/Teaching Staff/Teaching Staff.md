@@ -269,9 +269,9 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Name</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Designation</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Email address</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nornizah Binte Hamzah<br></td>
