@@ -4,7 +4,6 @@ permalink: /our-people/Teaching-Staff/aed/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -34,12 +33,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-yhj3">Irwany Kartika Binte Kasmani<br></td>
-    <td class="tg-yhj3">AED Learning Behavioral Support<br></td>
+    <td class="tg-yhj3">SEN Officer<br></td>
     <td class="tg-o5fr"><a href="mailto:irwany_kartika_kasmani@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">irwany_kartika_kasmani@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Padma Subramaniam </td>
-    <td class="tg-yhj3"> AED Learning Behavioral Support</td>
+    <td class="tg-yhj3"> SEN Officer</td>
     <td class="tg-o5fr"><a href="mailto:padma_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">padma_subramaniam@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
@@ -54,7 +53,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-yhj3"> Yow Jit Sin</td>
-    <td class="tg-yhj3">AED Senior Learning Behavioral Support </td>
+    <td class="tg-yhj3">Senior SEN Officer </td>
     <td class="tg-o5fr"><a href="mailto:yow_jit_sin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">yow_jit_sin@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
