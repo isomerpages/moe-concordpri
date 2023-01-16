@@ -245,7 +245,12 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">P5B </td>
     <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</td>
     <td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</span></a></td>
-			<td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</td>
+			<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</td>
+				<tr>
+    <td class="tg-yhj3">P5C</td>
+    <td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</td>
+    <td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lim@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</span></a></td>
+			<td></td>
 			</tr>
 </tbody>
 </table>
