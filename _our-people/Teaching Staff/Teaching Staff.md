@@ -261,11 +261,12 @@ third_nav_title: Teaching Staff
 			</tr>
 </tbody>
 </table>
-<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 257px">
-<col style="width: 234px">
-<col style="width: 284px">
+<col style="width: 150px">
+<col style="width: 250px">
+<col style="width: 200px">
+	<col style="width: 200px">
 </colgroup>
 <tbody>
   <tr>
@@ -274,7 +275,8 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Nornizah Binte Hamzah<br></td>
-    <td class="tg-yhj3">Art</td>
-    <td class="tg-o5fr"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</span></a><br></td>
+    <td class="tg-o5fr">P1A<br></td>
+    <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
+  </tr>
+    <td class="tg-o5fr"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Heng Chwee Hong</span></a><br></td>
   </tr>
