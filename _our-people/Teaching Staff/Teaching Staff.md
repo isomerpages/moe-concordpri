@@ -147,9 +147,24 @@ third_nav_title: Teaching Staff
     <td></td>
 			<td></td>
 			<tr>
-    <td class="tg-yhj3">P3A </td>
-    <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</td>
-    <td class="tg-yhj3"><a href="mailto:ng_jia_hui@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Ng Jia Hui</span></a></td>
+    <td class="tg-yhj3">P3C </td>
+    <td class="tg-yhj3"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</td>
+    <td class="tg-yhj3"><a href="mailto:zhang_kaixin@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mr Zhang Kaixin</span></a></td>
+			<td></td>
+			<tr>
+    <td class="tg-yhj3">P3D </td>
+    <td class="tg-yhj3"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Christine Tan Shi Qi</td>
+    <td></td>
+			<td></td>
+			<tr>
+    <td class="tg-yhj3">P3E </td>
+    <td class="tg-yhj3"><a href="mailto:chen_qiuru@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chen Qiuru</td>
+    <td></td>
+			<td></td>
+			<tr>
+    <td class="tg-yhj3">P3F </td>
+    <td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</td>
+    <td class="tg-yhj3"><a href="mailto:see_shen_leng@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Ms See Shen Leng</span></a></td>
 			<td></td>
 			</tr>
 </tbody>
