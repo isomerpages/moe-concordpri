@@ -251,6 +251,11 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</td>
     <td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lim@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</span></a></td>
 			<td></td>
+			<tr>
+    <td class="tg-yhj3">P5D</td>
+    <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</td>
+    <td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lim@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</span></a></td>
+			<td></td>
 			</tr>
 </tbody>
 </table>
