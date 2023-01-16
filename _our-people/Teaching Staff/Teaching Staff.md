@@ -14,6 +14,7 @@ third_nav_title: Teaching Staff
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span>
 <table class="tg" style="undefined;table-layout: fixed; width: 775px">
 <colgroup>
 <col style="width: 257px">
@@ -58,4 +59,29 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-			Primary 2
+<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span>
+			
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666"><b>Class<b></span></td>
+    <td class="tg-feqv"><span style="color:#666"><b>Form Teachers<b></span></td>
+    <td></span></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">P2A </td>
+    <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</td>
+    <td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</span></a></td>
+  </tr>
+			<tr>
+    <td class="tg-yhj3">P2B </td>
+    <td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</td>
+    <td class="tg-yhj3"><a href="mailto:tan_xue_yun_patricia@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Ms Tan Xue Yun Patricia</span></a></td>
+  </tr>
+</tbody>
+</table>	
