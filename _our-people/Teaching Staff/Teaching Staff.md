@@ -189,8 +189,63 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-yhj3">P4A </td>
     <td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</td>
-    <td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</span></a></td>
-			<td></td>
+    <td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</span></a></td>
+			  <td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</span></a></td>
+			<tr>
+    <td class="tg-yhj3">P4B </td>
+    <td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</td>
+    <td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Ms Loh Sok Yee</span></a></td>
+			  <td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</span></a></td>
+			<tr>
+    <td class="tg-yhj3">P4C</td>
+    <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</td>
+    <td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</span></a></td>
+		<td></td>
+			<tr>
+    <td class="tg-yhj3">P4D</td>
+    <td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</td>
+    <td class="tg-yhj3"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Miss Joyce Fang Bee Hoon</span></a></td>
+		<td></td>
+			<tr>
+    <td class="tg-yhj3">P4E</td>
+    <td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</td>
+    <td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</span></a></td>
+		<td></td>
+<tr>
+		<td class="tg-yhj3">P4F</td>
+    <td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</td>
+    <td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</span></a></td>
+		<td></td>
+			</tr>
+</tbody>
+</table>
+			
+<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span>
+			
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+<col style="width: 280px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666"><b>Class<b></span></td>
+    <td class="tg-feqv"><span style="color:#666"><b>Form Teachers<b></span></td>
+    <td></span></td>
+			<td></span></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">P5A </td>
+    <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</td>
+    <td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</span></a></td>
+			  <td></td>
+			<tr>
+    <td class="tg-yhj3">P5B </td>
+    <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</td>
+    <td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg"><span							style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</span></a></td>
+			<td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</td>
 			</tr>
 </tbody>
 </table>
