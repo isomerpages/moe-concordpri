@@ -261,3 +261,20 @@ third_nav_title: Teaching Staff
 			</tr>
 </tbody>
 </table>
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mdm Nornizah Binte Hamzah<br></td>
+    <td class="tg-yhj3">Art</td>
+    <td class="tg-o5fr"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nornizah_hamzah@moe.edu.sg</span></a><br></td>
+  </tr>
