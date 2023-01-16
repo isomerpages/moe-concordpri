@@ -266,6 +266,7 @@ third_nav_title: Teaching Staff
 <col style="width: 257px">
 <col style="width: 234px">
 <col style="width: 284px">
+<col style="width: 280px">
 </colgroup>
 <tbody>
   <tr>
@@ -274,8 +275,9 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
   </tr>
   <tr>
-    <td class="tg-o5fr">P1A<br></td>
-    <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
+    <td class="tg-yhj3">P1A<br></td>
+    <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
+		<td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Heng Chwee Hong</span></a><br></td>
   </tr>
-    <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Heng Chwee Hong</span></a><br></td>
-  </tr>
+</tbody>
+</table>
