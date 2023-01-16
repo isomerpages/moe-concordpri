@@ -1,6 +1,6 @@
 ---
 title: Environmental Commitment
-permalink: /about-us/environmental-commitment
+permalink: /about-us/environmental-commitment/
 description: ""
 ---
 ##### Environmental Mission Statement: 
@@ -26,7 +26,6 @@ Concord Primary School is committed to environmental education and our sustainab
 
 In Concord Primary School, we are committed to the education of Concordians in environmental issues. In alignment to Concord’s VMV and iGIVE Culture, the School and its Environmental Partners provide numerous platforms for Concordians to be immersed in continuous environmental improvement. This has translated into programmes and activities that have not only positively impacted our students but our community as well. 
 
-(missing: env 2)
 
 Every year, the school takes part in the School Greens Award and we have been affirmed for our efforts by being awarded the Prestigious Lotus Award since 2012. The school will continue to strive to educate our students to foster a sustainable future and to improve the environmental well-being of our community. 
 
@@ -34,7 +33,6 @@ Every year, the school takes part in the School Greens Award and we have been af
 
 ##### Key strategies to achieve our environmental mission and goals:
 
- (missing env 1)
     
 * Provide a values-based education in environmental issues.
 *   Active monitoring to minimise electricity and water usage.
