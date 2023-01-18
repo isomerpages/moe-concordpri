@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /departments/Science/science
+permalink: /departments/Science/science/
 description: ""
 third_nav_title: Science
 ---
@@ -26,10 +26,7 @@ It encapsulates the thrust of Science education in Singapore to provide students
 Key Programmes
 --------------
 
-ALL the content to move here.  
-(Same as Math department)
+
 
 Different types of Learning
 ---------------------------
-
-Click [here](/departments/Science/different-types-of-learning) to know more.
