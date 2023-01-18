@@ -27,14 +27,14 @@ It encapsulates the thrust of Science education in Singapore to provide students
 Key Programmes
 --------------
 
-**Primary 1 to 2  - COL.OURS    
+<b>Primary 1 to 2  - COL.OURS</b>
 
 ![Colours.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Colours.jpg)
 
 **COL.OURS** stands for **C**entre **O**f **L**earning - **O**ur **U**nique **R**esearches in **S**cience. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
   
-Primary 3  - Little Farmers  
+<b>Primary 3  - Little Farmers</b>
 
 ![artwork for little farmers.png](https://concordpri.moe.edu.sg/qql/slot/u754/artwork%20for%20little%20farmers.png)  
 ![Little Farmers 1.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Little%20Farmers%201.jpg)  
@@ -43,12 +43,12 @@ Students are given an opportunity to experience urban farming first-hand in our 
 
   
 
-Primary 4  - Hydroponics  
+<b>Primary 4  - Hydroponics</b> 
 
 ![Hydroponics in school logo.png](https://concordpri.moe.edu.sg/qql/slot/u754/Hydroponics%20in%20school%20logo.png)![Hydroponics.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Hydroponics.jpg)  
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
-Primary 5  - High Achievers
+<b>Primary 5  - High Achievers</b>
 
 **![High Achievers.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/High%20Achievers.jpg)**
 
@@ -56,7 +56,7 @@ It is a special programme that aims to nurture selected Science High Progress Co
 
   
 
-Primary 6  - PASS and ACE
+<b>Primary 6  - PASS and ACE</b>
 
 ![Pass and Ace.png](https://concordpri.moe.edu.sg/qql/slot/u754/Pass%20and%20Ace.png)
 
