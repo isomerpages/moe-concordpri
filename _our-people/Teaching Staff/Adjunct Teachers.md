@@ -18,7 +18,7 @@ third_nav_title: Teaching Staff
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
-<col style="width: 284px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
