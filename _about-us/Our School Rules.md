@@ -19,7 +19,8 @@ description: ""
 <colgroup>
 <col style="width: 337px">
 <col style="width: 390px">
-</colgroup>
+</colgrou
+	
 <tbody>
   <tr>
 		<td class="tg-k1f1"><span style="font-size:22px"><b> 6 Core Values </b></span></td>
