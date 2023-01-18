@@ -65,4 +65,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-![](/images/eas12.png)
