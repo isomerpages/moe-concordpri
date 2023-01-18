@@ -3,8 +3,6 @@ title: Executive and Administration Staff (EAS)
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
-![](/images/Executive%20and%20Administration%20Staff_P1.jpeg)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -65,4 +63,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-![](/images/eas12.jpg)
