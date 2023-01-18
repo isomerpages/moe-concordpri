@@ -18,7 +18,7 @@ third_nav_title: Teaching Staff
 <colgroup>
 <col style="width: 223px">
 <col style="width: 287px">
-<col style="width: 290px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
@@ -27,34 +27,39 @@ third_nav_title: Teaching Staff
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email Address</span></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Chin Wei Long Sebastian<br></td>
+    <td class="tg-yhj3">Mr Chin Wei Long Sebastian<br></td>
     <td class="tg-yhj3">AED Teaching &amp; Learning (Science)<br></td>
-    <td class="tg-o5fr"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chin_wei_long_sebastian@moe.edu.sg</span></a><br></td>
+    <td class="tg-o5fr"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">chin_wei_long_sebastian@moe.edu.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-yhj3">Irwany Kartika Binte Kasmani<br></td>
-    <td class="tg-yhj3">SEN Officer<br></td>
-    <td class="tg-o5fr"><a href="mailto:irwany_kartika_kasmani@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">irwany_kartika_kasmani@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Padma Subramaniam </td>
-    <td class="tg-yhj3"> SEN Officer</td>
-    <td class="tg-o5fr"><a href="mailto:padma_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">padma_subramaniam@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3"> Santhi D/O Lembodharan Pillai</td>
-    <td class="tg-yhj3">School Counsellor </td>
-    <td class="tg-o5fr"><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">santhi_lembodharan_pillai@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Yap Yan Ting Sabrina </td>
+	<tr>
+    <td class="tg-yhj3">Mdm Yap Yan Ting Sabrina </td>
     <td class="tg-yhj3">AED Teaching &amp; Learning (Mathematics)</td>
-    <td class="tg-o5fr"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">yap_yan_ting_sabrina@moe.edu.sg</span></a> </td>
+    <td class="tg-o5fr"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yap_yan_ting_sabrina@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Yow Jit Sin</td>
+    <td class="tg-yhj3">Mdm Irwany Kartika Binte Kasmani<br></td>
+    <td class="tg-yhj3">SEN Officer<br></td>
+    <td class="tg-o5fr"><a href="mailto:irwany_kartika_kasmani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">irwany_kartika_kasmani@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mdm Padma Subramaniam </td>
+    <td class="tg-yhj3"> SEN Officer</td>
+    <td class="tg-o5fr"><a href="mailto:padma_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">padma_subramaniam@moe.edu.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Miss Koh Xiao Ting Anne</td>
+    <td class="tg-yhj3">SEN Officer </td>
+    <td class="tg-o5fr"><a href="mailto:koh_xiao_ting_anne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">koh_xiao_ting_anne@moe.edu.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mr Yow Jit Sin</td>
     <td class="tg-yhj3">Senior SEN Officer </td>
-    <td class="tg-o5fr"><a href="mailto:yow_jit_sin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">yow_jit_sin@moe.edu.sg</span></a></td>
+    <td class="tg-o5fr"><a href="mailto:yow_jit_sin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yow_jit_sin@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Santhi D/O Lembodharan Pillai</td>
+    <td class="tg-yhj3">School Counsellor </td>
+    <td class="tg-o5fr"><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">santhi_lembodharan_pillai@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
