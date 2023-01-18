@@ -57,7 +57,7 @@ description: ""
      <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Siti Razilah</span><br>ICT Support Staff<br></td>
   </tr>
 	<tr>
-    <td class="tg-nrix"><img src="/images/eas13.jpg"></td>
+    <td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
  <tr>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Suzana</span><br>Receptionist<br></span></a></td>  
   </tr>
