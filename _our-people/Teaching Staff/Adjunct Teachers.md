@@ -32,10 +32,10 @@ third_nav_title: Teaching Staff
     <td class="tg-o5fr"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">nornizah_hamzah@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mdm Pang Kah Kah FAJT</td>
+    <td class="tg-yhj3"> Mdm Pang Kah Kah</td>
     <td class="tg-yhj3"> Chinese Language </td>
-    <td class="tg-yhj3"> </td>
-  </tr>
+     <td class="tg-o5fr"><a href="mailto:pang_kah_kah@moe.edu.sg@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">pang_kah_kah@moe.edu.sg</span></a><br></td>
+	</tr>
   <tr>
     <td class="tg-yhj3"> Mdm Huzaimah Binte Ahmad</td>
     <td class="tg-yhj3">English Language </td>
