@@ -56,7 +56,12 @@ description: ""
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Norhafizah</span><br><span style="background-color:initial">ICT Associate</span><br><a href="mailto:norhafizah_pungut@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">norhafizah_pungut@moe.edu.sg</span></a></td>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Miss Raihan</span><br>Desktop Engineer<br></td>
-    <td class="tg-nrix"></td>
+     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Siti Razilah</span><br>ICT Support Staff<br></td>
+  </tr>
+	<tr>
+    <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
+ <tr>
+    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Suzana</span><br>Receptionist<br>&nmp&</span></a></td>  
   </tr>
 </tbody>
 </table>
