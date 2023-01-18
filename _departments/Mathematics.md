@@ -1,21 +1,21 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
 ---
 ![](/images/MATHEMATICS_P1.jpeg)
 
-Vision:
+Vision
 -------
 
 Cultivating interest, developing problem solving skills and confidence in Mathematics.
 
-Mission:
+Mission
 --------
 
 Explore, Experience and Discover Mathematics.
 
-Department Framework:
+Department Framework
 ---------------------
 
 The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.
@@ -29,7 +29,7 @@ Aims of the Mathematics Department:
 *   Enable students to use Mathematical language to communicate Mathematical ideas confidently and logically.
 *   Develop students’ metacognitive skills to monitor own thinking and regulation of self-learning. 
 
-Key Programmes:
+Key Programmes
 ---------------
 
 _**Fostering Joy of Learning through Learning Experiences**_ 
