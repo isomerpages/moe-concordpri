@@ -26,13 +26,13 @@ third_nav_title: Science
 </colgroup>
 <tbody>
   <tr>
-    <td style="font-size:24px" class="tg-auhb"> <b>Level</b></td>
-		<td style="font-size:24px" class="tg-8s0f"><b>Programme</b> </td>
-    <td class="tg-8s0f"> </td>
+    <td style="font-size:24px" class="tg-auhb"><b>Level</b></td>
+		<td style="font-size:24px" class="tg-8s0f"><b>Programme</td>
+    <td class="tg-8s0f"></td>
   </tr>
   <tr>
     <td style="color:#0909FF ; font-size:18px" class="tg-muqq"><b>Primary 1 to 2<br></td>
-    <td class="tg-aaqb"><strong>COL.OURS</strong><br><br>COL.OURS stands for Centre Of Learning - Our Unique Researches in Science. It is a Concord Primary School programme to support Science learning for the Primary 1 and Primary 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!<br></td>
+    <td class="tg-aaqb">COL.OURS<br><br>COL.OURS stands for Centre Of Learning - Our Unique Researches in Science. It is a Concord Primary School programme to support Science learning for the Primary 1 and Primary 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!<br></td>
 		<td class="tg-aaqb"><br><center><img src="/images/kp1.jpeg"></center></td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ third_nav_title: Science
   </tr>
   <tr>
     <td style="color:#0909FF ; font-size:18px"class="tg-muqq"><b>Primary 3<br></td>
-    <td class="tg-aaqb"><strong>LITTLE FARMERS PROGRAMME</strong></td>
+    <td class="tg-aaqb">LITTLE FARMERS PROGRAMME</td>
     <td class="tg-aaqb"><img src="/images/kp3.jpeg"></td>
   </tr>
   <tr>
