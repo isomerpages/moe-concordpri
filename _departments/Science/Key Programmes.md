@@ -1,11 +1,9 @@
 ---
 title: Key Programmes
-permalink: /departments/Science/key-programmes
+permalink: /departments/Science/key-programmes/
 description: ""
 third_nav_title: Science
 ---
-*Click on the Programme Title to know more.*
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -22,29 +20,29 @@ third_nav_title: Science
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 766px">
 <colgroup>
-<col style="width: 135px">
+<col style="width: 150px">
 <col style="width: 301px">
 <col style="width: 330px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-auhb">Level</td>
-    <td class="tg-8s0f">Programme </td>
+    <td style="font-size:24px" class="tg-auhb"> <b>Level</b></td>
+		<td style="font-size:24px" class="tg-8s0f"><b>Programme</b> </td>
     <td class="tg-8s0f"> </td>
   </tr>
   <tr>
-    <td class="tg-muqq">Primary 1 to 2<br></td>
-    <td class="tg-aaqb"><strong><center>COL.OURS</center></strong>COL.OURS stands for Centre Of Learning - Our Unique Researches in Science. It is a Concord Primary School programme to support Science learning for the Primary 1 and Primary 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!<br></td>
-    <td class="tg-aaqb"><img src="/images/kp1.jpeg"></td>
+    <td style="color:#0909FF ; font-size:18px" class="tg-muqq"><b>Primary 1 to 2<br></td>
+    <td class="tg-aaqb"><strong>COL.OURS</strong><br><br>COL.OURS stands for Centre Of Learning - Our Unique Researches in Science. It is a Concord Primary School programme to support Science learning for the Primary 1 and Primary 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!<br></td>
+		<td class="tg-aaqb"><br><center><img src="/images/kp1.jpeg"></center></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Primary 4</td>
-    <td class="tg-r129"><strong><center>HYDROPONICS</center></strong>Students would be learning about plants, plant parts and plant life cycle during their Science lessons, thus a good opportunity for them to learn more about plants through our hands-on Hydroponics programme - a soilless farming technology commonly used in Singapore. Leveraging on existing school asset, students get to grow the different vegetables in the hydroponics system, from transplant seedlings to harvesting the adult plant after 3 weeks! <br></td>
-    <td class="tg-aaqb"><img src="/images/kp2.jpeg"></td>
+    <td style="color:#0909FF ; font-size:18px" class="tg-muqq"><b><br>Primary 4</td>
+    <td class="tg-r129"><strong><br>HYDROPONICS<br><br></strong>Students would be learning about plants, plant parts and plant life cycle during their Science lessons, thus a good opportunity for them to learn more about plants through our hands-on Hydroponics programme - a soilless farming technology commonly used in Singapore. Leveraging on existing school asset, students get to grow the different vegetables in the hydroponics system, from transplant seedlings to harvesting the adult plant after 3 weeks! <br></td>
+    <td class="tg-aaqb"><br><img src="/images/kp2.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Primary 3<br></td>
-    <td class="tg-aaqb"><strong><center>LITTLE FARMERS PROGRAMME</center></strong></td>
+    <td style="color:#0909FF ; font-size:18px"class="tg-muqq"><b>Primary 3<br></td>
+    <td class="tg-aaqb"><strong>LITTLE FARMERS PROGRAMME</strong></td>
     <td class="tg-aaqb"><img src="/images/kp3.jpeg"></td>
   </tr>
   <tr>
