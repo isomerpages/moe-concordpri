@@ -69,11 +69,16 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
     <td class="tg-yhj3">Music </td>
-    <td class="tg-yhj3"> </td>
+   <td class="tg-o5fr"><a href="mailto:thang_cheong_foong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">thang_cheong_foong@moe.edu.sg</span></a> </td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Ms Joyce Chen Ziwei </td>
+    <td class="tg-yhj3">Music </td>
+   <td class="tg-o5fr"><a href="mailto:chen_ziwei_joyce@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">chen_ziwei_joyce@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mdm Ow Tong Lan Connie</td>
-    <td class="tg-yhj3"> Science</td>
+    <td class="tg-yhj3">Mdm Ow Tong Lan Connie</td>
+    <td class="tg-yhj3">Science</td>
     <td class="tg-o5fr"><a href="mailto:ow_tong_lan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">ow_tong_lan@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
