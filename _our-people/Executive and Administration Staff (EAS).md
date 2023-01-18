@@ -50,7 +50,7 @@ description: ""
     <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas11.jpeg"></td>
-		<td class="tg-nrix"><img src="/images/test4.jpg"></td>
+		<td class="tg-nrix"><img src="/images/test5.jpg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
