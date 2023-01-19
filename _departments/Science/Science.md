@@ -26,16 +26,16 @@ It encapsulates the thrust of Science education in Singapore to provide students
 Different Types of Learning
 ---------------------------
 
-<center><b>Inquisitive Learning</center></b>
+<center><b>Inquisitive Learning</b>
 	<img src="/images/Inquistive Learning.jpg">
 
-<center><b>Experiential Learning</center></b>
+<center><b>Experiential Learning</b>
   <img src="/images/Experiential Learning.jpg">
   
-<center><b>Cooperative Learning</center></b>
+<center><b>Cooperative Learning</b>
 <img src="/images/Coorperative Learning.jpg">
 
-<center><b>Outdoor Learning</center></b>
+<center><b>Outdoor Learning</b>
 <img src="/images/Outdoor Learning.jpg">
 
 Key Programmes
