@@ -49,11 +49,6 @@ Different Types of Learning
 	
 	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
-  
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
-<img src="/images/Little Farmers Logo.jpg" style="width:45%"><br>
-<img src="/images/Little Farmers 1.jpg" style="width:45%">	
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -79,9 +74,28 @@ Different Types of Learning
 	
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
  
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 4  - Hydroponics</b></span></center>
-<img src="/images/Hydroponics in school logo.png" style="width:45%"><br>
-<img src="/images/Hydroponics.jpg" style="width:45%">		
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+	
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width:400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/Hydroponics in school logo.png" style="width:75%"></center></td>
+		<td class="tg-0lax"><center><img src="/images/Hydroponics.jpg" style="width:85%"></center></td>
+  </tr>
+</tbody>
+</table>
 	
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
