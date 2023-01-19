@@ -28,7 +28,7 @@ Different Types of Learning
 
 <center><b>Inquisitive Learning</b>
 	<img src="/images/Inquistive Learning.jpg"    
-			 width="350px">
+			 style="width:35%">
 
 <center><b>Experiential Learning</b>
   <img src="/images/Experiential Learning.jpg">
