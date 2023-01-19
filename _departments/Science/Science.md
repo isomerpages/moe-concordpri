@@ -54,6 +54,29 @@ Different Types of Learning
 <img src="/images/Little Farmers Logo.jpg" style="width:45%"><br>
 <img src="/images/Little Farmers 1.jpg" style="width:45%">	
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+	
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width:400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><center><img src="/images/Little Farmers Logo.jpg" style="width:85%"></center></td>
+		<td class="tg-0lax"><center><img src="/images/Little Farmers 1.jpg" style="width:65%"></center></td>
+  </tr>
+</tbody>
+</table>
+	
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
  
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 4  - Hydroponics</b></span></center>
@@ -118,8 +141,6 @@ Organised once yearly, the parents’ Science workshops are open to parents whos
 
 Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
 	
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
