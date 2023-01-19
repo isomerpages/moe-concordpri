@@ -75,7 +75,7 @@ PASS and ACE programmes aim to provide students with additional resources and su
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 1 to 6 - ecopals@Concord (Environmental Education)</b></span>
 
-![ecopalConcord logo.png](https://concordpri.moe.edu.sg/qql/slot/u754/ecopalConcord%20logo.png)
+<img src="/images/Pass and Ace.png" style="width:55%">
 
 ![ecopals at concord 2.png](https://concordpri.moe.edu.sg/qql/slot/u770/ecopals%20at%20concord%202.png)  
 
