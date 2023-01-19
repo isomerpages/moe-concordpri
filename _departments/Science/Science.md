@@ -49,13 +49,14 @@ Different Types of Learning
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
 <img src="/images/Little Farmers Logo.jpg"><br>
-<img src="images/Little Farmers 1.jpg">	
+<img src="/images/Little Farmers 1.jpg">	
 
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
  
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 4  - Hydroponics</b></span></center>
-
-![Hydroponics in school logo.png](https://concordpri.moe.edu.sg/qql/slot/u754/Hydroponics%20in%20school%20logo.png)![Hydroponics.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Hydroponics.jpg)  
+<img src="/images/Hydroponics in school logo.png"><br>
+<img src="/images/Hydroponics.jpg">		
+	
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5  - High Achievers</b></span></center>
