@@ -25,11 +25,32 @@ It encapsulates the thrust of Science education in Singapore to provide students
 
 Different Types of Learning
 ---------------------------
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 650px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-a5i5"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129">Inquisitive Learning</td>
+		<td class="tg-r129"><img src="/images/Inquistive Learning.jpg"></td>
 
 <center><b>Inquisitive Learning</center></b>
-
-![Inquistive Learning.jpg]
-
+		
 
 <center><b>Experiential Learning</center></b>
 
