@@ -28,7 +28,6 @@ Different Types of Learning
 
 <center><b>Inquisitive Learning</center></b>
 
-
 ![Inquistive Learning.jpg]
 
 
