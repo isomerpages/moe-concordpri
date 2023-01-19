@@ -142,4 +142,4 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 </tbody>
 </table>
 	
-<a href="/departments/Science/outdoor-science-learning-trails"><img src="images/button1.png" style="width:35%;"></a>
+<a href="/departments/Science/outdoor-science-learning-trails"><img src="images/button1.png" style="width:35%"></a>
