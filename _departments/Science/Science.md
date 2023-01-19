@@ -36,7 +36,7 @@ Different Types of Learning
 <img src="/images/Coorperative Learning.jpg">
 
 <center><b>Outdoor Learning</center></b>
-<img src="/images/Coorperative Learning.jpg">
+<img src="/images/Outdoor Learning.jpg">
 
 Key Programmes
 --------------
