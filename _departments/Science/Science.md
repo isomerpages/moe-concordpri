@@ -4,7 +4,6 @@ permalink: /departments/Science/
 description: ""
 third_nav_title: Science
 ---
-
 ![](/images/SCIENCE%20P1.jpeg)
 
 Vision
@@ -24,6 +23,26 @@ It encapsulates the thrust of Science education in Singapore to provide students
 
 ![](/images/framework%202.png)
 
+Different Types of Learning
+---------------------------
+
+<center><b>Inquisitive Learning</center></b>
+
+![Inquistive Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Inquistive%20Learning.jpg)
+
+
+<center><b>Experiential Learning</center></b>
+
+![Experiential Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Experiential%20Learning.jpg)  
+  
+
+<center><b>Cooperative Learning</center></b>
+
+![Coorperative Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Coorperative%20Learning.jpg)
+
+<center><b>Outdoor Learning</center></b>
+
+![Outdoor Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Outdoor%20Learning.jpg)
 
 Key Programmes
 --------------
