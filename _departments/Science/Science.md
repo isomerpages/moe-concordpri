@@ -40,18 +40,17 @@ Different Types of Learning
 <center><b>Outdoor Learning</b>
 <img src="/images/Outdoor Learning.jpg">
 
-Key Programmes
+ Key Programmes
 --------------
-
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2  - COL.OURS</b></span></center>
-
-![Colours.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Colours.jpg)
-
+<center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2  - COL.OURS</b></span>
+<img src="/images/Colours.jpg">
+	
 **COL.OURS** stands for **C**entre **O**f **L**earning - **O**ur **U**nique **R**esearches in **S**cience. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
-
+<img src="/images/Colours.jpg">
+	
 ![artwork for little farmers.png](https://concordpri.moe.edu.sg/qql/slot/u754/artwork%20for%20little%20farmers.png)  
 ![Little Farmers 1.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Little%20Farmers%201.jpg)  
 
