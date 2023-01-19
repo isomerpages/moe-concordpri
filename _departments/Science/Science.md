@@ -57,8 +57,8 @@ Different Types of Learning
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
  
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 4  - Hydroponics</b></span></center>
-<img src="/images/Hydroponics in school logo.png" style="width:75%"><br>
-<img src="/images/Hydroponics.jpg" style="width:75%">		
+<img src="/images/Hydroponics in school logo.png" style="width:45%"><br>
+<img src="/images/Hydroponics.jpg" style="width:45%">		
 	
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
