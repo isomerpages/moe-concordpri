@@ -31,42 +31,45 @@ Different Types of Learning
 			 style="width:75%">
 
 <center><b>Experiential Learning</b>
-  <img src="/images/Experiential Learning.jpg">
+  <img src="/images/Experiential Learning.jpg"
+			 style="width:75%">
   
 <center><b>Cooperative Learning</b>
-<img src="/images/Coorperative Learning.jpg">
+<img src="/images/Coorperative Learning.jpg"
+		 style="width:75%">
 
 <center><b>Outdoor Learning</b>
-<img src="/images/Outdoor Learning.jpg">
+<img src="/images/Outdoor Learning.jpg"
+		 style="width:75%">
 
  Key Programmes
 --------------
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2  - COL.OURS</b></span>
-<img src="/images/Colours.jpg">
+<img src="/images/Colours.jpg"style=" width:75%">
 	
 **COL.OURS** stands for **C**entre **O**f **L**earning - **O**ur **U**nique **R**esearches in **S**cience. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
-<img src="/images/Little Farmers Logo.jpg"><br>
-<img src="/images/Little Farmers 1.jpg">	
+<img src="/images/Little Farmers Logo.jpg" style="width:55%"><br>
+<img src="/images/Little Farmers 1.jpg" style="width:65%">	
 
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
  
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 4  - Hydroponics</b></span></center>
-<img src="/images/Hydroponics in school logo.png"><br>
-<img src="/images/Hydroponics.jpg">		
+<img src="/images/Hydroponics in school logo.png" style="width:75%"><br>
+<img src="/images/Hydroponics.jpg" style="width:75%">		
 	
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5  - High Achievers</b></span></center>
-<img src="/images/High Achievers.jpg">
+<img src="/images/High Achievers.jpg" style="width:75%">
 
 It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for Science competitions.
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 6  - PASS and ACE</b></span></center>
-<img src="/images/Pass and Ace.png">
+<img src="/images/Pass and Ace.png" style="width:55%">
 
 PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students. 
 
