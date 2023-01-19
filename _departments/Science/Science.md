@@ -49,10 +49,10 @@ Different Types of Learning
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
-<img src="/images/Colours.jpg">
-	
-![artwork for little farmers.png](https://concordpri.moe.edu.sg/qql/slot/u754/artwork%20for%20little%20farmers.png)  
-![Little Farmers 1.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Little%20Farmers%201.jpg)  
+<img src="/images/Little Farmers Logo.jpg">
+<b>Primary 3  - Little Farmers</b></span></center>
+<img src="/images/Little Farmers Logo.jpg">	
+
 
 Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period.  Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment. 
 
