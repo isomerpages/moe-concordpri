@@ -183,8 +183,7 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
   <tr>
     <td class="tg-0lax"><center><a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/button1.png" style="width:80%"></a></td>
 		<td class="tg-0lax"><center><a href="/departments/Science/eco-pals-at-concord"><img src="/images/BUTTON2.png" style="width:80%"></a></td>
-	 <td class="tg-0lax"><center><a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/BUTTON3.png" style="width:80%"></a></td>
+	 <td class="tg-0lax"><center><a href="/departments/Science/our-achievements"><img src="/images/BUTTON3.png" style="width:80%"></a></td>
   </tr>
 </tbody>
-</table>	
-<a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/button1.png" style="width:20%"></a>
+</table>
