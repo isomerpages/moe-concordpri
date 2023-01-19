@@ -131,15 +131,13 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 400px">
+<col style="width:400px">
 <col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
-		<td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
+    <td class="tg-0lax"><center><img src="/images/Little Farmers Logo.jpg" style="width:85%"></center></td>
+		<td class="tg-0lax"><center><img src="/images/Little Farmers 1.jpg" style="width:65%"></center></td>
   </tr>
 </tbody>
 </table>
-	
-	
