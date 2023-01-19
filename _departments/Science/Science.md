@@ -83,20 +83,19 @@ This programme is in line with our school values and iCare culture. It aims to h
 <span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6  - Scientist-In-School</b></span>
 
 <img src="/images/Picture2.png" style="width:55%"><br>
-	<img src="/images/Scientist%20in%20School_Dr%20Ashar.png" style="width:55%">
-
+	<img src="/images/Scientist in School_Dr Ashar.png" style="width:55%">
 
 We are honoured to partner Dr Ashar, an A\* STAR scientist, in the implementation of the following programmes for selected students.
 
-**1)   P6 “Meet the Scientist” career guidance talk** 
+<ol>
+	<li><b>P6 “Meet the Scientist” career guidance talk</b></li>
+ <li><b> P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics</b>  </li>
+ <li><b> P4 Science enrichment lesson on Electromagnets</b></li>
+</ol>
 
-**2) P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics** 
-
-**3) P4 Science enrichment lesson on Electromagnets** 
-
-**Check out the video below for more information.**
-
-<span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5  - Creative Toy Making Workshopl</b></span>
+<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b></span>
+	
+<span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5  - Creative Toy Making Workshop</b></span>
 
 ![Creative Toy Making Workshop.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Creative%20Toy%20Making%20Workshop.jpg)
 
