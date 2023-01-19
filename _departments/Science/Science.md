@@ -106,7 +106,7 @@ It is a special programme that aims to nurture selected Science High Progress Co
 
 PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised.&nbsp;ACE programme also extends the learning of our students.&nbsp;
 
-<br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6&nbsp;- ecopals@Concord(Environmental Education)</b></span>
+<br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals@Concord(Environmental Education)</b></span>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
