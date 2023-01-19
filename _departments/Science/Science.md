@@ -33,15 +33,13 @@ Different Types of Learning
   <img src="/images/Experiential Learning.jpg">
   
 <center><b>Cooperative Learning</center></b>
-<img src="/images/Experiential Learning.jpg">
+<img src="/images/Coorperative Learning.jpg">
 
 <center><b>Outdoor Learning</center></b>
-
-![Outdoor Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Outdoor%20Learning.jpg)
+<img src="/images/Coorperative Learning.jpg">
 
 Key Programmes
 --------------
-
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2  - COL.OURS</b></span></center>
 
