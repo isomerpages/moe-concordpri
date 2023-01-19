@@ -129,17 +129,17 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
-<col style="width: 191px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
-  </tr>
-  <tr>
-		class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
+		<td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
   </tr>
 </tbody>
 </table>
+	
+	
