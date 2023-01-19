@@ -162,5 +162,29 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
   </tr>
 </tbody>
 </table>
-	
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width:100px">
+<col style="width: 100px">
+<col style="width: 100px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><center><a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/button1.png" style="width:80%"></a></td>
+		<td class="tg-0lax"><center><a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/BUTTON2.png" style="width:80%"></a></td>
+	 <td class="tg-0lax"><center><a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/BUTTON3.png" style="width:80%"></a></td>
+  </tr>
+</tbody>
+</table>	
 <a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/button1.png" style="width:20%"></a>
