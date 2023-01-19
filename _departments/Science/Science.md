@@ -28,26 +28,26 @@ Different Types of Learning
 
 <center><b>Inquisitive Learning</b>
 	<img src="/images/Inquistive Learning.jpg"    
-			 style="width:75%">
+			 style="width:55%">
 
 <center><b>Experiential Learning</b>
   <img src="/images/Experiential Learning.jpg"
-			 style="width:75%">
+			 style="width:55%">
   
 <center><b>Cooperative Learning</b>
 <img src="/images/Coorperative Learning.jpg"
-		 style="width:75%">
+		 style="width:55%">
 
 <center><b>Outdoor Learning</b>
 <img src="/images/Outdoor Learning.jpg"
-		 style="width:75%">
+		 style="width:55%">
 
  Key Programmes
 --------------
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2  - COL.OURS</b></span>
 <img src="/images/Colours.jpg" style="width:55%">
 	
-**COL.OURS** stands for **C**entre **O**f **L**earning - **O**ur **U**nique **R**esearches in **S**cience. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
+	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 3  - Little Farmers</b></span></center>
@@ -142,4 +142,4 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 </tbody>
 </table>
 	
-<a href="/departments/Science/outdoor-science-learning-trails"><img src="images/button1.png" style="width:35%"></a>
+<a href="/departments/Science/outdoor-science-learning-trails"><img src="/images/button1.png" style="width:35%"></a>
