@@ -30,11 +30,8 @@ Different Types of Learning
 	<img src="/images/Inquistive Learning.jpg">
 
 <center><b>Experiential Learning</center></b>
-
-
-![Experiential Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Experiential%20Learning.jpg)  
+  <img src="/images/Experiential Learning.jpg">
   
-
 <center><b>Cooperative Learning</center></b>
 
 ![Coorperative Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Coorperative%20Learning.jpg)
