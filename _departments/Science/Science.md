@@ -247,9 +247,9 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 
 <table style="undefined;table-layout: fixed; width: 300px" class="tg">
 <colgroup>
-<col style="width:100px">
-<col style="width: 100px">
-<col style="width: 100px">
+<col style="width:200px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
  <tr>
@@ -258,4 +258,4 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
 </tr>
 </tbody>
-</table></center></center></center></center></center>
+</table>
