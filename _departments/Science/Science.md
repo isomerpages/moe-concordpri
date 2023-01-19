@@ -28,7 +28,7 @@ Different Types of Learning
 
 <center><b>Inquisitive Learning</b>
 	<img src="/images/Inquistive Learning.jpg"    
-			 style="width:35%">
+			 style="width:75%">
 
 <center><b>Experiential Learning</b>
   <img src="/images/Experiential Learning.jpg">
@@ -116,3 +116,27 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 	
 
 	<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 191px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
+  </tr>
+  <tr>
+		<td class="tg-nrix"><b>Mrs Esther Lee <br>(VP Academic)<br>2013 - 2016</b></td>
+  </tr>
+</tbody>
+</table>
