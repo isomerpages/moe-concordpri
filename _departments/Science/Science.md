@@ -48,7 +48,7 @@ Key Programmes
 --------------
 
 <b>Primary 1 to 2  - COL.OURS</b>
-
+#0000FF
 ![Colours.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Colours.jpg)
 
 **COL.OURS** stands for **C**entre **O**f **L**earning - **O**ur **U**nique **R**esearches in **S**cience. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
