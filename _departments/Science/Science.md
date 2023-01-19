@@ -118,7 +118,7 @@ Organised once yearly, the parents’ Science workshops are open to parents whos
 
 Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
 	
-<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -141,3 +141,5 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
   </tr>
 </tbody>
 </table>
+	
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
