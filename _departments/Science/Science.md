@@ -31,6 +31,7 @@ Different Types of Learning
 
 <center><b>Experiential Learning</center></b>
 
+
 ![Experiential Learning.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/Experiential%20Learning.jpg)  
   
 
