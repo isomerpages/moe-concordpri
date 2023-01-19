@@ -139,7 +139,7 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
     <td class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
   </tr>
   <tr>
-		<td class="tg-nrix"><b>Mrs Esther Lee <br>(VP Academic)<br>2013 - 2016</b></td>
+		class="tg-0lax"><img src="/images/Inquistive Learning.jpg"></td>
   </tr>
 </tbody>
 </table>
