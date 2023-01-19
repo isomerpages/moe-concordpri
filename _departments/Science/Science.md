@@ -82,9 +82,9 @@ This programme is in line with our school values and iCare culture. It aims to h
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6  - Scientist-In-School</b></span>
 
-![Picture2.png](https://concordpri.moe.edu.sg/qql/slot/u754/Picture2.png)
+<img src="/images/Picture2.png" style="width:55%"><br>
+	<img src="/images/Scientist%20in%20School_Dr%20Ashar.png" style="width:55%">
 
-![Picture1.png](https://concordpri.moe.edu.sg/qql/slot/u754/Picture1.png)  
 
 We are honoured to partner Dr Ashar, an A\* STAR scientist, in the implementation of the following programmes for selected students.
 
