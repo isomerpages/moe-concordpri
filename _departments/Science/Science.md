@@ -75,9 +75,8 @@ PASS and ACE programmes aim to provide students with additional resources and su
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 1 to 6 - ecopals@Concord (Environmental Education)</b></span>
 
-<img src="/images/Pass and Ace.png" style="width:55%">
-
-![ecopals at concord 2.png](https://concordpri.moe.edu.sg/qql/slot/u770/ecopals%20at%20concord%202.png)  
+<img src="/images/ecopal@Concord logo.png" style="width:55%">
+<img src="/images/Environmental Education.png" style="width:55%">
 
 This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.  
 
