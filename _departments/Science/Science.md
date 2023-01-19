@@ -63,7 +63,7 @@ Students are given an opportunity to experience urban farming first-hand in our 
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks! 
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5  - High Achievers</b></span></center>
-<img src="/images/High Achievers.jpg" style="width:75%">
+<img src="/images/High Achievers.jpg" style="width:55%">
 
 It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for Science competitions.
 
