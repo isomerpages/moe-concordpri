@@ -102,20 +102,23 @@ Selected students were invited to attend the toy making workshop conducted by th
 
 <span style="color:#0000FF; font-size:18px"><b>Other Programmes</b></span>
 
-*   **Parent Symposium**
-
-![Parent Symposium.png](https://concordpri.moe.edu.sg/qql/slot/u754/Parent%20Symposium.png)
+<ul>
+	<li><b>Parent Symposium</b></li>
+</ul>
+	
+<img src="/images/Parent Symposium.png" style="width:65%">
 
 Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home. 
 
-*   **Professional Learning Team (PLT)**  
+<ul>
+	<li><b>Professional Learning Team (PLT)</b></li>
+</ul>
 
-![PLT.jpg](https://concordpri.moe.edu.sg/qql/slot/u754/PLT.jpg)
+<img src="/images/PLT.jpg" style="width:65%">
 
 Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
 	
-
-	<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
