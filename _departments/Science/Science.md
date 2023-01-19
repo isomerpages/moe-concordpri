@@ -40,11 +40,13 @@ Different Types of Learning
 
  Key Programmes
 --------------
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2&nbsp; - COL.OURS</b></span>
+<span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2; - COL.OURS</b></span>
 <img style="width:55%" src="/images/Colours.jpg">
 	
-	COL.OURS stands for&nbsp;Centre&nbsp;Of&nbsp;Learning -Our&nbsp;Unique&nbsp;Researches in&nbsp;Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
+	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
+<br><br><span style="color:#0000FF; font-size:18px"><b>Primary 3 - Little Farmers</b></span>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -68,8 +70,9 @@ Different Types of Learning
 </tbody>
 </table>
 	
-Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. &nbsp;Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.&nbsp;
- 
+Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. &nbsp;Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
+<br><br><span style="color:#0000FF; font-size:18px"><b>Primary 4 - Hydroponics</b></span>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -93,7 +96,7 @@ Students are given an opportunity to experience urban farming first-hand in our 
 </tbody>
 </table>
 	
-Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!&nbsp;
+Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5 - High Achievers</b></span></center>
 <img style="width:55%" src="/images/High Achievers.jpg">
