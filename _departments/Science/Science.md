@@ -95,16 +95,16 @@ Students are given an opportunity to experience urban farming first-hand in our 
 	
 Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!&nbsp;
 
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 5&nbsp; - High Achievers</b></span></center>
+<center><span style="color:#0000FF; font-size:18px"><b>Primary 5 - High Achievers</b></span></center>
 <img style="width:55%" src="/images/High Achievers.jpg">
 
 It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st&nbsp;Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides&nbsp;opportunity for them to represent our school for&nbsp;Science competitions.
 
   
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 6&nbsp; - PASS and ACE</b></span></center>
+<center><span style="color:#0000FF; font-size:18px"><b>Primary 6 - PASS and ACE</b></span></center>
 <img style="width:45%" src="/images/Pass and Ace.png">
 
-PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised.&nbsp;ACE programme also extends the learning of our students.&nbsp;
+PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.
 
 <br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals@Concord(Environmental Education)</b></span>
 
@@ -131,9 +131,9 @@ PASS and ACE programmes aim to provide students with additional resources and su
 </tbody>
 </table>
 	
-This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.&nbsp; 
+This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.
 
-<span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6&nbsp; - Scientist-In-School</b></span>
+<span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6 - Scientist-In-School</b></span>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
