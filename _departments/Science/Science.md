@@ -101,7 +101,7 @@ Hydroponics is a soilless farming technology commonly used in Singapore. This ha
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5 - High Achievers</b></span></center>
 <img style="width:55%" src="/images/High Achievers.jpg">
 
-It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st&nbsp;Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides&nbsp;opportunity for them to represent our school for&nbsp;Science competitions.
+It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for&nbsp;Science competitions.
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 6 - PASS and ACE</b></span></center>
@@ -161,38 +161,15 @@ This programme is in line with our school values and iCare culture. It aims to h
 </tbody>
 </table>
 	
-We are honoured to partner Dr Ashar, an A\* STAR scientist, in the implementation of the following programmes for selected students.
+We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-	
-<table style="undefined;table-layout: fixed; width: 1500px" class="tg">
-<colgroup>
-<col style="width:50px">
-<col style="width: 50px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><li style="text-align:left"><b>P6 “Meet the Scientist” career guidance talk</b></li></td>
-	</tr>
-	<tr>
-		<td class="tg-0lax"><li style="text-align:left"><b>P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics</b></li></td>
-  </tr>
-	<tr>
-	<td class="tg-0lax"><li style="text-align:left"><b>P6 “Meet the Scientist” career guidance talk</b></li></td>
-	</tr>
-	</tbody>
-</table>
-
+###### 1. P6 “Meet the Scientist” career guidance talk
+###### 2. P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics
+###### 3. P4 Science enrichment lesson on Electromagnets
+<br>
 <span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b></span>
-	
+
+
 <span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5&nbsp; - Creative Toy Making Workshop</b></span>
 <img style="width:55%" src="/images/Creative Toy Making Workshop.jpg">
 
