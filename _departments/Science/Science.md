@@ -225,11 +225,11 @@ Every year, Professional Learning Teams of Science teachers will be formed and w
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 
-<table style="undefined;table-layout: fixed; width: 300px" class="tg">
+<table style="undefined;table-layout: fixed; width: 790px" class="tg">
 <colgroup>
-<col style="width:200px">
-<col style="width: 200px">
-<col style="width: 200px">
+<col style="width:250px">
+<col style="width: 270px">
+<col style="width: 270px">
 </colgroup>
 <tbody>
  <tr>
