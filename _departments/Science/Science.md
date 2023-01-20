@@ -38,10 +38,17 @@ Different Types of Learning
 <center><b>Outdoor Learning</b>
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
 
-	<h2>Key Programmes</h2>
---------------
+<!DOCTYPE HTML>
+<head>
+<style>
+body {font-family: helvetica, sans serif:}
+</style>
+</head>
+<h3>KEY PROGRAMMES</h3>
+
 <br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
-<img style="width:55%" src="/images/Colours.jpg">
+<br>
+<img style="width:40%" src="/images/Colours.jpg">
 	
 	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
