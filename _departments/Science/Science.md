@@ -170,11 +170,11 @@ This programme is in line with our school values and iCare culture. It aims to h
 	
 We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
 
-###### 1. P6 “Meet the Scientist” career guidance talk
-###### 2. P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics
-###### 3. P4 Science enrichment lesson on Electromagnets
-<br>
-<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
+<b>1.P6 “Meet the Scientist” career guidance talk<br>
+2.P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics<br>
+3. P4 Science enrichment lesson on Electromagnets
+	<br><br>
+<span style="color:#B233FF; font-size:18px">Check out the video below for more information.<br><br></b></span>
 
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
