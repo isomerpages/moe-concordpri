@@ -50,7 +50,7 @@ Different Types of Learning
 <br>
 <img style="width:40%" src="/images/Colours.jpg">
 	
-COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
+<p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
 <br><br><span style="color:#0000FF; font-size:18px"><b>Primary 3 - Little Farmers</b></span>
 	
@@ -77,7 +77,7 @@ COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is 
 </tbody>
 </table>
 	
-Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
+<p style="text-align:justify">Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
 <br><br><span style="color:#0000FF; font-size:18px"><b>Primary 4 - Hydroponics</b></span>
 
 <style type="text/css">
@@ -103,18 +103,18 @@ Students are given an opportunity to experience urban farming first-hand in our 
 </tbody>
 </table>
 	
-Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
+<p style="text-align:justify">Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
 
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 5 - High Achievers</b></span></center>
 <img style="width:40%" src="/images/High Achievers.jpg">
 
-It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for&nbsp;Science competitions.
+<p style="text-align:justify">It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for&nbsp;Science competitions.
 
   
 <center><span style="color:#0000FF; font-size:18px"><b>Primary 6 - PASS and ACE</b></span></center>
 <img style="width:30%" src="/images/Pass and Ace.png">
 
-PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
+<p style="text-align:justify">PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
 
 <br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals@Concord(Environmental Education)</b></span>
 
@@ -141,7 +141,7 @@ PASS and ACE programmes aim to provide students with additional resources and su
 </tbody>
 </table>
 	
-This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
+<p style="text-align:justify">This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6 - Scientist-In-School</b></span>
 
@@ -168,9 +168,9 @@ This programme is in line with our school values and iCare culture. It aims to h
 </tbody>
 </table>
 	
-We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
+<p style="text-align:justify">We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
 
-<b>1.P6 “Meet the Scientist” career guidance talk<br>
+<p style="text-align:justify"><b>1.P6 “Meet the Scientist” career guidance talk<br>
 2.P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics<br>
 	3. P4 Science enrichment lesson on Electromagnets</b>
 	<br><br>
@@ -180,7 +180,7 @@ We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation
 <span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
-Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
+<p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
 
 <span style="color:#0000FF; font-size:18px"><b>Other Programmes</b></span>
 
@@ -190,7 +190,7 @@ Selected students were invited to attend the toy making workshop conducted by th
 	
 <img style="width:65%" src="/images/Parent Symposium.png">
 
-Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.&nbsp;
+<p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.&nbsp;
 
 <ul>
 	<li><b>Professional Learning Team (PLT)</b></li>
@@ -198,7 +198,7 @@ Organised once yearly, the parents’ Science workshops are open to parents whos
 
 <img style="width:65%" src="/images/PLT.jpg">
 
-Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
+<p style="text-align:justify">Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
