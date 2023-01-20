@@ -172,9 +172,9 @@ We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation
 
 <b>1.P6 “Meet the Scientist” career guidance talk<br>
 2.P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics<br>
-3. P4 Science enrichment lesson on Electromagnets
+	3. P4 Science enrichment lesson on Electromagnets</b>
 	<br><br>
-<span style="color:#B233FF; font-size:18px">Check out the video below for more information.<br><br></b></span>
+<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
 
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
