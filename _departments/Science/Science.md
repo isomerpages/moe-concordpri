@@ -171,7 +171,7 @@ We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation
 
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
-<img style="width:55%" src="/images/Creative Toy Making Workshop.jpg">
+<img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
 Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
 
