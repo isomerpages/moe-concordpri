@@ -6,6 +6,14 @@ third_nav_title: Science
 ---
 ![](/images/SCIENCE%20P1.jpeg)
 
+
+<!DOCTYPE HTML>
+<head>
+<style>
+body {font-family: helvetica, sans serif:}
+</style>
+</head>
+
 Vision
 ------
 
@@ -38,12 +46,7 @@ Different Types of Learning
 <center><b>Outdoor Learning</b>
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
 
-<!DOCTYPE HTML>
-<head>
-<style>
-body {font-family: helvetica, sans serif:}
-</style>
-</head>
+
 <h3>KEY PROGRAMMES</h3>
 
 <br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
