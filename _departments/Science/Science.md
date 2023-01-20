@@ -167,10 +167,10 @@ We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation
 ###### 2. P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics
 ###### 3. P4 Science enrichment lesson on Electromagnets
 <br>
-<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b></span>
+<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
 
 
-<span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5&nbsp; - Creative Toy Making Workshop</b></span>
+<span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
 <img style="width:55%" src="/images/Creative Toy Making Workshop.jpg">
 
 Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
