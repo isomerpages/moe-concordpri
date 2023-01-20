@@ -6,8 +6,6 @@ third_nav_title: Science
 ---
 ![](/images/SCIENCE%20P1.jpeg)
 
-
-<!DOCTYPE HTML>
 <head>
 <style>
 body {font-family: helvetica, sans serif:}
@@ -46,14 +44,13 @@ Different Types of Learning
 <center><b>Outdoor Learning</b>
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
 
-
 <h3>KEY PROGRAMMES</h3>
 
 <br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
 <br>
 <img style="width:40%" src="/images/Colours.jpg">
 	
-	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
+COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
 <br><br><span style="color:#0000FF; font-size:18px"><b>Primary 3 - Little Farmers</b></span>
 	
