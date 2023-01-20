@@ -40,7 +40,7 @@ Different Types of Learning
 
  Key Programmes
 --------------
-<span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2; - COL.OURS</b></span>
+<br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
 <img style="width:55%" src="/images/Colours.jpg">
 	
 	COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
