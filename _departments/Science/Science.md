@@ -38,7 +38,7 @@ Different Types of Learning
 <center><b>Outdoor Learning</b>
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
 
- Key Programmes
+	<h2>Key Programmes</h2>
 --------------
 <br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
 <img style="width:55%" src="/images/Colours.jpg">
@@ -70,7 +70,7 @@ Different Types of Learning
 </tbody>
 </table>
 	
-Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. &nbsp;Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
+Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
 <br><br><span style="color:#0000FF; font-size:18px"><b>Primary 4 - Hydroponics</b></span>
 
 <style type="text/css">
