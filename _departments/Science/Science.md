@@ -246,3 +246,4 @@ Different Types of Learning
 </tr>
 </tbody>
 </table>
+	
