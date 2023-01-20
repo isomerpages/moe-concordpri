@@ -134,7 +134,7 @@ PASS and ACE programmes aim to provide students with additional resources and su
 </tbody>
 </table>
 	
-This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.
+This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
 
 <span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6 - Scientist-In-School</b></span>
 
