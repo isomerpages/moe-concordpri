@@ -25,7 +25,7 @@ In collaboration with CCE and PE & Aesthetics Departments, and our school partne
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-a5i5">Awards/Competitions</td>
+    <td class="tg-a5i5">Awards / Competitions</td>
     <td class="tg-a5i5"> </td>
   </tr>
   <tr>
