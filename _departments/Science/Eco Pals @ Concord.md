@@ -95,7 +95,61 @@ table {
 
 <br>
 <p style="font-size:18px"><b>Our level-based green programmes that are integrated into our Science curriculum.</b></style>		
-	
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+<col style="width: 284px">
+<col style="width: 280px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Level</b></span></td>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Theme</b></span></td>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF">Period</span></td>
+  </tr>
+<br>  	
+<tr>
+    <td class="tg-yhj3">Primary 1<br></td>
+    <td class="tg-yhj3">Stop food wastage<br></td>
+		<td class="tg-yhj3">Term 1<br></td>
+ </tr>	
+<tr>
+    <td class="tg-yhj3">Primary 2<br></td>
+    <td class="tg-yhj3">Stop food wastage<br>3R (Reduce, Reuse, Recycle)</td>
+		<td class="tg-yhj3">Term 1<br>Term 2</td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 3<br></td>
+    <td class="tg-yhj3">Dengue Prevention<br>3R (Reduce, Reuse, Recycle)</td>
+		<td class="tg-yhj3">Term 3<br>Term 4</td>
+</tr>
+<tr>
+    <td class="tg-yhj3">Primary 4<br></td>
+    <td class="tg-yhj3">Introduction to Global Warming<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 5<br></td>
+    <td class="tg-yhj3">Water and Energy Conversion<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 6<br></td>
+    <td class="tg-yhj3">Global Environmental Challenges<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
