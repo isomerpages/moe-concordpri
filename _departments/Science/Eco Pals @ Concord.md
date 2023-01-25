@@ -63,37 +63,6 @@ table {
 </table>
 
 <br>
-<p style="font-size:18px"><b>Our level-based green programmes that are integrated into our Science curriculum.</b></style>	
-
-<table style="font-size:18px">
-<tr>
-		<th><b>Level</b></th>
-		<th><b>Theme</b></th>
-		<th><b>Period</b></th>
-</tr>
-<tr>
-    <td><br>Primary 1</td>
-    <td><br>Stop food wastage</td>
-		<td><br>Term 1</td>
-</tr>
-<tr>
-    <td ><br>Primary 2</td>
-		<td><br>Stop food wastage<br>3R (Reduce, Reuse, Recycle)</td>
-		<td><br>Term 1</td>   
-  </tr>
-
-  <tr>
-    <td><br>Earth Day & Concord's Earth in 10</td>
-    <td><img style="width:80%" src="/images/Earth Day.png"></td>
-  </tr>
-
-  <tr>
-    <td><br>Energy Conservation Programme</td>
-    <td><img style="width:80%" src="/images/Energy Conservation.jpg"></td>
-</tr>
-</table>
-
-<br>
 <p style="font-size:18px"><b>Our level-based green programmes that are integrated into our Science curriculum.</b></style>		
 
 <style type="text/css">
