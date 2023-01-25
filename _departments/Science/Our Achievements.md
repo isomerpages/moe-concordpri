@@ -14,7 +14,7 @@ In collaboration with CCE and PE & Aesthetics Departments, and our school partne
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
 .tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-d0eu{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-d0eu{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
 .tg .tg-a5i5{background-color:#FFFFCC;color:#000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
@@ -29,7 +29,7 @@ In collaboration with CCE and PE & Aesthetics Departments, and our school partne
     <td class="tg-a5i5"> </td>
   </tr>
   <tr>
-    <td class="tg-d0eu"><br>Green Schools @ South West<br>- Sustained Achievement Award  2020<br>- 5-Year Environmental Champion Award 2020<br> </td>
+		<td class="tg-d0eu"><br><b>BCA Green Mark Award</b><br>- Gold Award<br> </td>
     <td class="tg-da8v"><img src="/images/cce1.png"></td>
   </tr>
   <tr>
