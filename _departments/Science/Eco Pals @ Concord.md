@@ -17,7 +17,7 @@ Our Environmental Policy: Concord Primary School is committed to environmental e
 
 Our Environmental Goals:  To provide an environmentally-conducive environment for teaching and learning. To build and sustain Concordians’ commitment in environmental issues in accordance with our values, vision and mission.
 
-<h4>Our Key Programmes:</h4>
+<h4><b>Our Key Programmes</b></h4>
 <ol>
 <li><p style="text-align:justify; font-size: 17px"><b>Science cum Environmental Education Monitors.</b> Started in 2020, two to three students in each Primary 3 to Primary 6 classes are named as Science cum Environmental Education Monitors. They will help the school to spearhead the environmental efforts in their class.
 <li><p style="text-align:justify; font-size: 17px"><b>Earth Day Programme</b> which coincides with the International Earth Day event in April. We conducted our version of Earth Hour – “Concord Primary School Earth in 10”, where all lights will have to be switched off to conserve electricity for 10 minutes. After a detailed lesson and in-depth discussion, a checklist was created for students to continue earth conservation efforts at home. An event video is created with a recap of the conservation efforts that students can do at home and played in school premises to remind and reinforce these efforts.
@@ -34,7 +34,7 @@ table {
 }
 </style>
 
-<h4>Our Schoolwide Green Programmes</h4>
+	<h4><b>Our Schoolwide Green Programmes</b></h4>
 
 <table>
   <tr>
