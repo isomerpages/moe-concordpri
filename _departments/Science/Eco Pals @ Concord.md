@@ -40,7 +40,7 @@ Our Environmental Goals:  To provide an environmentally-conducive environment f
 <table style="undefined;table-layout: fixed; width: 660px" class="tg">
 <colgroup>
 <col style="width:110x">
-<col style="width: 250px">
+<col style="width: 350px">
 <col style="width: 300px">
 </colgroup>
 <tbody>
