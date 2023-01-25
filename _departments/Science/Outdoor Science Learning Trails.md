@@ -10,8 +10,6 @@ third_nav_title: Science
 *   ##### Primary 1 & 2
 
 <p style="text-align:justify">See the great diversity of plants and animals and classify them into different groups.  
-  
-
  
 
 *  ##### Primary 3
@@ -36,3 +34,5 @@ third_nav_title: Science
 *  ##### Primary 6
 
 <p style="text-align:justify">Study the different habitats and communities in the garden and how solar panels are used to run the school garden.
+	
+	![](/images/Science%20Department%20button.png)
