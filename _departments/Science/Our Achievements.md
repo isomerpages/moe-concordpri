@@ -4,7 +4,6 @@ permalink: /departments/Science/our-achievements/
 description: ""
 third_nav_title: Science
 ---
-
 <body>
 
 <style type="text/css">
@@ -23,7 +22,7 @@ third_nav_title: Science
 <table class="tg" style="undefined;table-layout: fixed; width: 807px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 621px">
+<col style="width: 457px">
 </colgroup>
 <tbody>
   <tr>
