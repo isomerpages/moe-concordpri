@@ -38,7 +38,7 @@ table {
 
 <table>
   <tr>
-    <th style="text-align:center">Theme</th>
+    <th>Theme</th>
     <th></th>
   </tr>
   <tr>
