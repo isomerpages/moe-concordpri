@@ -43,7 +43,7 @@ table {
   </tr>
   <tr>
     <td>Recycling @ Concord</td>
-    <td>Griffin</td>
+    <td><img style="width:80%" src="/images/Colours.jpg"></td>
   </tr>
   <tr>
     <td>Science cum Environmental Education Monitors Programme</td>
