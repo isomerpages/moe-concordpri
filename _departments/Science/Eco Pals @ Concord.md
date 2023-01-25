@@ -26,6 +26,43 @@ Our Environmental Goals:  To provide an environmentally-conducive environment f
 
 
 <p style="text-align:justify">Study the different habitats and communities in the garden and how solar panels are used to run the school garden.
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+</style>
+
+<h4>Our Schoolwide Green Programmes</h4>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+</tr>
+</table>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
