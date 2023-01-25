@@ -42,12 +42,12 @@ table {
     <th></th>
   </tr>
   <tr>
-    <td>Recycling @ Concord</td>
+    <td style="font-align: center">Recycling @ Concord</td>
     <td><img style="width:80%" src="/images/Recycling at Concord.jpg"></td>
   </tr>
 
   <tr>
-    <td>Science cum Environmental Education Monitors Programme</td>
+    <td >Science cum Environmental Education Monitors Programme</td>
 		<td><img style="width:80%" src="/images/monitors.png"></td>   
   </tr>
 
