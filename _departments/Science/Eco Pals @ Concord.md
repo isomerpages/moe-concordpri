@@ -67,11 +67,12 @@ table {
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+	
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="table-layout: fixed; width: 775px">
+<table class="tg" style="undefined; table-layout: fixed; width: 775px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
