@@ -55,7 +55,7 @@ third_nav_title: Science
 	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></li>
 	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></li>
 	<li>Deselva Myrtlev Delicia<span style="color:#9900FF"><b>(Participation)</b></li>
-</ul>	
+</ul>
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
