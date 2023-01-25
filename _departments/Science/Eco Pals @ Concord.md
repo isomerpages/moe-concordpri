@@ -62,8 +62,9 @@ table {
 </tr>
 </table>
 
-	
-	
+<b><p style="font-size:17px">Our level-based green programmes that are integrated into our Science curriculum.	
+	</style></b>	
+
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
