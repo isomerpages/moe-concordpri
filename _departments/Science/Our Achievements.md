@@ -4,9 +4,8 @@ permalink: /departments/Science/our-achievements/
 description: ""
 third_nav_title: Science
 ---
-<h3><b>Our Achievements<br></b></h3)
-<body>
-<br>	
+<h3></h3)
+<body>	
 </body>
 
 <style type="text/css">
