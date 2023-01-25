@@ -43,23 +43,26 @@ table {
   </tr>
   <tr>
     <td>Recycling @ Concord</td>
-    <td><img style="width:80%" src="/images/Colours.jpg"></td>
+    <td><img style="width:80%" src="/images/Recycling at Concord.jpg"></td>
   </tr>
+
   <tr>
     <td>Science cum Environmental Education Monitors Programme</td>
-		<td>Griffin</td>   
+		<td><img style="width:80%" src="/images/monitors.png"></td>   
   </tr>
+
   <tr>
     <td>Earth Day & Concord's Earth in 10</td>
-    <td>Swanson</td>
+    <td><img style="width:80%" src="/images/Earth Day.png"></td>
   </tr>
+
   <tr>
     <td>Energy Conservation Programme</td>
-    <td>Brown</td>
+    <td><img style="width:80%" src="/images/Energy Conservation.jpg"></td>
 </tr>
 </table>
-	
-<style type="text/css">
+
+<style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
