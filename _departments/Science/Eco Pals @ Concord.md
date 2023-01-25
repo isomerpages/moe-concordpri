@@ -67,8 +67,6 @@ table {
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
@@ -78,7 +76,6 @@ table {
 <col style="width: 257px">
 <col style="width: 234px">
 <col style="width: 284px">
-<col style="width: 280px">
 </colgroup>
 <tbody>
   <tr>
