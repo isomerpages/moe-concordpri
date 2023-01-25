@@ -38,23 +38,23 @@ table {
 
 <table>
   <tr>
-    <th>Theme</th>
+    <th style="text-align:center">Theme</th>
     <th></th>
   </tr>
   <tr>
-    <td>Peter</td>
+    <td>Recycling @ Concord</td>
     <td>Griffin</td>
   </tr>
   <tr>
-    <td>Lois</td>
+    <td>Science cum Environmental Education Monitors Programme</td>
 		<td>Griffin</td>   
   </tr>
   <tr>
-    <td>Joe</td>
+    <td>Earth Day & Concord's Earth in 10</td>
     <td>Swanson</td>
   </tr>
   <tr>
-    <td>Cleveland</td>
+    <td>Energy Conservation Programme</td>
     <td>Brown</td>
 </tr>
 </table>
