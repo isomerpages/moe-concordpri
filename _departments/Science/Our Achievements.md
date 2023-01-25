@@ -29,23 +29,23 @@ In collaboration with CCE and PE & Aesthetics Departments, and our school partne
     <td class="tg-a5i5"> </td>
   </tr>
   <tr>
-    <td class="tg-d0eu">Green Schools @ South West<br>- Sustained Achievement Award  2020<br>- 5-Year Environmental Champion Award 2020<br> </td>
+    <td class="tg-d0eu"><br>Green Schools @ South West<br>- Sustained Achievement Award  2020<br>- 5-Year Environmental Champion Award 2020<br> </td>
     <td class="tg-da8v"><img src="/images/cce1.png"></td>
   </tr>
   <tr>
-    <td class="tg-d0eu">(Let’s Observe Ourselves) LOO Awards<br>Platinum Star Award 2020</td>
+    <td class="tg-d0eu"><br>(Let’s Observe Ourselves) LOO Awards<br>Platinum Star Award 2020</td>
     <td class="tg-da8v"><img src="/images/cce2.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-d0eu">SEC-StarHub School Green Awards<br>Vanda Miss Joaquim Award 2019 </td>
+    <td class="tg-d0eu"><br>SEC-StarHub School Green Awards<br>Vanda Miss Joaquim Award 2019 </td>
     <td class="tg-da8v"><img src="/images/cce3.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-d0eu">Abbott Young Scientist Award 2019             <br><br> </td>
+    <td class="tg-d0eu"><br>Abbott Young Scientist Award 2019             <br><br> </td>
     <td class="tg-da8v"><img src="/images/cc4.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-d0eu">West Zone Junior Science Whiz Challenge      <br>-Year 2020 - Lin Xuan (6D), Top 10<br>-Year 2021  -  Su Junrui (6B), Top 30<br><br><br> -Lin Weizhe (6A), Top 30<br><br></td>
+    <td class="tg-d0eu"><br>West Zone Junior Science Whiz Challenge      <br>-Year 2020 - Lin Xuan (6D), Top 10<br>-Year 2021  -  Su Junrui (6B), Top 30<br><br><br> -Lin Weizhe (6A), Top 30<br><br></td>
     <td class="tg-da8v"><img src="/images/cce5.jpeg"></td>
   </tr>
   <tr>
