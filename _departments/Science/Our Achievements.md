@@ -1,6 +1,6 @@
 ---
 title: Our Achievements
-permalink: /departments/Science/our-achievements
+permalink: /departments/Science/our-achievements/
 description: ""
 third_nav_title: Science
 ---
@@ -15,7 +15,7 @@ In collaboration with CCE and PE & Aesthetics Departments, and our school partne
 .tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
 .tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-d0eu{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a5i5{background-color:#FFFFCC;color:#000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 807px">
