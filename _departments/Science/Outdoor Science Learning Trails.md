@@ -45,16 +45,16 @@ third_nav_title: Science
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 
-<table style="undefined;table-layout: fixed; width: 790px" class="tg">
+<table style="undefined;table-layout: fixed; width: 660px" class="tg">
 <colgroup>
-<col style="width:250px">
-<col style="width: 270px">
-<col style="width: 270px">
+<col style="width:110x">
+<col style="width: 250px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
  <tr>
     <td class="tg-0lax"></td>
-		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:50%" src="/images/Science_Department_button.png"></a></td>
+		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:60%" src="/images/Science Department button.png"></a></td>
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
