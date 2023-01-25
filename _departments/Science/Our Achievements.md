@@ -34,8 +34,9 @@ third_nav_title: Science
   </tr>
   <tr>
 		<td class="tg-d0eu"><br><b>BCA Green Mark Award</b><br>- Gold Award<br> </td>
-    <td class="tg-da8v"><img src="/images/cce1.png"></td>
+    <td class="tg-da8v"><img style="width:30%" src="/images/Greenmark.png"></td>
   </tr>
+
   <tr>
     <td class="tg-d0eu"><br><b>(Let’s Observe Ourselves)</b><br>- Platinum Star Award<br> 2020 / 2021</td>
     <td class="tg-da8v"><img src="/images/cce2.jpeg"></td>
