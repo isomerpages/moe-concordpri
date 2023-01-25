@@ -47,4 +47,28 @@ third_nav_title: Science
   </tr>
 </tbody>
 </table>
-	
+
+<style>
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+
+<table style="undefined;table-layout: fixed; width: 660px" class="tg">
+<colgroup>
+<col style="width:110x">
+<col style="width: 350px">
+<col style="width: 300px">
+</colgroup>
+<tbody>
+ <tr>
+    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:60%" src="/images/Science Department button.png"></a></td>
+	 <td class="tg-0lax"></td>
+</tr>
+</tbody>
+</table>
