@@ -53,10 +53,9 @@ third_nav_title: Science
 </colgroup>
 <tbody>
  <tr>
-    <td class="tg-0lax"><a href="/departments/Science/outdoor-science-learning-trails"><img style="width:80%" src="/images/button1.png"></a></td>
-		<td class="tg-0lax"><a href="/departments/Science/eco-pals-at-concord"><img style="width:85%" src="/images/BUTTON2.png"></a></td>
-	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
+    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:50%" src="/images/Science_Department_button.png"></a></td>
+	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table>	
-	![](/images/Science%20Department%20button.png)
+</table>
