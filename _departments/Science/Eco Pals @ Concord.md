@@ -42,26 +42,27 @@ table {
     <th></th>
   </tr>
   <tr>
-    <td style="font-align: center">Recycling @ Concord</td>
+    <td><br>Recycling @ Concord</td>
     <td><img style="width:80%" src="/images/Recycling at Concord.jpg"></td>
   </tr>
 
   <tr>
-    <td >Science cum Environmental Education Monitors Programme</td>
+    <td ><br>Science cum Environmental Education Monitors Programme</td>
 		<td><img style="width:80%" src="/images/monitors.png"></td>   
   </tr>
 
   <tr>
-    <td>Earth Day & Concord's Earth in 10</td>
+    <td><br>Earth Day & Concord's Earth in 10</td>
     <td><img style="width:80%" src="/images/Earth Day.png"></td>
   </tr>
 
   <tr>
-    <td>Energy Conservation Programme</td>
+    <td><br>Energy Conservation Programme</td>
     <td><img style="width:80%" src="/images/Energy Conservation.jpg"></td>
 </tr>
 </table>
 
+<br>
 <b><p style="font-size:17px">Our level-based green programmes that are integrated into our Science curriculum.	
 	</style></b>	
 
