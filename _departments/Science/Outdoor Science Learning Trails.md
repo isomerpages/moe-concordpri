@@ -35,4 +35,28 @@ third_nav_title: Science
 
 <p style="text-align:justify">Study the different habitats and communities in the garden and how solar panels are used to run the school garden.
 	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+
+<table style="undefined;table-layout: fixed; width: 790px" class="tg">
+<colgroup>
+<col style="width:250px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+ <tr>
+    <td class="tg-0lax"><a href="/departments/Science/outdoor-science-learning-trails"><img style="width:80%" src="/images/button1.png"></a></td>
+		<td class="tg-0lax"><a href="/departments/Science/eco-pals-at-concord"><img style="width:85%" src="/images/BUTTON2.png"></a></td>
+	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
+</tr>
+</tbody>
+</table>	
 	![](/images/Science%20Department%20button.png)
