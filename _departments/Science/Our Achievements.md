@@ -98,7 +98,7 @@ third_nav_title: Science
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
 <span style="color:#3333FF"><b>Year 2021 winners:</b>
 	</span>
-	
+	<img style="width:30%" src="/images/Students award 1.jpg">
 <ul style="font-size:12px">
 	<li>Su Junrui <span style="color:#9900FF"><b> (Top 30)</b></span></li>
 	<li>Lin Weizhe <span style="color:#9900FF"><b> (Top 30)</b></span></li>
@@ -112,6 +112,7 @@ third_nav_title: Science
 <h5>4. Abbott Young Scientist Award</h5>
 <span style="color:#3333FF"><b>Year 2022 Winner:</b>
 	</span>
+	<img style="width:30%" src="/images/Students award 2.jpg">
 <ul style="font-size:12px">
 	<li>Sofia Amirah</li>
 	</ul>	
@@ -122,6 +123,7 @@ third_nav_title: Science
 	</ul>
 
 <h5>5. Sony Creative Science Award</h5>
+<img style="width:30%" src="/images/whizkid2.jpg">
 <span style="color:#3333FF"><b>Whizkid category Merit Award Winner:</b>
 	</span>
 <ul style="font-size:12px">
