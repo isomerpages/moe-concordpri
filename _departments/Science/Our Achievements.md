@@ -88,6 +88,11 @@ third_nav_title: Science
 	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
 	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
 	<li>Lin Weizhe<span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Raja Vivegan<span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Olivier Desroches<span style="color:#9900FF"><b> (Merit)</b></span></li>
+	<li>Nishka Poddar<span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Zhao Xiaoyu<span style="color:#9900FF"><b> (Merit)</b></span></li>
+	<li>Chua Jia Xuan Sherinen<span style="color:#9900FF"><b> (Merit)</b></span></li>
 </ul>	
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
