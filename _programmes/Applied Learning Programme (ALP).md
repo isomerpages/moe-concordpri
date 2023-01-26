@@ -1,19 +1,23 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /programmes/alp
+permalink: /programmes/alp/
 description: ""
 ---
 ![](/images/alp1.jpg)
 
 #### E3 Reasoning (Enable, Enrich, Empower) @ Concord
 
-As Concord aspires towards greater heights, various initiatives to make our student’s learning more diverse and inclusive, while maintaining high quality and meritocracy, have helped ensure its curriculum to be forward looking to prepare our students for the future. Our E3 Reasoning Programme has been officially endorsed by MOE and awarded the ALP status in 2014. This is one of the strategic levers of Concord to nurture our students holistically. To prepare and equip our students for the complex challenges ahead, Concord places a premium on enabling our students to be able to analyse, solve problems and make good decisions in life. Our E3 Reasoning Programme (ALP) is aimed to enable, enrich and empower our students to acquire critical and inventive thinking skills which are essential 21st Century skills. A multitude of activities are designed to teach our students reasoning skills explicitly through our learner-centred pedagogy where experiential learning is focused for every lesson. The goal of learner-centred pedagogy is to maximise learning potential as part of their learning experience where students perform their skills or demonstrate their knowledge through the 3-pronged approach : Authentic Learning, Learning through play and Perspective Taking through teachable moments. Our teachers use the content to develop a knowledge base – but we also want to help our students to develop learning skills that they need across a lifetime of learning. Through our customised I-ACE methodology, Concord’s teachers are guided to turn complexities into meaningful experiences for our students. This approach helps to introduce, consolidate and extend student’s learning during and beyond the classroom. We hope to nurture Concordians who are equipped with the abilities to think deeply, rationalize effectively and decide wisely. Indeed, it is through E3 Reasoning@ Concord where your child’s reasoning becomes visible.  
+As Concord aspires towards greater heights, various initiatives to make our student’s learning more diverse and inclusive, while maintaining high quality and meritocracy, have helped ensure its curriculum to be forward looking to prepare our students for the future. Our E3 Reasoning Programme has been officially endorsed by MOE and awarded the ALP status in 2014. This is one of the strategic levers of Concord to nurture our students holistically. 
 
-  
+To prepare and equip our students for the complex challenges ahead, Concord places a premium on enabling our students to be able to analyse, solve problems and make good decisions in life. 
 
-We have continued our endeavours to stretch our students who have shown interest and aptitude in E3 Reasoning through Lego Robotics and Code For fun Enrichment Programmes for our Primary 3 to 5 students who have shown greater interest and aptitude in E3 Reasoning. Our Primary 1 to 2 students will also get a chance to experience reasoning through Magic!
+Our E3 Reasoning Programme (ALP) is aimed to enable, enrich and empower our students to acquire critical and inventive thinking skills which are essential 21st Century skills. A multitude of activities are designed to teach our students reasoning skills explicitly through our learner-centred pedagogy where experiential learning is focused for every lesson. 
 
-  
+The goal of learner-centred pedagogy is to maximise learning potential as part of their learning experience where students perform their skills or demonstrate their knowledge through the 3-pronged approach : Authentic Learning, Learning through play and Perspective Taking through teachable moments. Our teachers use the content to develop a knowledge base – but we also want to help our students to develop learning skills that they need across a lifetime of learning. 
+
+Through our customised I-ACE methodology, Concord’s teachers are guided to turn complexities into meaningful experiences for our students. This approach helps to introduce, consolidate and extend student’s learning during and beyond the classroom. We hope to nurture Concordians who are equipped with the abilities to think deeply, rationalize effectively and decide wisely. Indeed, it is through E3 Reasoning@ Concord where your child’s reasoning becomes visible.   
+
+We have continued our endeavours to stretch our students who have shown interest and aptitude in E3 Reasoning through Lego Robotics and Code For fun Enrichment Programmes for our Primary 3 to 5 students who have shown greater interest and aptitude in E3 Reasoning. Our Primary 1 to 2 students will also get a chance to experience reasoning through Magic! 
 
 In anticipating complex challenges ahead where content knowledge may be rendered obsolete, Concord will continue to prepare our students by equipping them with competencies and skills that would provide them with a good foundation beyond their primary school years.
 
@@ -207,26 +211,6 @@ Anchoring on Bloom’s Taxonomy and Hierarchy of Thinking, the school has develo
 </tbody>
 </table>
 
-### E3 Reasoning (Enable, Enrich, Empower) Programmes @ Concord
-
-TIER 1 : Providing Opportunities for ALL
-
-**(embed media here)**
-  
-
-TIER 2 : Provision of enhanced experiences for students who have shown greater interest and aptitude in E3 Reasoning
-
-**(embed media here)**
-  
-
-Character Development of Students – Communication & Collaboration Skills, Global Awareness Skills (In alignment to 21st CC)
-
-**(embed media here)**
-
-Building Staff Capacity Our staff - the key drivers of E3 Reasoning@ Concord  
-
-
-**(embed media here)**
 
 ### E3 Reasoning Skills to focus
 
@@ -266,12 +250,8 @@ Building Staff Capacity Our staff - the key drivers of E3 Reasoning@ Concord
 
 ### Our Learner-Centred Pedagogy
 
-**(embed image here)**
+
 
 ### Approach to develop E3 Reasoning
 
 Concord adopts the 4-prong approach to develop E3 Reasoning in our students.
-
-They are:
-
-**(embed image here)**
