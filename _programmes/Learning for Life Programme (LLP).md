@@ -105,6 +105,6 @@ By providing high-quality outdoor education, we will see our students: 
 	
 <center><b><u>Outdoor Adventure Facilities @ Concord</u></b></center>
 
- <img src="/images/llp10.jpg" 
+ <img src="/images/Multi-Functional Rock Wall.jpg" 
      style="width:35%">
-<b><center>Concord's Multi-Functional Rock Wall</center></b>
+		 <b><center>Concord's Multi-Functional Rock Wall</center></b>
