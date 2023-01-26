@@ -65,7 +65,9 @@ Below are the compulsory test items
 
   
 
-Finally, the PE department also organises specialised games and sports for students from Primary 4 to 6 – games like Tchoukball, Kinball, Roller-blading, Archery, etc. These introductory sports are usually carried out by specialised vendors and our PE teachers would supervise our students during the Modular Programme sessions. Such experiential learning will bring about rich exposure and thus, making learning more enjoyable and fun for both our students and teachers.
+The PE department also organises specialised games and sports for students from Primary 3 to 6 – games like Tchoukball, Kinball, Roller-blading, Archery, etc. These introductory sports are usually carried out by specialised vendors and our PE teachers would supervise our students during the Modular Programme sessions. Such experiential learning will bring about rich exposure and thus, making learning more enjoyable and fun for both our students and teachers.
+
+Finally, the Primary 5 students will get to enjoy the Residential Adventure Camp. It will run for 3 days and 2 nights. Over the 3 days, our students will experience the low elements course and other outdoor activities such as trekking, navigating and outdoor cooking. Such are valuable experiences and they will be challenged to recognize their limits.
 
 S.P.I.N
 -------
