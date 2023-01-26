@@ -54,16 +54,17 @@ third_nav_title: Science
 	</span>
 
 <ul>
-<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b>
-<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b>
-<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b>
-<li>Deselva Myrtlev Delicia<span style="color:#9900FF"><b>(Participation)</b>
+	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span>
+	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span>
+	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span>
+	<li>Deselva Myrtlev Delicia<span style="color:#9900FF"><b>(Participation)</b></span>
 	</ul>
 	
-<b><span style="color:#3333FF">Year 2021 winners:</b>
+<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
 
 <ul>
-<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b>
+	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span>
+</ul>
 	
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
