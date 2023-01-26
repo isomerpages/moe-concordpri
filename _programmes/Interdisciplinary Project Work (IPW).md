@@ -50,24 +50,29 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
   </tr>
 <br>  	
 <tr>
-<ul><td class="tg-yhj3">
+<td class="tg-yhj3; position:relative">
+<ul>
 	<li>Communicates ideas clearly and effectively.</li>
 	<li>Analyse, apply and present information creatively.</li></ul>
-	</td>
-<td class="tg-yhj3">
+</td>
+
+<td class="tg-yhj3; position:relative">
 <ul>
 <li>Questions for clarification and identification of problems / solutions.</li>
 <li>Searches and gathers information via various and appropriate medium.</li>
 <li>Effectively use information</li>
 <li>Monitor own learning through reflections</li>
-</ul></td>
- </tr>	
+</ul>
+</td>
+</tr>	
+
 <tr>
-		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Concerned Citizen</b></span></td>
-		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Active Contributor</b></span></td>
-  </tr>
+	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Concerned Citizen</b></span></td>
+	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Active Contributor</b></span></td>
+</tr>
+
 <tr>
-    <td class="tg-yhj3">
+    <td class="tg-yhj3; position:relative">
 <ul>
 	<li>Empathises with and respects others.</li>
 	<li>Participates actively.</li>
@@ -75,7 +80,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </ul>
 </td>
  
-<td class="tg-yhj3">
+<td class="tg-yhj3; position:relative">
 <ul>
 	<li><span>Exercise initiative and takes risks.</span></li>
 	<li><span>Innovation and creativity.</span></li>
@@ -83,51 +88,8 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </ul>
 </td>
 </tr>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-		<td class="tg-yhj3"><span style="text-decoration:underline"><strong>Confident Person</strong></span>
-<span style="font-weight:400;font-style:normal">
-<ul>
-<li>Communicates ideas clearly effectively</li>
-	<li> Analyse, apply and present information creatively</li></ul></span</td>
-
-<td class="tg-yhj3"><span style="text-decoration:underline"><strong>Self-Directed Learner</strong></span>
-<span style="font-weight:400;font-style:normal">
-<ul>
-<li>Questions for clarification and identification of problems/solutions</li>
-<li>Searches and gathers information via various and appropriate medium</li>
-<li> Effectively use information</li>
-<li> Monitor own learning through reflections</li></ul></span></td>
-</tr>
-  
-<tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline"><strong>Concerned Citizen</strong></span>
-<span style="font-weight:400;font-style:normal">
-<ul>
-<li> Empathises with and respects others</li>
-<li>Participates actively</li>
-				<li>Share responsibilities and tap on one another’s strengths</li></ul></td>
-</span>
-			
-<td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline">Active Contributor</span><span style="font-weight:400;font-style:normal">
-<ul>
-<li>Exercise initiative and takes risks</li>
-<li>Innovation and creativity</li>
-	<li>Aims for high standards</li></ul></td>
-</tr>
 </tbody>
-</table>
+<table>
 
 IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
 
