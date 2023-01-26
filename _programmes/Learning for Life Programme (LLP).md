@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /programmes/llp
+permalink: /programmes/llp/
 description: ""
 ---
 ![](/images/llp1.jpg)
@@ -42,8 +42,6 @@ By providing high-quality outdoor education, we will see our students: 
 
 1) Enjoy participating in outdoor activities and adopt a **positive attitude** to challenge and adventure.
 
-**(missing images: tn.Concord Climbers (Girls).JPG.2.jpg and tn.Concord Climbers (Boys).JPG.2.jpg)**
-
 2) Gain personal **confidence** and **self-esteem** through taking challenges and achieving success.
 
 <img src="/images//Abseiling%20Exposure%20Programme.jpg" 
@@ -77,18 +75,10 @@ By providing high-quality outdoor education, we will see our students: 
   
 
 6) Demonstrating **increased initiative, self-reliance, responsibility, resilience and commitment**.
-
-**(missing image)**
-<center>National Climbing Competition</center>
-
   
 
 7) Developing and extending their key skills of **communication, problem solving, leadership and teamwork**.
 
-**(missing image)** 
-<center>P5 Adventure Camp</center>
-
-  
 
 8) Learning to appreciate the benefits of **physical fitness and lifelong value of participation** in healthy leisure activities.
 
@@ -111,3 +101,12 @@ By providing high-quality outdoor education, we will see our students: 
  <img src="/images/llp10.jpg" 
      style="width:35%">
 	<center>Level 1 Sport Climbing Course</center>
+	
+	
+Outdoor Adventure Facilities @ Concord
+
+ <img src="/images/llp10.jpg" 
+     style="width:35%">
+	<center>Level 1 Sport Climbing Course</center>
+
+Concord's Multi-Functional Rock Wall
