@@ -29,6 +29,64 @@ description: ""
   
 
 The learning outcomes for IPW are aligned with the Desired Outcomes of Education.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+	
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
+
+</style>
+<table class="tg" style="undefined; table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 350px">
+
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Confident Person</b></span></td>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Self-Directed Learner</b></span></td>
+  </tr>
+<br>  	
+<tr>
+<ul><td class="tg-yhj3">
+	<li>Communicates ideas clearly and effectively.</li>
+	<li>Analyse, apply and present information creatively.</li></ul>
+	</td>
+<td class="tg-yhj3">
+<ul>
+<li>Questions for clarification and identification of problems / solutions.</li>
+<li>Searches and gathers information via various and appropriate medium.</li>
+<li>Effectively use information</li>
+<li>Monitor own learning through reflections</li>
+</ul></td>
+ </tr>	
+<tr>
+    <td class="tg-yhj3">Primary 2<br></td>
+    <td class="tg-yhj3">Stop food wastage<br>3R (Reduce, Reuse, Recycle)</td>
+		<td class="tg-yhj3">Term 1<br>Term 2</td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 3<br></td>
+    <td class="tg-yhj3">Dengue Prevention<br>3R (Reduce, Reuse, Recycle)</td>
+		<td class="tg-yhj3">Term 3<br>Term 4</td>
+</tr>
+<tr>
+    <td class="tg-yhj3">Primary 4<br></td>
+    <td class="tg-yhj3">Introduction to Global Warming<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 5<br></td>
+    <td class="tg-yhj3">Water and Energy Conversion<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
+<tr>
+    <td class="tg-yhj3">Primary 6<br></td>
+    <td class="tg-yhj3">Global Environmental Challenges<br></td>
+		<td class="tg-yhj3">Term 4<br></td>
+ </tr>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
