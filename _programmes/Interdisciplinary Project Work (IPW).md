@@ -7,10 +7,9 @@ description: ""
 
 <p style="text-align:justify; font-size: 18px"><b>Through IPW students will be able to:</b></p>
   
-<ol type="A">
+<ol>
 <li>apply creative and critical thinking skills</li>
-</ol>
-</style>  
+</ol>  
 
 (b)    improve communication skills (both oral & written)
 
