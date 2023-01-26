@@ -93,7 +93,17 @@ third_nav_title: Science
 	<li>Nishka Poddar<span style="color:#9900FF"><b> (Bronze)</b></span></li>
 	<li>Zhao Xiaoyu<span style="color:#9900FF"><b> (Merit)</b></span></li>
 	<li>Chua Jia Xuan Sherinen<span style="color:#9900FF"><b> (Merit)</b></span></li>
-</ul>	
+</ul>
+	
+<h5>3. West Zone Junior Science Whiz Challenge</h5>
+<span style="color:#3333FF"><b>Year 2021 winners:</b>
+	</span>
+<ul style="font-size:12px">
+	<li>Su Junrui <span style="color:#9900FF"><b> (Top 30)</b></span></li>
+	<li>Lin Weizhe <span style="color:#9900FF"><b> (Top 30)</b></span></li>
+	</ul>
+	
+	
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
