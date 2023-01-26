@@ -71,7 +71,7 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj5{background-color:#FFF;color:#0C463A;vertical-align:top;font-size:14px}
+.tg .tg-yhj5{background-color:#FFF;color:#0C463A;font-weight:normal;vertical-align:top}
 .tg .tg-feqv{background-color:#CCCCFF;color:#000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
