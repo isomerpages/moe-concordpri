@@ -119,7 +119,14 @@ third_nav_title: Science
 <ul style="font-size:12px">
 	<li>Timothy Tan</li>
 	</ul>
-	
+
+<h5>5. Sony Creative Science Award</h5>
+<span style="color:#3333FF"><b>Whizkid category Merit Award Winner:</b>
+	</span>
+<ul style="font-size:12px">
+	<li>Chloe Tan Jia En</li>
+	</ul>
+
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
