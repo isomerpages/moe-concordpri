@@ -32,7 +32,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle;font-size:12px}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle;font-size:14px}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
