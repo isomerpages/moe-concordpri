@@ -102,17 +102,17 @@ description: ""
 </table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:middle;font-size:14px}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:top;font-size:14px}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined; table-layout: fixed; width: 1350px">
+<table class="tg" style="undefined; table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 300px">
-<col style="width: 350px">
-<col style="width: 350px">
-<col style="width: 350px">	
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 200px">
+<col style="width: 200px">	
 </colgroup>
 <tbody>
  <tr>
