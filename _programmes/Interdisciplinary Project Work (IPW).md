@@ -71,12 +71,12 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:top;font-size:14px}
-.tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yhj5{background-color:#FFF;color:#0C463A;vertical-align:top;font-size:14px}
+.tg .tg-feqv{background-color:#CCCCFF;color:#000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined; table-layout: fixed; width: 600px">
+<table class="tg" style="undefined; table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 150px">
@@ -85,13 +85,13 @@ description: ""
 </colgroup>
 <tbody>
  <tr>
-		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Subjects</b></span></td>
+		<td class="tg-feqv"><span style="background-color:#CCCCFF"><b>Subjects</b></span></td>
 		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Creative Thinking Tools*</b></span></td>
 	 <td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>ICT</b></span></td>
 	 <td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>E3 Reasoning Skills</b></span></td>
  </tr>  	
 <tr>
-<td class="tg-yhj3">
+<td class="tg-yhj5">
 <ul>
 	<li>English</li>
 	<li>Mathematics</li>
@@ -101,18 +101,18 @@ description: ""
 	<li>Health Education</li>
 </ul>
 </td>
-<td class="tg-yhj3">
+<td class="tg-yhj5">
 <ul>
 <li>Brainstorming Web</li>
 <li>Graphic Organisers</li>
 </ul>
 </td>
-<td class="tg-yhj3">
+<td class="tg-yhj5">
 <ul>
 <li>Research on the internet on nutritional values printed on the products</li>
 <li>Creation of powerpoint slides</li>
 </ul>
-<td class="tg-yhj3">
+<td class="tg-yhj5">
 <ul>
 	<li>Observation</li>
 	<li>Recalling</li>
