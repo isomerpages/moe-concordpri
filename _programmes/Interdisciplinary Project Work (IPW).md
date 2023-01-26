@@ -47,7 +47,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Self-Directed Learner</b></span></td>
  </tr>  	
 <tr>
-<td class="tg-yhj3; position:relative">
+<td class="tg-yhj3; position:relative;font-size:14px">
 <ul>
 	<li>Communicates ideas clearly and effectively.</li>
 	<li>Analyse, apply and present information creatively.</li></ul>
@@ -82,7 +82,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </tbody>
 </table>
 
-<p style="text-align:justify; font-size: 16px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+<p style="text-align:justify; font-size: 16px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
