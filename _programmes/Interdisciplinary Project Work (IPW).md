@@ -80,10 +80,10 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined; table-layout: fixed; width: 700px">
+<table class="tg" style="undefined; table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 150px">
-<col style="width: 150px">
+<col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">	
 </colgroup>
