@@ -83,7 +83,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </tbody>
 </table>
 
-IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+<span style="font-size:14px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
