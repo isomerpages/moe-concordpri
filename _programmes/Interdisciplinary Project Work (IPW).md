@@ -63,30 +63,26 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </ul></td>
  </tr>	
 <tr>
-    <td class="tg-yhj3">Primary 2<br></td>
-    <td class="tg-yhj3">Stop food wastage<br>3R (Reduce, Reuse, Recycle)</td>
-		<td class="tg-yhj3">Term 1<br>Term 2</td>
- </tr>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Concerned Citizen</b></span></td>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Active Contributor</b></span></td>
+  </tr>
 <tr>
-    <td class="tg-yhj3">Primary 3<br></td>
-    <td class="tg-yhj3">Dengue Prevention<br>3R (Reduce, Reuse, Recycle)</td>
-		<td class="tg-yhj3">Term 3<br>Term 4</td>
+    <td class="tg-yhj3">
+<ul>
+	<li>Empathises with and respects others.</li>
+	<li>Participates actively.</li>
+	<li>Share responsibilities and tap on another's strengths.
+</ul>
+</td>
+ 
+<td class="tg-yhj3">
+<ul>
+	<li><span>Exercise initiative and takes risks.</span></li>
+	<li><span>Innovation and creativity.</span></li>
+	<li><span>Aims for high standards.</span></li>
+</ul>
+</td>
 </tr>
-<tr>
-    <td class="tg-yhj3">Primary 4<br></td>
-    <td class="tg-yhj3">Introduction to Global Warming<br></td>
-		<td class="tg-yhj3">Term 4<br></td>
- </tr>
-<tr>
-    <td class="tg-yhj3">Primary 5<br></td>
-    <td class="tg-yhj3">Water and Energy Conversion<br></td>
-		<td class="tg-yhj3">Term 4<br></td>
- </tr>
-<tr>
-    <td class="tg-yhj3">Primary 6<br></td>
-    <td class="tg-yhj3">Global Environmental Challenges<br></td>
-		<td class="tg-yhj3">Term 4<br></td>
- </tr>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
