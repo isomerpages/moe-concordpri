@@ -29,9 +29,9 @@ description: ""
   
 
 The learning outcomes for IPW are aligned with the Desired Outcomes of Education.
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-	
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
@@ -42,7 +42,6 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 <col style="width: 300px">
 <col style="width: 350px">
 </colgroup>
-
 <tbody>
  <tr>
 		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Confident Person</b></span></td>
@@ -62,11 +61,9 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 <li>Monitor own learning through reflections</li>
 </ul></td>
 </tr>	
-
 <tr>
 	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Concerned Citizen</b></span></td>
 	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Active Contributor</b></span></td></tr>
-
 <tr>
     <td class="tg-yhj3; position:relative">
 <ul>
@@ -74,8 +71,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 	<li>Participates actively.</li>
 	<li>Share responsibilities and tap on another's strengths.</li>
 </ul>
-</td>
- 
+</td> 
 <td class="tg-yhj3; position:relative">
 <ul>
 	<li>Exercise initiative and takes risks.</li>
