@@ -102,13 +102,23 @@ third_nav_title: Science
 	<li>Su Junrui <span style="color:#9900FF"><b> (Top 30)</b></span></li>
 	<li>Lin Weizhe <span style="color:#9900FF"><b> (Top 30)</b></span></li>
 	</ul>
-<span style="color:#3333FF"><b>Year 2020 winners:</b></span>
 
+<span style="color:#3333FF"><b>Year 2020 winners:</b></span>
 <ul style="font-size:12px">
 	<li>Lin Xuan<span style="color:#9900FF"><b> (Top 10)</b></span></li>
 	</ul>
-	
-	
+
+<h5>4. Abbott Young Scientist Award</h5>
+<span style="color:#3333FF"><b>Year 2022 Winner:</b>
+	</span>
+<ul style="font-size:12px">
+	<li>Sofia Amirah</li>
+	</ul>	
+
+<span style="color:#3333FF"><b>Year 2019 Winner:</b></span>
+<ul style="font-size:12px">
+	<li>Timothy Tan</li>
+	</ul>
 	
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
