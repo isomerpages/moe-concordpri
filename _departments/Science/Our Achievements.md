@@ -47,15 +47,16 @@ third_nav_title: Science
   </tr>
 </tbody>
 </table>
-	<h3>Student Awards</h3>
-	<h5>1. Raffles Science Olympiad</h5>
-	<b><span style="color:#3333FF">Year 2022 winners:</b></span>
+	
+<h3>Student Awards</h3>
+<h5>1. Raffles Science Olympiad</h5>
+<b><span style="color:#3333FF">Year 2022 winners:</b>
+
 <ul>
 <li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b>
 <li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b>
 <li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b>
 <li>Deselva Myrtlev Delicia<span style="color:#9900FF"><b>(Participation)</b>
-</ul>
 
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
