@@ -53,7 +53,7 @@ third_nav_title: Science
 <span style="color:#3333FF"><b>Year 2022 winners:</b>
 	</span>
 
-<ul style="font-size:14px">
+<ul style="font-size:12px">
 	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span></li>
 	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span></li>
 	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span></li>
@@ -62,14 +62,14 @@ third_nav_title: Science
 	
 <span style="color:#3333FF"><b>Year 2021 winners:</b></span>
 
-<ul style="font-size:14px">
+<ul style="font-size:12px">
 	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span></li>
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
 <span style="color:#3333FF"><b>Year 2022 winners:</b>
 	</span>
-<ul style="font-size:14px">
+<ul style="font-size:12px">
 	<li>Ang Zhen Bin Leonel <span style="color:#9900FF"><b> (Participation)</b></span></li>
 	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b> (Bronze)</b></span></li>
 	<li>Deselva Myrtle Delicia <span style="color:#9900FF"><b> (Participation)</b></span></li>
@@ -83,7 +83,7 @@ third_nav_title: Science
 
 <span style="color:#3333FF"><b>Year 2021 winners:</b></span>
 
-<ul style="font-size:14px">
+<ul style="font-size:12px">
 	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
 	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
 	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
