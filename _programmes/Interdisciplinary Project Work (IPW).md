@@ -16,7 +16,7 @@ description: ""
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle;font-size:14px}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:middle;font-size:14px}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
@@ -32,12 +32,12 @@ description: ""
 		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Self-Directed Learner</b></span></td>
  </tr>  	
 <tr>
-<td class="tg-yhj3; position:relative;font-size:14px">
+<td class="tg-yhj3">
 <ul>
 	<li>Communicates ideas clearly and effectively.</li>
 	<li>Analyse, apply and present information creatively.</li></ul>
 </td>
-<td class="tg-yhj3; position:relative">
+<td class="tg-yhj3">
 <ul>
 <li>Questions for clarification and identification of problems / solutions.</li>
 <li>Searches and gathers information via various and appropriate medium.</li>
