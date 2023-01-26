@@ -47,11 +47,11 @@ Seven learning areas facilitate the learning experiences in the daily PE lessons
 
   
 
-Annually, Concord Primary School will have her Sports Day carried out in two different blocks; one block is for Primary 1 to 3 and the other is from Primary 4 to 6. On these two special blocks, we conduct games that involve mass participation and every child gets to compete 3 to 4 games. The two blocks will conduct sporting activities on two different dates in a year.
+Annually, Concord Primary School will have her Sports Day carried out from Primary 1 to 6 on Children's Day. It would involve mass participation and every child gets to compete.
 
   
 
-Next, the Primary 4 and 6 students will have to go through compulsory NAPFA (ie. National Physical Fitness Assessment) tests according to the National standards in the months of April & early May in school. It involves a series of five stations and a 1.6km Walk-Run.
+The Primary 4 and 6 students will have to go through compulsory NAPFA (ie. National Physical Fitness Assessment) tests according to the National standards starting from the month of April to August in school. It involves a series of five stations and a 1.6km Walk-Run.
 
 Below are the compulsory test items
 -----------------------------------
