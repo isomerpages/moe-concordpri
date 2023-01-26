@@ -69,19 +69,6 @@ The PE department also organises specialised games and sports for students from 
 
 Finally, the Primary 5 students will get to enjoy the Residential Adventure Camp. It will run for 3 days and 2 nights. Over the 3 days, our students will experience the low elements course and other outdoor activities such as trekking, navigating and outdoor cooking. Such are valuable experiences and they will be challenged to recognize their limits.
 
-S.P.I.N
--------
-
-**S.P.I.N.** is one of the key department initiatives and it stands for **S**top **P**hysical **I**nactivity **N**ow. It is a programme designed for overweight P3-P6 students to empower them to lose weight through increased physical activity and healthy eating. In the first SPIN session, SPINNERS will be given information on tips and suggestions on how they can lose weight.
-
-  
-
-SPINNERS meet twice a week to exercise. They meet during recess time for about 15 minutes for a customised sports and games. The SPINNERS also measure their height and weight at the end of each month to monitor their weight gain/loss. The SPINNERS are also taught to monitor their food intake and the type of food they consume by keeping a record of their diet daily. Through these measures, the SPINNERS are armed with skills to take control of their health and are encouraged to take positive steps towards combating obesity.
-
-Sports Carnival and Lower Primary Games
----------------------------------------
-
-The annual Sports Carnival and Lower Primary Games day are key events which receive much anticipation and garners excitement from the students. The main objective of these events is to promote mass participation among students in sports and games. Through this event, the students are given opportunity to apply the various motor skills which they have acquired during their PE lessons. Other than promoting mass participation in sports, these events also promote a strong sense of camaraderie among students from the same class and sportsmanship in the games. The students are also given the platform to exhibit the core values of respect and resilience during the games.
 
 Aesthetics
 ----------
