@@ -3,9 +3,9 @@ title: Interdisciplinary Project Work (IPW)
 permalink: /programmes/ipw/
 description: ""
 ---
-<p style="text-align:justify; font-size: 14px"><b>IPW – The Thinking Chef Programme</b> is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.
+<p style="text-align:justify; font-size: 16px"><b>IPW – The Thinking Chef Programme</b> is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.</p>
 
-<p style="text-align:justify; font-size: 14px"><b>Through IPW students will be able to:</b>
+<p style="text-align:justify; font-size: 16px"><b>Through IPW students will be able to:</b></p>
   
 <ol type="A">
 <li>apply creative and critical thinking skills</li>
@@ -83,7 +83,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 </tbody>
 </table>
 
-<p style="text-align:justify; font-size: 14px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+<p style="text-align:justify; font-size: 16px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools\*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
