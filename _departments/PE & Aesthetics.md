@@ -1,6 +1,6 @@
 ---
 title: PE & Aesthetics
-permalink: /departments/pe-n-aesthetics
+permalink: /departments/pe-n-aesthetics/
 description: ""
 ---
 ![](/images/PHYSICAL%20EDUCATION%20%20MUSIC_P1.jpeg)
@@ -21,27 +21,21 @@ Our PE curriculum aims to ensure that all Concordians develop their fundamental 
 
   
 
-We provide our students with 2 to 2½ hours of active PE lessons weekly and purposeful play to keep them healthy and at the same time, educating them on a healthy, balanced diet and lifestyle. Also, through our daily PE lessons, we aim to promote teamwork, sportsmanship and fairplay. Through the daily cooperative and competitive games, they will develop communication and collaboration. They will understand the importance of resilience, perseverance and respect amongst peers.
+We provide our students with 2 to 2½ hours of active PE lessons weekly and purposeful play to keep them healthy and at the same time, educating them on a healthy, balanced diet and lifestyle. Also, through our daily PE lessons, we aim to promote teamwork, sportsmanship, fairplay and healthy eating. Through our daily cooperative and competitive games, they will develop communication and collaboration. They will understand the importance of resilience, perseverance and respect amongst peers.
 
 Objectives
 ----------
 
-Concord Primary School is committed to…
-
-  
+Concord Primary School is committed to… 
 
 *   Provide a safe, secure and vibrant environment where all Concordians can enjoy and play
 *   Adopt a challenging, broad and exciting PE curriculum which will actively encourage, motivate and develop every Concordian to feel healthy and happy
 *   Promote active and mass participation so that every Concordian will have the ‘can-do’ spirit
-*   Build every Concordian’s resilience and self-esteem
 *   Foster tolerance, responsibility, respect and acceptance of others through the sports and games they play during their daily PE lessons
-
-  
-
-Seven learning areas facilitate the learning experiences in the daily PE lessons in Concord from Primary 1 to 6. In Primary 1 & 2, Dance, Games & Sports, Gymnastics, Outdoor Education and Physical Health and Fitness are introduced. Athletics and Swimming are introduced from Primary 3 onwards.
 
 In summary, here are the overview
 ---------------------------------
+Seven learning areas facilitate the learning experiences in the daily PE lessons in Concord from Primary 1 to 6. In Primary 1 & 2, Dance, Games & Sports, Gymnastics, Outdoor Education and Physical Health and Fitness are introduced. Athletics and Swimming are introduced from Primary 3 onwards.
 
 1.  Athletics
 2.  Dance
@@ -49,7 +43,7 @@ In summary, here are the overview
 4.  Gymnastics
 5.  Outdoor Education
 6.  Physical Health and Fitness
-7.  Swimming (Primary 3 only)
+7.  Swimming
 
   
 
