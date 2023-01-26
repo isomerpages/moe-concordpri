@@ -103,10 +103,8 @@ By providing high-quality outdoor education, we will see our students: 
 	<center>Level 1 Sport Climbing Course</center>
 	
 	
-Outdoor Adventure Facilities @ Concord
+<center><b><u>Outdoor Adventure Facilities @ Concord</u></b></center>
 
  <img src="/images/llp10.jpg" 
      style="width:35%">
-	<center><b>Level 1 Sport Climbing Course</b></center>
-
 <b><center>Concord's Multi-Functional Rock Wall</center></b>
