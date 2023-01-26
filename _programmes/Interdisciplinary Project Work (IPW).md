@@ -100,6 +100,65 @@ description: ""
  </tr>
 </tbody>
 </table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:middle;font-size:14px}
+.tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined; table-layout: fixed; width: 1350px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 350px">
+<col style="width: 350px">
+<col style="width: 350px">	
+</colgroup>
+<tbody>
+ <tr>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Subjects</b></span></td>
+		<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Creative Thinking Tools*</b></span></td>
+	 <td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>ICT</b></span></td>
+	 <td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>E3 Reasoning Skills</b></span></td>
+ </tr>  	
+<tr>
+<td class="tg-yhj3">
+<ul>
+	<li>English</li>
+	<li>Mathematics</li>
+	<li>Science</li>
+	<li>Mother Tongue</li>
+	<li>Social Studies</li>
+	<li>Health Education</li>
+</ul>
+</td>
+<td class="tg-yhj3">
+<ul>
+<li>Brainstorming Web</li>
+<li>Graphic Organisers</li>
+</ul>
+</td>
+<td class="tg-yhj3">
+<ul>
+<li>Research on the internet on nutritional values printed on the products</li>
+<li>Creation of powerpoint slides</li>
+</ul>
+<td class="tg-yhj3">
+<ul>
+	<li>Observation</li>
+	<li>Recalling</li>
+	<li>Elimination</li>
+	</li>Visualization</li>
+	<li>Communication</li>
+	<li>Perspective-taking</li>
+	<li>Examination</li>
+	<li>Evaluation</li>
+	<li>Decision-making</li>
+	<li>Idea-generation</li>
+	<li>Problem-solving</li>
+</tr>
+</tbody>
+</table>
 
 Cooking Lessons @ NEWTON LAB
 
