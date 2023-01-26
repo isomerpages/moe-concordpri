@@ -107,6 +107,6 @@ Outdoor Adventure Facilities @ Concord
 
  <img src="/images/llp10.jpg" 
      style="width:35%">
-	<center>Level 1 Sport Climbing Course</center>
+	<center><b>Level 1 Sport Climbing Course</b></center>
 
-Concord's Multi-Functional Rock Wall
+<b><center>Concord's Multi-Functional Rock Wall</center></b>
