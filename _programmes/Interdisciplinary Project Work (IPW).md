@@ -43,21 +43,35 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 <tbody>
   <tr>
 		<td class="tg-yhj3"><span style="text-decoration:underline"><strong>Confident Person</strong></span>
-<span style="font-weight:400;font-style:normal; list-style:square">
+<span style="font-weight:400;font-style:normal">
+<ul>
 <li>Communicates ideas clearly effectively</li>
-<li> Analyse, apply and present information creatively</li></span</td>
+	<li> Analyse, apply and present information creatively</li></ul></span</td>
 
-<td class="tg-yhj3"><span style="text-decoration:underline"><strong>Self-Directed Learner<strong></span><span style="font-weight:400;font-style:normal">
+<td class="tg-yhj3"><span style="text-decoration:underline"><strong>Self-Directed Learner</strong></span>
+<span style="font-weight:400;font-style:normal">
+<ul>
 <li>Questions for clarification and identification of problems/solutions</li>
 <li>Searches and gathers information via various and appropriate medium</li>
 <li> Effectively use information</li>
-<li> Monitor own learning through reflections</li></span></td>
+<li> Monitor own learning through reflections</li></ul></span></td>
 </tr>
   
 <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline">Concerned Citizen</span><br><br>v Empathises with and respects others<br>v Participates actively<br>v Share responsibilities and tap on one another’s strengths<br></td>
-    <td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline">Active Contributor</span><br><br>v Exercise initiative and takes risks<br>v Innovation and creativity<br>v Aims for high standards</td>
-  </tr>
+    <td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline"><strong>Concerned Citizen</strong></span>
+<span style="font-weight:400;font-style:normal">
+<ul>
+<li> Empathises with and respects others</li>
+<li>Participates actively</li>
+				<li>Share responsibilities and tap on one another’s strengths</li></ul></td>
+</span>
+			
+<td class="tg-yhj3"><span style="font-weight:bold;text-decoration:underline">Active Contributor</span><span style="font-weight:400;font-style:normal">
+<ul>
+<li>Exercise initiative and takes risks</li>
+<li>Innovation and creativity</li>
+	<li>Aims for high standards</li></ul></td>
+</tr>
 </tbody>
 </table>
 
