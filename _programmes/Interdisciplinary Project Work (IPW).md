@@ -148,7 +148,7 @@ description: ""
 	<li>Observation</li>
 	<li>Recalling</li>
 	<li>Elimination</li>
-	</li>Visualization</li>
+	<li>Visualization</li>
 	<li>Communication</li>
 	<li>Perspective-taking</li>
 	<li>Examination</li>
@@ -156,6 +156,7 @@ description: ""
 	<li>Decision-making</li>
 	<li>Idea-generation</li>
 	<li>Problem-solving</li>
+	</ul></td>
 </tr>
 </tbody>
 </table>
