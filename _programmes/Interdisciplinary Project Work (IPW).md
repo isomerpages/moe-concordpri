@@ -67,7 +67,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="text-align:justify; font-size: 16px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+<p style="text-align:justify; font-size: 18px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
