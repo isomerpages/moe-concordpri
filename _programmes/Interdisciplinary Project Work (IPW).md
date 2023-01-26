@@ -32,7 +32,7 @@ The learning outcomes for IPW are aligned with the Desired Outcomes of Education
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle;font-size:12px}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle;font-size:14px}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
@@ -91,7 +91,7 @@ IPW cuts across the various subjects and students will learn to incorporate the 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-yhj4{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-jgjh{background-color:#FFF;color:#0C463A;font-style:italic;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 798px">
@@ -109,10 +109,10 @@ IPW cuts across the various subjects and students will learn to incorporate the 
     <td class="tg-jgjh">E3 Reasoning Skills</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">- English<br>- Mathematics<br>- Science<br>- Mother Tongue<br>- Social Studies<br>- Health Education<br></td>
-    <td class="tg-yhj3">- Brainstorming Web<br>- Graphic Organisers<br></td>
-    <td class="tg-yhj3">- Research on the internet on nutritional values printed on the products<br>- Creation of powerpoint slides<br></td>
-    <td class="tg-yhj3">- Observation<br>- Recalling<br>- Elimination<br>- Visualization<br>- Communication<br>- Perspective -taking<br>- Examination<br>- Evaluation<br>- Decision-making<br>- Idea-generation<br>- Problem-solving</td>
+    <td class="tg-yhj4">- English<br>- Mathematics<br>- Science<br>- Mother Tongue<br>- Social Studies<br>- Health Education<br></td>
+    <td class="tg-yhj4">- Brainstorming Web<br>- Graphic Organisers<br></td>
+    <td class="tg-yhj4">- Research on the internet on nutritional values printed on the products<br>- Creation of powerpoint slides<br></td>
+    <td class="tg-yhj4">- Observation<br>- Recalling<br>- Elimination<br>- Visualization<br>- Communication<br>- Perspective -taking<br>- Examination<br>- Evaluation<br>- Decision-making<br>- Idea-generation<br>- Problem-solving</td>
  </tr>
 </tbody>
 </table>
@@ -130,32 +130,32 @@ Cooking Lessons @ NEWTON LAB
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-yhj3">Level/Term<br></td>
-    <td class="tg-yhj3">What’s Cooking?<br></td>
+    <td class="tg-yhj4">Level/Term<br></td>
+    <td class="tg-yhj4">What’s Cooking?<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P5/Term 1<br></td>
-    <td class="tg-yhj3">Fried Rice<br></td>
+    <td class="tg-yhj4">P5/Term 1<br></td>
+    <td class="tg-yhj4">Fried Rice<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P3/Term 2<br></td>
-    <td class="tg-yhj3">Pancake<br></td>
+    <td class="tg-yhj4">P3/Term 2<br></td>
+    <td class="tg-yhj4">Pancake<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P4/Term 2<br></td>
-    <td class="tg-yhj3">Cupcake<br></td>
+    <td class="tg-yhj4">P4/Term 2<br></td>
+    <td class="tg-yhj4">Cupcake<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P2/Term 3<br></td>
-    <td class="tg-yhj3">Muffin<br></td>
+    <td class="tg-yhj4">P2/Term 3<br></td>
+    <td class="tg-yhj4">Muffin<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P1/Term 3<br></td>
-    <td class="tg-yhj3">Cookies<br></td>
+    <td class="tg-yhj4">P1/Term 3<br></td>
+    <td class="tg-yhj4">Cookies<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">P6/Term 4<br></td>
-    <td class="tg-yhj3">3-course Meal</td>
+    <td class="tg-yhj4">P6/Term 4<br></td>
+    <td class="tg-yhj4">3-course Meal</td>
   </tr>
 </tbody>
 </table>
