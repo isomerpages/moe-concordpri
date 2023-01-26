@@ -1,22 +1,22 @@
 ---
 title: Student Management
-permalink: /departments/Student-Management/student-management
+permalink: /departments/Student-Management/student-management/
 description: ""
 third_nav_title: Student Management
 ---
 ![](/images/Student%20Management%20Committee%20P1.jpeg)
 
-Vision:
+Vision
 -------
 
 Positive Role Models, Embodiment of Values and Culture
 
-Mission:
+Mission
 --------
 
 To provide a positive and safe environment for Concordians to grow and learn.
 
-Department's Framework: 
+Department's Framework 
 ------------------------
 
 To enhance every Concordian’s educational journey, the department oversees aspects of Student Discipline, Leadership, and Safety through a multitude of structured platforms.  
