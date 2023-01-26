@@ -48,12 +48,12 @@ third_nav_title: Science
 </tbody>
 </table>
 	
-<h3>Student Awards</h3>
+<h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
 <span style="color:#3333FF"><b>Year 2022 winners:</b>
 	</span>
 
-<ul>
+<ul style="font-size:14px">
 	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span></li>
 	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span></li>
 	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span></li>
@@ -62,7 +62,7 @@ third_nav_title: Science
 	
 <span style="color:#3333FF"><b>Year 2021 winners:</b></span>
 
-<ul>
+<ul style="font-size:14px">
 	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span></li>
 </ul>
 	
