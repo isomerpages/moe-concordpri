@@ -57,7 +57,7 @@ third_nav_title: Science
 	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span></li>
 	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span></li>
 	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span></li>
-	<li>Deselva Myrtlev Delicia<span style="color:#9900FF"><b>(Participation)</b></span></li>
+	<li>Deselva Myrtlev Delicia <span style="color:#9900FF"><b>(Participation)</b></span></li>
 	</ul>
 	
 <span style="color:#3333FF"><b>Year 2021 winners:</b></span>
@@ -66,6 +66,29 @@ third_nav_title: Science
 	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span></li>
 </ul>
 	
+<h5>2. Singapore Primary Science Olympiad</h5>
+<span style="color:#3333FF"><b>Year 2022 winners:</b>
+	</span>
+<ul style="font-size:14px">
+	<li>Ang Zhen Bin Leonel <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Deselva Myrtle Delicia <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Farhan Shahul Hameed <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Lim Sooji <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Lin Ting Xuan <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <span style="color:#9900FF"><b> (Participation)</b></span></li>
+	<li>Titus Soh Yu Miao <span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Wan Mika <span style="color:#9900FF"><b> (Bronze)</b></span></li>
+</ul>
+
+<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
+
+<ul style="font-size:14px">
+	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
+	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
+	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
+	<li>Lin Weizhe<span style="color:#9900FF"><b> (Bronze)</b></span></li>
+</ul>	
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
