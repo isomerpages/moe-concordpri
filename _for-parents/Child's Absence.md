@@ -3,7 +3,7 @@ title: Child's Absence
 permalink: /for-parents/permalink/
 description: ""
 ---
-<p><h3>Update of your child's absence</h3>
+<p><h3><b>Update of your child's absence</b></h3>
 <p>Please inform the school in advance if your child is not attending  school via  the QR code below.
 
 <body>	
