@@ -1,12 +1,12 @@
 ---
 title: International Dance
-permalink: /cca/Niche-Co-Curricular-Activities/international-dance
+permalink: /cca/Niche-Co-Curricular-Activities/international-dance/
 description: ""
 third_nav_title: Niche Co Curricular Activities
 ---
 International Dance is a vibrant Performing Arts CCA that aims to instil appreciation and greater interest for dance amongst our students. Our members are taught an array of dance genres, an avenue to deepen their dance skills as well as knowledge of different cultures. Our dance group is given many opportunities to showcase their dancing skills in and out of school. Students realize their potential through these opportunities and master new skills which in turn helps to increase their self-esteem.
 
-**<u>Highlights:</u>**
+**<u>Highlights</u>**
 
 For the past few years, we have been performing at a few external venues and also taking part in the SYF Central Judging.
 
