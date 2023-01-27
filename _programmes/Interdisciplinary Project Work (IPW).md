@@ -129,7 +129,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 	<li>Decision-making</li>
 	<li>Idea-generation</li>
 	<li>Problem-solving</li>
-	</ul></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
