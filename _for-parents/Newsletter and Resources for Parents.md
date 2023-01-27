@@ -3,8 +3,6 @@ title: Newsletter and Resources for Parents
 permalink: /for-parents/announcements/
 description: ""
 ---
-
-
 ### Newsletter for Concordians
 
 <style type="text/css">
@@ -73,7 +71,7 @@ description: ""
 </tbody>
 </table>
 
-### Resources for Parent Engagement
+### Resources for Parents
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
