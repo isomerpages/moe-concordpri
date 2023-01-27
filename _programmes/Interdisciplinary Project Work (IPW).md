@@ -116,6 +116,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 <li>Research on the internet on nutritional values printed on the products</li>
 <li>Creation of powerpoint slides</li>
 </ul>
+</td>
+
 <td class="tg-yhj5">
 <ul>
 	<li>Observation</li>
@@ -129,7 +131,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 	<li>Decision-making</li>
 	<li>Idea-generation</li>
 	<li>Problem-solving</li>
-</ul></td>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
