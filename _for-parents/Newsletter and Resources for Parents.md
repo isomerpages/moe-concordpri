@@ -31,12 +31,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
-    <td class="tg-ppzb">NA<br></td>
-	 <td class="tg-ppzb">NA<br></td>
+   <td class="tg-ppzb">NA<br></td>
+	 <td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term Week 5.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
  </tr>
 </tbody>
 </table>
-	
+
 <p><h3>2022 Newsletter for Parents</h3>
 
 <style type="text/css">
