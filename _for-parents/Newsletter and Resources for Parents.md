@@ -14,6 +14,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
+.tg .tg-ppzc{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
 </style>
@@ -31,7 +32,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
-   <td class="tg-ppzb">NA<br></td>
+   <td class="tg-ppzc">NA<br></td>
 	 <td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term Week 5.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
  </tr>
 </tbody>
