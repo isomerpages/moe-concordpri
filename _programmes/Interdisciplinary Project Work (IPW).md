@@ -82,7 +82,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 
 <table class="tg" style="undefined; table-layout: fixed; width: 750px">
 <colgroup>
-<col style="width: 150px">
+<col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">	
