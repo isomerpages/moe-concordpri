@@ -30,9 +30,9 @@ description: ""
     <td class="tg-a4yv">Upper Primary </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1</a></td>
-    <td class="tg-ppzb"><span style="text-decoration:none;color:#FD6500">NA</span><br></td>
-		<td class="tg-ppzb"><span style="text-decoration:none;color:#FD6500">NA</span></br></td>
+    <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
+    <td class="tg-ppzb">NA<br></td>
+	 <td class="tg-ppzb">NA<br></td>
  </tr>
 </tbody>
 </table>
