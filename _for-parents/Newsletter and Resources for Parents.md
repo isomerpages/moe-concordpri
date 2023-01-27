@@ -30,17 +30,14 @@ description: ""
     <td class="tg-a4yv">Upper Primary </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1 Week 6</a></td>
-    <td class="tg-ppzb"><a href="/files/mpT1W7.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a><br></td>
-    <td class="tg-ppzb"><a href="/files/upt1w8.pdf">Term 1 Week 8</a></td>
-  </tr>
-  <tr>
-    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T1W9.pdf">Term 1 Week 9</a></td>
-</tr>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1</a></td>
+    <td class="tg-ppzb"><span style="text-decoration:none;color:#FD6500">NA</span><br></td>
+		<td class="tg-ppzb"><span style="text-decoration:none;color:#FD6500">NA</span></br></td>
+ </tr>
 </tbody>
 </table>
 	
-<p><h3>Newsletter for Concordians</h3>
+<p><h3>2022 Newsletter for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
