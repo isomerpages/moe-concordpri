@@ -180,14 +180,11 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 </tbody>
 </table>
 
-**<center>Research for IPW</center>**
+<center><b>Research for IPW</b></center>
+	<img style="width:55%" src="/images/ipw.png">
 
-![](/images/ipw.png)
+<center><b>Measuring Ingredients</b></center>
+	<img style="width:55%" src="/images/ip2.png">
 
-**<center>Measuring Ingredients</center>**
-
-![](/images/ip2.png)
-
-**<center>Making pancakes</center>**
-
-![](/images/ipw3.png)
+<center><b>Making pancakes</b></center>
+	<img style="width:55%" src="/images/ipw3.png">
