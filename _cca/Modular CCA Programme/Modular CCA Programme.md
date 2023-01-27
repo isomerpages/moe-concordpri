@@ -1,6 +1,6 @@
 ---
 title: Modular CCA Programme
-permalink: /cca/Modular-CCA-Programme/Modular-CCA-Programme
+permalink: /cca/Modular-CCA-Programme/Modular-CCA-Programme/
 description: ""
 third_nav_title: Modular CCA Programme
 ---
@@ -8,8 +8,7 @@ As part of the two tier approach for our Concord CCA framework, the Modular CCA 
 
   
 
-**<u>Schedule</u>**
-
+**<u>Schedule</u>**<br>
 Every Wednesday, 7.30am to 9am
 
   
