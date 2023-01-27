@@ -7,7 +7,7 @@ description: ""
 <p>Please inform the school in advance if your child is not attending  school via  the QR code below.
 
 <body>	
-<img style="width:55%" src="/images/qr code.jpg">
+<img style="width:35%" src="/images/qr code.jpg">
 </body>	
 
 <p>An automated SMS will be sent to the parent/ guardian by 9.00am should the student be absent from school and the school is not informed of the reason/s.
