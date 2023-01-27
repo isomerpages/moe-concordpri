@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Child's Absence.md
       - Announcements.md
       - Term Calendar and Note.md
       - Parent Support Group/.keep
