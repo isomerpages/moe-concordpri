@@ -134,7 +134,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 </tbody>
 </table>
 
-Cooking Lessons @ NEWTON LAB
+<p style="text-align:justify; font-size: 18px"><b>Cooking Lessons @ NEWTON LAB</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
