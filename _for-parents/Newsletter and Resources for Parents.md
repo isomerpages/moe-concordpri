@@ -110,9 +110,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
@@ -121,20 +121,19 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 660px">
 <colgroup>
 <col style="width: 217px">
-<col style="width: 443px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-jpkv">Term 1 Week 8</td>
     <td class="tg-yhj3"> <a href="/files/Term-1_Are-these-ANTs-bugging-you.pdf"><span style="text-decoration:none;color:#FD6500">Are these ANTs bugging you </span></a></td>
   </tr>
   <tr>
-    <td class="tg-jpkv"> Term 2</td>
     <td class="tg-ppzb"><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">Praise your child. Do it right. Do it well.</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-jpkv"> Term 3</td>
     <td class="tg-ppzb"><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf"><span style="text-decoration:none;color:#FD6500">How to study effectively</span></a> </td>
   </tr>
 </tbody>
 </table>
+
+border-color:black;border-style:solid;border-width:1px;
+border-color:black;border-style:solid;border-width:1px;
