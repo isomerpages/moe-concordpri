@@ -3,7 +3,44 @@ title: Newsletter and Resources for Parents
 permalink: /for-parents/announcements/
 description: ""
 ---
-### Newsletter for Concordians
+<body>
+<h3>2023 Newsletter for Parents</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Lower Primary </td>
+    <td class="tg-a4yv">Middle Primary</td>
+    <td class="tg-a4yv">Upper Primary </td>
+  </tr>
+  <tr>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1 Week 6</a></td>
+    <td class="tg-ppzb"><a href="/files/mpT1W7.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a><br></td>
+    <td class="tg-ppzb"><a href="/files/upt1w8.pdf">Term 1 Week 8</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T1W9.pdf">Term 1 Week 9</a></td>
+</tr>
+</tbody>
+</table>
+	
+<p><h3>Newsletter for Concordians</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -71,7 +108,7 @@ description: ""
 </tbody>
 </table>
 
-### Resources for Parents
+<p><h3>Resources for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
