@@ -98,6 +98,7 @@ Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform res
 Bookshop: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
 **Uniform Vendor: [https://khuniform.com/](https://khuniform.com/)**
+<img style="width:60%" src="/images/Purchase of school uniform.jpg"><br>
 
 **7.    Apply for School Bus Services**  
 
