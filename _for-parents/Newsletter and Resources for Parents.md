@@ -128,6 +128,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-border-color:black;border-style:solid;border-width:1px;
-border-color:black;border-style:solid;border-width:1px;
