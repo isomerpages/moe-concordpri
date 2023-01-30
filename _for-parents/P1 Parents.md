@@ -74,8 +74,7 @@ Please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance]
 
  ii. Apply for FAS [here](https://go.gov.sg/moe-efas). Singpass login will be required.
 
-![QR Code.png](https://concordpri.moe.edu.sg/qql/slot/u1056/QR%20Code.png)
-<img style="width:65%" src="/images/Introducing Parents Gateway.jpg"><br>
+<img style="width:45%" src="/images/QR Code_eFAS form.png"><br>
 iii.  Please do approach the school for assistance if you are unable to apply via the eFAS form.
 
 iv.  **Application via hardcopy form is required for: -**
