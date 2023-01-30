@@ -12,7 +12,7 @@ In preparation for your child’s entry to Primary One in 2023, please complete 
 
 Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
 
-
+<img style="width:55%" src="/images/Inquistive Learning.jpg">
 
 
 All future announcements from the school will be made via Parents Gateway.
