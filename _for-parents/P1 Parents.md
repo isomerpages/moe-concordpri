@@ -12,7 +12,7 @@ In preparation for your child’s entry to Primary One in 2023, please complete 
 
 Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
 
-<img style="width:65%" src="/images/Introducing Parents Gateway.jpg">
+<img style="width:65%" src="/images/Introducing Parents Gateway.jpg"><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -30,7 +30,7 @@ Please download and install the Parents Gateway app. The instructions to onboard
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-yhj3"> <a href="/files/Term-1_Are-these-ANTs-bugging-you.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">Praise your child. Do it right. Do it well.</span></a><br><br><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf"><span style="text-decoration:none;color:#FD6500">How to study effectively</span></a></td>
+    <td class="tg-yhj3"> <a href="/files/Term-1_Are-these-ANTs-bugging-you.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
 </tr>
 </tbody>
 </table>
