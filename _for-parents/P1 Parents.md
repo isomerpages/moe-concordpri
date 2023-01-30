@@ -68,6 +68,8 @@ Please sign up for the Standing Order [here](https://form.gov.sg/#!/5be24a1bb3f
 
 **5.**     **Apply for 2023 MOE Financial Assistance Scheme (FAS)**
 <img style="width:80%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
+<img style="width:50%" src="/images/current and revised income eligibility tiers.jpeg"><br>
+
 Please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
  i. Please do **NOT** purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is **strictly no refund**.
