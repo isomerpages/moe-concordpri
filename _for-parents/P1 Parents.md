@@ -29,8 +29,8 @@ Please download and install the Parents Gateway app. The instructions to onboard
 <col style="width: 217px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
+  <tr>[](/files/PG%20Mobile%20App%20User%20Guide%20April%202022.pdf)
+    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/PG Mobile App User Guide April 2022.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
 </tr>
 </tbody>
 </table>
