@@ -14,7 +14,26 @@ Please download and install the Parents Gateway app. The instructions to onboard
 
 <img style="width:65%" src="/images/Introducing Parents Gateway.jpg">
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
+.tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 217px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-yhj3"> <a href="/files/Term-1_Are-these-ANTs-bugging-you.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">Praise your child. Do it right. Do it well.</span></a><br><br><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf"><span style="text-decoration:none;color:#FD6500">How to study effectively</span></a></td>
+</tr>
+</tbody>
+</table>
 
 All future announcements from the school will be made via Parents Gateway.
 
