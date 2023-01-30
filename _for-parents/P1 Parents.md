@@ -106,6 +106,8 @@ Our school bus service provider is DKJ School Bus Services. Please use the link 
 
 School Bus Vendor: [https://forms.gle/mAakGAAHrt2mt7cY8](https://forms.gle/mAakGAAHrt2mt7cY8)
 
+<img style="width:35%" src="/images/School bus services QR code.png">
+
 **8.**     **Enrol into School-Based Student Care**
 
 Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form [here](https://bigheartstudentcare.com/interest/) **by Sunday, 30 October 2022**.
