@@ -14,6 +14,8 @@ Please download and install the Parents Gateway app. The instructions to onboard
 
 <img style="width:55%" src="/images/Introducing Parents Gateway.jpg">
 
+
+
 All future announcements from the school will be made via Parents Gateway.
 
 **2.**     **Provide Additional Information for Form Teachers**
