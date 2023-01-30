@@ -82,13 +82,13 @@ iv.  **Application via hardcopy form is required for: -**
 
       _(Hardcopy FAS forms to be obtained from the General Office)_
 
-> a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 
-> b. family with more than 5 children in Government or Government-aided schools (GGAS)
-> 
-> c. family with more than 4 unmarried children not in GGAS
-> 
-> d. family with more than 3 grandparents in the household
+b. family with more than 5 children in Government or Government-aided schools (GGAS)
+
+c. family with more than 4 unmarried children not in GGAS
+ 
+d. family with more than 3 grandparents in the household
 
 **6.**     **Purchase School Books and Uniform**
 
