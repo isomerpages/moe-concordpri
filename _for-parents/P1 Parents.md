@@ -29,8 +29,8 @@ Please download and install the Parents Gateway app. The instructions to onboard
 <col style="width: 217px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-yhj3"> <a href="/files/Term-1_Are-these-ANTs-bugging-you.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
+  <tr>[](/files/FAQs%20for%20Parents%20April%202022.pdf)
+    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
 </tr>
 </tbody>
 </table>
