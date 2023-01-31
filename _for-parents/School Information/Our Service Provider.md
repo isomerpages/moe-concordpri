@@ -35,7 +35,7 @@ third_nav_title: School Information
 </tr>
 <tr>
     <td class="tg-n1ni">3.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Uniform Supplier</span><br><br><span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd</span><br><span style="font-weight:400;font-style:normal">Chen Nam Sing Department Store</span><br><span style="font-weight:400;font-style:normal">Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413</span><br><span style="font-weight:400;font-style:normal">Operation Hours:</span><br><span style="font-weight:400;font-style:normal">Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-style:normal">Closed on Mondays</span><br><span style="font-weight:400;font-style:normal">Tel: 6565 8961</span></td>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Uniform Supplier</span><br><br><span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd</span><br><span style="font-weight:400;font-style:normal">Chen Nam Sing Department Store</span><br><span style="font-weight:400;font-style:normal">Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413</span><br><span style="font-weight:400;font-style:normal">Operation Hours:</span><br><span style="font-weight:400;font-style:normal">Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-style:normal">Closed on Mondays</span><br><span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a></td>
 </tr>
 <tr>
     <td class="tg-n1ni">4.</td>
