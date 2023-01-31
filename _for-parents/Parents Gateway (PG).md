@@ -16,7 +16,8 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
 1.    [Onboarding Video for Parents](https://frontierpri.moe.edu.sg/wp-content/uploads/2020/10/Parents-Gateway-Onboarding-video-for-Parents.mp4) 
 
 2. <a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
-3. <a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
+3. <a href="/files/PG Mobile App User Guide.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway User Guide</b></span></a><br>
+4. 
 * iOS (hyperlink to [https://apps.apple.com/sg/app/parents-gateway/id1267198708](https://apps.apple.com/sg/app/parents-gateway/id1267198708))
 * Android (hyperlink to [https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)) 
 
