@@ -10,7 +10,7 @@ third_nav_title: School Information
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 716px">
