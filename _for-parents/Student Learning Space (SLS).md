@@ -11,7 +11,7 @@ The Student Learning Space (SLS) is an online platform that will support teachin
 
 <center><b>Student Learning Space</b></center> 
 
-<center>Website:<a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
+<center>Website:<a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
 
@@ -37,11 +37,11 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
 Following which, you can do any of the following:
 
-1) Complete the form: [https://go.gov.sg/concordsls](https://go.gov.sg/concordsls)
+1) Complete the form: <b>[https://go.gov.sg/concordsls]</b>(https://go.gov.sg/concordsls)
 
-2) Email school SLS Administrator: [norhafizah\_pungut@schools.gov.sg](mailto:norhafizah_pungut@schools.gov.sg)
+2) Email school SLS Administrator: <b>[norhafizah\_pungut@schools.gov.sg]</b>(mailto:norhafizah_pungut@schools.gov.sg)
 
-3) Email SLS Helpdesk after school hours: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) 
+3) Email SLS Helpdesk after school hours: <b>[helpdesk@sls.ufinity.com]</b>(mailto:helpdesk@sls.ufinity.com) 
 
 _\* The SLS Central Helpline will operate after school operating hours_
 
