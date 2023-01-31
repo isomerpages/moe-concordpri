@@ -112,7 +112,7 @@ School Bus Vendor: [https://forms.gle/mAakGAAHrt2mt7cY8](https://forms.gle/mAak
 
 Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form [here](https://bigheartstudentcare.com/interest/) **by Sunday, 30 October 2022**.
 
-For more information, please refer to this [pamphlet](/files/Big Heart.pdf).
+For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
 
 **9.**     **Apply for POSB Smart Buddy Watch**
 
