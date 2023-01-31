@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /for-parents/sls
+permalink: /for-parents/sls/
 description: ""
 ---
 The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
@@ -11,9 +11,7 @@ The Student Learning Space (SLS) is an online platform that will support teachin
 
 Student Learning Space 
 
-Website: [**vle.learning.moe.edu.sg/login**](https://vle.learning.moe.edu.sg/login)
-
-  
+Website: <a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login<b></span></a>  
 
 E-Poster for Navigation on SLS Interface: **[How to Navigate SLS Interface](/files/Student-E-Poster-for-Navigation-on-SLS.pdf)**
 
