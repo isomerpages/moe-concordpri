@@ -6,9 +6,9 @@ third_nav_title: School Information
 ---
 **1\.  School Curriculum Hours**
 
-![](/images/si1.png)
-<img src="/images/Picture1.png" 
-     style="width:80%">
+
+<img src="/images/School Curriculum Hours.jpg" 
+     style="width:90%">
 
 **2\. Visits To School**
 
