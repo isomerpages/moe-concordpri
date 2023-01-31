@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Parents 2/Administrative Matters.md
-      - P1 Parents 2/.keep
+      - P1 Parents/Administrative Matters.md
+      - P1 Parents/.keep
       - Child's Absence.md
       - Newsletter and Resources for Parents.md
       - Term Calendar and Note.md
