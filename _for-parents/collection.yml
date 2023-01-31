@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - P1 Parents/Registration Exercise.md
       - P1 Parents/Administrative Matters.md
       - P1 Parents/.keep
       - Child's Absence.md
