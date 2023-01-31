@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Parents 2.md
       - Child's Absence.md
       - Newsletter and Resources for Parents.md
       - Term Calendar and Note.md
