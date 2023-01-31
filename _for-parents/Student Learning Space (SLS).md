@@ -18,10 +18,9 @@ E-poster for Navigation on SLS Interface: <a href="/files/Student-E-Poster-for-N
 SLS User Guide for Students:  <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></a>
 
 Technical Support:  <a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></a> 
- 
-Login Troubleshooting User  
-Guide: [**go.gov.sg/slsloginhelp**](http://go.gov.sg/slsloginhelp)   
-  
+
+Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></a> 
+
 -------------- 
   
 <u>FREQUENTLY ASKED QUESTIONS</u>
