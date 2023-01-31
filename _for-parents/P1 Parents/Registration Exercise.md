@@ -21,3 +21,5 @@ Please submit the PV application via [online form](https://form.gov.sg/5e4dd3c0
 **2\. Parent Volunteers (PV) Application**
 
 The application window will open on **5 April 2022 and closes on 31 May 2022**. Please refer to the flow chart below for more information.
+
+<img style="width:90%" src="/images/PV Application Flowchart.png"><br>
