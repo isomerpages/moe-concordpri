@@ -48,7 +48,6 @@ third_nav_title: School Information
   </tr>
   <tr>
     <td class="tg-n1ni">6.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Student Care Centre</span><br><span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>Phone: <br>98552563<br><br><span style="font-weight:400;font-style:normal">Website: </span><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer"> </a><br>Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td>
-  </tr>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Student Care Centre</span><br><span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>Phone: <br>98552563<br><br><span style="font-weight:400;font-style:normal">Website: </span><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer"> </a><br>Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
 </tbody>
 </table>
