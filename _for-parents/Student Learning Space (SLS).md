@@ -6,7 +6,7 @@ description: ""
 The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
 
 <img src="/images/SLS.jpeg" 
-     style="width:40%">
+     style="width:25%">
 
 
 <center><b>Student Learning Space</b></center> 
