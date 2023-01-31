@@ -2,7 +2,7 @@ collections:
   highlights:
     output: true
     order:
-      - Photos/Example Title.md
+      - Photos/2023.md
       - Photos/2022.md
       - Photos/.keep
       - Our Achievements/2021.md
