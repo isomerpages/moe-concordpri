@@ -7,7 +7,9 @@ third_nav_title: School Information
 **1\.  School Curriculum Hours**
 
 ![](/images/si1.png)
-
+<img src="/images/ecopals.png" 
+     style="width:50%">
+		 
 **2\. Visits To School**
 
 For the safety of the students and staff of the school, we seek the cooperation of parents in the following areas:
