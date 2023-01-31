@@ -11,22 +11,22 @@ The Student Learning Space (SLS) is an online platform that will support teachin
 
 <center><b>Student Learning Space</b></center> 
 
-<center>Website: <a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></center></a>  
+<center>Website: <a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 E-poster for Navigation on SLS Interface: <a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></a>
 
 SLS User Guide for Students:  <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></a>
 
-Technical Support:  <a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></a> 
+Technical Support:  <a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
 
-Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></a> 
+Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 
 -------------- 
   
 <u>FREQUENTLY ASKED QUESTIONS</u>
   
 **Q1 : I have forgotten my password. What should I do?**   
-Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></a> of the Student Annexes.
+Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
   
 **Q2 : I have forgotten my username. What should I do?**    
 	The format of your username is a combination of the first <u>5 characters of your name</u> (as per your birth certificate), the <u>last 4 digits and the letter of your NRIC/FIN/BC.</u>  
