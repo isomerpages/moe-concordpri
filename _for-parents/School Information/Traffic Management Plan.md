@@ -68,4 +68,5 @@ Vehicles Entering and Exiting School
 
 Figure 2 depicts safe vehicular movement in the school during Drop Offs in the morning and Pick Ups during dismissals (during inclement weather only).
 
-![](/images/Traffic%20Management%20Plan%202.jpeg)
+<img src="/images/traffi.png" 
+     style="width:100%">
