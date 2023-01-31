@@ -19,7 +19,7 @@ SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf">
 
 Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
 
-Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
+Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 
 -------------- 
   
