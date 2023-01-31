@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway (PG)
-permalink: /for-parents/pg
+permalink: /for-parents/pg/
 description: ""
 ---
 <img src="/images/parents-gateway.jpeg" 
@@ -16,7 +16,7 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
 1.    [Onboarding Video for Parents](https://frontierpri.moe.edu.sg/wp-content/uploads/2020/10/Parents-Gateway-Onboarding-video-for-Parents.mp4) 
 
 2.    [Step-by-step Guide to Parents Gateway](https://frontierpri.moe.edu.sg/wp-content/uploads/2020/10/Step-by-step-Guide-to-Parents-Gateway.pdf)  
-
+SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
 Kindly download the Parents Gateway at
 
 * iOS (hyperlink to [https://apps.apple.com/sg/app/parents-gateway/id1267198708](https://apps.apple.com/sg/app/parents-gateway/id1267198708))
