@@ -93,7 +93,7 @@ d. family with more than 3 grandparents in the household
 
 **6.**     **Purchase School Books and Uniform**
 
-Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between **9 am to 3 pm**. You may click on this [info sheet](/files/KH_Uniform_CPS Info Sheet 2022.pdf) for more details.
+Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between **9 am to 3 pm**. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
 
 Bookshop: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
@@ -112,7 +112,7 @@ School Bus Vendor: [https://forms.gle/mAakGAAHrt2mt7cY8](https://forms.gle/mAak
 
 Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form [here](https://bigheartstudentcare.com/interest/) **by Sunday, 30 October 2022**.
 
-For more information, please refer to this [pamphlet](https://concordpri.moe.edu.sg/qql/slot/u1056/Big%20Heart.pdf).
+For more information, please refer to this [pamphlet](/files/Big Heart.pdf).
 
 **9.**     **Apply for POSB Smart Buddy Watch**
 
