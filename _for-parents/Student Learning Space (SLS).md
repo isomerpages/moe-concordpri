@@ -26,7 +26,7 @@ Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><sp
 <u>FREQUENTLY ASKED QUESTIONS</u>
   
 **Q1 : I have forgotten my password. What should I do?**   
-Please refer to [**paragraphs 6-9 in Annex A** of the Student Annexes](/files/2-Annexes-to-Letter-to-Parents.pdf).
+Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></a> of the Student Annexes.
   
 **Q2 : I have forgotten my username. What should I do?**    
 The format of your username is a combination of the first 5 characters of your name (as per your birth certificate), the last 4 digits and the letter of your NRIC/FIN/BC.  
