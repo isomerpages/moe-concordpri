@@ -1,6 +1,6 @@
 ---
 title: Traffic Management Plan
-permalink: /for-parents/School-Information/traffic-management-plan
+permalink: /for-parents/School-Information/traffic-management-plan/
 description: ""
 third_nav_title: School Information
 ---
@@ -15,12 +15,12 @@ The School’s operating hours are from 6.30am to 6.30pm.
 Figure 1 and Table 1 below shows the locations of the Access Gates and their respective operating periods.
 
 <img src="/images/Traffic%20Management%20Plan.jpeg" 
-     style="width:65%">
+     style="width:80%">
 		 
 		 
 ##### Table 1: Access Gates and Opening Periods
-
-![](/images/table1.png)
+<img src="/images/Picture1.png" 
+     style="width:100%">
 
 Vehicles Entering and Exiting School
 ------------------------------------
