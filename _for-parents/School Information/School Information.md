@@ -9,6 +9,8 @@ third_nav_title: School Information
 
 <img src="/images/School Curriculum Hours.jpg" 
      style="width:90%">
+<center><br>CCA will be conducted on Wednesdays during curriculum hours.</center>
+<center>Student selected for Niche CCAs will be informed of their CCA timing by their CCA teachers.</center>
 
 **2\. Visits To School**
 
