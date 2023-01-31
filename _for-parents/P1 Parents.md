@@ -67,8 +67,8 @@ We strongly encourage you to sign up to reduce the out-of-pocket educational exp
 Please sign up for the Standing Order [here](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59). Singpass login will be required.
 
 **5.**     **Apply for 2023 MOE Financial Assistance Scheme (FAS)**
-<img style="width:80%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
-<img style="width:50%" src="/images/current and revised income eligibility tiers.jpeg"><br>
+<img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
+<img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
 
 Please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
