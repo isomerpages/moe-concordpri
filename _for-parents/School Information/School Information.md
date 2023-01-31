@@ -112,5 +112,3 @@ For the safety of the students and staff of the school, we seek the cooperation 
 	*   School Website: <a href=" https://concordpri.moe.edu.sg"><span style="text-decoration:none;color:#1A7BDF"><b>https://concordpri.moe.edu.sg</b></span></a>
 
 *   Parents are strongly encouraged to attend school engagement sessions such as Parent-Teacher Conference (PTC), Parent-Child-Teacher-Conference (PCTC) and parents’ briefings. These are important platforms for parents to understand their child’s learning process and how they can better support his/her holistic development. We seek your fullest support to attend all school engagement sessions.
-
- <a href="/files/FAQs-for-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.
