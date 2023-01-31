@@ -20,8 +20,8 @@ third_nav_title: School Information
 </colgroup>
 <tbody>
 <tr>
-    <td class="tg-lpkg">No.</td>
-    <td class="tg-lpkg">Services</td>
+	<td class="tg-lpkg"><b>No.</b></td>
+	<td class="tg-lpkg"><b>Services</b></td>
 </tr>
 <tr>
     <td class="tg-n1ni">1.</td>
