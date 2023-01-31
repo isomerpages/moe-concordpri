@@ -39,7 +39,7 @@ third_nav_title: School Information
 </tr>
 <tr>
     <td class="tg-n1ni">4.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Group Personal Accident Insurance For Students</span><br><br>Product Fact Sheet <a href="https://concordpri.moe.edu.sg/qql/slot/u754/2022/GPA%20Product%20Fact%20Sheet%202022.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br><a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a></td>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Group Personal Accident Insurance For Students</span><br><br>Product Fact Sheet <a href="/files/Product Fact Sheet Year 2023.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br><a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a></td>
 </tr>
 <tr>
     <td class="tg-n1ni">5.</td>
@@ -50,3 +50,5 @@ third_nav_title: School Information
     <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Student Care Centre</span><br><span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>Phone: <br>98552563<br><br><span style="font-weight:400;font-style:normal">Website: </span><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer"> </a><br>Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
 </tbody>
 </table>
+
+[](/files/Product%20Fact%20Sheet%20Year%202023.pdf)
