@@ -43,8 +43,6 @@ Following which, you can do any of the following:
 
 3) Email SLS Helpdesk after school hours: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) 
 
-  
-
 _\* The SLS Central Helpline will operate after school operating hours_
 
 _(4pm - 9pm on weekdays, 9am - 9pm on Saturday)._
