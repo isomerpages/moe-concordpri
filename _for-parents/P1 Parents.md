@@ -116,7 +116,7 @@ For more information, please refer to this <a href="/files/Big Heart.pdf">pamph
 
 **9.**     **Apply for POSB Smart Buddy Watch**
 
-Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this [pamphlet](https://concordpri.moe.edu.sg/qql/slot/u1056/Smart%20Buddy.pdf) for more details.
+Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
 
   
 
