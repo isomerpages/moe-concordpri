@@ -11,13 +11,13 @@ The Student Learning Space (SLS) is an online platform that will support teachin
 
 <center><b>Student Learning Space</b></center> 
 
-<center>Website: <a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
+<center>Website:<a href=https://vle.learning.moe.edu.sg/login><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
-E-poster for Navigation on SLS Interface: <a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></a>
+E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
 
-SLS User Guide for Students:  <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></a>
+SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
 
-Technical Support:  <a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
+Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
 
 Login Troubleshooting User<br>Guide: <a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 
