@@ -24,7 +24,7 @@ Concord Primary School has partnered with Fei Yue Community Services, the appoin
 Fei Yue Triple P Teaser - <a href="https://youtu.be/OktQSOzQ0oY" target="_blank" rel="noopener noreferrer">https://youtu.be/OktQSOzQ0oY</a>
 
 <img src="/images/Fei Yue Triple P Teaser.png" 
-     style="width:45%">
+     style="width:25%">
 		 
 Fei Yue also organizes various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
 		 
