@@ -59,3 +59,5 @@ Overview of SEXUALITY Education Programme
 At Concord Primary School, the following lessons will be taught 2023:
 ---------------------------------------------------------------------
 
+<img src="/images/Fei%20Yue%20Logo.png" 
+     style="width:25%">
