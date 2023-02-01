@@ -1,9 +1,8 @@
 ---
 title: FamilyMatters @ School
-permalink: /for-parents/familymatters-at-school
+permalink: /for-parents/familymatters-at-school/
 description: ""
 ---
-
 <img src="/images/Fei%20Yue%20Logo.png" 
      style="width:25%">
 
@@ -13,6 +12,16 @@ Fei Yue Community Services, a social service agency established since 1996, has 
   
 Happy healthy parents make happy healthy children. Fei Yue aims to reduce the stress of parenting and make parenting more enjoyable and rewarding. They look forward to walking with parents in the parenting journey. 
 
-For more information on the services rendered by our partners do click on the link below :
+**Parenting Support Programmes**  
 
-[www.fycs.org](http://www.fycs.org/)
+There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why [Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/) can help.
+
+Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).
+
+Concord Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at [https://go.fycs.org/PSS](https://go.fycs.org/PSS).
+
+[Fei Yue Triple P Teaser](https://youtu.be/OktQSOzQ0oY) (https://youtu.be/OktQSOzQ0oY)
+
+Fei Yue also organizes various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
+
+For enquiries, please contact Fei Yue’s Programme Executive, Ms Joanne Chua, at [joannechua@fycs.org](mailto:joannechua@fycs.org) or 84286112.
