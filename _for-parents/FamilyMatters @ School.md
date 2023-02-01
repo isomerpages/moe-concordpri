@@ -18,7 +18,8 @@ There is no hard and fast rule book for raising children, but it is surprising h
 
 Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).
 
-Concord Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at [https://go.fycs.org/PSS](https://go.fycs.org/PSS).
+Concord Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at 
+<a href="https://go.fycs.org/PSS" target="_blank" rel="noopener noreferrer">https://go.fycs.org/PSS</a>
 
 [Fei Yue Triple P Teaser](https://youtu.be/OktQSOzQ0oY) (https://youtu.be/OktQSOzQ0oY)
 
