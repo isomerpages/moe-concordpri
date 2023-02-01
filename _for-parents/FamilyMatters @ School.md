@@ -21,7 +21,7 @@ Triple P is one of the few parenting programmes in the world that is based on s
 Concord Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at 
 <a href="https://go.fycs.org/PSS" target="_blank" rel="noopener noreferrer">https://go.fycs.org/PSS</a>
 
-[Fei Yue Triple P Teaser](https://youtu.be/OktQSOzQ0oY) (https://youtu.be/OktQSOzQ0oY)
+Fei Yue Triple P Teaser - <a href="https://youtu.be/OktQSOzQ0oY" target="_blank" rel="noopener noreferrer">https://youtu.be/OktQSOzQ0oY</a>
 
 Fei Yue also organizes various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
 
