@@ -14,7 +14,7 @@ Happy healthy parents make happy healthy children. Fei Yue aims to reduce the st
 
 **Parenting Support Programmes**  
 
-There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why [Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/) can help.
+There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why <a href="https://www.triplep-parenting.net/global/triple-p/" target="_blank" rel="noopener noreferrer">Triple P Positive Parenting Programmes</a> can help.
 
 Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).
 
@@ -28,4 +28,4 @@ Fei Yue Triple P Teaser - <a href="https://youtu.be/OktQSOzQ0oY" target="_blank"
 		 
 Fei Yue also organizes various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. <a href="https://go.fycs.org/FLEsignup2022" target="_blank" rel="noopener noreferrer">https://go.fycs.org/FLEsignup2022</a>
 		 
-For enquiries, please contact Fei Yue’s Programme Executive, Ms Joanne Chua, at [joannechua@fycs.org](mailto:joannechua@fycs.org) or 84286112.
+For enquiries, please contact Fei Yue’s Programme Executive, Ms Joanne Chua, at <a href="mailto:joannechua@fycs.org">joannechua@fycs.org</a> or 84286112.
