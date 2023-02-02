@@ -1,6 +1,6 @@
 ---
 title: Homework Guidelines
-permalink: /for-parents/School-Home-Partnership/homework-guideline
+permalink: /for-parents/School-Home-Partnership/homework-guideline/
 description: ""
 third_nav_title: School Home Partnership
 ---
@@ -55,3 +55,42 @@ Homework is any learning activity that is deemed beneficial for the students’ 
   </tr>
 </tbody>
 </table>
+
+**Role of Parents**  
+
+Parents can consider doing the following to support their children in their learning:
+
+*   Create a home environment free from distraction, conducive for studying and completion of homework; with good light and space for studying.
+*   Set a regular study timetable each day with a definite beginning and ending time.
+*   Check your child’s Student Handbook for the daily list of homework and supervise he/she in completing the homework.
+*   Ensure your child’s timely completion and punctual submission of homework and to complete the school homework before doing tuition work (if any).
+*   Allow your child to complete his/her work independently, where possible.
+*   Be mindful not to overload your child with too many out-of-school activities
+*   Work in partnership with teachers to support your child’s learning and development. Consult teachers on your child’s progress (if needed).
+
+We seek the understanding, support and collaboration of parents as our partners-in-education to ensure that homework is seen as an important component in the teaching and learning process.
+
+**Role of Students**
+
+In order to attain the full benefits from the homework assigned, students should do the following on a daily basis:
+
+*   Refer to the whiteboard in the classroom for the homework and record in Student Handbook.
+*   Seek clarification and/or help on the completion of the given homework (if needed).
+*   Organise textbooks/workbooks, worksheets and files systematically to ease retrieval of homework
+*   Ensure that the homework is brought home to be completed and not left in school.
+*   Complete homework following a study timetable at home.
+*   Have a neat study area at home, which is away from distractions such as the television and the computer.
+*   Complete unfinished classwork and corrections at home if unable to do so during school curriculum hours.
+*   Submit completed homework punctually to teachers.
+
+**Non-Submission and/or Non-Completion of Homework**
+
+Teachers will work with students to find out the reasons for any non-submission and/or non-completion of homework. If need be, a parent-teacher conference will be arranged. If the child is medically excused from school for an extended length of time, arrangements can be made on how the child can be supported with homework and other areas of academic needs.
+
+**Considerations on Daily and Holiday Homework**
+
+In ensuring students’ wellbeing, the school has taken into account the estimated amount of time that students would need to complete their homework on a typical school day and during the weekends. Some students may require less or more time, depending on their individual learning needs and styles.
+
+Homework will not be given over festive periods during term time, e.g. Chinese New Year, Hari Raya Puasa and Deepavali.
+
+During the school holidays (i.e. March, June & Nov-Dec) and the PSLE Marking Exercise, homework may be issued. The school has taken into account the estimated amount of time for students would need to complete their homework during each period. Students are strongly encouraged to engage in reading and self-directed learning during the school holidays to keep themselves meaningfully occupied.
