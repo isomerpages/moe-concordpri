@@ -4,12 +4,11 @@ permalink: /for-parents/School-Home-Partnership/homework-guideline/
 description: ""
 third_nav_title: School Home Partnership
 ---
-**Rationale**
+<span style="color:#1A39DF; font-size:20px"><b>Rationale</b></span>
 
 In Concord Primary School, we believe in the value of homework to help our students consolidate their knowledge and skills, cultivate lifelong good study habits and positive work ethics, and foster self-directed learning. The main aim of this policy is to outline some guiding principles and measures to ensure the effective use of homework as complementary learning activities in tandem with the curriculum taught in school.
 
-**Guiding Principles**
-
+<span style="color:#1A39DF; font-size:20px"><b>Guiding Principles</b></span><br>
 Homework is any learning activity that is deemed beneficial for the students’ learning and is required to be completed outside school curriculum hours. Homework plays an important role in the holistic development of the students. The types and purposes of homework designed and disseminated are as follow:
 
 <style type="text/css">
@@ -56,7 +55,7 @@ Homework is any learning activity that is deemed beneficial for the students’ 
 </tbody>
 </table>
 
-**Role of Parents**  
+<span style="color:#1A39DF; font-size:20px"><b>Role of Parents</b></span>
 
 Parents can consider doing the following to support their children in their learning:
 
@@ -70,8 +69,7 @@ Parents can consider doing the following to support their children in their lear
 
 We seek the understanding, support and collaboration of parents as our partners-in-education to ensure that homework is seen as an important component in the teaching and learning process.
 
-**Role of Students**
-
+<span style="color:#1A39DF; font-size:20px"><b>Role of Students</b></span><br>
 In order to attain the full benefits from the homework assigned, students should do the following on a daily basis:
 
 *   Refer to the whiteboard in the classroom for the homework and record in Student Handbook.
@@ -83,11 +81,11 @@ In order to attain the full benefits from the homework assigned, students should
 *   Complete unfinished classwork and corrections at home if unable to do so during school curriculum hours.
 *   Submit completed homework punctually to teachers.
 
-**Non-Submission and/or Non-Completion of Homework**
+<span style="color:#1A39DF; font-size:20px"><b>Non-Submission and/or Non-Completion of Homework</b></span>
 
 Teachers will work with students to find out the reasons for any non-submission and/or non-completion of homework. If need be, a parent-teacher conference will be arranged. If the child is medically excused from school for an extended length of time, arrangements can be made on how the child can be supported with homework and other areas of academic needs.
 
-**Considerations on Daily and Holiday Homework**
+<span style="color:#1A39DF; font-size:20px"><b>Considerations on Daily and Holiday Homework</b></span>
 
 In ensuring students’ wellbeing, the school has taken into account the estimated amount of time that students would need to complete their homework on a typical school day and during the weekends. Some students may require less or more time, depending on their individual learning needs and styles.
 
