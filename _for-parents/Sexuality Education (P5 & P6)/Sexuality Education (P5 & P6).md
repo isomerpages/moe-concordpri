@@ -58,7 +58,9 @@ Overview of SEXUALITY Education Programme
 
 At Concord Primary School, the following lessons will be taught 2023:
 ---------------------------------------------------------------------
-
+<h4><center>Primary 5</center></h4>
 <img src="/images/P5 SEd 2023 Lesson Plan.jpg" 
      style="width:70%"><br>
-		 <img src="/images/P6 SEd 2023 Lesson Plan.jpg"  style="width:70%">
+<h4><center>Primary 6</center></h4>
+<img src="/images/P6 SEd 2023 Lesson Plan.jpg"  style="width:70%">
+		 
