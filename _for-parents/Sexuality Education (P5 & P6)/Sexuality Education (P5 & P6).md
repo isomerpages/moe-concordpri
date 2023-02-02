@@ -81,4 +81,4 @@ Information for Parents
 
 9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form will be included in the Parents Gateway notification to parents at the start of the year. <span style="color:#1A39DF"><b>The completed opt-out form is to be submitted by 21/01/2023.</b></span>
 
-10\. Parents can contact the school at (Concord_PS@moe.edu.sg or 67632139) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10\. Parents can contact the school at (<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener noreferrer">Concord_PS@moe.edu.sg</a> or 67632139) for discussion or to seek clarification about the school’s Sexuality Education programme.
