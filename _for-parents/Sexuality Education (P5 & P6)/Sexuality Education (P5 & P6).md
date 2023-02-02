@@ -35,7 +35,7 @@ MOE Sexuality Education in Schools
 
 
 
-You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener noreferrer">here</a></span> for more information on MOE Sexuality Education.
+You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener noreferrer">here</a> for more information on MOE Sexuality Education.
 
 Overview of SEXUALITY Education Programme
 -----------------------------------------
