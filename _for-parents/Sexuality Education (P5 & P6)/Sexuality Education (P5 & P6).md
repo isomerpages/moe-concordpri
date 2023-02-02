@@ -63,4 +63,22 @@ At Concord Primary School, the following lessons will be taught 2023:
      style="width:70%"><br>
 <h4><center>Primary 6</center></h4>
 <img src="/images/P6 SEd 2023 Lesson Plan.jpg"  style="width:70%">
-		 
+
+**Please Note:**
+
+**\*****For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
+
+  
+
+  
+
+Information for Parents
+-----------------------
+
+  
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form will be included in the Parents Gateway notification to parents at the start of the year. **The completed opt-out form is to be submitted by 21/01/2023**.
+
+10\. Parents can contact the school at (Concord\_PS@moe.edu.sg or 67632139) for discussion or to seek clarification about the school’s Sexuality Education programme.
