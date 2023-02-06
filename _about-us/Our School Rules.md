@@ -9,8 +9,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jx4{background-color:#FFDFA6;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-icg1{background-color:#FFE8D1;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-8jx4{background-color:#FFDFA6;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-icg1{background-color:#FFE8D1;color:#0C463A;text-align:left;vertical-align:middle}
 .tg .tg-xi4p{background-color:#FFDFA6;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-k1f1{background-color:#F99D1C;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-wrbi{background-color:#FFE8D1;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
