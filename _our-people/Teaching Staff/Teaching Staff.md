@@ -19,10 +19,10 @@ third_nav_title: Teaching Staff
 <col style="width: 257px">
 <col style="width: 234px">
 <col style="width: 284px">
-<col style="width: 280px">
 </colgroup>
+
 <tbody>
-  <tr>
+ <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
