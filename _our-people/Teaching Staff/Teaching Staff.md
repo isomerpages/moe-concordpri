@@ -24,8 +24,8 @@ third_nav_title: Teaching Staff
 <tbody>
  <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
 <span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>	
@@ -82,9 +82,9 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
 <span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br>	
@@ -135,7 +135,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:nor_hayati_salimik@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</span></a><br></td>
 		<td><br></td>
-  </tr>
+</tr>
 </tbody>
 </table>
 			
@@ -146,13 +146,13 @@ third_nav_title: Teaching Staff
 <col style="width: 200px">
 </colgroup>
 <tbody>
-  <tr>
+<tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-	<span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
+<span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
 	<tr>
     <td class="tg-yhj3">P3A<br></td>
     <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</span></a><br></td>
@@ -196,9 +196,9 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br>	
@@ -251,9 +251,9 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
 <span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br>
@@ -307,8 +307,8 @@ third_nav_title: Teaching Staff
   <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
+		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
   </tr>
   
 <span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br>
