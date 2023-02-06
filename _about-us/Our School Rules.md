@@ -33,7 +33,7 @@ description: ""
 <tr>
     <td class="tg-xi4p"><br>Responsibility</td>
     <td class="tg-8jx4"><ul><li>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.</li><li>I will not bring large sums of money, unauthorized electronic devices, card games that can lead to gambling activities, jewelry and handphones to school.</li><li>I will not have in my possession any weapons or weapon-like items that can be used to cause harm to others.</li><li>I will complete and hand in my homework and ensure that time is set aside at home to learn and revise every day.</li></ul></td>
- </tr><br>
+</tr>
 <tr>
     <td class="tg-wrbi"><br>Respect</td>
     <td class="tg-icg1"><ul><li>I will wear the prescribed school uniform. Modifications to the uniform are not allowed.</li><li>Jewellery, multi-ear piercing and tattoos are not part of the prescribed school uniform.</li><li>Moustache, beard and long sideburns are not permitted.</li><li>I will respect all school staff, students and visitors.</li></ul></td>
