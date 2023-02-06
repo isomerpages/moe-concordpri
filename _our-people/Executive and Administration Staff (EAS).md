@@ -22,9 +22,9 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-nrix"><img src="/images/eas1.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/eas2.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas3.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas4.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas5.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold">Mr Tan Yian Chye</span><br>Operations Manager (OM)<br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">tan_yian_chye@moe.edu.sg</span></a></td>
@@ -33,10 +33,10 @@ description: ""
     <td class="tg-yhj3"><span style="font-weight:bold">Mdm Mala</span><br>Admin Executive (AE)<br><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1ABC9C">mala_ramiah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/eas5.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas6.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas7.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas8.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Lee Sook Hoon</span><br>Admin Executive (AE)<br><a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">lee_sook_hoon@moe.edu.sg</span></a></td>
@@ -45,10 +45,10 @@ description: ""
     <td class="tg-yhj3"><span style="font-weight:bold">Miss Dawn Lum</span><br>Corporate Support Officer<br> (CSO)<br><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas11.jpeg"></td>
-		<td class="tg-nrix"><img src="/images/test12.jpg"></td>
+    <td class="tg-nrix"><img src="/images/test12.jpg"></td>
+		<td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
