@@ -60,7 +60,7 @@ description: ""
  <td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
 </tr>
 <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mr Suzana</span><br>Receptionist<br></td>  
+    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Suzana</span><br>Receptionist<br></td>  
 </tr>
 </tbody>
 </table>
