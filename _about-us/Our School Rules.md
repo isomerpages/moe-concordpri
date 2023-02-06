@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
   <td class="tg-wrbi"><br>Care</td>
-  <td class="tg-icg1"><ul><li>I will help to keep the school premises clean and take care of the school property.</li><ul></td>
+  <td class="tg-icg1"><ul><li>I will help to keep the school premises clean and take care of the school property.</li></ul></td>
 </tr>
 <tr>
     <td class="tg-xi4p"><br>Responsibility</td>
