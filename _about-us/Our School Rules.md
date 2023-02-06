@@ -19,7 +19,7 @@ description: ""
 <colgroup>
 <col style="width: 337px">
 <col style="width: 390px">
-</colgrou
+</colgroup>
 	
 <tbody>
   <tr>
