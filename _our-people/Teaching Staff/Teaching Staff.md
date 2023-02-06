@@ -143,7 +143,7 @@ third_nav_title: Teaching Staff
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
-<col style="width: 284px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
   <tr>
@@ -186,12 +186,12 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<table class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
-<col style="width: 257px">
+<col style="width: 80px">
 <col style="width: 234px">
-<col style="width: 284px">
-<col style="width: 280px">
+<col style="width: 240px">
+<col style="width: 240px">
 </colgroup>
 <tbody>
   <tr>
@@ -241,12 +241,12 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<table class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
-<col style="width: 257px">
+<col style="width: 80px">
 <col style="width: 234px">
-<col style="width: 284px">
-<col style="width: 280px">
+<col style="width: 240px">
+<col style="width: 240px">
 </colgroup>
 <tbody>
   <tr>
@@ -296,9 +296,9 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<table class="tg" style="undefined;table-layout: fixed; width: 878px">
 <colgroup>
-<col style="width: 257px">
+<col style="width: 80px">
 <col style="width: 234px">
 <col style="width: 284px">
 <col style="width: 280px">
