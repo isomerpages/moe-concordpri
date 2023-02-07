@@ -4,7 +4,8 @@ permalink: /departments/pe-n-aesthetics/
 description: ""
 ---
 ![](/images/PHYSICAL%20EDUCATION%20%20MUSIC_P1.jpeg)
-
+<img src="/images/Student-Leadership-Framework.jpeg" 
+     style="width:70%">
 Mission
 -------
 
