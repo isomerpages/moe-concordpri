@@ -20,7 +20,6 @@ third_nav_title: Teaching Staff
 <col style="width: 234px">
 <col style="width: 284px">
 </colgroup>
-
 <tbody>
  <tr>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
@@ -28,7 +27,7 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>	
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
 	<tr>
     <td class="tg-yhj3">P1A<br></td>
     <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
