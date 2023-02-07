@@ -1,11 +1,12 @@
 ---
 title: Concord's Prefectorial Board
-permalink: /departments/Student-Management/concords-prefectorial-board
+permalink: /departments/Student-Management/concords-prefectorial-board/
 description: ""
 third_nav_title: Student Management
 ---
-![](/images/Student-Leadership-Framework.jpeg)
-
+<img src="/images/Student-Leadership-Framework.jpeg" 
+     style="width:70%">
+		 
 The Five Practices of The Leadership Challenge Model and the key behavior of Prefects are as shown in the table below:
 
 <style type="text/css">
