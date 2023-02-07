@@ -1,10 +1,12 @@
 ---
 title: Mother Tongue Language
-permalink: /departments/mtl
+permalink: /departments/mtl/
 description: ""
 ---
-![](/images/MOTHER%20TONGUE%20_P1.jpeg)
 
+<img src="/images/MOTHER TONGUE _P1.jpeg" 
+     style="width:70%">
+		 
 Vision:
 -------
 
