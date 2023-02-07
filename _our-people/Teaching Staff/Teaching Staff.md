@@ -27,7 +27,7 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>
 	<tr>
     <td class="tg-yhj3">P1A<br></td>
     <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
@@ -151,7 +151,7 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-<span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br>
+<span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
 	<tr>
     <td class="tg-yhj3">P3A<br></td>
     <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</span></a><br></td>
