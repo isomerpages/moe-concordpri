@@ -1,9 +1,10 @@
 ---
 title: Information and Communications Technology (ICT)
-permalink: /departments/ict
+permalink: /departments/ict/
 description: ""
 ---
-![](/images/ict1.jpeg)
+<img src="/images/ict1.jpeg" 
+     style="width:70%">
 
 The ICT department strives to harness ICT to transform teaching and learning landscape by Exploring, Experimenting and Enriching teaching and learning through ICT. Aspiring for our students to become Future-Ready and Responsible Digital Learners, the school approaches the use of technology through 2 dimensions, namely Learning about ICT and Learning With ICT. To prepare our students to be Future-Ready Digital Learners, we aim to
 
@@ -60,6 +61,6 @@ In 2014, the Cyber Wellness Student Ambassador Programme (CWSTAR) was implemente
 Concord’s Student Cyber Wellness Pledge is a feature in our Student Handbook where it is an opportunity for students to bond with their parents as they discuss in the pledge, Likewise, Parent Cyber Wellness Pledge is conducted on an app, SG ConneXion. The app was designed and developed by our Cyber Wellness Student Ambassadors in 2015. By pledging their commitment to take an active role in educating their children in Cyber Wellness, parents signal the importance of upholding positive influence and positive actions in the online space to their children.  
 
 <img src="/images/ict6.jpeg" 
-     style="width:35%">
+     style="width:35%; align:right">
 		 
 Explicit cyber wellness lessons are integrated into FTGP and CCE curriculum. In addition, Primary 4 students undergo a 3-day workshop on Media Literacy to provide them with skills to evaluate media effectively and to use, create and share content safely and responsibly. In-house Cyber Wellness competition also provides students a fun way to learn and share cyber wellness tips and messages.
