@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Science
 ---
 ![](/images/SCIENCE%20P1.jpeg)
-
+<img src="/images/Student-Leadership-Framework.jpeg" 
+     style="width:70%">
 <head>
 <style>
 body {font-family: helvetica, sans serif:}
