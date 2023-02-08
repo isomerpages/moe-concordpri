@@ -56,7 +56,17 @@ Students will be exposed to a variety of listening texts, encouraged to speak co
 Primary 1/2 Drama Performance
 -----------------------------
 
-![](/images/DRAMA%201.jpeg)
-<img src="/images/English Reading V2.png" 
+<img src="/images/DramaPerformance01V2.jpg" 
      style="width:80%">
-![](/images/dRAMA%202.jpeg)
+		 
+<img src="/images/DramaPerformance02V2.jpg" 
+     style="width:80%">
+
+Primary 2 Puppetry
+-----------------------------
+
+<img src="/images/P2Puppetry01V2.jpg" 
+     style="width:80%">
+		 
+<img src="/images/P2Puppetry02V2.jpg" 
+     style="width:80%">
