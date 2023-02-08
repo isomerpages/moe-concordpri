@@ -182,7 +182,7 @@ Different Types of Learning
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
 
-<span style="color:#0000FF; font-size:18px"><b>Other Programmes</b></span>
+<span style="color:#0000FF; font-size:18px"><b>Other Programmes</b></span><br>
 
 <ul>
 	<li><b>Parent Symposium</b></li>
