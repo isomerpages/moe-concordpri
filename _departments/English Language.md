@@ -4,7 +4,7 @@ permalink: /departments/english/
 description: ""
 ---
 <img src="/images/ENGLISH LANGUAGE_P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 
 Vision
 -------
