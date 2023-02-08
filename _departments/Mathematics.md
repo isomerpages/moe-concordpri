@@ -9,7 +9,7 @@ description: ""
 Vision
 -------
 
-Cultivating interest, developing problem solving skills and confidence in Mathematics.
+<p style="text-align:justify">Cultivating interest, developing problem solving skills and confidence in Mathematics.
 
 Mission
 --------
@@ -19,7 +19,7 @@ Explore, Experience and Discover Mathematics.
 Department Framework
 ---------------------
 
-The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.
+<p style="text-align:justify">The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.
 
 Aims of the Mathematics Department:
 
@@ -35,7 +35,7 @@ Key Programmes
 
 <span style="color:#0000FF; font-size:18px"><b>Fostering Joy of Learning through Learning Experiences</b></span>
 
-Opportunities are created for our students to explore, experience and discover Mathematics through the daily lessons and Math programmes. The use of manipulative, ICT tools and Math conversation/ Math talks are ways to enhance the learning experiences in the Math lessons to instil joy of learning. Besides enhancing our students’ experiences so as to enable them to understand concepts, acquire Mathematical skills and be able to apply to real-life situations, activities are customised to allow our students to think flexibly and use creative approaches to solve problems
+<p style="text-align:justify">Opportunities are created for our students to explore, experience and discover Mathematics through the daily lessons and Math programmes. The use of manipulative, ICT tools and Math conversation/ Math talks are ways to enhance the learning experiences in the Math lessons to instil joy of learning. Besides enhancing our students’ experiences so as to enable them to understand concepts, acquire Mathematical skills and be able to apply to real-life situations, activities are customised to allow our students to think flexibly and use creative approaches to solve problems
 
 <u><b>Use of manipulative in the lessons (P1 to 6)</b></u>
 
@@ -43,24 +43,24 @@ Opportunities are created for our students to explore, experience and discover M
 ![](/images/m2.png)
 
 <u><b>Use of ICT tools</b></u>   
-ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.
+<p style="text-align:justify">ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.
 
 ![](/images/m3.png)
 
 <u><b>Math Playground (Primary 1 to 2)</b></u>.  
-Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.  
+<p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.  
 
 <span style="color:#0000FF; font-size:18px"><b>Alternative mode of assessments (Primary 1 to 6)</b></span>
 
 <u><b>Math Performance Tasks</b></u>   
-Mathematics Performance Task is one of the alternative assessments to enable the students to apply the mathematical concepts and skills through hands-on activities independently. It also enables the teachers to assess and guide students to improve their learning. Through the activities designed for our students, the teachers will give feedback and highlight some of the misconceptions which the students have to allow them to move forward and to improve in their learning.  
+<p style="text-align:justify">Mathematics Performance Task is one of the alternative assessments to enable the students to apply the mathematical concepts and skills through hands-on activities independently. It also enables the teachers to assess and guide students to improve their learning. Through the activities designed for our students, the teachers will give feedback and highlight some of the misconceptions which the students have to allow them to move forward and to improve in their learning.  
 
 <u><b>Math Reasoning Tasks</b></u>   
-Mathematical Reasoning Tasks have been crafted to develop students’ mathematical reasoning, communication and connections. Through hands-on activities and class discussions, students are given platforms to make use of the mathematical language to express their mathematical ideas. This will help them develop their mathematical understanding and deepen their thinking in various problem-solving contexts. At the same time, teachers can also assess on students’ understanding of concepts and provide feedback for improvement.  
+<p style="text-align:justify">Mathematical Reasoning Tasks have been crafted to develop students’ mathematical reasoning, communication and connections. Through hands-on activities and class discussions, students are given platforms to make use of the mathematical language to express their mathematical ideas. This will help them develop their mathematical understanding and deepen their thinking in various problem-solving contexts. At the same time, teachers can also assess on students’ understanding of concepts and provide feedback for improvement.  
   
 <span style="color:#0000FF; font-size:18px"><b>Developing Metacognition and Problem-Solving skills (Primary 1 to 6)</b></span>
 
-S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - <u><b>S</b></u>top, <u><b>T</b></u>hink, <u><b>A</b></u>ct, <u><b>R</b></u>eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
+<p style="text-align:justify">S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - <u><b>S</b></u>top, <u><b>T</b></u>hink, <u><b>A</b></u>ct, <u><b>R</b></u>eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
 The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.
 
 ![](/images/m4.png)
@@ -68,14 +68,14 @@ The S.T.A.R. approach was customised into two versions. One for the Primary 1 an
 <span style="color:#0000FF; font-size:18px"><b>Developing students' interest and talent in Mathematics</b></span>
 
 <u><b>E2K Mathematics Programme (P4 and 5)</b></u>    
-This programme was developed by Israel Centre for Excellence through Education (ICEE).  It was conceptualized as a Mathematics enrichment programme for upper primary students who demonstrate strong interest and ability in Mathematics.  
+<p style="text-align:justify">This programme was developed by Israel Centre for Excellence through Education (ICEE).  It was conceptualized as a Mathematics enrichment programme for upper primary students who demonstrate strong interest and ability in Mathematics.  
 The programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness and to enhance critical and inventive thinking and effective communication skills.  
   
 <u><b>Math Olympiad Enrichment Programme (Primary 4 and 5)</b></u>  
-The objectives of the programme are to enrich and stretch our students’ learning in Mathematics. Through this programme, students have the opportunities to deepen their thinking and be equipped with strategies to solve non-routine and higher order challenges.  
+<p style="text-align:justify">The objectives of the programme are to enrich and stretch our students’ learning in Mathematics. Through this programme, students have the opportunities to deepen their thinking and be equipped with strategies to solve non-routine and higher order challenges.  
   
 <u><b>Math Competitions (Primary 4 to 6)</b></u>  
-The objectives of participating in Math competitions are to expose our students to intellectually challenging mathematical questions, to challenge and stretch their mathematical potential, to stimulate their interest and ignite their passion in Mathematics. Our students have been exposed to the following competitions:  
+<p style="text-align:justify">The objectives of participating in Math competitions are to expose our students to intellectually challenging mathematical questions, to challenge and stretch their mathematical potential, to stimulate their interest and ignite their passion in Mathematics. Our students have been exposed to the following competitions:  
 
 *   Raffles Institution Primary Mathematics World Contest (RIPMWC)
 *   National Mathematical Olympiad of Singapore (NMOS)
