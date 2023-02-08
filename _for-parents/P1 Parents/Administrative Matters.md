@@ -4,17 +4,14 @@ permalink: /for-parents/Administrative-Matters/
 description: ""
 third_nav_title: P1 Parents
 ---
-
-
-
 Administrative Matters
 ======================
 
-In preparation for your child’s entry to Primary One in 2023, please complete the following administrative tasks before the P1 Orientation Day on 18 Nov 2022.
+<p style="text-align:justify">In preparation for your child’s entry to Primary One in 2023, please complete the following administrative tasks before the P1 Orientation Day on 18 Nov 2022.
 
 **1.**     **Onboard The Parents Gateway App**
 
-Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
+<p style="text-align:justify">Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
 
 <img style="width:65%" src="/images/Introducing Parents Gateway.jpg"><br>
 
@@ -39,24 +36,24 @@ Please download and install the Parents Gateway app. The instructions to onboard
 </tbody>
 </table>
 
-All future announcements from the school will be made via Parents Gateway.
+<p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
 
 **2.**     **Provide Additional Information for Form Teachers**
 
-Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this [link](https://go.gov.sg/cps-pupilprofile).
+<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this [link](https://go.gov.sg/cps-pupilprofile).
 
 **3.**     **Apply for GIRO**
 
-GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and standard miscellaneous fees.
+<p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and standard miscellaneous fees.
 
-Parents/guardians will be able to apply for GIRO online for payment of school fees and charges from **5 Dec 2022**.  The link will be available through Parents Gateway (PG) app. Parents will have up till 15 January 2023 to sign up for GIRO for the first deduction in Feb 2023.
+<p style="text-align:justify">Parents/guardians will be able to apply for GIRO online for payment of school fees and charges from **5 Dec 2022**.  The link will be available through Parents Gateway (PG) app. Parents will have up till 15 January 2023 to sign up for GIRO for the first deduction in Feb 2023.
 
-This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
+<p style="text-align:justify">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
   
 
 **4.**     **Apply for** **EDUSAVE Account Standing Order** **_(For Singapore Citizens only)_**
 
-The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do not need to match the contributions.
+<p style="text-align:justify">The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do not need to match the contributions.
 
 The Edusave funds can be used for:
 
@@ -66,7 +63,7 @@ The Edusave funds can be used for:
 
   
 
-We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
+<p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
 Please sign up for the Standing Order [here](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59). Singpass login will be required.
 
@@ -76,7 +73,7 @@ Please sign up for the Standing Order [here](https://form.gov.sg/#!/5be24a1bb3f
 
 Please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
- i. Please do **NOT** purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is **strictly no refund**.
+i. Please do NOT purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is **strictly no refund**.
 
  ii. Apply for FAS [here](https://go.gov.sg/moe-efas). Singpass login will be required.
 
@@ -97,7 +94,7 @@ d. family with more than 3 grandparents in the household
 
 **6.**     **Purchase School Books and Uniform**
 
-Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between **9 am to 3 pm**. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
+<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between **9 am to 3 pm**. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
 
 Bookshop: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
@@ -106,7 +103,7 @@ Bookshop: [https://www.pacificbookstores.com](https://www.pacificbookstores.com
 
 **7.    Apply for School Bus Services**  
 
-Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
+<p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
 
 School Bus Vendor: [https://forms.gle/mAakGAAHrt2mt7cY8](https://forms.gle/mAakGAAHrt2mt7cY8)
 
@@ -120,10 +117,10 @@ For more information, please refer to this <a href="/files/Big Heart.pdf">pamph
 
 **9.**     **Apply for POSB Smart Buddy Watch**
 
-Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
+<p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
 
   
 
 **10.**  **Complete Student Details Form (SDF)**
 
-Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.
+<p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.
