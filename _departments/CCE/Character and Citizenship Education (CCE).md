@@ -5,17 +5,17 @@ description: ""
 third_nav_title: CCE
 ---
 <img src="/images/Character and Citizen Education_P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 		 
 Vision
 ------
 
-Every Concordian is a morally upright and socially responsible citizen with cross-cultural sensitivity and global awareness.
+<p style="text-align:justify">Every Concordian is a morally upright and socially responsible citizen with cross-cultural sensitivity and global awareness.
 
 Mission
 -------
 
-To nurture every Concordian to be a caring, motivated and resilient person.
+<p style="text-align:justify">To nurture every Concordian to be a caring, motivated and resilient person.
 
 DEPARTMENT’S HIGHLIGHTS
 -----------------------
