@@ -9,4 +9,4 @@ description: ""
 
 ##### Virtual Tour
 
-(unable to embed the virtual directly onto isomer; can instead link an external source of the tour onto isomer)
+Please click [here](https://kuula.co/share/collection/7P3Nl?fs=1&vr=0&zoom=1&sd=1&gyro=0&initload=0&autorotate=0.16&thumbs=1&alpha=0.91&inst=0&info=0&logo=-1) for the school Virtual Tour.
