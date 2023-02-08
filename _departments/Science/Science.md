@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 ---
 <img src="/images/SCIENCE P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 <head>
 <style>
 body {font-family: helvetica, sans serif:}
