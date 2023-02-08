@@ -14,18 +14,18 @@ Passionate Learners of the English Language.
 Mission
 --------
 
-To nurture Concordians to be engaged listeners, passionate and avid readers, effective speakers and writers of Standard English.
+<p style="text-align:justify">To nurture Concordians to be engaged listeners, passionate and avid readers, effective speakers and writers of Standard English.
 
 Department's Highlights
 ------------------------
 
-The EL department is committed in ensuring that our students grow up to be confident and competent users of the English Language. We focus on the acquisition of the 4 key English Language skills of reading, listening, speaking and writing.
+<p style="text-align:justify">The EL department is committed in ensuring that our students grow up to be confident and competent users of the English Language. We focus on the acquisition of the 4 key English Language skills of reading, listening, speaking and writing.
 
   
 
 #### <u>READING</u>
 
-The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
+<p style="text-align:justify">The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
 
 <img src="/images/English Reading V2.png" 
      style="width:80%">
@@ -42,13 +42,13 @@ The school has an extensive and whole-school approach Reading Programme to cater
 #### **WRITING**
 
 
-Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
+<p style="text-align:justify">Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
 
 ![](/images/e1.png)
 
 #### **LISTENING & SPEAKING**
 
-Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
+<p style="text-align:justify">Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
 
 ![](/images/e2.png)
 ![](/images/e3.png)
