@@ -7,11 +7,11 @@ description: ""
      style="width:25%">
 
 
-Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
+<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
 
 **You will need your SingPass to log into Parents Gateway.** 
 
-For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
+<p style="text-align:justify">For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
 
 1.    [Onboarding Video for Parents](https://frontierpri.moe.edu.sg/wp-content/uploads/2020/10/Parents-Gateway-Onboarding-video-for-Parents.mp4) <br>
 2. <a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
