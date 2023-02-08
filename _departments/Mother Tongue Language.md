@@ -3,23 +3,22 @@ title: Mother Tongue Language
 permalink: /departments/mtl/
 description: ""
 ---
-
 <img src="/images/MOTHER TONGUE _P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 		 
-Vision:
+Vision
 -------
 
 Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
 
-Mission:
+Mission
 --------
 
 *   To make Mother Tongue a “living” language.
 *   To develop a lifelong interest in Mother Tongue language (MTL) and its culture.
 *   To inculcate cross-cultural understanding among the students of the different races.
 
-Department's Highlights:
+Department's Highlights
 ------------------------
 
 The Mother Tongue Language (MTL) Department is committed to providing platforms for Concordians to acquire their chosen MT language more effectively in view of the changing language environment at home and within the community.
