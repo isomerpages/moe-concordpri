@@ -31,7 +31,7 @@ The school has an extensive and whole-school approach Reading Programme to cater
 
 **#TheQUEST Library**
 ![](/images/READING%20SCHEDULE.png)
-
+![](/images/English%20Reading%20V2.png)
 
 <iframe width="720" height="404" src="https://www.youtube.com/embed/Ag_Jz3wSBi0" title="Best Reading Corner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
