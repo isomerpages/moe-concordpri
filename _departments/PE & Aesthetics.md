@@ -4,7 +4,7 @@ permalink: /departments/pe-n-aesthetics/
 description: ""
 ---
 <img src="/images/PHYSICAL EDUCATION  MUSIC_P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 		 
 Mission
 -------
@@ -85,11 +85,11 @@ Aesthetics Framework (Art and Music)
 
   
 
-<p style="text-align:justify">Vision - Develop the **attitude** and **aptitude** to live an enriched life through the Arts
+<p style="text-align:justify">Vision - Develop the <b>attitude</b> and <b>aptitude</b> to live an enriched life through the Arts
 
   
 
-<p style="text-align:justify">Mission - Through exposure to the Arts experience in Concord Primary School, we aspire to nurture Concordians to be **confident**, **expressive** and **reflective** learners who can connect with the society and people across all cultures.
+<p style="text-align:justify">Mission - Through exposure to the Arts experience in Concord Primary School, we aspire to nurture Concordians to be <b>confident</b>, <b>expressive</b> and <b>reflective</b> learners who can connect with the society and people across all cultures.
 
   
 
