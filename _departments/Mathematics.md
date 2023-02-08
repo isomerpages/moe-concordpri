@@ -4,7 +4,7 @@ permalink: /departments/mathematics/
 description: ""
 ---
 <img src="/images/MATHEMATICS_P1.jpeg" 
-     style="width:70%">
+     style="width:80%">
 		 
 Vision
 -------
