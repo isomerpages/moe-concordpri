@@ -27,11 +27,15 @@ The EL department is committed in ensuring that our students grow up to be confi
 
 The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
 
-![](/images/READING.png)
-
+<img src="/images/English Reading V2.png" 
+     style="width:80%">
+		 
 **#TheQUEST Library**
-![](/images/READING%20SCHEDULE.png)
-![](/images/English%20Reading%20V2.png)
+
+<b><u>SCHEDULE FOR MRL MONTHLY THEMES</u></b>
+		 
+<img src="/images/MRL%20monthly%20themes%20V2.png" 
+     style="width:80%">
 
 <iframe width="720" height="404" src="https://www.youtube.com/embed/Ag_Jz3wSBi0" title="Best Reading Corner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,5 +57,6 @@ Primary 1/2 Drama Performance
 -----------------------------
 
 ![](/images/DRAMA%201.jpeg)
-
+<img src="/images/English Reading V2.png" 
+     style="width:80%">
 ![](/images/dRAMA%202.jpeg)
