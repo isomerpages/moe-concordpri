@@ -1,14 +1,14 @@
 ---
 title: Niche Co Curricular Activities (CCA)
-permalink: /cca/Niche-Co-Curricular-Activities/Niche-Co-Curricular-Activities
+permalink: /cca/Niche-Co-Curricular-Activities/Niche-Co-Curricular-Activities/
 description: ""
 third_nav_title: Niche Co Curricular Activities
 ---
 ### Talent Development Programme
 
-The **Niche CCA** programme is aimed at providing opportunities to those students with  natural aptitute for either Sports or the Arts, with the aim of further enhancing their natural talent and skills.
+<p style="text-align:justify">The <b>Niche CCA</b> programme is aimed at providing opportunities to those students with  natural aptitute for either Sports or the Arts, with the aim of further enhancing their natural talent and skills.
 
-Students who have demonstrated Sports and Performing Arts related savviness, are identified and placed accordingly in the appropriate CCA.
+<p style="text-align:justify">Students who have demonstrated Sports and Performing Arts related savviness, are identified and placed accordingly in the appropriate CCA.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -44,21 +44,16 @@ Students who have demonstrated Sports and Performing Arts related savviness, are
 </tbody>
 </table>
 
-Primary 1 and 2 students undergo a talent identification process for Performing Arts CCAs. Students who demonstrate special aptitude for singing and music will be identified and offered the Choir and Band CCA respectively.
+<p style="text-align:justify">Primary 1 and 2 students undergo a talent identification process for Performing Arts CCAs. Students who demonstrate special aptitude for singing and music will be identified and offered the Choir and Band CCA respectively.
 
   
 
-P3 students undergo talent identification during the Modular CCA Sports Module (Term 1, Weeks 1-10). During the 10 weeks, all students will be exposed to the basic skills of 4 Niche Sports CCAs, conducted by the teachers in charge of each respective CCA. Students who demonstrate keen interest and savviness for the sports, will be matched accordingly.   
+<p style="text-align:justify">P3 students undergo talent identification during the Modular CCA Sports Module (Term 1, Weeks 1-10). During the 10 weeks, all students will be exposed to the basic skills of 4 Niche Sports CCAs, conducted by the teachers in charge of each respective CCA. Students who demonstrate keen interest and savviness for the sports, will be matched accordingly.   
 
-  
+<p style="text-align:justify">The same identification process is employed when the P3 students undergo the Modular CCA Dance Module. Students who demonstrate special aptitude for dance will be offered either the Indian or International Dance CCA.
 
-  
-
-The same identification process is employed when the P3 students undergo the Modular CCA Dance Module. Students who demonstrate special aptitude for dance will be offered either the Indian or International Dance CCA.
-
-  
-
-All Nice CCAs will have <u>qualified MOE-registered instructors and coaches</u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
+ 
+<p style="text-align:justify">All Nice CCAs will have <u>qualified MOE-registered instructors and coaches</u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
 
 Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 
