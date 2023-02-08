@@ -7,7 +7,7 @@ third_nav_title: Student Management
 <img src="/images/Student-Leadership-Framework.jpeg" 
      style="width:70%">
 		 
-The Five Practices of The Leadership Challenge Model and the key behavior of Prefects are as shown in the table below:
+<p style="text-align:justify">The Five Practices of The Leadership Challenge Model and the key behavior of Prefects are as shown in the table below:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -103,14 +103,14 @@ Key Programmes/events
 
 *   **Daily Duties**
 
-The prefects are involved in various duties such as recess duties, late-comers duty, and pledge taking duties. The prefects also actively support the school programmes by taking on roles of emcees and prefects ushers.
+<p style="text-align:justify">The prefects are involved in various duties such as recess duties, late-comers duty, and pledge taking duties. The prefects also actively support the school programmes by taking on roles of emcees and prefects ushers.
 
 ![](/images/pb7.png)
 ![](/images/pb8.png)
 
 *   **Prefects Investiture**
 
-The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
+<p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
 
 ![](/images/pb9.png)
 
@@ -127,7 +127,7 @@ The Prefects Investiture, which is held in term 2, is an important ceremony held
 
 *   **Prefects Camp 2021**  
 
-The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
+<p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
 
 ![](/images/pb14.jpeg)
 
@@ -137,7 +137,7 @@ The Prefects camp will be carried out in September. The day camp aims to enhance
 
 * **Teachers’ Day Celebration**
 
-Every year, the prefects put together a performance and the Executive Committee prefects will put together a gift to show appreciation to the school on this special day.
+<p style="text-align:justify">Every year, the prefects put together a performance and the Executive Committee prefects will put together a gift to show appreciation to the school on this special day.
 
 ![](/images/pb17.jpeg)
 
