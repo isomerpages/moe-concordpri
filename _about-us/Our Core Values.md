@@ -1,11 +1,11 @@
 ---
 title: Our Core Values
-permalink: /about-us/our-core-values
+permalink: /about-us/our-core-values/
 description: ""
 ---
 ### Level Value Adoption Programme
 
-There are six Core Values in the school. Each value is adopted by a level which reinforces the value through various activities. All Concordians participate in all the value-related activities throughout the year.
+<p style="text-align:justify">There are six Core Values in the school. Each value is adopted by a level which reinforces the value through various activities. All Concordians participate in all the value-related activities throughout the year.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -14,8 +14,8 @@ There are six Core Values in the school. Each value is adopted by a level which 
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7i5p{background-color:#F99D1C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hw2{background-color:#FFE8D1;color:#0C463A;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0ert{background-color:#FFDFA6;color:#0C463A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hw2{background-color:#FFE8D1;color:#0C463A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0ert{background-color:#FFDFA6;color:#0C463A;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 746px">
 <colgroup>
