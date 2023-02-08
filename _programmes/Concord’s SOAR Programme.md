@@ -1,6 +1,6 @@
 ---
 title: Concord’s SOAR Programme
-permalink: /programmes/concords-soar-programme
+permalink: /programmes/concords-soar-programme/
 description: ""
 ---
 **Purpose**:
@@ -13,7 +13,7 @@ The SOAR programme promotes and rewards students for the following :
 *   Displaying **Timeliness** in their actions.
 *   Demonstration of **Leadership** at the class and school level.
 
-The SOAR REDEMPTION Card is a redemption card which enables students to redeem items when they complete a **Tier**. Students are able to redeem customised items which depict the school Mascot in action. Redemption is normally held on the first Friday of the month during recess at the Student Leadership room.
+<p style="text-align:justify">The SOAR REDEMPTION Card is a redemption card which enables students to redeem items when they complete a <b>Tier</b>. Students are able to redeem customised items which depict the school Mascot in action. Redemption is normally held on the first Friday of the month during recess at the Student Leadership room.
 
 ![](/images/SOAR.jpeg)
 
