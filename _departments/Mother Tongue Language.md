@@ -9,7 +9,7 @@ description: ""
 Vision
 -------
 
-Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
+<p style="text-align:justify">Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
 
 Mission
 --------
@@ -21,7 +21,7 @@ Mission
 Department's Highlights
 ------------------------
 
-The Mother Tongue Language (MTL) Department is committed to providing platforms for Concordians to acquire their chosen MT language more effectively in view of the changing language environment at home and within the community.
+<p style="text-align:justify">The Mother Tongue Language (MTL) Department is committed to providing platforms for Concordians to acquire their chosen MT language more effectively in view of the changing language environment at home and within the community.
 
   
 
