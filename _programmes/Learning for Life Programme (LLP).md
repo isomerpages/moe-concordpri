@@ -7,15 +7,15 @@ description: ""
 
 #### Outdoor Education @ Concord
 
-Outdoor Education (OE) was introduced in Concord in 2012. As a recognition of the effective and successful implementation of the OE programmes, MOE affirmed ‘Outdoor Education’ as the school’s Learning for Life Programme (LLP) in April 2014.
+<p style="text-align:justify">Outdoor Education (OE) was introduced in Concord in 2012. As a recognition of the effective and successful implementation of the OE programmes, MOE affirmed ‘Outdoor Education’ as the school’s Learning for Life Programme (LLP) in April 2014.
 
   
 
-Outdoor Education @ Concord is a school-wide programme that involves all students from Primary 1 to Primary 6. The activities are progressively planned to suit the ages of the students. Through these activities, students experience varied levels of challenges and develop ruggedness (physical), resilience (mental & emotional), teamwork (social) and an appreciation of nature and their surrounding environment (aesthetics). Conscientious effort is made in the design of the activities to incorporate the 21 st Century Competencies.
+<p style="text-align:justify">Outdoor Education @ Concord is a school-wide programme that involves all students from Primary 1 to Primary 6. The activities are progressively planned to suit the ages of the students. Through these activities, students experience varied levels of challenges and develop ruggedness (physical), resilience (mental & emotional), teamwork (social) and an appreciation of nature and their surrounding environment (aesthetics). Conscientious effort is made in the design of the activities to incorporate the 21 st Century Competencies.
 
   
 
-A sustained effort is made to embed the emerging 21 st Century Competencies into the design of the programme. By the end of the sixth year, we hope that every student will graduate from Concord as confident, rugged and resilient leaders. With the school’s vision of ‘Caring Hearts, Enriched Minds, Determined Spirits’ as a guiding light, our OE ambassadors will bring OE soaring to new heights in Singapore’s education landscape.
+<p style="text-align:justify">A sustained effort is made to embed the emerging 21 st Century Competencies into the design of the programme. By the end of the sixth year, we hope that every student will graduate from Concord as confident, rugged and resilient leaders. With the school’s vision of ‘Caring Hearts, Enriched Minds, Determined Spirits’ as a guiding light, our OE ambassadors will bring OE soaring to new heights in Singapore’s education landscape.
 
 
 #### Objectives of OE @ Concord
