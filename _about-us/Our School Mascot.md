@@ -7,6 +7,6 @@ Introducing our mascots Connor and Caylee. Connor and Caylee are modelled after 
 
 <img src="/images/Concord Mascot.jpeg" 
      style="width:50%">
-		 
+<br><br>		 
 <iframe width="758" height="515" 
 				src="https://www.youtube.com/embed/K70nE0WhJqE" title="LAUNCH OF MASCOTS @ CONCORD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
