@@ -18,7 +18,7 @@ Mission
 
 <h3>Department's Highlights</h3>
 
-<p style="text-align:justify">The EL department is committed in ensuring that our students grow up to be confident and competent users of the English Language. We focus on the acquisition of the 4 key English Language skills of reading, listening, speaking and writing.
+<p style="text-align:justify">The EL department is committed in ensuring that our students grow up to be confident and competent users of the English Language. We focus on the acquisition of the 4 key English Language skills of reading, listening, speaking and writing.<br><br>
 
   
 
