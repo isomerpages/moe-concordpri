@@ -16,45 +16,42 @@ Mission
 
 <p style="text-align:justify">To nurture Concordians to be engaged listeners, passionate and avid readers, effective speakers and writers of Standard English.
 
-Department's Highlights
-------------------------
+<h3>Department's Highlights</h3>
 
 <p style="text-align:justify">The EL department is committed in ensuring that our students grow up to be confident and competent users of the English Language. We focus on the acquisition of the 4 key English Language skills of reading, listening, speaking and writing.
 
   
 
-#### <u>READING</u>
+<b><u>READING</u></b>
 
 <p style="text-align:justify">The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
 
 <img src="/images/English Reading V2.png" 
-     style="width:80%">
+     style="width:80%"><br>
 		 
-**#TheQUEST Library**
+<b>#TheQUEST Library</b><br>
 
 <b><u>SCHEDULE FOR MRL MONTHLY THEMES</u></b>
 		 
 <img src="/images/MRL%20monthly%20themes%20V2.png" 
      style="width:80%">
 
-<iframe width="720" height="404" src="https://www.youtube.com/embed/Ag_Jz3wSBi0" title="Best Reading Corner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### **WRITING**
+<b><u>WRITING</b></u>
 
 
 <p style="text-align:justify">Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
 
 ![](/images/e1.png)
 
-#### **LISTENING & SPEAKING**
+<b><u>LISTENING & SPEAKING</b></u>
 
 <p style="text-align:justify">Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
+<img src="/images/e2.png" 
+     style="width:80%">
+<img src="/images/e3.png" 
+     style="width:80%"><br>
 
-![](/images/e2.png)
-![](/images/e3.png)
-
-Primary 1/2 Drama Performance
------------------------------
+<h3>Primary 1/2 Drama Performance</h3>
 
 <img src="/images/DramaPerformance01V2.jpg" 
      style="width:80%">
@@ -62,8 +59,7 @@ Primary 1/2 Drama Performance
 <img src="/images/DramaPerformance02V2.jpg" 
      style="width:80%">
 
-Primary 2 Puppetry
------------------------------
+<h3>Primary 2 Puppetry</h3>
 
 <img src="/images/P2Puppetry01V2.jpg" 
      style="width:80%">
