@@ -41,20 +41,23 @@ Mission
 
 <p style="text-align:justify">Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
 
-![](/images/e1.png)
+<img src="/images/e1.png" 
+     style="width:80%">
 
 <b><u>LISTENING & SPEAKING</u></b>
 
 <p style="text-align:justify">Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
+	
 <img src="/images/e2.png" 
      style="width:80%">
+	
 <img src="/images/e3.png" 
      style="width:80%"><br>
 
 <h3>Primary 1/2 Drama Performance</h3>
 
 <img src="/images/DramaPerformance01V2.jpg" 
-     style="width:80%">
+     style="width:80%"><br>
 		 
 <img src="/images/DramaPerformance02V2.jpg" 
      style="width:80%">
@@ -62,7 +65,7 @@ Mission
 <h3>Primary 2 Puppetry</h3>
 
 <img src="/images/P2Puppetry01V2.jpg" 
-     style="width:80%">
+     style="width:80%"><br>
 		 
 <img src="/images/P2Puppetry02V2.jpg" 
      style="width:80%">
