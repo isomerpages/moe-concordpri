@@ -1,22 +1,20 @@
 ---
 title: The Concord Creed
-permalink: /about-us/the-concord-creed
+permalink: /about-us/the-concord-creed/
 description: ""
 ---
 We, the students of Concord Primary School, pledge to:
 
   
 
-**G**ive my best and be **resilient** to face life’s challenges.
+<b style="color:#0000ff">G</b>ive my best and be <b style="color:#FF8D33">resilient</b> to face life’s challenges.
 
   
 
-**I**gnite my passion for learning and be **responsible** for my actions.
+<b style="color:#0000ff">I</b>gnite my passion for learning and be <b style="color:#FF8D33">responsible</b> for my actions.
+
+<b style="color:#0000ff">V</b>alue **care** and show <b style="color:#FF8D33">respect</b> to the people around me.
 
   
 
-**V**alue **care** and show **respect** to the people around me.
-
-  
-
-**E**xercise **integrity** and show **loyalty** to my school and country.
+<b style="color:#0000ff">E</b>xercise <b style="color:#FF8D33">integrity</b> and show <b style="color:#FF8D33">loyalty</b> to my school and country.
