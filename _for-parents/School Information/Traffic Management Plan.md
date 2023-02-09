@@ -18,7 +18,7 @@ Figure 1 and Table 1 below shows the locations of the Access Gates and their res
      style="width:80%">
 		 
 		 
-##### Table 1: Access Gates and Opening Periods
+<h4>Table 1: Access Gates and Opening Periods</h4>
 <img src="/images/Picture1.png" 
      style="width:100%">
 
