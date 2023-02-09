@@ -3,7 +3,7 @@ title: Our School Mascot
 permalink: /about-us/our-school-mascot/
 description: ""
 ---
-Introducing our mascots Connor and Caylee. Connor and Caylee are modelled after the strong and powerful Bald Eagle. The eagles are exemplary role models to our <b>Care,</b><b> Responsibility,</b><b> Respect,</b><b> Integrity, </b><b>Loyalty</b> and <b>Resilience</b>. Like all our Concordians, the eagles possess leadership qualities and consistently work hard to uplift one another so that “<b>Together We Soar to Greater Heights</b>”.
+<p style="text-align:justify">Introducing our mascots Connor and Caylee. Connor and Caylee are modelled after the strong and powerful Bald Eagle. The eagles are exemplary role models to our <b>Care,</b><b> Responsibility,</b><b> Respect,</b><b> Integrity, </b><b>Loyalty</b> and <b>Resilience</b>. Like all our Concordians, the eagles possess leadership qualities and consistently work hard to uplift one another so that “<b>Together We Soar to Greater Heights</b>”.
 
 <img src="/images/Concord Mascot.jpeg" 
      style="width:50%">
