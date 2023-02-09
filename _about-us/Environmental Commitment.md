@@ -13,14 +13,14 @@ description: ""
 <b>Concord Primary School’s Environmental Policy:</b><br>
 <p style="text-align:justify">Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement. 
 
-##### Concord Primary School’s Environmental Goals:
+<b>Concord Primary School’s Environmental Goals:</b>
 
-*   To provide an environmentally-conducive environment for teaching and learning.
-*   To build and sustain Concordians’ commitment in environmental issues in accordance with our VMV.
+<ul>
+<li>To provide an environmentally-conducive environment for teaching and learning.</li>
+<li>To build and sustain Concordians’ commitment in environmental issues in accordance with our VMV.</li>
+	</ul>
 
-  
-
-##### Concord Primary School’s Environmental Efforts:
+<b>Concord Primary School’s Environmental Efforts:</b>
 
 <p style="text-align:justify">In Concord Primary School, we are committed to the education of Concordians in environmental issues. In alignment to Concord’s VMV and iGIVE Culture, the School and its Environmental Partners provide numerous platforms for Concordians to be immersed in continuous environmental improvement. This has translated into programmes and activities that have not only positively impacted our students but our community as well. 
 
@@ -29,12 +29,13 @@ description: ""
 
   
 
-##### Key strategies to achieve our environmental mission and goals:
+<b>Key strategies to achieve our environmental mission and goals:</b>
 
-    
-* Provide a values-based education in environmental issues.
-*   Active monitoring to minimise electricity and water usage.
-*   Active promotion for recycling both internally and externally.
-*   Collaboration with external environmental partners.
-*   Maintain an environmentally-conducive environment for teaching and learning.
-*   Continue to explore ways to increase our sustainable efforts for environmental improvement.
+<ul>
+	<li>Provide a values-based education in environmental issues.</li>
+<li>Active monitoring to minimise electricity and water usage.</li>
+<li>Active promotion for recycling both internally and externally.</li>
+<li>Collaboration with external environmental partners.</li>
+<li>Maintain an environmentally-conducive environment for teaching and learning.</li>
+<li>Continue to explore ways to increase our sustainable efforts for environmental improvement.</li>
+</ul>
