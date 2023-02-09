@@ -37,16 +37,18 @@ Figure 1 and Table 1 below shows the locations of the Access Gates and their res
 	<li>Parents/Guardians are strongly encouraged to pick up your child at Gate 12, which provides a full sheltered walkway to a HDB multi-storey carpark. Outside of the opening periods at Gate 12, we seek your understanding to park your vehicle at a nearby carpark and pick up your child at the Main Gate.
 </ul>
 
-*   **School Buses:** All School Buses will park within the bus bay in front of the School Foyer. The Main Gate will be closed from 1.00pm to 2.00pm (or till the last School Bus leaves, whichever is earlier) to minimize other vehicular movement within the school compound for the safety of our students.
+<b>School Buses:</b> 
+All School Buses will park within the bus bay in front of the School Foyer. The Main Gate will be closed from 1.00pm to 2.00pm (or till the last School Bus leaves, whichever is earlier) to minimize other vehicular movement within the school compound for the safety of our students.
 
-*   **For All:**
-	*    Vehicles must strictly keep within the speed limit of 15km/h within the school compound. 
-	*    No vehicles should park within the school compound unless given prior permissions by the school or picking up unwell or injured students
-	*    Drivers must follow the instructions of duty personnel and any directional signs so as not to impede traffic flows. 
-	*    Vehicles exiting the school should 
-			*    Proceed slowly and with care
-			*    Look out for pedestrians and cyclists on pavement
-			*    Turn into the immediate left lane to minimize unnecessary traffic congestions and risk of traffic accidents along Choa Chu Kang Avenue 4.
+<b>For All:</b>
+<ul>
+<li>Vehicles must strictly keep within the speed limit of 15km/h within the school compound. 
+<li>No vehicles should park within the school compound unless given prior permissions by the school or picking up unwell or injured students
+<li>Drivers must follow the instructions of duty personnel and any directional signs so as not to impede traffic flows. 
+<li>Vehicles exiting the school should:<br> 
+			-   Proceed slowly and with care<br>
+			-    Look out for pedestrians and cyclists on pavement<br>
+			-    Turn into the immediate left lane to minimize unnecessary traffic congestions and risk of traffic accidents along Choa Chu Kang Avenue 4.
 
 
 **Pedestrians Entering and Exiting School**
