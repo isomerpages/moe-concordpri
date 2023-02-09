@@ -56,10 +56,7 @@ To cater to the varying language mastery of Concordians, the department:
 <ul>
 <li>A two-week programme to encourage Concordians to use their Mother Tongue languages more pervasively.</li>
 <li>Wide-range of beyond-classroom activities is conducted in conjunction with MTF to provide authentic situations for Concordians to appreciate their Mother Tongue languages.</li>
-</ul>
-	
-
-  
+</ul>  
 
 <h4>Internal & External Competitions</h4>
 
@@ -74,20 +71,20 @@ For the <b>“List of approved dictionaries”</b>, please click [here](https:
 
 <img src="/images/mtl1.jpeg" 
      style="width:35%">
-<center>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</center>
-
+<center><b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></center>
+<br>
 <img src="/images/mtl2.jpeg" 
      style="width:65%">
-<center>Concordians engaged in community singing during CNY celebration</center>
-
+<center><b>Concordians engaged in community singing during CNY celebration</b></center>
+<br>
 <img src="/images/mtl3.jpeg" 
      style="width:65%">
-<center>Concordians sharing the meanings of Chinese New Year food</center>
-
+<center><b>Concordians sharing the meanings of Chinese New Year food</b></center>
+<br>
 <img src="/images/mtl4.jpeg" 
      style="width:65%">
-<center>ML students prepared healthy sandwiches for snack time</center>
-
+<center><b>ML students prepared healthy sandwiches for snack time</b></center>
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -95,7 +92,7 @@ For the <b>“List of approved dictionaries”</b>, please click [here](https:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 770px">
 <colgroup>
