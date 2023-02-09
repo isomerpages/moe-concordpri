@@ -48,6 +48,6 @@ description: ""
 </tr>
 <tr>
   <td class="tg-xi4p"><br>Resilience</td>
-  <td class="tg-8jx4"><ul><li>I will persist to complete the task(s) given by my teacher to the best of my ability.</li></ul</td></tr>
+  <td class="tg-8jx4"><ul><li>I will persist to complete the task(s) given by my teacher to the best of my ability.</li></ul></td></tr>
 </tbody>
 </table>
