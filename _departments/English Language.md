@@ -42,7 +42,7 @@ Mission
 <p style="text-align:justify">Students are taught various writing styles in class. The usage of questioning techniques in writing is one of the key areas of focus for teachers during writing lessons. Students are also exposed to planning their lessons using graphic organisers and story plot.
 
 <img src="/images/e1.png" 
-     style="width:80%">
+     style="width:80%"><br>
 
 <b><u>LISTENING & SPEAKING</u></b>
 
