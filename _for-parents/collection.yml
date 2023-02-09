@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Sexuality Education (P5 & P6).md
       - P1 Parents/.keep
       - P1 Parents/Administrative Matters.md
       - P1 Parents/Registration Exercise.md
@@ -34,5 +33,6 @@ collections:
       - School Information/Our Service Provider.md
       - FamilyMatters @ School.md
       - Sexuality Education/.keep
+      - Sexuality Education (P5 & P6).md
       - School Home Partnership/.keep
       - School Home Partnership/Homework Guidelines.md
