@@ -46,10 +46,10 @@ To cater to the varying language mastery of Concordians, the department:
 
 <h4>Conversational Chinese & Malay (CCM)</h4>
 
-*   CCM programme is introduced to provide Concordians with an opportunity to learn and use another MT language, other than their own Mother Tongue language, to communicate and interact more with their schoolmates of different races.
-*   Learning another MT language for conversational purposes will help to nurture interaction among the ethnic communities and friendships between students, across races and religions.
+<ul>
+	<li>CCM programme is introduced to provide Concordians with an opportunity to learn and use another MT language, other than their own Mother Tongue language, to communicate and interact more with their schoolmates of different races.</li>
+<li>Learning another MT language for conversational purposes will help to nurture interaction among the ethnic communities and friendships between students, across races and religions.</ul>
 
-  
 
 <h4>Mother Tongue Fortnight (MTF)</h4>
 
