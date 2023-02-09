@@ -4,7 +4,7 @@ permalink: /about-us/our-school-song/
 description: ""
 ---
 <b style="color:#0000FF">Together We Soar To Greater Heights</b>    
-<b>Music and Lyrics by Loo Teng Kiat</b>
+<b><em>Music and Lyrics by Loo Teng Kiat</em></b>
 
   
  
