@@ -3,16 +3,14 @@ title: Environmental Commitment
 permalink: /about-us/environmental-commitment/
 description: ""
 ---
-##### Environmental Mission Statement: 
+<b>Environmental Mission Statement:</b><br>
+<em>We develop Concordians with a strong commitment to improve the environment in our community.</em>
 
 <img src="/images/E-club_03.jpeg" 
      style="width:55%">
 
 
-_We develop Concordians with a strong commitment to improve the environment in our community._
-
-##### Concord Primary School’s Environmental Policy:
-
+<b>Concord Primary School’s Environmental Policy:</b><br>
 <p style="text-align:justify">Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement. 
 
 ##### Concord Primary School’s Environmental Goals:
