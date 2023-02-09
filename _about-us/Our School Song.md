@@ -3,12 +3,12 @@ title: Our School Song
 permalink: /about-us/our-school-song/
 description: ""
 ---
-##### Together We Soar To Greater Heights    
+<b style="color:#0000FF">Together We Soar To Greater Heights</b>    
 **Music and Lyrics by Loo Teng Kiat**
 
   
  
-**(Verse 1)**   
+<b>(Verse 1)</b>   
 Concord Primary is our school, we love her   
 We work in harmony close together   
 Respect and we care for all with our hearts   
@@ -20,7 +20,7 @@ Responsible words and thoughts we'll share
 Resounding in laughter everywhere
 
 
-**(Chorus)**   
+<b>(Chorus)</b>  
 Staying true to this land we call home     
 Our hearts will beat as one   
 Staying true to our dreams, our hopes   
@@ -28,7 +28,7 @@ We'll strive for success; we will show you our best
 
   
 
-**(Verse 2)**    
+<b>(Verse 2)</b>    
 With caring hearts we will love each other   
 Enrich our minds as we grow together    
 No matter what colour cos' you are my friend    
