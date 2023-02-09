@@ -6,42 +6,45 @@ description: ""
 <img src="/images/MOTHER TONGUE _P1.jpeg" 
      style="width:80%">
 		 
-Vision
--------
+<h2>Vision</h2>
 
 <p style="text-align:justify">Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
 
-Mission
---------
+<h2>Mission</h2>
 
-*   To make Mother Tongue a “living” language.
-*   To develop a lifelong interest in Mother Tongue language (MTL) and its culture.
-*   To inculcate cross-cultural understanding among the students of the different races.
+<ul>
+<li>To make Mother Tongue a “living” language.</li>
+<li>To develop a lifelong interest in Mother Tongue language (MTL) and its culture.</li>
+<li>To inculcate cross-cultural understanding among the students of the different races.</li>
+</ul>
 
-Department's Highlights
-------------------------
+<h2>Department's Highlights</h2>
 
 <p style="text-align:justify">The Mother Tongue Language (MTL) Department is committed to providing platforms for Concordians to acquire their chosen MT language more effectively in view of the changing language environment at home and within the community.
 
   
 
-### Customised Curriculum
+<h4>Customised Curriculum</h4>
 
 To cater to the varying language mastery of Concordians, the department:
 
-*   Customises teaching and learning of MTL according to Concordians’ language mastery level.
-*   Adopts progressive and age-appropriate strategies for listening, oracy and language skills.
+<ul>
+<li>Customises teaching and learning of MTL according to Concordians’ language mastery level.</li>
+<li>Adopts progressive and age-appropriate strategies for listening, oracy and language skills.</li>
+</ul>
 
   
 
-### Values Education
+<h4>Values Education</h4>
 
-*   Values are constantly reinforced during MTL lessons as part of holistic education. Teachers seize teachable moments and actively link content with school core values for character development. Festive celebrations are also an authentic source for value education (eg respect for the elderly when visiting during the new year etc).
-*   It takes a village to raise a child. Our Concord village is blessed with supportive parents who acknowledge the importance of MTL learning and value education. Teachers partner parents through regular communications and updates to impart values in Concordians.
+<ul>
+	<li>Values are constantly reinforced during MTL lessons as part of holistic education. Teachers seize teachable moments and actively link content with school core values for character development. Festive celebrations are also an authentic source for value education (eg respect for the elderly when visiting during the new year etc).</li>
+<li>It takes a village to raise a child. Our Concord village is blessed with supportive parents who acknowledge the importance of MTL learning and value education. Teachers partner parents through regular communications and updates to impart values in Concordians.</li>
+</ul>
 
   
 
-### Conversational Chinese & Malay (CCM)
+<h4>Conversational Chinese & Malay (CCM)</h4>
 
 *   CCM programme is introduced to provide Concordians with an opportunity to learn and use another MT language, other than their own Mother Tongue language, to communicate and interact more with their schoolmates of different races.
 *   Learning another MT language for conversational purposes will help to nurture interaction among the ethnic communities and friendships between students, across races and religions.
