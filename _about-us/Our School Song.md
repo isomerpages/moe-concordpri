@@ -38,3 +38,4 @@ Let's reach for the sky
 With our determined spirits high    
 Together we soar to greater heights
 
+<iframe width="758" height="515" src="https://www.youtube.com/embed/K70nE0WhJqE" title="LAUNCH OF MASCOTS @ CONCORD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
