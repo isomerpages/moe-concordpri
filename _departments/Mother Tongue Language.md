@@ -65,7 +65,8 @@ To cater to the varying language mastery of Concordians, the department:
 <li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
 </ul>
 
-For tips on <b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click [here.](https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages)
+For tips on <b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click 
+<a href="https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" target="_blank" rel="noopener noreferrer">here</a>.<br>
 
 For the <b>“List of approved dictionaries”</b>, please click [here](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2).
 
