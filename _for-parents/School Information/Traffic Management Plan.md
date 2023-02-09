@@ -18,21 +18,24 @@ Figure 1 and Table 1 below shows the locations of the Access Gates and their res
      style="width:80%">
 		 
 		 
-<h4>Table 1: Access Gates and Opening Periods</h4>
+<b>Table 1: Access Gates and Opening Periods</b>
 <img src="/images/Picture1.png" 
      style="width:100%">
 
-Vehicles Entering and Exiting School
-------------------------------------
+<b>Vehicles Entering and Exiting School</b>
 
-*   **Drop offs:** 
-	* Vehicles must only drop off students/staff at the designated alighting points. 
-	*   No overtaking is allowed.
+<b>Drop offs:</b>
+<ul>
+	<li>Vehicles must only drop off students/staff at the designated alighting points. 
+ <li>No overtaking is allowed.
+</ul>
 
 
-*   **Pick up of Students:** 
-	*   No vehicles will be allowed into the school for picking up of students, except during inclement weather. 
-	*   Parents/Guardians are strongly encouraged to pick up your child at Gate 12, which provides a full sheltered walkway to a HDB multi-storey carpark. Outside of the opening periods at Gate 12, we seek your understanding to park your vehicle at a nearby carpark and pick up your child at the Main Gate.
+<b>Pick up of Students:</b>
+<ul>
+	<li>No vehicles will be allowed into the school for picking up of students, except during inclement weather. 
+	<li>Parents/Guardians are strongly encouraged to pick up your child at Gate 12, which provides a full sheltered walkway to a HDB multi-storey carpark. Outside of the opening periods at Gate 12, we seek your understanding to park your vehicle at a nearby carpark and pick up your child at the Main Gate.
+</ul>
 
 *   **School Buses:** All School Buses will park within the bus bay in front of the School Foyer. The Main Gate will be closed from 1.00pm to 2.00pm (or till the last School Bus leaves, whichever is earlier) to minimize other vehicular movement within the school compound for the safety of our students.
 
