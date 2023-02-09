@@ -51,21 +51,26 @@ To cater to the varying language mastery of Concordians, the department:
 
   
 
-### Mother Tongue Fortnight (MTF)
+<h4>Mother Tongue Fortnight (MTF)</h4>
 
-*   A two-week programme to encourage Concordians to use their Mother Tongue languages more pervasively.
-*   Wide-range of beyond-classroom activities is conducted in conjunction with MTF to provide authentic situations for Concordians to appreciate their Mother Tongue languages.
+<ul>
+<li>A two-week programme to encourage Concordians to use their Mother Tongue languages more pervasively.</li>
+<li>Wide-range of beyond-classroom activities is conducted in conjunction with MTF to provide authentic situations for Concordians to appreciate their Mother Tongue languages.</li>
+</ul>
+	
 
   
 
-### Internal & External Competitions
+<h4>Internal & External Competitions</h4>
 
-*   Competitions are held to encourage and motivate Concordians to channel their energies towards meaningful learning processes and outcomes, while showcasing what they have learnt in class.
-*   Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.
+<ul>
+<li>Competitions are held to encourage and motivate Concordians to channel their energies towards meaningful learning processes and outcomes, while showcasing what they have learnt in class.</li>
+<li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
+</ul>
 
-For tips on **“How to support your children in the learning of Mother Tongue Languages”**, please click [here.](https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages)
+For tips on <b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click [here.](https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages)
 
-For the **“List of approved dictionaries”**, please click [here](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2).
+For the <b>“List of approved dictionaries”</b>, please click [here](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2).
 
 <img src="/images/mtl1.jpeg" 
      style="width:35%">
