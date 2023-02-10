@@ -3,14 +3,11 @@ title: Student Learning Space (SLS)
 permalink: /for-parents/sls/
 description: ""
 ---
-The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
-
-<img src="/images/SLS.jpeg" 
-     style="width:40%">
-
+<p>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
+<br><br>
+<img src="/images/SLS.jpeg" style="width:40%">
 
 <center><b>Student Learning Space</b></center> 
-
 <center>Website:<a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
@@ -37,36 +34,36 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
 Following which, you can do any of the following:
 
-1) Complete the form: <a href="https://go.gov.sg/concordsls">https://go.gov.sg/concordsls</a>
+1) Complete the form: <a href="https://go.gov.sg/concordsls"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a>
 
-2) Email school SLS Administrator: <b>[norhafizah\_pungut@schools.gov.sg]</b>(mailto:norhafizah_pungut@schools.gov.sg)
+2) Email school SLS Administrator: <a href="mailto:norhafizah_pungut@schools.gov.sg"><span style="text-decoration:none;color:#1A7BDF"><b>norhafizah_pungut@schools.gov.sg</b></span></a>
 
-3) Email SLS Helpdesk after school hours: <b>[helpdesk@sls.ufinity.com]</b>(mailto:helpdesk@sls.ufinity.com) 
+3) Email SLS Helpdesk after school hours: <a href="mailto:helpdesk@sls.ufinity.com"><span style="text-decoration:none;color:#1A7BDF"><b>helpdesk@sls.ufinity.com</b></span></a> 
 
-_\* The SLS Central Helpline will operate after school operating hours_
+<em>* The SLS Central Helpline will operate after school operating hours</em>
+<br>
+<em>(4pm - 9pm on weekdays, 9am - 9pm on Saturday).</em>
 
-_(4pm - 9pm on weekdays, 9am - 9pm on Saturday)._
-
-**Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**  
+<b>Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b>  
 
 If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 
 Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
 
   
+<b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
 
-**Q5 : What are the Operating System and Browser Requirements for SLS?**  
+<p>The following are the recommended operating systems:
 
-The following are the recommended operating systems:
+<ul>
+	<li>Windows laptop/desktop with Microsoft Windows 7 SP1 and later</li>
+<li>Apple laptop/desktop with Mac OS X 10.9 and later</li>
+<li>iPad with iOS 8 and later</li>
+<li>Android tablet with Android 5 and later</li>
+<li>SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 & later, Google Chrome 51 & later, FireFox 51 & later or Safari 7.1 & later).</li>
+</ul>
 
-* Windows laptop/desktop with Microsoft Windows 7 SP1 and later
-* Apple laptop/desktop with Mac OS X 10.9 and later
-* iPad with iOS 8 and later
-* Android tablet with Android 5 and later
-* SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 & later, Google Chrome 51 & later, FireFox 51 & later or Safari 7.1 & later).
 
-  
-
-**Q6 : Can SLS run on mobile phones?**
+<b>Q6 : Can SLS run on mobile phones?</b>
 
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
