@@ -16,8 +16,8 @@ third_nav_title: Niche Co Curricular Activities
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
@@ -63,8 +63,8 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
