@@ -93,7 +93,7 @@ third_nav_title: Niche Co Curricular Activities
 </table>
 
 <p style="text-align:justify">To keep improving, the choristers are taught various singing techniques and exposed to a wide repertoire of songs in different international languages. The school’s support for the children to attend concerts by prestigious choirs all over the world and the choir exchanges have also enriched the choristers as they learn from each other. With the holistic approach to vocal training, we are hopeful that the choristers will soar to greater heights in singing.
-<br>
+<br><br>
 <b>Conductor:</b> Ms. Angila Tan
 
 <style type="text/css">
