@@ -11,13 +11,13 @@ description: ""
 
 <p style="text-align:justify">To prepare and equip our students for the complex challenges ahead, Concord places a premium on enabling our students to be able to analyse, solve problems and make good decisions in life. 
 
-<p style="text-align:justify">Our E3 Reasoning Programme (ALP) is aimed to enable, enrich and empower our students to acquire critical and inventive thinking skills which are essential 21st Century skills. A multitude of activities are designed to teach our students reasoning skills explicitly through our learner-centred pedagogy where experiential learning is focused for every lesson. 
+<p style="text-align:justify"><b>Our E3 Reasoning Programme (ALP)</b> is aimed to enable, enrich and empower our students to acquire critical and inventive thinking skills which are essential 21st Century skills. A multitude of activities are designed to teach our students reasoning skills explicitly through our learner-centred pedagogy where experiential learning is focused for every lesson. 
 
-<p style="text-align:justify">The goal of learner-centred pedagogy is to maximise learning potential as part of their learning experience where students perform their skills or demonstrate their knowledge through the 3-pronged approach : Authentic Learning, Learning through play and Perspective Taking through teachable moments. Our teachers use the content to develop a knowledge base – but we also want to help our students to develop learning skills that they need across a lifetime of learning. 
+<p style="text-align:justify">The goal of learner-centred pedagogy is to maximise learning potential as part of their learning experience where students perform their skills or demonstrate their knowledge through the 3-pronged approach :<b> Authentic Learning, Learning</b> through play and <b>Perspective Taking</b> through teachable moments. Our teachers use the content to develop a knowledge base – but we also want to help our students to develop learning skills that they need across a lifetime of learning. 
 
-<p style="text-align:justify">Through our customised I-ACE methodology, Concord’s teachers are guided to turn complexities into meaningful experiences for our students. This approach helps to introduce, consolidate and extend student’s learning during and beyond the classroom. We hope to nurture Concordians who are equipped with the abilities to think deeply, rationalize effectively and decide wisely. Indeed, it is through E3 Reasoning@ Concord where your child’s reasoning becomes visible.   
+<p style="text-align:justify">Through our<b> customised I-ACE</b> methodology, Concord’s teachers are guided to turn complexities into meaningful experiences for our students. This approach helps to introduce, consolidate and extend student’s learning during and beyond the classroom. We hope to nurture Concordians who are equipped with the abilities to think deeply, rationalize effectively and decide wisely. Indeed, it is through <b>E3 Reasoning@ Concord</b> where your child’s reasoning becomes visible.   
 
-<p style="text-align:justify">We have continued our endeavours to stretch our students who have shown interest and aptitude in E3 Reasoning through Lego Robotics and Code For fun Enrichment Programmes for our Primary 3 to 5 students who have shown greater interest and aptitude in E3 Reasoning. Our Primary 1 to 2 students will also get a chance to experience reasoning through Magic! 
+<p style="text-align:justify">We have continued our endeavours to stretch our students who have shown interest and aptitude in E3 Reasoning through <b>Lego Robotics</b> and <b>Code For fun Enrichment Programmes</b> for our Primary 3 to 5 students who have shown greater interest and aptitude in E3 Reasoning. Our Primary 1 to 2 students will also get a chance to experience reasoning through <b>Magic!</b>
 
 <p style="text-align:justify">In anticipating complex challenges ahead where content knowledge may be rendered obsolete, Concord will continue to prepare our students by equipping them with competencies and skills that would provide them with a good foundation beyond their primary school years.
 
@@ -30,17 +30,18 @@ description: ""
 <li>To gear students’ ability to frame their ideas and answer questions independently</li>
 </ul>
 
-At each level of thinking, specific thinking skills were selected to focus on.
-
+<p><b>At each level of thinking, specific thinking skills were selected to focus on.</b>
+<br>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-zdls{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-zdls{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 692px">
 <colgroup>
@@ -67,9 +68,9 @@ At each level of thinking, specific thinking skills were selected to focus on.
 </tbody>
 </table>
 
-#### E3 Reasoning @ Concord
+<b>E3 Reasoning @ Concord</b>
 
-The acquisition of E3 Reasoning skills is divided into two tiers.
+The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -102,25 +103,21 @@ The acquisition of E3 Reasoning skills is divided into two tiers.
 
 <p style="text-align:justify">Tier 1 caters to all students which includes the infusion of E3 Reasoning skills in all subjects and various programme catered to the different levels.
 
-**<u>P1 and 2 E3 Reasoning lessons and assembly programme</u>**
+<b><u>P1 and 2 E3 Reasoning lessons and assembly programme</u></b>
 
-<p style="text-align:justify">2 periods (1 hour) per week is scheduled during curriculum time to introduce and teach our Primary 1 and 2 students E3 Reasoning skills. Learner-centred pedagogy, focussing on experiential learning through activities such as games and role-play, is used to engage students during these lessons.
-
-  
+<p style="text-align:justify">2 periods (1 hour) per week is scheduled during curriculum time to introduce and teach our Primary 1 and 2 students E3 Reasoning skills. Learner-centred pedagogy, focussing on experiential learning through activities such as games and role-play, is used to engage students during these lessons.  
 
 <p style="text-align:justify">Assembly programme for the Primary 1 and 2 students are specially crafted to enable the students more opportunities to learn about the application of E3 Reasoning skills in their daily lives.
 
-**<u>Learn to Play, Play to Learn Corner (LPPL Corner)</u>**
+<b><u>Learn to Play, Play to Learn Corner (LPPL Corner)</u></b>
 
 <p style="text-align:justify">The corner is opened from Tuesdays to Thursdays during recess time to allow students to play E3 Reasoning games. The games allow students to develop and practise their E3 Reasoning skills.
 
-  
-
-**<u>Modular CCA Programme (Soar for Life)</u>**
+<b><u>Modular CCA Programme (Soar for Life)</u></b>
 
 <p style="text-align:justify">E3 Reasoning has been integrated as part of the Modular CCA programme for our Primary 3 to 6 students. During the programme, our students get to learn and apply E3 Reasoning skills through the various activities. The table below shows the activities carried out for each level during Soar for Life.
 
-**<u>Lego Robotics</u>**
+<b><u>Lego Robotics</u></b>
 
 <p style="text-align:justify">Lego Robotics is our Tier 2 programme to stretch our students with greater interest and aptitude in E3 Reasoning skills to further strengthen and hone their skills. The objectives are to enable students to think creatively, analyse situations and apply critical thinking and problem solving skills to real world problems. It also provides opportunities to develop collaboration skills among students when they get to work together to solve problems in groups and to develop 21st CC.
 
@@ -213,7 +210,7 @@ The acquisition of E3 Reasoning skills is divided into two tiers.
 </table>
 
 
-### E3 Reasoning Skills to focus
+<b>E3 Reasoning Skills to focus</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -249,10 +246,8 @@ The acquisition of E3 Reasoning skills is divided into two tiers.
 </tbody>
 </table>
 
-### Our Learner-Centred Pedagogy
+<b>Our Learner-Centred Pedagogy</b>
 
-
-
-### Approach to develop E3 Reasoning
+<b>Approach to develop E3 Reasoning</b>
 
 Concord adopts the 4-prong approach to develop E3 Reasoning in our students.
