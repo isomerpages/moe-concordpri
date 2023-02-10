@@ -113,7 +113,7 @@ Every student an inquirer.
 
 <p style="text-align:justify">PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
 
-<br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals@Concord(Environmental Education)</b></span>
+<br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></span>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -182,13 +182,14 @@ Every student an inquirer.
 <h4>Other Programmes</h4><br>
 
 <b>Parent Symposium</b>
-	
+<br>	
 <img style="width:65%" src="/images/Parent Symposium.png">
 
-<p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.&nbsp;
+<p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.
+<br><br>
 
 <b>Professional Learning Team (PLT)</b>
-
+<br>
 <img style="width:65%" src="/images/PLT.jpg">
 
 <p style="text-align:justify">Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
