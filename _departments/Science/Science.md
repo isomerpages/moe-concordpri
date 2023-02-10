@@ -12,25 +12,22 @@ body {font-family: helvetica, sans serif:}
 </style>
 </head>
 	
-Vision
-------
+<h2>Vision</h2>
 
 Every student an inquirer.
 
-Mission
--------
+<h2>Mission</h2>
 
 <p style="text-align:justify">To develop students to be curious about the world and to equip them with the necessary skills for Science inquiry.
 
-Our Science Curriculum Framework
---------------------------------
+<h2>Our Science Curriculum Framework</h2>
 
 <p style="text-align:justify">It encapsulates the thrust of Science education in Singapore to provide students with strong fundamentals in Science for life, learning, citizenry and work.
+	
+<img src="/images/framework 2.png" 
+     style="width:80%">
 
-![](/images/framework%202.png)
-
-Different Types of Learning
----------------------------
+<h2>Different Types of Learning</h2>
 
 <center><b>Inquisitive Learning</b>
 	<img style="width:55%" src="/images/Inquistive Learning.jpg">
