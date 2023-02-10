@@ -9,7 +9,7 @@ description: ""
 
 <p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
 
-**You will need your SingPass to log into Parents Gateway.** 
+<b>You will need your SingPass to log into Parents Gateway.</b> 
 
 <p style="text-align:justify">For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
 
