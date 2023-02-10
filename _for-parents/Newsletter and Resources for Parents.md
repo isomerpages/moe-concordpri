@@ -32,13 +32,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
-   <td class="tg-ppzc">NA<br></td>
+   <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
 	 <td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term Week 5.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
  </tr>
 </tbody>
 </table>
 
-<p><h3>2022 Newsletter for Parents</h3>
+<h3>2022 Newsletter for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
