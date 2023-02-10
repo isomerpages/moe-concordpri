@@ -17,7 +17,7 @@ description: ""
 <h2>Department Framework</h2>
 
 <p style="text-align:justify">The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.
-
+<br><br>
 <b>Aims of the Mathematics Department:</b>
 
 <ul>
