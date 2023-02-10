@@ -24,12 +24,14 @@ description: ""
 
 <h2>Objectives</h2>
 
-Concord Primary School is committed to… 
+<p>Concord Primary School is committed to… 
 
-*   Provide a safe, secure and vibrant environment where all Concordians can enjoy and play
-*   Adopt a challenging, broad and exciting PE curriculum which will actively encourage, motivate and develop every Concordian to feel healthy and happy
-*   Promote active and mass participation so that every Concordian will have the ‘can-do’ spirit
-*   Foster tolerance, responsibility, respect and acceptance of others through the sports and games they play during their daily PE lessons
+<ul>
+	<li>Provide a safe, secure and vibrant environment where all Concordians can enjoy and play</li>
+<li>Adopt a challenging, broad and exciting PE curriculum which will actively encourage, motivate and develop every Concordian to feel healthy and happy</li>
+<li>Promote active and mass participation so that every Concordian will have the ‘can-do’ spirit</li>
+<li>Foster tolerance, responsibility, respect and acceptance of others through the sports and games they play during their daily PE lessons</li>
+</ul>
 
 <h2>In summary, here are the overview</h2>
 
