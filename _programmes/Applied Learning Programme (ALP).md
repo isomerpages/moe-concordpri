@@ -21,7 +21,7 @@ description: ""
 
 <p style="text-align:justify">In anticipating complex challenges ahead where content knowledge may be rendered obsolete, Concord will continue to prepare our students by equipping them with competencies and skills that would provide them with a good foundation beyond their primary school years.
 
-
+<br><br>
 <b style="color:#0000FF">Objectives of E3 Reasoning:</b>
 
 <ul>
