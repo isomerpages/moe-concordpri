@@ -4,15 +4,14 @@ permalink: /for-parents/Administrative-Matters/
 description: ""
 third_nav_title: P1 Parents
 ---
-Administrative Matters
-======================
+<h3>Administrative Matters</h3>
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2023, please complete the following administrative tasks before the P1 Orientation Day on 18 Nov 2022.
 
-**1.**     **Onboard The Parents Gateway App**
+<b>1.  Onboard The Parents Gateway App</b>
 
 <p style="text-align:justify">Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
-
+<br><br>
 <img style="width:65%" src="/images/Introducing Parents Gateway.jpg"><br>
 
 <style type="text/css">
@@ -38,15 +37,15 @@ Administrative Matters
 
 <p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
 
-**2.**     **Provide Additional Information for Form Teachers**
+<b>2.  Provide Additional Information for Form Teachers</b>
 
-<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this [link](https://go.gov.sg/cps-pupilprofile).
+<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile">link</a>.
 
-**3.**     **Apply for GIRO**
+<b>3. Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and standard miscellaneous fees.
 
-<p style="text-align:justify">Parents/guardians will be able to apply for GIRO online for payment of school fees and charges from **5 Dec 2022**.  The link will be available through Parents Gateway (PG) app. Parents will have up till 15 January 2023 to sign up for GIRO for the first deduction in Feb 2023.
+<p style="text-align:justify">Parents/guardians will be able to apply for GIRO online for payment of school fees and charges from <b>5 Dec 2022</b>.  The link will be available through Parents Gateway (PG) app. Parents will have up till 15 January 2023 to sign up for GIRO for the first deduction in Feb 2023.
 
 <p style="text-align:justify">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
   
