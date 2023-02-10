@@ -9,11 +9,11 @@ description: ""
 
 <p style="text-align:justify">One of the main features of PAL is the emphasis on inculcating values and developing social and emotional competencies. Values remain essential to shaping the person's beliefs, attitudes, and actions in whatever type of world the child finds himself in the future. 
 
-<p style="text-align:justify">Through values education, our students learn about care, responsibility, respect, integrity, loyalty, and resilience. Students' social and emotional competencies are met through these 5 domains.
+<p style="text-align:justify">Through values education, our students learn about<b style="color:#9033FF"> care, responsibility, respect, integrity, loyalty, and resilience.</b> Students' social and emotional competencies are met through these 5 domains.
 
 <p style="text-align:justify">Conducted within curriculum time, PAL @ Concord provides students with broad exposure in two areas — Sports and Outdoor Education, and Performing and Visual Arts. In PAL, the emphasis is placed on experiential learning. The hands-on experiences reinforce students' learning and allow them to explore, discover, generate further thinking and express their ideas. 
 
-<p style="text-align:justify">In every lesson, time is set aside for both individual work and teamwork. The activities are fun and enjoyable, and are pitched at the capabilities of Primary 1 & 2 students. Equally important in a PAL lesson is the time for students to reflect on their experiences and feelings in the different contexts set up for that lesson. At the end of Primary 2, all students would have been exposed to 5 different modules of Sports, Outdoor Education, Drama, Music, and Dance.
+<p style="text-align:justify">In every lesson, time is set aside for both individual work and teamwork. The activities are fun and enjoyable, and are pitched at the capabilities of Primary 1 & 2 students. Equally important in a PAL lesson is the time for students to reflect on their experiences and feelings in the different contexts set up for that lesson. At the end of Primary 2, all students would have been <b>exposed to 5 different modules</b> of <b style="color:#9033FF">Sports, Outdoor Education, Drama, Music, and Dance.</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -40,9 +40,9 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal2.jpeg"></td>
 </tr>
-<tr>
-<td class="tg-baqh">Animals Lovers</td>
-<td class="tg-baqh">Creating Music Together</td>
+<tr style="color:#9033FF; font-weight:bold; text-align:center">
+<td>Animals Lovers</td>
+<td>Creating Music Together</td>
 </tr>
 <tr>
 <td class="tg-0lax">
@@ -50,17 +50,17 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal4.jpeg"></td>
 </tr>
-<tr>
-<td class="tg-baqh">Exploring outdoors with Binoculars</td>
-<td class="tg-baqh">Building tents together as a team</td>
+<tr style="color:#9033FF; font-weight:bold; text-align:center">
+<td>Exploring outdoors with Binoculars</td>
+<td>Building tents together as a team</td>
 </tr>
 <tr>
 <td class="tg-0lax" colspan="2">
 <img src="/images/pal5.jpeg" style="width:55%">
 </td>
 </tr>
-<tr>
-<td class="tg-baqh" colspan="2">Exploring sound using different instrument</td>
+<tr style="color:#9033FF; font-weight:bold; text-align:center">
+<td colspan="2">Exploring sound using different instrument</td>
 </tr>
 </tbody>
 </table>
