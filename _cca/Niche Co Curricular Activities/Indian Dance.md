@@ -14,7 +14,7 @@ third_nav_title: Niche Co Curricular Activities
 
 <p style="text-align:justify">As part of the National Day 2017 celebration at The Treasury building, we were invited by the Ministry of Finance to perform a fusion dance, together with the International Dance members. It was indeed a proud moment for the dancers as they performed in front of for 4 Ministers. The dance was well received by the public.
 
-<center>SYF 2016 - Our Vibrant Performers</center>
+<b style="color:#0000FF"><center>SYF 2016 - Our Vibrant Performers</center>
 
 ![](/images/ind1.jpeg)
 
