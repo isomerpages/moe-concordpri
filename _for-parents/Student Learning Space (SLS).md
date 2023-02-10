@@ -25,19 +25,19 @@ Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><spa
   
 <u>FREQUENTLY ASKED QUESTIONS</u>
   
-**Q1 : I have forgotten my password. What should I do?**   
+<b>Q1 : I have forgotten my password. What should I do?</b>  
 Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
   
-**Q2 : I have forgotten my username. What should I do?**    
+<b>Q2 : I have forgotten my username. What should I do?</b>    
 	The format of your username is a combination of the first <u>5 characters of your name</u> (as per your birth certificate), the <u>last 4 digits and the letter of your NRIC/FIN/BC.</u>  
   
-**Q3 : My account has been locked. What should I do?**    
+<b>Q3 : My account has been locked. What should I do?</b>   
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.  
   
 
 Following which, you can do any of the following:
 
-1) Complete the form: <b>[https://go.gov.sg/concordsls]</b>(https://go.gov.sg/concordsls)
+1) Complete the form: <a href="https://go.gov.sg/concordsls">https://go.gov.sg/concordsls</a>
 
 2) Email school SLS Administrator: <b>[norhafizah\_pungut@schools.gov.sg]</b>(mailto:norhafizah_pungut@schools.gov.sg)
 
