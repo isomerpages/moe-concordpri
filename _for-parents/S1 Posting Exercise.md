@@ -17,7 +17,7 @@ In addition to this, collaterals and materials are made available for students a
 
 <b>MOE Website:</b> Contains essential and up-to-date information on S1 Posting process ([https://www.moe.gov.sg/s1-posting](https://www.moe.gov.sg/s1-posting))
 
-<b>SchoolFinder:</b> Similar to school profile page in the S1 IB, users can search and shortlist schools easily based on a set of criteria (e.g. location, CCA, PSLE score ranges, etc). The school information are up-to-date and secondary schools will publish their latest school information for the next academic year by Term 4. School staff may refer to the attached guide and the online tutorial guide to learn/refresh themselves on how to use the SchoolFinder ([https://go.gov.sg/schoolfinder](https://go.gov.sg/schoolfinder)).
+<b>SchoolFinder:</b> Similar to school profile page in the S1 IB, users can search and shortlist schools easily based on a set of criteria (e.g. location, CCA, PSLE score ranges, etc). The school information are up-to-date and secondary schools will publish their latest school information for the next academic year by Term 4. School staff may refer to the attached guide and the online tutorial guide to learn/refresh themselves on how to use the SchoolFinder <a href="https://go.gov.sg/schoolfinder">https://go.gov.sg/schoolfinder</a>.
 
 <ul>
 <li>Other digital resources are provided by MOE HQ through primary schools (e.g. DSA-Sec Information Sheet, S1 Posting Information Sheet, LENS packages, Microlearning Unit); and</li>
