@@ -54,7 +54,7 @@ third_nav_title: Science
 <tbody>
  <tr>
     <td class="tg-0lax"></td>
-		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:70%" src="/images/Science Department button.png"></a></td>
+		<td class="tg-0lax"><a href="/departments/Science/"><img style="width:80%" src="/images/Science Department button.png"></a></td>
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
