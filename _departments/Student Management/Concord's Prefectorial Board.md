@@ -50,9 +50,10 @@ third_nav_title: Student Management
   </tr>
 </tbody>
 </table>
+<br>
 
-##### Head Prefect’s Message 2022
-
+<b><u>Head Prefect’s Message 2022</b></u>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -71,35 +72,35 @@ third_nav_title: Student Management
     <td class="tg-n1ni"><img src="/images/Head%20Prefect%20Jayden.jpeg"></td>
     <td class="tg-n1ni" style="text-align:justify">I believe that as a leader, we need to take the initiative to help anyone in need and listen to others. A good leader is also a good team player. And most importantly a good leader should be a role model and influence others positively. One quote that I hold close to my heart is "Leaders lead from the heart, not the head." This quote is a reminder for me that in order to be a good leader, I have to touch people's heart in order to take their hands and lead them. I strive to be a leader who can lead with a heart, touch the hearts of others with love and care. Hand in hand, shoulder to shoulder, I hope to walk with all concordians towards our school motto: Together, we soar to greater heights, where everyone plays in creating what we call home, Concord Primary School.
 
-***Jayden Tan Yanyi, Head Prefect 2022***</td>
-  </tr>
+<b><em>Jayden Tan Yanyi, Head Prefect 2022</b></em></td>
+</tr>
 </tbody>
 </table>
 
-##### Executive Committee Prefects 2022
+<b><u>Executive Committee Prefects 2022</b></u>
+<br>
+<img src="/images/pb.jpeg" style="width:70%">
+<br>
+<img src="/images/pb1.jpeg" style="width:70%">
+<br>
+<img src="/images/pb2.jpeg" style="width:70%">
 
-![](/images/pb.jpeg)
+<b><u>2022 Prefectorial Board<b></u>
+<br>
+<img src="/images/pb3.jpeg" style="width:70%">
+<br>
+<img src="/images/pb4.jpeg" style="width:70%">
+<br>
+<img src="/images/pb5.jpeg" style="width:70%">
+<br>
+<img src="/images/pb6.jpeg" style="width:70%">
+<br>
 
-![](/images/pb1.jpeg)
-
-![](/images/pb2.jpeg)
-
-##### 2022 Prefectorial Board 
-
-![](/images/pb3.jpeg)
-
-![](/images/pb4.jpeg)
-
-![](/images/pb5.jpeg)
-
-![](/images/pb6.jpeg)
-
-**Click here to read about the experiences of our past head prefects.**
+<b>Click here to read about the experiences of our past head prefects.</b>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-Key Programmes/events
----------------------
+	<h2>Key Programmes/events</h2>
 
 *   **Daily Duties**
 
