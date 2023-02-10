@@ -37,13 +37,15 @@ description: ""
 
 <p style="text-align:justify">Seven learning areas facilitate the learning experiences in the daily PE lessons in Concord from Primary 1 to 6. In Primary 1 & 2, Dance, Games & Sports, Gymnastics, Outdoor Education and Physical Health and Fitness are introduced. Athletics and Swimming are introduced from Primary 3 onwards.
 
-1.  Athletics
-2.  Dance
-3.  Games and Sports
-4.  Gymnastics
-5.  Outdoor Education
-6.  Physical Health and Fitness
-7.  Swimming
+<ol>
+<li>Athletics</li>
+<li>Dance</li>
+<li>Games and Sports</li>
+<li>Gymnastics</li>
+<li>Outdoor Education</li>
+<li>Physical Health and Fitness</li>
+<li>Swimming</li>
+</ol>
 
   
 
