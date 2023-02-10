@@ -7,7 +7,7 @@ third_nav_title: P1 Parents
 <h3>Administrative Matters</h3>
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2023, please complete the following administrative tasks before the P1 Orientation Day on 18 Nov 2022.
-<br>
+<br><br>
 <b>1.  Onboard The Parents Gateway App</b>
 
 <p style="text-align:justify">Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
