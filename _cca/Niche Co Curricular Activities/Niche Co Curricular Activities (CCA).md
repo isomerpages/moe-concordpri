@@ -21,7 +21,7 @@ third_nav_title: Niche Co Curricular Activities
 </style>
 <table class="tg">
 <tbody>
-  <tr style="color:#0000FF; font-weight:bold; text-align:center">
+  <tr style="color:#0000FF; font-weight:bold">
     <td>Sports CCAs</td>
     <td>Performing Arts CCAs</td>
   </tr>
@@ -68,7 +68,7 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 </style>
 <table class="tg">
 <tbody>
-  <tr style="color:#0000FF; font-weight:bold; text-align:center">
+  <tr style="color:#0000FF; font-weight:bold">
     <td colspan="4">Tentative Schedule (2022)</td>
   </tr>
   <tr>
