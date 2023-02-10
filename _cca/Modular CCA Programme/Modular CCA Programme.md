@@ -8,13 +8,12 @@ third_nav_title: Modular CCA Programme
 
   
 
-**<u>Schedule</u>**<br>
-Every Wednesday, 7.30am to 9am
-
-  
-
-**<u>2022 Schedule</u>**
-
+<b><u>Schedule</u></b>
+<br>
+<p>Every Wednesday, 7.30am to 9am
+<br>
+<b><u>2022 Schedule</u></b>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
