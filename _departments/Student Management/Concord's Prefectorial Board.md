@@ -76,7 +76,7 @@ third_nav_title: Student Management
 </tr>
 </tbody>
 </table>
-
+<br>
 <b><u>Executive Committee Prefects 2022</b></u>
 <br>
 <img src="/images/pb.jpeg" style="width:70%">
