@@ -250,4 +250,4 @@ The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
 
 <b>Approach to develop E3 Reasoning</b>
 
-Concord adopts the 4-prong approach to develop E3 Reasoning in our students.
+<p>Concord adopts the 4-prong approach to develop E3 Reasoning in our students.
