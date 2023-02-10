@@ -112,7 +112,7 @@ third_nav_title: Student Management
 <br>
 
 <li><b>Prefects Investiture</b></li>
-
+<br>
 <p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
 <img src="/images/pb9.png" style="width:70%">
 <br>
