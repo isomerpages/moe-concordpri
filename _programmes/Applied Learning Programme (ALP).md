@@ -3,7 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /programmes/alp/
 description: ""
 ---
-
 <img src="/images/alp1.jpg" style="width:80%">
 
 <h4>E3 Reasoning (Enable, Enrich, Empower) @ Concord</h4>
@@ -22,12 +21,14 @@ description: ""
 
 <p style="text-align:justify">In anticipating complex challenges ahead where content knowledge may be rendered obsolete, Concord will continue to prepare our students by equipping them with competencies and skills that would provide them with a good foundation beyond their primary school years.
 
-  
-<b style=font-color:"#0000FF">Objectives of E3 Reasoning:</b>
 
-*   To cultivate and enhance problem solving skills
-*   To enhance self-esteem and social skills
-*   To gear students’ ability to frame their ideas and answer questions independently
+<b style="color:#0000FF">Objectives of E3 Reasoning:</b>
+
+<ul>
+<li>To cultivate and enhance problem solving skills</li>
+<li>To enhance self-esteem and social skills</li>
+<li>To gear students’ ability to frame their ideas and answer questions independently</li>
+</ul>
 
 At each level of thinking, specific thinking skills were selected to focus on.
 
