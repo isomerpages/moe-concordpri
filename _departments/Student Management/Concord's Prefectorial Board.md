@@ -114,34 +114,34 @@ third_nav_title: Student Management
 <li><b>Prefects Investiture</b></li>
 
 <p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
+<img src="/images/pb9.png" style="width:70%">
+<br>
+<img src="/images/pb10.png" style="width:70%">
+<br>
+<img src="/images/pb11.jpeg" style="width:70%">
+<br>
+<img src="/images/pb12.jpeg" style="width:70%">
+<br>
 
-![](/images/pb9.png)
+<li><b>Prefect Training</b></li>
+<br>
+<img src="/images/pb13.png" style="width:70%">
 
-![](/images/pb10.png)
-
-![](/images/pb11.jpeg)
-
-![](/images/pb12.jpeg)
-
-
-*   **Prefect Training**
-
-![](/images/pb13.png)
-
-*   **Prefects Camp 2021**  
+<li><b>Prefects Camp 2021</b></li>  
 
 <p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
-
-![](/images/pb14.jpeg)
-
-![](/images/pb15.jpeg)
-
-![](/images/pb16.jpeg)
-
-* **Teachers’ Day Celebration**
+<br>
+<img src="/images/pb14.jpeg" style="width:70%">
+<br>
+<img src="/images/pb15.jpeg" style="width:70%">
+<br>
+<img src="/images/pb16.jpeg" style="width:70%">
+<br>
+	
+<li><b>Teachers’ Day Celebration</b></li>
 
 <p style="text-align:justify">Every year, the prefects put together a performance and the Executive Committee prefects will put together a gift to show appreciation to the school on this special day.
-
-![](/images/pb17.jpeg)
-
-![](/images/pb18.jpeg)
+<br>
+<img src="/images/pb17.jpeg" style="width:70%">
+<br>
+<img src="/images/pb18.jpeg" style="width:70%">
