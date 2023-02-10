@@ -6,7 +6,7 @@ description: ""
 <img src="/images/IMG_2363.jpeg" 
      style="width:25%">
 
-**‘Welcome to Concord Primary School!'**
+<b>‘Welcome to Concord Primary School!'</b>
 
 <p style="text-align:justify">As a Concord family, our vision of nurturing every student with a Caring Heart, an Enriched Mind and Determined Spirit serve as a beacon of light as we endeavour to develop our Concordians into individuals with character and passion for learning to face life’s challenges.
 
