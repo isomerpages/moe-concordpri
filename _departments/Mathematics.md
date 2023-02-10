@@ -6,32 +6,30 @@ description: ""
 <img src="/images/MATHEMATICS_P1.jpeg" 
      style="width:80%">
 		 
-Vision
--------
+<h2>Vision</h2>
 
 <p style="text-align:justify">Cultivating interest, developing problem solving skills and confidence in Mathematics.
 
-Mission
---------
+<h2>Mission</h2>
 
-Explore, Experience and Discover Mathematics.
+<p style="text-align:justify">Explore, Experience and Discover Mathematics.
 
-Department Framework
----------------------
+<h2>Department Framework</h2>
 
 <p style="text-align:justify">The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.
 
-Aims of the Mathematics Department:
+<b>Aims of the Mathematics Department:</b>
 
-*   Develop students’ interest in Mathematics.
-*   Develop students’ understanding of Math concepts.
-*   Enable students to acquire Mathematical skills and then apply to real-life situations.
-*   Enable students to think flexibly and use creative approaches to solve problems.
-*   Enable students to use Mathematical language to communicate Mathematical ideas confidently and logically.
-*   Develop students’ metacognitive skills to monitor own thinking and regulation of self-learning. 
+<ul>
+<li>Develop students’ interest in Mathematics.</li>
+<li>Develop students’ understanding of Math concepts.</li>
+<li>Enable students to acquire Mathematical skills and then apply to real-life situations.</li>
+<li>Enable students to think flexibly and use creative approaches to solve problems.</li>
+<li>Enable students to use Mathematical language to communicate Mathematical ideas confidently and logically.</li>
+<li>Develop students’ metacognitive skills to monitor own thinking and regulation of self-learning.</li> 
+</ul>
 
-Key Programmes
----------------
+<h2>Key Programmes</h2>
 
 <span style="color:#0000FF; font-size:18px"><b>Fostering Joy of Learning through Learning Experiences</b></span>
 
@@ -39,14 +37,15 @@ Key Programmes
 
 <u><b>Use of manipulative in the lessons (P1 to 6)</b></u>
 
-![](/images/m1.png)
-![](/images/m2.png)
-
+<img src="/images/m1.png" 
+     style="width:80%">
+<img src="/images/m2.png" style="width:80%">
+<br>
 <u><b>Use of ICT tools</b></u>   
 <p style="text-align:justify">ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.
-
-![](/images/m3.png)
-
+<br><br>
+<img src="/images/m3.png" style="width:80%">
+	
 <u><b>Math Playground (Primary 1 to 2)</b></u>.  
 <p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.  
 
@@ -77,7 +76,9 @@ The programme aims to foster independence in mathematical thinking skills, as we
 <u><b>Math Competitions (Primary 4 to 6)</b></u>  
 <p style="text-align:justify">The objectives of participating in Math competitions are to expose our students to intellectually challenging mathematical questions, to challenge and stretch their mathematical potential, to stimulate their interest and ignite their passion in Mathematics. Our students have been exposed to the following competitions:  
 
-*   Raffles Institution Primary Mathematics World Contest (RIPMWC)
-*   National Mathematical Olympiad of Singapore (NMOS)
-*   Singapore and Asian Schools Math Olympiad (SASMOS)
-*   Singapore Mathematical Olympiad for Primary Schools (SMOPS)
+<ul>
+<li>Raffles Institution Primary Mathematics World Contest <b>(RIPMWC)</b></li>
+<li>National Mathematical Olympiad of Singapore <b>(NMOS)</b></li>
+<li>Singapore and Asian Schools Math Olympiad <b>(SASMOS)</b></li>
+<li>Singapore Mathematical Olympiad for Primary Schools <b>(SMOPS)</b></li>
+	</ul>
