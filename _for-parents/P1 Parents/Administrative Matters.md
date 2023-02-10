@@ -115,12 +115,12 @@ Our School-based Student Care provider is Big Heart Student Care. If you would l
 
 For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
 
-**9.**     **Apply for POSB Smart Buddy Watch**
+<b>9. Apply for POSB Smart Buddy Watch</b>
 
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
 
   
 
-**10.**  **Complete Student Details Form (SDF)**
+<b>10. Complete Student Details Form (SDF)</b>
 
 <p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.
