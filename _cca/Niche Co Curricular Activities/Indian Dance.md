@@ -8,7 +8,7 @@ third_nav_title: Niche Co Curricular Activities
 
 <p style="text-align:justify">Our dancers learn a mix of folk, traditional and contemporary dances. We believe that a mix of these dances are required for learning and sharpening their dance skills. Our dancers are given many opportunities to showcase their dancing skills in and out of school. Students realize their potential through these opportunities and master new skills which in turn helps to increase their self-esteem.
 
-	<b><u>Achievements</u></b>
+<b><u>Achievements</u></b>
 
 <p style="text-align:justify">For the past few years, we have been performing at school, external venues and also taking part in the SYF Central Judging.Our dance group has achieved Certificate of Distinction in 2016 and 2018.
 
