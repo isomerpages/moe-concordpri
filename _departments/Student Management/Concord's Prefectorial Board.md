@@ -52,7 +52,7 @@ third_nav_title: Student Management
 </table>
 <br>
 
-<b><u>Head Prefect’s Message 2022</b></u>
+<b><u>Head Prefect’s Message 2022</u></b>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -72,7 +72,7 @@ third_nav_title: Student Management
     <td class="tg-n1ni"><img src="/images/Head%20Prefect%20Jayden.jpeg"></td>
     <td class="tg-n1ni" style="text-align:justify">I believe that as a leader, we need to take the initiative to help anyone in need and listen to others. A good leader is also a good team player. And most importantly a good leader should be a role model and influence others positively. One quote that I hold close to my heart is "Leaders lead from the heart, not the head." This quote is a reminder for me that in order to be a good leader, I have to touch people's heart in order to take their hands and lead them. I strive to be a leader who can lead with a heart, touch the hearts of others with love and care. Hand in hand, shoulder to shoulder, I hope to walk with all concordians towards our school motto: Together, we soar to greater heights, where everyone plays in creating what we call home, Concord Primary School.
 
-<b><em>Jayden Tan Yanyi, Head Prefect 2022</b></em></td>
+<b><em>Jayden Tan Yanyi, Head Prefect 2022</em></b></td>
 </tr>
 </tbody>
 </table>
