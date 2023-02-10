@@ -4,7 +4,7 @@ permalink: /cca/Niche-Co-Curricular-Activities/band/
 description: ""
 third_nav_title: Niche Co Curricular Activities
 ---
-<h3>Highlights:</h3>
+<h3>Highlights</h3>
 
 <p style="text-align:justify">Concord’s Band has embarked on a new journey with the new structure put in place in 2014. The Band members undergo two sessions of training from 3.30pm to 5.30pm. A team of 2 instructors provide intense practice sessions alternating from sectional for focused training and combined practices where the Band practices as a whole entity.
 
@@ -12,30 +12,28 @@ third_nav_title: Niche Co Curricular Activities
 
 <p style="text-align:justify">Apart from participating in the SYF competitions and performing for school functions, the Band also aims to provide public performances in collaboration with neighbouring organizations during events like New Year and National Day celebrations.
 
-<center><strong>National Day Performance at Keat Hong CC</strong></center>
-
+<b style="color:#0000FF"><center>National Day Performance at Keat Hong CC</center>
 <img src="/images/band1.jpeg" style="width:80%">
 <br>
 <img src="/images/band3.png" style="width:80%">
-
+<br>
 <center>Naval Base Secondary School Band Exchange Programme</center>
-
-![](/images/band2.jpeg)
-
-![](/images/band4.jpeg)
-
-![](/images/band5.jpeg)
+<img src="/images/band2.jpeg" style="width:80%">
+<br>
+<img src="/images/band4.jpeg" style="width:80%">
+<br>
+<img src="/images/band5.jpeg" style="width:80%">
+<br>
 
 <center>Guest Band for ITE West Symphonia at SOTA</center>
-
-![](/images/band6.jpeg)
-
+<img src="/images/band6.jpeg" style="width:80%">
+<br>
 <center>Let's Bond Activities</center>
-
-![](/images/band7.png)
-
+<img src="/images/band7.png" style="width:80%">
+<br>
 <center>Buddy System Sectionals</center>
 
-![](/images/band8.jpeg)
-
-![](/images/band9.jpeg)
+<img src="/images/band8.jpeg" style="width:80%">
+<br>
+<img src="/images/band9.jpeg" style="width:80%">	
+</b>
