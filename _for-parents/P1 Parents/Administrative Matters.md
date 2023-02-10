@@ -71,24 +71,27 @@ Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb
 
 Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
-i. Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund</b></u>.
+<ol>
+<li type ="i">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund.</b></u>
+</li>
 
-ii. Apply for FAS <a href="https://go.gov.sg/moe-efas">here.</a> Singpass login will be required.
+<li type ="i">Apply for FAS <a href="https://go.gov.sg/moe-efas">here.</a> Singpass login will be required.</li>
 <br>
 <img style="width:25%" src="/images/QR Code_eFAS form.png"><br>
-iii.  Please do approach the school for assistance if you are unable to apply via the eFAS form.
-
-iv. <b>Application via hardcopy form is required for: -</b>
-
+<li type ="i">Please do approach the school for assistance if you are unable to apply via the eFAS form.</li>
+<li type ="i"><b>Application via hardcopy form is required for: -</b></li>
+</ol>
 <em>(Hardcopy FAS forms to be obtained from the General Office)</em>
 
-a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+<ol>
+<li type="a">families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</li>
 
-b. family with more than 5 children in Government or Government-aided schools (GGAS)
+<li type="a">family with more than 5 children in Government or Government-aided schools (GGAS)</li>
 
-c. family with more than 4 unmarried children not in GGAS
+<li type="a">family with more than 4 unmarried children not in GGAS</li>
  
-d. family with more than 3 grandparents in the household
+<li type="a">family with more than 3 grandparents in the household</li>
+</ol>
 <br><br>
 <b>6. Purchase School Books and Uniform</b>
 
