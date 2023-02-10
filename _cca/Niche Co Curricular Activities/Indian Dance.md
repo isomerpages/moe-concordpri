@@ -16,16 +16,13 @@ third_nav_title: Niche Co Curricular Activities
 
 <b style="color:#0000FF"><center>SYF 2016 - Our Vibrant Performers</center>
 
-![](/images/ind1.jpeg)
-
-<center>SYF 2016 - Our Vibrant Performers</center>
-
-![](/images/ind2.jpeg)
-
-<center>Performance at Ministry of Finance</center>
-
-![](/images/ind3.png)
+<img src="/images/ind1.jpeg" style="width:80%">
+<br>
+<img src="/images/ind2.jpeg" style="width:80%">
+<br>
 
 <center>Performance at Ministry of Finance</center>
-
-![](/images/ind4.jpeg)
+<img src="/images/ind3.png" style="width:80%">
+<br>
+<center>Performance at Ministry of Finance</center>
+<img src="/images/ind4.jpeg" style="width:80%">
