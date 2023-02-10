@@ -36,11 +36,11 @@ third_nav_title: P1 Parents
 </table>
 
 <p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
-<br>
+<br><br>
 <b>2.  Provide Additional Information for Form Teachers</b>
 
 <p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile">link</a>.
-<br>
+<br><br>
 <b>3. Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and standard miscellaneous fees.
@@ -49,23 +49,22 @@ third_nav_title: P1 Parents
 
 <p style="text-align:justify">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
   
-<br>
+<br><br>
 <b>4.  Apply for EDUSAVE Account Standing Order <em>(For Singapore Citizens only)</em></b>
 
 <p style="text-align:justify">The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do <u>not</u> need to match the contributions.
 
-The Edusave funds can be used for:
+<p>The Edusave funds can be used for:
 
-• 2nd-tier miscellaneous fees; and
-
-• Level–wide enrichment programmes organised by the school
-
-  
+<ul> 
+<li>2nd-tier miscellaneous fees; and</li>
+<li>Level–wide enrichment programmes organised by the school</li>
+</ul>
 
 <p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
 Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">here.</a> Singpass login will be required.
-<br>
+<br><br>
 <b>5.  Apply for 2023 MOE Financial Assistance Scheme (FAS)</b>
 <img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
 <img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
@@ -90,7 +89,7 @@ b. family with more than 5 children in Government or Government-aided schools (G
 c. family with more than 4 unmarried children not in GGAS
  
 d. family with more than 3 grandparents in the household
-<br>
+<br><br>
 <b>6. Purchase School Books and Uniform</b>
 
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
@@ -118,7 +117,7 @@ For more information, please refer to this <a href="/files/Big Heart.pdf">pamph
 <b>9. Apply for POSB Smart Buddy Watch</b>
 
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
-<br>
+<br><br>
 <b>10. Complete Student Details Form (SDF)</b>
 
 <p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.
