@@ -181,17 +181,13 @@ Every student an inquirer.
 
 <h4>Other Programmes</h4><br>
 
-<ul>
-<li><b>Parent Symposium</b></li>
-</ul>
+<b>Parent Symposium</b>
 	
 <img style="width:65%" src="/images/Parent Symposium.png">
 
 <p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.&nbsp;
 
-<ul>
-	<li><b>Professional Learning Team (PLT)</b></li>
-</ul>
+<b>Professional Learning Team (PLT)</b>
 
 <img style="width:65%" src="/images/PLT.jpg">
 
