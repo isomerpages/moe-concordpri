@@ -50,9 +50,9 @@ third_nav_title: P1 Parents
 <p style="text-align:justify">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
   
 
-**4.**     **Apply for** **EDUSAVE Account Standing Order** **_(For Singapore Citizens only)_**
+<b>4.  Apply for EDUSAVE Account Standing Order <em>(For Singapore Citizens only)</em></b>
 
-<p style="text-align:justify">The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do not need to match the contributions.
+<p style="text-align:justify">The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do <u>not</u> need to match the contributions.
 
 The Edusave funds can be used for:
 
@@ -64,15 +64,15 @@ The Edusave funds can be used for:
 
 <p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
-Please sign up for the Standing Order [here](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59). Singpass login will be required.
+Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">here.</a> Singpass login will be required.
 
-**5.**     **Apply for 2023 MOE Financial Assistance Scheme (FAS)**
+<b>5.  Apply for 2023 MOE Financial Assistance Scheme (FAS)</b>
 <img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
 <img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
 
-Please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
+Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
-i. Please do NOT purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is **strictly no refund**.
+i. Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund</b></u>.
 
  ii. Apply for FAS [here](https://go.gov.sg/moe-efas). Singpass login will be required.
 
