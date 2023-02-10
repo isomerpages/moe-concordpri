@@ -7,20 +7,19 @@ third_nav_title: CCE
 <img src="/images/Character and Citizen Education_P1.jpeg" 
      style="width:80%">
 		 
-Vision
-------
+<h2>Vision</h2>
 
 <p style="text-align:justify">Every Concordian is a morally upright and socially responsible citizen with cross-cultural sensitivity and global awareness.
 
-Mission
--------
+<h2>Mission</h2>
 
 <p style="text-align:justify">To nurture every Concordian to be a caring, motivated and resilient person.
 
-DEPARTMENT’S HIGHLIGHTS
------------------------
+<h2>DEPARTMENT’S HIGHLIGHTS</h2>
 
-*   **Total Defence Day Commemoration** 
-*   **International Friendship Day** 
-*   **Racial Harmony Day** 
-*   **National Day**
+<ul style="font-weight:bold">
+<li>Total Defence Day Commemoration</li>
+<li>International Friendship Day</li>
+<li>Racial Harmony Day</li>
+<li>National Day</li>
+</ul>
