@@ -26,4 +26,4 @@ third_nav_title: Niche Co Curricular Activities
 <br>
 <img src="/images/Floorball02.jpeg" style="width:80%">
 <br>
-<img src="/images/Floorball03.jpeg"  style="width:80%">
+<img src="/images/Floorball03.jpeg" style="width:80%">
