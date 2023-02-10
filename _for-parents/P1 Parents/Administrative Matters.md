@@ -7,7 +7,7 @@ third_nav_title: P1 Parents
 <h3>Administrative Matters</h3>
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2023, please complete the following administrative tasks before the P1 Orientation Day on 18 Nov 2022.
-
+<br>
 <b>1.  Onboard The Parents Gateway App</b>
 
 <p style="text-align:justify">Please download and install the Parents Gateway app. The instructions to onboard (login for the first time) the platform can be found below.
@@ -36,11 +36,11 @@ third_nav_title: P1 Parents
 </table>
 
 <p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
-
+<br>
 <b>2.  Provide Additional Information for Form Teachers</b>
 
 <p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile">link</a>.
-
+<br>
 <b>3. Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and standard miscellaneous fees.
@@ -49,7 +49,7 @@ third_nav_title: P1 Parents
 
 <p style="text-align:justify">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.  
   
-
+<br>
 <b>4.  Apply for EDUSAVE Account Standing Order <em>(For Singapore Citizens only)</em></b>
 
 <p style="text-align:justify">The Edusave account is automatically opened by MOE for all Singaporean children studying at primary or secondary level in MOE-funded schools to receive annual Edusave contributions from the Government. Parents do <u>not</u> need to match the contributions.
@@ -65,7 +65,7 @@ The Edusave funds can be used for:
 <p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
 Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">here.</a> Singpass login will be required.
-
+<br>
 <b>5.  Apply for 2023 MOE Financial Assistance Scheme (FAS)</b>
 <img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
 <img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
@@ -90,7 +90,7 @@ b. family with more than 5 children in Government or Government-aided schools (G
 c. family with more than 4 unmarried children not in GGAS
  
 d. family with more than 3 grandparents in the household
-
+<br>
 <b>6. Purchase School Books and Uniform</b>
 
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
@@ -100,7 +100,7 @@ d. family with more than 3 grandparents in the household
 <b>Uniform Vendor: </b><a href="https://khuniform.com/">https://khuniform.com/</a>
 <br><br>
 <img style="width:60%" src="/images/Purchase of school uniform.jpg"><br>
-
+<br>
 <b>7.    Apply for School Bus Services</b>  
 
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
@@ -108,19 +108,17 @@ d. family with more than 3 grandparents in the household
 <b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8">https://forms.gle/mAakGAAHrt2mt7cY8</a>
 <br><br>
 <img style="width:35%" src="/images/School bus services QR code.png">
-
+<br>
 <b>8.  Enrol into School-Based Student Care</b>
 
 Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/">here</a><b><u> by Sunday, 30 October 2022.</u></b>
 
 For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
-
+<br>
 <b>9. Apply for POSB Smart Buddy Watch</b>
 
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
-
-  
-
+<br>
 <b>10. Complete Student Details Form (SDF)</b>
 
 <p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.
