@@ -40,7 +40,7 @@ description: ""
 
 <img src="/images//Abseiling%20Exposure%20Programme.jpg" 
      style="width:50%">
-	<b><center>Abseiling Exposure Programme</center></b>
+<b><center>Abseiling Exposure Programme</center></b>
 
 <li>Develop their <b>SEL competencies</b> and appreciate the contributions and achievements of themselves and of others.</li>
 
