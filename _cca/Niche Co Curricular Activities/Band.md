@@ -14,9 +14,9 @@ third_nav_title: Niche Co Curricular Activities
 
 <center><strong>National Day Performance at Keat Hong CC</strong></center>
 
-![](/images/band1.jpeg)
-
-![](/images/band3.png)
+<img src="/images/band1.jpeg" style="width:80%">
+<br>
+<img src="/images/band3.png" style="width:80%">
 
 <center>Naval Base Secondary School Band Exchange Programme</center>
 
