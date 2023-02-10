@@ -79,7 +79,7 @@ description: ""
 <b><center>National Super Outdoor Race</center></b>  
 
 <li>Broadening their horizons and becoming open to a <b>wider range of employment opportunities and life chances</b>.</li>
-
+</ol>
  <img src="/images/llp10.jpg" style="width:35%">
 <b><center>Level 1 Sport Climbing Course</center></b>
 	
