@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Parents/.keep
-      - P1 Parents/Administrative Matters.md
-      - P1 Parents/Registration Exercise.md
       - Child's Absence.md
       - Newsletter and Resources for Parents.md
       - Term Calendar and Note.md
@@ -23,6 +20,9 @@ collections:
       - Concord Daddies/Bi Annual 2018Q1 Meeting.md
       - Concord Daddies/Back to School 2018.md
       - Concord Daddies/Breakfast with Dad 2017.md
+      - P1 Parents/.keep
+      - P1 Parents/Administrative Matters.md
+      - P1 Parents/Registration Exercise.md
       - P1 Registration Exercise.md
       - S1 Posting Exercise.md
       - Student Learning Space (SLS).md
