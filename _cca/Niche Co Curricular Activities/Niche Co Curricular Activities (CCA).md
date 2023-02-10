@@ -66,11 +66,9 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
 .tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
+<b style="color:#0000FF"><center>Tentative Schedule (2022)</center></b>
 <table class="tg">
 <tbody>
-  <tr style="color:#0000FF; font-weight:bold">
-    <td colspan="4">Tentative Schedule (2022)</td>
-  </tr>
   <tr>
     <td class="tg-1pw2">Mondays</td>
     <td class="tg-1pw2">Tuesday</td>
