@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Modular CCA Programme/Modular CCA Programme.md
-      - Modular CCA Programme/.keep
+      - Modular CCA/Modular CCA Programme.md
+      - Modular CCA/.keep
       - Niche Co Curricular Activities/Niche Co Curricular Activities (CCA).md
       - Niche Co Curricular Activities/Choir.md
       - Niche Co Curricular Activities/Band.md
