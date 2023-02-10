@@ -21,9 +21,9 @@ third_nav_title: Niche Co Curricular Activities
 </style>
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-1pw2">Sports CCAs</td>
-    <td class="tg-1pw2">Performing Arts CCAs</td>
+  <tr style="color:#0000FF; font-weight:bold; text-align:center">
+    <td>Sports CCAs</td>
+    <td>Performing Arts CCAs</td>
   </tr>
   <tr>
     <td class="tg-yhj3">Badminton (Boys)</td>
@@ -53,7 +53,7 @@ third_nav_title: Niche Co Curricular Activities
 <p style="text-align:justify">The same identification process is employed when the P3 students undergo the Modular CCA Dance Module. Students who demonstrate special aptitude for dance will be offered either the Indian or International Dance CCA.
 
  
-<p style="text-align:justify">All Nice CCAs will have <u>qualified MOE-registered instructors and coaches</u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
+<p style="text-align:justify">All Nice CCAs will have <u><b>qualified MOE-registered instructors and coaches</b></u> to train the students during the twice-weekly CCA sessions. The professional instructions/coaches will enable the students to realize their full potential and attain mastery of the relevant CCA related knowledge and skills.  
 
 Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 
@@ -68,8 +68,8 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 </style>
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-1pw2" colspan="4">Tentative Schedule (2022)</td>
+  <tr style="color:#0000FF; font-weight:bold; text-align:center">
+    <td colspan="4">Tentative Schedule (2022)</td>
   </tr>
   <tr>
     <td class="tg-1pw2">Mondays</td>
