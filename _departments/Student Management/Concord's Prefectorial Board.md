@@ -105,11 +105,13 @@ third_nav_title: Student Management
 <li><b>Daily Duties</b></li>
 
 <p style="text-align:justify">The prefects are involved in various duties such as recess duties, late-comers duty, and pledge taking duties. The prefects also actively support the school programmes by taking on roles of emcees and prefects ushers.
+<br>
+<img src="/images/pb7.png" style="width:70%">
+<br>
+<img src="/images/pb8.png" style="width:70%">
+<br>
 
-![](/images/pb7.png)
-![](/images/pb8.png)
-
-*   **Prefects Investiture**
+<li><b>Prefects Investiture</b></li>
 
 <p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.
 
