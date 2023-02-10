@@ -179,7 +179,7 @@ Every student an inquirer.
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
 
-<h5>Other Programmes</h5><br>
+<h4>Other Programmes</h4><br>
 
 <ul>
 <li><b>Parent Symposium</b></li>
