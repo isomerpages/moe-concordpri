@@ -18,8 +18,7 @@ third_nav_title: Niche Co Curricular Activities
 
 <p style="text-align:justify">As part of the National Day celebration at The Treasury building, we were invited by the Ministry of Finance to perform a fusion dance, together with the Indian Dance members. It was a rather unique dance performance that awed everyone who watched it.
 <img src="/images/id1.jpeg">
-![](/images/id1.jpeg)
-
+<br>
 ![](/images/id2.jpeg)
 
 ![](/images/id3.jpeg)
