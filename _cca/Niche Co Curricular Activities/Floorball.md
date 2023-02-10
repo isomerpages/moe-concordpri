@@ -21,9 +21,9 @@ third_nav_title: Niche Co Curricular Activities
   
 
 <p style="text-align:justify">With more practice, our Floorball members will only get better! Together we will soar to greater heights!
-
-![](/images/Floorball01.jpeg)
-
-![](/images/Floorball02.jpeg)
-
-![](/images/Floorball03.jpeg)
+<br><br>
+<img src="/images/Floorball01.jpeg" style="width:80%">
+<br>
+<img src="/images/Floorball02.jpeg" style="width:80%">
+<br>
+<img src="/images/Floorball03.jpeg"  style="width:80%">
