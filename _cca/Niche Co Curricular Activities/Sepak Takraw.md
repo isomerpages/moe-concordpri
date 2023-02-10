@@ -46,23 +46,19 @@ third_nav_title: Niche Co Curricular Activities
     <td class="tg-muik"><span style="color:#0C463A;background-color:transparent">Senior Team</span></td>
     <td class="tg-muik"><span style="color:#0C463A;background-color:transparent">Bronze</span></td>
     <td class="tg-muik"><span style="color:#0C463A;background-color:transparent">Bronze</span></td>
-    <td class="tg-muik"><span style="color:#0C463A;background-color:transparent">Bronze</span></td>
-  </tr>
+    <td class="tg-muik"><span style="color:#0C463A;background-color:transparent">Bronze</span></td></tr>
 </tbody>
 </table>
-
-![](/images/Takraw%2001.jpeg)
-
+<br>
+<img src="/images/Takraw%2001.jpeg" style="width:80%">
+<img src="/images/Takraw02.jpeg" style="width:80%">
+<b style="color:#0000FF">
 <center>Stretching exercises as part of our warm ups</center>
-
-![](/images/Takraw02.jpeg)
-
+<br>
+<img src="/images/Takraw03.jpeg" style="width:80%">
 <center>Helping a friend out</center>
-
-![](/images/Takraw03.jpeg)
-
+<br>
+<img src="/images/Takraw04.jpeg" style="width:80%">
+<img src="/images/Takraw05.jpeg" style="width:80%">
 <center>Our team doing us proud</center>
-
-![](/images/Takraw04.jpeg)
-
-![](/images/Takraw05.jpeg)
+</b>
