@@ -57,14 +57,14 @@ description: ""
 
 <h2>Below are the compulsory test items</h2>
 
-1.  Sit-ups
-2.  Standing Broad Jump
-3.  Sit-and-Reach
-4.  Inclined Pull-ups
-5.  Shuttle Run
-6.  1.6km Walk-Run
-
-  
+<ol>
+<li>Sit-ups</li>
+<li>Standing Broad Jump</li>
+<li>Sit-and-Reach</li>
+<li>Inclined Pull-ups</li>
+<li>Shuttle Run</li>
+<li>1.6km Walk-Run</li>
+</ol>
 
 <p style="text-align:justify">The PE department also organises specialised games and sports for students from Primary 3 to 6 – games like Tchoukball, Kinball, Roller-blading, Archery, etc. These introductory sports are usually carried out by specialised vendors and our PE teachers would supervise our students during the Modular Programme sessions. Such experiential learning will bring about rich exposure and thus, making learning more enjoyable and fun for both our students and teachers.
 
