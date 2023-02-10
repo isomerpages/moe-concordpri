@@ -74,14 +74,14 @@ Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-ass
 
 i. Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund</b></u>.
 
- ii. Apply for FAS [here](https://go.gov.sg/moe-efas). Singpass login will be required.
-
+ii. Apply for FAS <a href="https://go.gov.sg/moe-efas">here.</a> Singpass login will be required.
+<br>
 <img style="width:25%" src="/images/QR Code_eFAS form.png"><br>
 iii.  Please do approach the school for assistance if you are unable to apply via the eFAS form.
 
-iv.  **Application via hardcopy form is required for: -**
+iv. <b>Application via hardcopy form is required for: -</b>
 
-      _(Hardcopy FAS forms to be obtained from the General Office)_
+<em>(Hardcopy FAS forms to be obtained from the General Office)</em>
 
 a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 
@@ -91,26 +91,27 @@ c. family with more than 4 unmarried children not in GGAS
  
 d. family with more than 3 grandparents in the household
 
-**6.**     **Purchase School Books and Uniform**
+<b>6. Purchase School Books and Uniform</b>
 
-<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between **9 am to 3 pm**. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
+<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
 
-Bookshop: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
+<b>Bookshop: </b> <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a>
 
-**Uniform Vendor: [https://khuniform.com/](https://khuniform.com/)**
+<b>Uniform Vendor: </b><a href="https://khuniform.com/">https://khuniform.com/</a>
+<br><br>
 <img style="width:60%" src="/images/Purchase of school uniform.jpg"><br>
 
-**7.    Apply for School Bus Services**  
+<b>7.    Apply for School Bus Services</b>  
 
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
 
-School Bus Vendor: [https://forms.gle/mAakGAAHrt2mt7cY8](https://forms.gle/mAakGAAHrt2mt7cY8)
-
+<b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8">https://forms.gle/mAakGAAHrt2mt7cY8</a>
+<br><br>
 <img style="width:35%" src="/images/School bus services QR code.png">
 
-**8.**     **Enrol into School-Based Student Care**
+<b>8.  Enrol into School-Based Student Care</b>
 
-Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form [here](https://bigheartstudentcare.com/interest/) **by Sunday, 30 October 2022**.
+Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/">here</a><b><u> by Sunday, 30 October 2022.</u></b>
 
 For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
 
