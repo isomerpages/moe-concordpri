@@ -45,9 +45,9 @@ third_nav_title: Student Management
     <td class="tg-k9zj">- Foster collaboration by promoting shared vision.<br>- Empower their peers to contribute actively.</td>
   </tr>
   <tr>
-    <td class="tg-k9zj">Encourage the Heart<br> </td>
+    <td class="tg-k9zj">Encourage the Heart<br></td>
     <td class="tg-k9zj">- Encourage others in the team to contribute meaningful and actively<br>- To have a strong faith and belief that the team is capable of achieving.<br>- Expresses appreciation for the contribution that others make.<br>- Celebrates successes and accomplishments.</td>
-  </tr>
+</tr>
 </tbody>
 </table>
 <br>
@@ -85,7 +85,7 @@ third_nav_title: Student Management
 <br>
 <img src="/images/pb2.jpeg" style="width:70%">
 
-<b><u>2022 Prefectorial Board<b></u>
+<b><u>2022 Prefectorial Board</b></u>
 <br>
 <img src="/images/pb3.jpeg" style="width:70%">
 <br>
@@ -100,9 +100,9 @@ third_nav_title: Student Management
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-	<h2>Key Programmes/events</h2>
+<h2>Key Programmes/events</h2>
 
-*   **Daily Duties**
+<li><b>Daily Duties</b></li>
 
 <p style="text-align:justify">The prefects are involved in various duties such as recess duties, late-comers duty, and pledge taking duties. The prefects also actively support the school programmes by taking on roles of emcees and prefects ushers.
 
