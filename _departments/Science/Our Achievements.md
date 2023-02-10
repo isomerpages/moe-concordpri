@@ -123,9 +123,9 @@ third_nav_title: Science
 	</ul>
 
 <h5>5. Sony Creative Science Award</h5>
-<img style="width:30%" src="/images/whizkid2.jpg">
+<img style="width:30%" src="/images/whizkid2.jpg"><br>
 <span style="color:#3333FF"><b>Whizkid category Merit Award Winner:</b>
-	</span>
+</span>
 <ul style="font-size:12px">
 	<li>Chloe Tan Jia En</li>
 	</ul>
