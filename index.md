@@ -21,20 +21,4 @@ sections:
         - title: Newsletter
           description: ""
           url: /for-parents/newsletter/
-  - infopic:
-      title: Newsletter for Concordians
-      subtitle: school updates
-      description: Find out more on what your child is going through in school!
-      button: View All
-      url: /for-parents/announcements/
-      image: /images/infoexample.png
-      alt: newsletters
-  - infopic:
-      title: Highlights
-      subtitle: Concord Events
-      description: Concordians in Action
-      button: View Gallery
-      url: /highlights/Photos/2022/
-      image: /images/scizoom.jpeg
-      alt: concordians
 ---
