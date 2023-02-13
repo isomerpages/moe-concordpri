@@ -3,8 +3,10 @@ title: Learning Platforms
 permalink: /learning-platforms/
 description: ""
 ---
-*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+<ul>
+<li><a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a></li>
+<li><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">MySkillsFuture</a></li>
+</ul>
 
 
 <style type="text/css">
