@@ -18,7 +18,7 @@ description: ""
 3. <a href="/files/PG Mobile App User Guide.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway User Guide</b></span></a><br>
 	4. <a href="/files/PG Mobile App Meetings Feature User Guide.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway Meeting Feature User Guide</b></span></a><br>
 * iOS (hyperlink to <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">https://apps.apple.com/sg/app/parents-gateway/id1267198708</a>)
-</br>
+<br>
 * Android (hyperlink to <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG">https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG</a>)
-</br>
+<br>
 You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.
