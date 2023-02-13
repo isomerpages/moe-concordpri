@@ -28,7 +28,7 @@ description: ""
 	<p style="text-align:justify">To support the holistic development of our students as self-directed and collaborative learners, teachers design ICT-enriched learning activities to deepen their understanding of concepts learned in various subjects. To activate our students’ thinking, the use of digital resources such as videos, online quiz or games with careful scaffold are being designed by teachers. Opportunities for our students to discuss concepts and issues in lessons are facilitated by various open source such as Padlet, Kahoot, Google Documents and many other Apps. Through these collaborative platforms, our students work in small groups or pairs to surface their understanding of their lessons. With immediate feedback from such ICT collaborative tools, both students and teachers are able to instantly assess for themselves if learning objectives have been achieved.  
 
 <p style="text-align:justify">Students from P1 - P6 engage in group research using information from the internet to gather information related to healthy food choices for their projects. Students use Google forms and Linoit to put together their understanding before deciding their concept for presentation.
-<br>
+<br><br>
 <img src="/images/ict2.jpeg" 
      style="width:65%">
 
