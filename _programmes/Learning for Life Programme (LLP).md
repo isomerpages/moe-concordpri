@@ -29,33 +29,29 @@ description: ""
 <img src="/images/llp4.png" style="width:80%">
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPdDspWgbwE" title="Outdoor Education @ Concord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<b><u>Student Outcomes through OE @ Concord</u></b>
+<br><br>
+<p><b><u>Student Outcomes through OE @ Concord</u></b>
 
 <p>By providing high-quality outdoor education, we will see our students: 
 
 <ol>
-<li>Enjoy participating in outdoor activities and adopt a <b>positive attitude</b> to challenge and adventure.
-<li>Gain personal <b>confidence</b> and <b>self-esteem</b> through taking challenges and achieving success.
+<li>Enjoy participating in outdoor activities and adopt a <b>positive attitude</b> to challenge and adventure.</li>
+<li>Gain personal <b>confidence</b> and <b>self-esteem</b> through taking challenges and achieving success.</li>
 
-<img src="/images//Abseiling%20Exposure%20Programme.jpg" 
-     style="width:50%">
+<img src="/images/Abseiling%20Exposure%20Programme.jpg" style="width:50%">
 <b><center>Abseiling Exposure Programme</center></b>
 
 <li>Develop their <b>SEL competencies</b> and appreciate the contributions and achievements of themselves and of others.</li>
 
-<img src="/images/llp3-5.jpeg" 
-     style="width:45%">
+<img src="/images/llp3-5.jpeg" style="width:45%">
 <b><center>Team Building Games in PAL</center></b>
-
-  
 
 <li><b>Becoming alive to the natural environment</b> and understand the importance of conservation and sustainable development.</li>
  
 <img src="/images/llp4-5.jpg" style="width:35%">
 <b><center>Nature Appreciation in PAL</center></b>
 
-5) Acquiring and developing a range of <b>skills in outdoor activities, expeditions and explorations</b>.
+<li>Acquiring and developing a range of <b>skills in outdoor activities, expeditions and explorations</b>.</li>
 
  <img src="/images/llp5.jpeg" style="width:35%">
 <b><center>Tent Building</center></b>
@@ -64,7 +60,6 @@ description: ""
 	<b><center>Kayaking Orienteering Programme</center></b>
 
 <li>Demonstrating <b>increased initiative, self-reliance, responsibility, resilience and commitment</b>.</li>
-  
 
 <li>Developing and extending their key skills of <b>communication, problem solving, leadership and teamwork</b>.</li>
 
@@ -80,7 +75,8 @@ description: ""
 
 <li>Broadening their horizons and becoming open to a <b>wider range of employment opportunities and life chances</b>.</li>
 </ol>
- <img src="/images/llp10.jpg" style="width:35%">
+
+<img src="/images/llp10.jpg" style="width:35%">
 <b><center>Level 1 Sport Climbing Course</center></b>
 	
 <br>
