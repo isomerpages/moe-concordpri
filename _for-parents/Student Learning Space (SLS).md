@@ -19,19 +19,19 @@ description: ""
 Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 <br><br>
   
-<u>FREQUENTLY ASKED QUESTIONS</u>
+<p><u>FREQUENTLY ASKED QUESTIONS</u>
 <br>
-<b>Q1 : I have forgotten my password. What should I do?</b><br>  
+<p><b>Q1 : I have forgotten my password. What should I do?</b><br>  
 Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
 <br><br> 
-<b>Q2 : I have forgotten my username. What should I do?</b><br>   
+<p><b>Q2 : I have forgotten my username. What should I do?</b><br>   
 	The format of your username is a combination of the first <u>5 characters of your name</u> (as per your birth certificate), the <u>last 4 digits and the letter of your NRIC/FIN/BC.</u>  
 <br><br>
-<b>Q3 : My account has been locked. What should I do?</b><br> 
+<p><b>Q3 : My account has been locked. What should I do?</b><br> 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.  
 <br><br>
 
-Following which, you can do any of the following:
+<p>Following which, you can do any of the following:
 <br>
 1) Complete the form: <a href="https://go.gov.sg/concordsls"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a>
 <br>
@@ -43,14 +43,14 @@ Following which, you can do any of the following:
 <br>
 <em>(4pm - 9pm on weekdays, 9am - 9pm on Saturday).</em>
 <br><br>
-<b>Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b>  
+<p><b>Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b>  
 <br>
 If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 <br>
 Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
 <br><br>
   
-<b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
+<p><b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
 <br>
 <p>The following are the recommended operating systems:
 <br>
