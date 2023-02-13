@@ -8,6 +8,19 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
+      key_highlights:
+        - title: Announcement
+          description: ""
+          url: ""
+        - title: Highlights
+          description: ""
+          url: ""
+        - title: Calendar & Note
+          description: ""
+          url: ""
+        - title: Newsletter
+          description: ""
+          url: ""
   - infopic:
       title: Newsletter for Concordians
       subtitle: school updates
