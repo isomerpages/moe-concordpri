@@ -77,7 +77,7 @@ third_nav_title: Student Management
 </tbody>
 </table>
 <br>
-<b><u>Executive Committee Prefects 2022</u></b>
+<p><b><u>Executive Committee Prefects 2022</u></b>
 <br><br>
 <img src="/images/pb.jpeg" style="width:70%">
 <br>
@@ -85,7 +85,7 @@ third_nav_title: Student Management
 <br>
 <img src="/images/pb2.jpeg" style="width:70%">
 <br><br>
-<b><u>2022 Prefectorial Board</u></b>
+<p><b><u>2022 Prefectorial Board</u></b>
 <br><br>
 <img src="/images/pb3.jpeg" style="width:70%">
 <br>
@@ -96,7 +96,7 @@ third_nav_title: Student Management
 <img src="/images/pb6.jpeg" style="width:70%">
 <br>
 
-<b>Click here to read about the experiences of our past head prefects.</b>
+<p><b>Click here to read about the experiences of our past head prefects.</b>
 <br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
@@ -130,7 +130,7 @@ third_nav_title: Student Management
 <li><b>Prefects Camp 2021</b></li>  
 
 <p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
-<br>
+<br><br>
 <img src="/images/pb14.jpeg" style="width:70%">
 <br>
 <img src="/images/pb15.jpeg" style="width:70%">
