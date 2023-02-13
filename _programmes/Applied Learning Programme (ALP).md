@@ -67,9 +67,9 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<b>E3 Reasoning @ Concord</b>
-
+<br>
+<p><b>E3 Reasoning @ Concord</b>
+<br>
 The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
 
 <style type="text/css">
@@ -209,9 +209,9 @@ The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
 </tbody>
 </table>
 
-
-<b>E3 Reasoning Skills to focus</b>
-
+<br>
+<p><b>E3 Reasoning Skills to focus</b>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -245,8 +245,8 @@ The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
   </tr>
 </tbody>
 </table>
-
-<b>Our Learner-Centred Pedagogy</b>
+<br>
+<p><b>Our Learner-Centred Pedagogy</b>
 
 <b>Approach to develop E3 Reasoning</b>
 <br>
