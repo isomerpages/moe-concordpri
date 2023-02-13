@@ -3,4 +3,4 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
-<p> There are no announcement.
+<p> There is no announcement yet.
