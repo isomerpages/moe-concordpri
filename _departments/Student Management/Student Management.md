@@ -32,7 +32,7 @@ third_nav_title: Student Management
 <img src="/images/Student-Leadership-Framework.jpeg" style="width:70%">
 
 <p style="text-align:justify">The Prefectorial Board aims to develop every Prefects into confident leaders who contribute actively and lead by example. The leadership framework above is derived from the theoretical underpinnings of The Leadership Challenge Model by Kouzes and Posner. It is in alignment with the School’s Mission, Vision and Motto and the Desired Outcome of Education. 
-
+<br><br>
 <b><u>2022 Prefectorial Board Executive Committee Prefects</u></b>
 <br>
 <img src="/images/sm1.jpeg" style="width:70%">
