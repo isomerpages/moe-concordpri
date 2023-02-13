@@ -31,7 +31,8 @@ description: ""
 
 <h2>Key Programmes</h2>
 <br>
-<span style="color:#0000FF; font-size:18px"><b>Fostering Joy of Learning through Learning Experiences</b></span>
+<span style="color:#0000FF; font-size:18px">
+<p><b>Fostering Joy of Learning through Learning Experiences</b></span>
 
 <p style="text-align:justify">Opportunities are created for our students to explore, experience and discover Mathematics through the daily lessons and Math programmes. The use of manipulative, ICT tools and Math conversation/ Math talks are ways to enhance the learning experiences in the Math lessons to instil joy of learning. Besides enhancing our students’ experiences so as to enable them to understand concepts, acquire Mathematical skills and be able to apply to real-life situations, activities are customised to allow our students to think flexibly and use creative approaches to solve problems
 <br><br>
@@ -49,15 +50,15 @@ description: ""
 <u><b>Math Playground (Primary 1 to 2)</b></u>.  
 <p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.  
 <br><br>
-<span style="color:#0000FF; font-size:18px"><b>Alternative mode of assessments (Primary 1 to 6)</b></span>
+<span style="color:#0000FF; font-size:18px"><p><b>Alternative mode of assessments (Primary 1 to 6)</b></span>
 <br>
 <u><b>Math Performance Tasks</b></u>   
 <p style="text-align:justify">Mathematics Performance Task is one of the alternative assessments to enable the students to apply the mathematical concepts and skills through hands-on activities independently. It also enables the teachers to assess and guide students to improve their learning. Through the activities designed for our students, the teachers will give feedback and highlight some of the misconceptions which the students have to allow them to move forward and to improve in their learning.  
 <br>
 <u><b>Math Reasoning Tasks</b></u>   
 <p style="text-align:justify">Mathematical Reasoning Tasks have been crafted to develop students’ mathematical reasoning, communication and connections. Through hands-on activities and class discussions, students are given platforms to make use of the mathematical language to express their mathematical ideas. This will help them develop their mathematical understanding and deepen their thinking in various problem-solving contexts. At the same time, teachers can also assess on students’ understanding of concepts and provide feedback for improvement.  
- <br>
-<span style="color:#0000FF; font-size:18px"><b>Developing Metacognition and Problem-Solving skills (Primary 1 to 6)</b></span>
+ <br><br>
+<span style="color:#0000FF; font-size:18px"><p><b>Developing Metacognition and Problem-Solving skills (Primary 1 to 6)</b></span>
 
 <p style="text-align:justify">S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - <u><b>S</b></u>top, <u><b>T</b></u>hink, <u><b>A</b></u>ct, <u><b>R</b></u>eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
 The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.<br>
