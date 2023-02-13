@@ -10,11 +10,11 @@ description: ""
 <center><b>Student Learning Space</b></center> 
 <center>Website:<a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
-E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
+<p>E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
 <br><br>
-SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
+<p>SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
 <br><br>
-Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
+<p>Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
 <br><br>
 Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 <br><br>
@@ -23,13 +23,13 @@ Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><spa
 <br>
 <b>Q1 : I have forgotten my password. What should I do?</b><br>  
 Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
-<br> 
+<br><br> 
 <b>Q2 : I have forgotten my username. What should I do?</b><br>   
 	The format of your username is a combination of the first <u>5 characters of your name</u> (as per your birth certificate), the <u>last 4 digits and the letter of your NRIC/FIN/BC.</u>  
-<br>
+<br><br>
 <b>Q3 : My account has been locked. What should I do?</b><br> 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.  
-<br>
+<br><br>
 
 Following which, you can do any of the following:
 <br>
@@ -42,13 +42,13 @@ Following which, you can do any of the following:
 <em>* The SLS Central Helpline will operate after school operating hours</em>
 <br>
 <em>(4pm - 9pm on weekdays, 9am - 9pm on Saturday).</em>
-<br>
+<br><br>
 <b>Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b>  
 <br>
 If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 <br>
 Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
-<br>
+<br><br>
   
 <b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
 <br>
