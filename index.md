@@ -20,7 +20,7 @@ sections:
           url: /for-parents/term-calendar-and-note/
         - title: Newsletter
           description: ""
-          url: ""
+          url: /for-parents/newsletter/
   - infopic:
       title: Newsletter for Concordians
       subtitle: school updates
