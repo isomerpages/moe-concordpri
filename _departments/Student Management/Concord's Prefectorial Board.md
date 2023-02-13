@@ -139,7 +139,7 @@ third_nav_title: Student Management
 <br>
 	
 <li><b>Teachers’ Day Celebration</b></li>
-
+<br>
 <p style="text-align:justify">Every year, the prefects put together a performance and the Executive Committee prefects will put together a gift to show appreciation to the school on this special day.
 <br>
 <img src="/images/pb17.jpeg" style="width:70%">
