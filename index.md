@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /highlights/2023/
+          url: /announcement/
         - title: Highlights
           description: ""
-          url: ""
+          url: /highlights/2023/
         - title: Calendar & Note
           description: ""
           url: ""
