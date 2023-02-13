@@ -63,6 +63,6 @@ Note: The URL in the email will expire within 10 minutes. If the URL has expired
 </ul>
 <br>
 
-<b>Q6 : Can SLS run on mobile phones?</b>
+<p><b>Q6 : Can SLS run on mobile phones?</b>
 <br>
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
