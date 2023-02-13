@@ -17,7 +17,7 @@ sections:
           url: /highlights/2023/
         - title: Calendar & Note
           description: ""
-          url: ""
+          url: /for-parents/term-calendar-and-note/
         - title: Newsletter
           description: ""
           url: ""
