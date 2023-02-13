@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: ""
+          url: /highlights/2023/
         - title: Highlights
           description: ""
           url: ""
