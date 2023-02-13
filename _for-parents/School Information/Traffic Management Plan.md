@@ -77,7 +77,7 @@ All School Buses will park within the bus bay in front of the School Foyer. The 
 
 <b>Safe Routes for Vehicles</b>
 
-Figure 2 depicts safe vehicular movement in the school during Drop Offs in the morning and Pick Ups during dismissals (during inclement weather only).
+<p>Figure 2 depicts safe vehicular movement in the school during Drop Offs in the morning and Pick Ups during dismissals (during inclement weather only).
 
 <img src="/images/traffi.png" 
      style="width:100%">
