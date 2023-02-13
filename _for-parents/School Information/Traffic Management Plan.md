@@ -4,15 +4,15 @@ permalink: /for-parents/School-Information/traffic-management-plan/
 description: ""
 third_nav_title: School Information
 ---
-### Concord Primary School Traffic Management Plan 2022
+<h3>Concord Primary School Traffic Management Plan 2022</h3>
 
 
-#### Introduction
+<h4>Introduction</h4>
 <p style="text-align:justify">Road safety is everyone's responsibility. The school strives to to work with parents, students, stakeholders and the community to ensure road safety within and around the immediate vicinity of its campus.
 
 <h4>Opening Hours of School Gates</h4>
 <p style="text-align:justify"><b span style= "color:#FF0000">The School’s operating hours are from 6.30am to 6.30pm.</b>
-Figure 1 and Table 1 below shows the locations of the Access Gates and their respective operating periods.
+<br>Figure 1 and Table 1 below shows the locations of the Access Gates and their respective operating periods.
 
 <img src="/images/Traffic%20Management%20Plan.jpeg" 
      style="width:80%">
@@ -37,19 +37,20 @@ Figure 1 and Table 1 below shows the locations of the Access Gates and their res
 	<li>Parents/Guardians are strongly encouraged to pick up your child at Gate 12, which provides a full sheltered walkway to a HDB multi-storey carpark. Outside of the opening periods at Gate 12, we seek your understanding to park your vehicle at a nearby carpark and pick up your child at the Main Gate.</li>
 </ul>
 
-<b>School Buses:</b> 
+<p><b>School Buses:</b> 
 All School Buses will park within the bus bay in front of the School Foyer. The Main Gate will be closed from 1.00pm to 2.00pm (or till the last School Bus leaves, whichever is earlier) to minimize other vehicular movement within the school compound for the safety of our students.
-
+<br>
 <b>For All:</b>
 <ul>
 <li>Vehicles must strictly keep within the speed limit of 15km/h within the school compound.</li>
 <li>No vehicles should park within the school compound unless given prior permissions by the school or picking up unwell or injured students.</li>
 <li>Drivers must follow the instructions of duty personnel and any directional signs so as not to impede traffic flows.</li>
+
 <li>Vehicles exiting the school should:</li>
 	<ul>
-			<li>Proceed slowly and with care
-			<li>Look out for pedestrians and cyclists on pavement
-			<li>Turn into the immediate left lane to minimize unnecessary traffic congestions and risk of traffic accidents along Choa Chu Kang Avenue 4.
+			<li>Proceed slowly and with care</li>
+			<li>Look out for pedestrians and cyclists on pavement</li>
+			<li>Turn into the immediate left lane to minimize unnecessary traffic congestions and risk of traffic accidents along Choa Chu Kang Avenue 4.</li>
 	</ul></ul>
 
 
