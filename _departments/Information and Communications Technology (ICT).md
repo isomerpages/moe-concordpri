@@ -39,7 +39,7 @@ description: ""
 <h3>Learning Beyond Four Walls</h3>
 
 <p style="text-align:justify">Under Concord’s Total Curriculum Framework, technology is designed into our Learning for Life Programme, Outdoor Education (OE). Outdoor Trails, I AM CONCORD!, are designed as opportunities for students to discover the heritage of Concord with their peers. Social-emotional learning is enriched as students work with their peers to navigate the tasks in the trail. The use of various iPad apps and QR Codes heighten our students' interests and spur their appetite for self-directed learning as they go about making connections with the ready information around them. Similar authentic ICT-enriched learning trails are also customised for Learning Journey to places such as Singapore Philatelic Museum and Little India.
-<br>
+<br><br>
 <img src="/images/ict3.jpeg" 
      style="width:55%">
 		 
