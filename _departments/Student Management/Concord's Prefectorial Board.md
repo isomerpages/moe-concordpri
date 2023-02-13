@@ -84,7 +84,7 @@ third_nav_title: Student Management
 <img src="/images/pb1.jpeg" style="width:70%">
 <br>
 <img src="/images/pb2.jpeg" style="width:70%">
-
+<br><br>
 <b><u>2022 Prefectorial Board</u></b>
 <br><br>
 <img src="/images/pb3.jpeg" style="width:70%">
