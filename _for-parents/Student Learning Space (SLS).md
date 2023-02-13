@@ -11,13 +11,13 @@ description: ""
 <center>Website:<a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
-<br>
+<br><br>
 SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
-<br>
+<br><br>
 Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
-<br>
+<br><br>
 Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
-<br>
+<br><br>
   
 <u>FREQUENTLY ASKED QUESTIONS</u>
 <br>
