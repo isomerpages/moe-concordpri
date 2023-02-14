@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - test.md
       - Photos/.keep
       - Photos/2023.md
       - Photos/2022.md
