@@ -36,7 +36,7 @@ description: ""
 <p style="text-align:justify">Opportunities are created for our students to explore, experience and discover Mathematics through the daily lessons and Math programmes. The use of manipulative, ICT tools and Math conversation/ Math talks are ways to enhance the learning experiences in the Math lessons to instil joy of learning. Besides enhancing our students’ experiences so as to enable them to understand concepts, acquire Mathematical skills and be able to apply to real-life situations, activities are customised to allow our students to think flexibly and use creative approaches to solve problems
 <br><br>
 <u><b>Use of manipulative in the lessons (P1 to 6)</b></u>
-
+<br><br>
 <img src="/images/m1.png" 
      style="width:80%">
 <img src="/images/m2.png" style="width:80%">
