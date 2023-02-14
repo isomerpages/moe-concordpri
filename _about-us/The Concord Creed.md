@@ -13,7 +13,7 @@ We, the students of Concord Primary School, pledge to:
 
 <b style="color:#0000ff">I</b>gnite my passion for learning and be <b style="color:#FF8D33">responsible</b> for my actions.
 
-<b style="color:#0000ff">V</b>alue **care** and show <b style="color:#FF8D33">respect</b> to the people around me.
+<b style="color:#0000ff">V</b>alue <b style="color:#FF8D33">care</b> and show <b style="color:#FF8D33">respect</b> to the people around me.
 
   
 
