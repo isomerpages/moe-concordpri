@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - For Students.md
       - Child's Absence.md
       - Newsletter and Resources for Parents.md
       - Term Calendar and Note.md
@@ -35,3 +34,4 @@ collections:
       - Sexuality Education (P5 & P6).md
       - School Home Partnership/.keep
       - School Home Partnership/Homework Guidelines.md
+      - For Students.md
