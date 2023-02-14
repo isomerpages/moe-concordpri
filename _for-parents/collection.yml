@@ -1,0 +1,37 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Child's Absence.md
+      - Newsletter and Resources for Parents.md
+      - Term Calendar and Note.md
+      - Parent Support Group/.keep
+      - Parent Support Group/PSG Photo Album.md
+      - Parent Support Group/2018 AGM & Lo Hei!.md
+      - Parent Support Group/Back to School 2018.md
+      - Parent Support Group/Teacher's Day 2017.md
+      - Parent Support Group/2017 Lunar New Year.md
+      - Parent Support Group/2017 PSG Introduction Session.md
+      - Concord Daddies/.keep
+      - Concord Daddies/Concord Daddies Photo Album.md
+      - Concord Daddies/Back to School 2021.md
+      - Concord Daddies/Sleepover 2018Q2.md
+      - Concord Daddies/Easter Picnic 2018Q1 Event.md
+      - Concord Daddies/Bi Annual 2018Q1 Meeting.md
+      - Concord Daddies/Back to School 2018.md
+      - Concord Daddies/Breakfast with Dad 2017.md
+      - P1 Parents/.keep
+      - P1 Parents/Administrative Matters.md
+      - P1 Parents/Registration Exercise.md
+      - S1 Posting Exercise.md
+      - Student Learning Space (SLS).md
+      - Parents Gateway (PG).md
+      - School Information/.keep
+      - School Information/School Information.md
+      - School Information/Traffic Management Plan.md
+      - School Information/Our Service Provider.md
+      - FamilyMatters @ School.md
+      - Sexuality Education (P5 & P6).md
+      - School Home Partnership/.keep
+      - School Home Partnership/Homework Guidelines.md
+      - For Students.md

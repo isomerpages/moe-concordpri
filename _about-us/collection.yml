@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Vision & Mission.md
+      - Our Core Values.md
+      - Our School Crest.md
+      - Our School Song.md
+      - The Concord Creed.md
+      - Our School Mascot.md
+      - Our School Rules.md
+      - Our History/2018.md
+      - Our History/2012 to 2017.md
+      - Our History/2005 to 2011.md
+      - Our History/2000 to 2004.md
+      - Our History/.keep
+      - Virtual Open House.md
+      - Environmental Commitment.md

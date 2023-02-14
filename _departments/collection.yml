@@ -1,0 +1,21 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mother Tongue Language.md
+      - Mathematics.md
+      - Science/Science.md
+      - Science/Outdoor Science Learning Trails.md
+      - Science/Eco Pals @ Concord.md
+      - Science/Our Achievements.md
+      - Science/.keep
+      - PE & Aesthetics.md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Total Defence Day Commemoration.md
+      - CCE/International Friendship Day.md
+      - CCE/.keep
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Concord's Prefectorial Board.md
+      - Information and Communications Technology (ICT).md

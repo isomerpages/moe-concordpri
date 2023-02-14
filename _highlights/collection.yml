@@ -1,0 +1,13 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Photos/.keep
+      - Photos/2023.md
+      - Photos/2022.md
+      - Photos/2021.md
+      - Photos/2020.md
+      - Our Achievements/2021.md
+      - Our Achievements/2020.md
+      - Our Achievements/2019.md
+      - Our Achievements/.keep
