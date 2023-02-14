@@ -3,12 +3,9 @@ title: Useful Links
 permalink: /useful-links/Useful-Links/
 description: ""
 ---
-<br>
 
-![](/images/For%20Staff%20Button.jpg)
-<center><a href="https://sites.google.com/view/cps-staff-homepage/home?pli=1">Click here for Staff Homepage</a></center>
 <br><br>
-<a href="/departments/Science/"><img style="width:80%" src="/images/Science Department button.png"></a>
-![](/images/For%20Student%20Button.jpg)
 
-<center><a href="https://sites.google.com/view/cps-staff-homepage/home?pli=1">Click here for Staff Homepage</a></center>
+<a href="https://sites.google.com/view/cps-staff-homepage/home?pli=1"><img style="width:80%" src="/images/For Staff Button.jpg"></a>
+<br><br>
+<a href="/learning-platforms/"><img style="width:80%" src="/images/For Student Button.jpg"></a>
