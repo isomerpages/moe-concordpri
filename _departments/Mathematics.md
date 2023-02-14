@@ -58,7 +58,7 @@ description: ""
 <p style="text-align:justify">Mathematical Reasoning Tasks have been crafted to develop students’ mathematical reasoning, communication and connections. Through hands-on activities and class discussions, students are given platforms to make use of the mathematical language to express their mathematical ideas. This will help them develop their mathematical understanding and deepen their thinking in various problem-solving contexts. At the same time, teachers can also assess on students’ understanding of concepts and provide feedback for improvement.  
  <br><br>
 <span style="color:#0000FF; font-size:18px"><p><b>Developing Metacognition and Problem-Solving skills (Primary 1 to 6)</b></span>
-
+<br>
 <p style="text-align:justify">S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps - <u><b>S</b></u>top, <u><b>T</b></u>hink, <u><b>A</b></u>ct, <u><b>R</b></u>eflect. Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
 The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.<br>
 
