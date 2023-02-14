@@ -71,7 +71,7 @@ The S.T.A.R. approach was customised into two versions. One for the Primary 1 an
 <u><b>E2K Mathematics Programme (P4 and 5)</b></u>    
 <p style="text-align:justify">This programme was developed by Israel Centre for Excellence through Education (ICEE).  It was conceptualized as a Mathematics enrichment programme for upper primary students who demonstrate strong interest and ability in Mathematics.  
 The programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness and to enhance critical and inventive thinking and effective communication skills.  
-<br>
+<br><br>
 <u><b>Math Olympiad Enrichment Programme (Primary 4 and 5)</b></u>  
 <p style="text-align:justify">The objectives of the programme are to enrich and stretch our students’ learning in Mathematics. Through this programme, students have the opportunities to deepen their thinking and be equipped with strategies to solve non-routine and higher order challenges.  
 <br>  
