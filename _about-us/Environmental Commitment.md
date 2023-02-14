@@ -20,7 +20,7 @@ description: ""
 <li>To build and sustain Concordians’ commitment in environmental issues in accordance with our VMV.</li>
 	</ul>
 
-<b>Concord Primary School’s Environmental Efforts:</b>
+<p><b>Concord Primary School’s Environmental Efforts:</b>
 
 <p style="text-align:justify">In Concord Primary School, we are committed to the education of Concordians in environmental issues. In alignment to Concord’s VMV and iGIVE Culture, the School and its Environmental Partners provide numerous platforms for Concordians to be immersed in continuous environmental improvement. This has translated into programmes and activities that have not only positively impacted our students but our community as well. 
 
