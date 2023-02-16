@@ -19,3 +19,8 @@ links:
     collection: highlights
   - title: Learning Platforms
     url: /learning-platforms/
+  - title: Useful Links
+    url: /permalink
+    sublinks:
+      - title: CPS Staff Homepage
+        url: https://sites.google.com/view/cps-staff-homepage/home
