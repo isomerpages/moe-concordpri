@@ -36,7 +36,7 @@ description: ""
 	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 5.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
 </tr>
 <tr>
- <td></td>
+ <td class="tg-ppzb"><a href="/files/Newsletter for Middle Primary_Term 1 Week 7_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Issue #02</span></a></td>
 	<td class="tg-ppzb"><a href="/files/Newsletter for Middle Primary_Term 1 Week 7_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a></td>
 <td></td>
 </tr>
