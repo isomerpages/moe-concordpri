@@ -38,7 +38,7 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xuj4{background-color:#F2F9FF;color:#3D85C6;text-align:left;vertical-align:top}
+.tg .tg-xuj4{background-color:#F2F9FF;color:#3D85C6;text-align:center;vertical-align:top}
 .tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -65,7 +65,7 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-pa0n{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 749px">
 <colgroup>
