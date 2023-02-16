@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.00am - 12.00pm
         description: ""
-    maps_link: ""
+    maps_link: https://goo.gl/maps/eccyXyQr1bM4uWbS7
     title: School Address
 contacts:
   - content:
