@@ -46,7 +46,7 @@ description: ""
     <td class="tg-ocgv"><span style="color:#F2F9FF;">Term 3 Note</span></td>
   </tr>
   <tr>
-    <td class="tg-xuj5"><a href="/files/T1_Parents Calendar_2023 V3.pdf">2023 Term 1 Calendar</a><br></td>
+    <td class="tg-xuj5"><a href="/files/2023%20CPS%20Term%20Note%20-%20Term%201.pdf">2023 Term 1 Note</a><br></td>
     <td class="tg-xuj5">-</td>
     <td class="tg-xuj5">-</td>
 </tr>
