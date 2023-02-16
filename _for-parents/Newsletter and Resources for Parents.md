@@ -35,9 +35,11 @@ description: ""
   <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 1</span></a></td>
 	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term Week 5.pdf"><span style="text-decoration:none;color:#FD6500">Term 1</span></a></td>
 </tr>
+<tr>
  <td></td>
 	<td class="tg-ppzb"><a href="/files/Newsletter for Middle Primary_Term 1 Week 7_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a></td>
 <td></td>
+</tr>
 </tbody>
 </table>
 
