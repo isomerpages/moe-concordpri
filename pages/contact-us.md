@@ -7,7 +7,7 @@ locations:
   - address:
       - 3, Choa Chu Kang Avenue 4
       - Singapore 689814
-      - "Bus service: 300, 983"
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 8.00am - 5.00pm
