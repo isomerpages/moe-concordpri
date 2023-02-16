@@ -69,41 +69,41 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Lower%20Primary_Term%201%20Week%206_final.pdf">Term 1 Week 6</a></td>
-    <td class="tg-ppzb"><a href="/files/mpT1W7.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 7</span></a><br></td>
+    <td class="tg-ppzb"><a href="/files/mpT1W7.pdf">Term 1 Week 7</span></a><br></td>
     <td class="tg-ppzb"><a href="/files/upt1w8.pdf">Term 1 Week 8</a></td>
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Lower%20Primary_T1W9.pdf">Term 1 Week 9</a></td>
-    <td class="tg-yhj3">-----</td>
-    <td class="tg-jpkv"><a href="/files/upt1w10.pdf"><span style="text-decoration:none;color:#FD6500">Term 1 Week 10</span></a></td>
+    <td class="tg-jpkv">-</td>
+    <td class="tg-jpkv"><a href="/files/upt1w10.pdf">Term 1 Week 10</span></a></td>
   </tr>
   <tr>
     <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W3_Vetted.pdf">Term 2 Week 3</a></td>
     <td class="tg-ppzb"><a href="/files/mpt2w2.pdf">Term 2 Week 2 </a> </td>
-    <td class="tg-ppzb"><a href="/files/upt2w4.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 4</span></a> </td>
+    <td class="tg-ppzb"><a href="/files/upt2w4.pdf">Term 2 Week 4</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W6_vetted.pdf"><span style="text-decoration:none;color:#FD6500">Term 2 Week 6</span></a></td>
+    <td class="tg-ppzb"><a href="/files/Lower%20Primary_T2W6_vetted.pdf">Term 2 Week 6</span></a></td>
     <td class="tg-ppzb"><a href="/files/mpt2w5.pdf">Term 2 Week 5 </a></td>
     <td class="tg-ppzb"><a href="/files/upt2w7.pdf">Term 2 Week 7 </a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> -----</td>
+    <td class="tg-jpkv">-</td>
     <td class="tg-ppzb"><a href="/files/mpt2w9.pdf">Term 2 Week 9</a></td>
-    <td class="tg-yhj3"> -----</td>
+    <td class="tg-jpkv">-</td>
   </tr>
   <tr>
-    <td class="tg-jpkv"><a href="/files/Lower_Primary_T3W3.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 3</span></a></td>
+    <td class="tg-jpkv"><a href="/files/Lower_Primary_T3W3.pdf">Term 3 Week 3</span></a></td>
     <td class="tg-ppzb"><a href="/files/mpt3w4.pdf">Term 3 Week 4</a></td>
-    <td class="tg-jpkv"> <a href="/files/upt3w2.pdf">Term 3 Week 2</span></a> </td>
+    <td class="tg-jpkv"><a href="/files/upt3w2.pdf">Term 3 Week 2</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ppzb"><a href="/files/LOWER%20PRIMARY%20T3W6%20LP%20Newsletter%20V1.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 6</span></a></td>
-    <td class="tg-yhj3"> -----</td>
-    <td class="tg-jpkv"><a href="/files/upt3w5.pdf"><span style="text-decoration:none;color:#FD6500">Term 3 Week 5</span></a> </td>
+    <td class="tg-ppzb"><a href="/files/LOWER%20PRIMARY%20T3W6%20LP%20Newsletter%20V1.pdf">Term 3 Week 6</span></a></td>
+    <td class="tg-jpkv">-</td>
+    <td class="tg-jpkv"><a href="/files/upt3w5.pdf">Term 3 Week 5</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">  </td>
+    <td class="tg-jpkv">-</td>
     <td class="tg-ppzb"><a href="/files/mpt3w8.pdf">Term 3 Week  8</a></td>
     <td class="tg-ppzb"><a href="/files/upt3w9.pdf">Term 3 Week 9</a></td>
   </tr>
