@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.00am - 5.00pm
-        description: Closed on Public Holidays
+        description: Closed on Weekends and Public Holidays
       - days: Sat
         time: 8.00am - 12.00pm
         description: ""
@@ -23,6 +23,11 @@ contacts:
       - email: ""
       - other: ""
     title: School Office Telephone Number
+  - content:
+      - phone: +65 6763 2452
+      - email: ""
+      - other: ""
+    title: School Fax Number
   - content:
       - phone: ""
       - email: Concord_PS@moe.edu.sg
