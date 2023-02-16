@@ -22,10 +22,10 @@ description: ""
     <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 3 Calendar</span></td>
   </tr>
   <tr>
-    <td class="tg-xuj4"><a href="/files/T1_Parents%20Calendar_2022_V1.pdf">2023 Term 1 Calendar</a><br></td>
+    <td class="tg-xuj4"><a href="/files/T1_Parents Calendar_2023 V3.pdf">2023 Term 1 Calendar</a><br></td>
     <td class="tg-xuj4"></td>
     <td class="tg-xuj4"></td>
-  </tr>
+</tr>
 </tbody>
 </table>
 
