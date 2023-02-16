@@ -14,7 +14,9 @@ locations:
         description: Closed on Weekends and Public Holidays
       - days: Sat
         time: 8.00am - 12.00pm
-        description: ""
+        description: |
+          _______________________________
+          Bus service: 300, 983 (from Choa Chu Kang Bus Interchange)
     maps_link: https://goo.gl/maps/eccyXyQr1bM4uWbS7
     title: School Address
 contacts:
