@@ -24,4 +24,15 @@ locations:
     operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Branch Office
+contacts:
+  - content:
+      - phone: +65 6763 2139
+      - email: ""
+      - other: ""
+    title: "Tel:"
+  - content:
+      - phone: ""
+      - email: Concord_PS@moe.edu.sg
+      - other: ""
+    title: "Email Address:"
 ---
