@@ -6,11 +6,6 @@ third_nav_title: Science
 ---
 <img src="/images/SCIENCE P1.jpeg" 
      style="width:80%">
-<head>
-<style>
-body {font-family: helvetica, sans serif:}
-</style>
-</head>
 	
 <h2>Vision</h2>
 
@@ -115,7 +110,8 @@ Every student an inquirer.
 
 <p style="text-align:justify">PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
 
-<br><span style="color:#0000FF; font-size:18px; text-align:left"><b>Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></span>
+<br>
+<center><b style="color:#0000FF; font-size:18px">Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
