@@ -49,7 +49,8 @@ Every student an inquirer.
 	
 <p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
-<br><br><span style="color:#0000FF; font-size:18px"><b>Primary 3 - Little Farmers</b></span>
+<br><br>
+<center><b style="color:#0000FF; font-size:18px">Primary 3 - Little Farmers</b></center>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -75,7 +76,8 @@ Every student an inquirer.
 </table>
 	
 <p style="text-align:justify">Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
-<br><br><span style="color:#0000FF; font-size:18px"><b>Primary 4 - Hydroponics</b></span>
+<br><br>
+<center><b style="color:#0000FF; font-size:18px">Primary 4 - Hydroponics</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
