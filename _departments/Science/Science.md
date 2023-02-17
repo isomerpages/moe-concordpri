@@ -186,7 +186,7 @@ Every student an inquirer.
 <p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.
 <br><br>
 
-<b>Professional Learning Team (PLT)</b>
+<center><b>Professional Learning Team (PLT)</b></center>
 <br>
 <img style="width:65%" src="/images/PLT.jpg">
 
