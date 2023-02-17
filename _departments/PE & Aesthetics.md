@@ -113,6 +113,6 @@ Arts <b>A</b>ppreciation . <b>C</b>urriculum . <b>E</b>xpressions
 <img src="/images/pea6.png" style="width:80%">
 <br><br>
 <img src="/images/ArtsAppreciation01.jpg" style="width:80%">
-<span style="font-size:12px">&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" span style="color:red">here</a></span>
+<span style="font-size:12px">&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" style="color:red">here</a></span>
 <img src="/images/ArtsAppreciation02.jpg" style="width:80%">
-<span style="font-size:12px">&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" span style="color:red">here</a></span>
+<span style="font-size:12px">&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" style="color:red">here</a></span>
