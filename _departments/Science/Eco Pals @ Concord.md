@@ -11,11 +11,11 @@ third_nav_title: Science
 
 <p style="text-align:justify">As a recognised Green School, we have been engaging our students with “Green” programmes so that every student can take action to keep our environment healthy and sustainable for the future. With that, we hope students can be equipped with the necessary knowledge, skills and motivation to address environmental challenges in the future.
 
-<p style="text-align:justify">Our Mission:  To develop Concordians with a strong commitment to improve the environment in our community.
+<p style="text-align:justify"><b>Our Mission:</b>  To develop Concordians with a strong commitment to improve the environment in our community.
 
-<p style="text-align:justify">Our Environmental Policy: Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement.
+<p style="text-align:justify"><b>Our Environmental Policy:</b> Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement.
 
-<p style="text-align:justify">Our Environmental Goals:  To provide an environmentally-conducive environment for teaching and learning. To build and sustain Concordians’ commitment in environmental issues in accordance with our values, vision and mission.
+<p style="text-align:justify"><b>Our Environmental Goals:</b>  To provide an environmentally-conducive environment for teaching and learning. To build and sustain Concordians’ commitment in environmental issues in accordance with our values, vision and mission.
 
 <h4><b>Our Key Programmes</b></h4>
 
