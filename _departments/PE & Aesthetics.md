@@ -111,4 +111,4 @@ Arts <b>A</b>ppreciation . <b>C</b>urriculum . <b>E</b>xpressions
 <img src="/images/pea4.png" style="width:80%">
 <img src="/images/pea5.png" style="width:80%">
 <img src="/images/pea6.png" style="width:80%">
-
+<br><br>
