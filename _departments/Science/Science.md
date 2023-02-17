@@ -140,7 +140,7 @@ Every student an inquirer.
 	
 <p style="text-align:justify">This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
 
-<span style="color:#0000FF; font-size:18px"><b>Primary 4 to 6 - Scientist-In-School</b></span>
+<center><b style="color:#0000FF; font-size:18px">Primary 4 to 6 - Scientist-In-School</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -173,8 +173,8 @@ Every student an inquirer.
 	<br><br>
 <span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-<br><br><br><br>
-<span style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b></span>
+<br><br>
+<p style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
