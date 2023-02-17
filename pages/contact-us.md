@@ -26,12 +26,12 @@ contacts:
       - phone: +65 6763 2139
       - email: ""
       - other: ""
-    title: School Office Telephone Number
+    title: "School Office Tel number:"
   - content:
       - phone: +65 6763 2452
       - email: ""
       - other: ""
-    title: School Fax Number
+    title: "School Fax Number:"
   - content:
       - phone: ""
       - email: Concord_PS@moe.edu.sg
