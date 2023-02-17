@@ -100,7 +100,9 @@ Arts <b>A</b>ppreciation . <b>C</b>urriculum . <b>E</b>xpressions
 <p style="text-align:justify">Various platforms are provided to provide students the opportunity to hone their art and music skills through our music and art curriculum, modular programmes and school events.
 
 <p style="text-align:justify">By the end of Primary 6, students will be able to appreciate arts from the Singapore and regional culture, experienced a range of instruments (pitched and unpitched), can perform on the main melodic instrument with good tone and expression, and also possess the ability to create artworks using a variety of mediums and present their art and share their ideas and inspirations with audience via exhibitions and publications.
-
+	
+<p style="text-align:justify">You can also find more updates on our art and music programmes, including a photo gallery in our uniquely ARTpression Blog. Click <a href="https://sites.google.com/moe.edu.sg/artspressionblog/art-weekly-updateshere">here</a> to access the blog. 
+<br><br>
 <h2>Key Programmes and Highlights</h2>
 
 <img src="/images/pea1.png" style="width:80%">
