@@ -16,6 +16,9 @@ locations:
         time: ""
         description: |
           300, 983 (from Choa Chu Kang Bus Interchange)
+      - days: Nearest MRT Station
+        time: ""
+        description: "Choa Chu Kang "
     maps_link: https://goo.gl/maps/eccyXyQr1bM4uWbS7
     title: School Address
 contacts:
