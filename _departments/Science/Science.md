@@ -172,7 +172,7 @@ Every student an inquirer.
 <span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-<p style="color:#0000FF; font-size:18px"><b>Primary 3 to 5 - Creative Toy Making Workshop</b>
+<center><b style="color:#0000FF; font-size:18px">Primary 3 to 5 - Creative Toy Making Workshop</b></center><br><br>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
