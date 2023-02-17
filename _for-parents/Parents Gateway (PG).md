@@ -13,12 +13,12 @@ description: ""
 <br>
 <p style="text-align:justify">For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
 <br><br>
-1.    [Onboarding Video for Parents](https://frontierpri.moe.edu.sg/wp-content/uploads/2020/10/Parents-Gateway-Onboarding-video-for-Parents.mp4) <br>
+	1. <a href="https://youtu.be/02uYTlYD1P4"><b style="text-decoration:none;color:#1A7BDF">Onboarding Video for Parents</b></a><br>
 2. <a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
 3. <a href="/files/PG Mobile App User Guide.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway User Guide</b></span></a><br>
 	4. <a href="/files/PG Mobile App Meetings Feature User Guide.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway Meeting Feature User Guide</b></span></a><br><br>
-* iOS (hyperlink to <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">https://apps.apple.com/sg/app/parents-gateway/id1267198708</a>)
+* iOS (hyperlink to <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"><b style="text-decoration:none;color:#1A7BDF">https://apps.apple.com/sg/app/parents-gateway/id1267198708</b></a>)
 <br><br>
-* Android (hyperlink to <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG">https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG</a>)
+* Android (hyperlink to <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en\_SG"><b style="text-decoration:none;color:#1A7BDF">https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG</b></a>)
 <br><br>
 You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.
