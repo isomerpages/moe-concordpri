@@ -81,15 +81,15 @@ description: ""
 
 <h2>Aesthetics Framework (Art and Music)</h2>
 
-<p style="text-align:justify">Vision - Develop the <b>attitude</b> and <b>aptitude</b> to live an enriched life through the Arts
+<p style="text-align:justify">Vision - Develop the <b style="color:blue">attitude</b> and <b style="color:blue">aptitude</b> to live an enriched life through the Arts
 
   
 
-<p style="text-align:justify">Mission - Through exposure to the Arts experience in Concord Primary School, we aspire to nurture Concordians to be <b>confident</b>, <b>expressive</b> and <b>reflective</b> learners who can connect with the society and people across all cultures.
+<p style="text-align:justify">Mission - Through exposure to the Arts experience in Concord Primary School, we aspire to nurture Concordians to be <b style="color:blue">confident</b>, <b style="color:blue">expressive</b> and <b style="color:blue">reflective</b> learners who can connect with the society and people across all cultures.
 
   
 
-Arts <b>A</b>ppreciation . <b>C</b>urriculum . <b>E</b>xpressions
+Arts <b style="color:blue">A</b>ppreciation . <b style="color:blue">C</b>urriculum . <b style="color:blue">E</b>xpressions
 
   
 
