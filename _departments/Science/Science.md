@@ -26,16 +26,16 @@ Every student an inquirer.
 
 <center><b>Inquisitive Learning</b>
 	<img style="width:55%" src="/images/Inquistive Learning.jpg">
-
+<br>
 <center><b>Experiential Learning</b>
   <img style="width:55%" src="/images/Experiential Learning.jpg">
-  
+<br>
 <center><b>Cooperative Learning</b>
 <img style="width:55%" src="/images/Coorperative Learning.jpg">
-
+<br>
 <center><b>Outdoor Learning</b>
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
-
+<br>
 <h3><b>KEY PROGRAMMES</b></h3>
 <br>
 <b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
