@@ -45,7 +45,7 @@ Every student an inquirer.
 <p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
 <br><br>
-<center><b style="color:#0000FF; font-size:18px">Primary 3 - Little Farmers</b></center>
+<p><center><b style="color:#0000FF">Primary 3 - Little Farmers</b></center>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -72,7 +72,7 @@ Every student an inquirer.
 	
 <p style="text-align:justify">Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
 <br><br>
-<center><b style="color:#0000FF; font-size:18px">Primary 4 - Hydroponics</b></center>
+<p><center><b style="color:#0000FF">Primary 4 - Hydroponics</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -99,19 +99,19 @@ Every student an inquirer.
 	
 <p style="text-align:justify">Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
 
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 5 - High Achievers</b></span></center>
+<p><center><b style="color:#0000FF">Primary 5 - High Achievers</b></center>
 <img style="width:40%" src="/images/High Achievers.jpg">
 
 <p style="text-align:justify">It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for&nbsp;Science competitions.
 
   
-<center><span style="color:#0000FF; font-size:18px"><b>Primary 6 - PASS and ACE</b></span></center>
+<p><center><b style="color:#0000FF">Primary 6 - PASS and ACE</b></center>
 <img style="width:30%" src="/images/Pass and Ace.png">
 
 <p style="text-align:justify">PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
 
 <br>
-<center><b style="color:#0000FF; font-size:18px">Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></center>
+<p><center><b style="color:#0000FF">Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -138,7 +138,7 @@ Every student an inquirer.
 	
 <p style="text-align:justify">This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
 
-<center><b style="color:#0000FF; font-size:18px">Primary 4 to 6 - Scientist-In-School</b></center>
+<p><center><b style="color:#0000FF">Primary 4 to 6 - Scientist-In-School</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -175,7 +175,7 @@ Every student an inquirer.
 	<p style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-<center><b style="color:#0000FF; font-size:18px">Primary 3 to 5 - Creative Toy Making Workshop</b></center><br><br>
+<p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center><br>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
