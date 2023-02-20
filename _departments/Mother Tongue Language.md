@@ -71,21 +71,26 @@ description: ""
 <br>
 <p>For the <b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
+<figure>
 <img src="/images/mtl1.jpeg" 
-     style="width:35%">
-<center><b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></center>
+     style="width:40%">
+<b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></figure>
 <br>
+<figure>
 <img src="/images/mtl2.jpeg" 
-     style="width:65%">
-<center><b>Concordians engaged in community singing during CNY celebration</b></center>
+     style="width:70%">
+<b>Concordians engaged in community singing during CNY celebration</b></figure>
 <br>
+<figure>
 <img src="/images/mtl3.jpeg" 
-     style="width:65%">
-<center><b>Concordians sharing the meanings of Chinese New Year food</b></center>
+     style="width:70%">
+<b>Concordians sharing the meanings of Chinese New Year food</b></figure>
 <br>
+<figure>
 <img src="/images/mtl4.jpeg" 
-     style="width:65%">
-<center><b>ML students prepared healthy sandwiches for snack time</b></center>
+     style="width:70%">
+<b>ML students prepared healthy sandwiches for snack time</b>
+</figure>
 <br>
 
 <style type="text/css">
