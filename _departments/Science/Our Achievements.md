@@ -51,23 +51,23 @@ third_nav_title: Science
 <h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
 <br>
-<b style="color:#3333FF">Year 2022 winners:</b>
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 
 <ul>
 <li>Wan Mika<b style="color:#9900FF">(Merit)</b></li>
 <li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
 <li>Chua Jia Xi Reannen<b style="color:#9900FF">(Participation)</b></li>
-<li>Deselva Myrtlev Delicia <span ><b>(Participation)</b></span></li>
-	</ul>
+<li>Deselva Myrtlev Delicia <b style="color:#9900FF">(Participation)</b></li>
+</ul>
 	
-<b style="color:#3333FF">Year 2021 winners:</b>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
 
 <ul>
 <li>Lim Jun Yu<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
-<b style="color:#3333FF">Year 2022 winners:</b>
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 
 <ul>
 <li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
@@ -81,7 +81,7 @@ third_nav_title: Science
 <li>Wan Mika <b style="color:#9900FF"> (Bronze)</b></li>
 </ul>
 
-<b style="color:#3333FF">Year 2021 winners:</b>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
 
 <ul>
 <li>Lim Jun Yu<b style="color:#9900FF"> (Silver)</b></li>
@@ -89,7 +89,7 @@ third_nav_title: Science
 <li>Vinodh Babu Dheepta<b style="color:#9900FF"> (Bronze)</b></li>
 <li>Lin Weizhe<b style="color:#9900FF"> (Bronze)</b></li>
 <li>Raja Vivegan<b style="color:#9900FF"> (Bronze)</b></li>
-<li>Olivier Desroches<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<li>Olivier Desroches<b style="color:#9900FF"> (Merit)</b></li>
 <li>Nishka Poddar<b style="color:#9900FF"> (Bronze)</b></li>
 <li>Zhao Xiaoyu<b style="color:#9900FF"> (Merit)</b></li>
 <li>Chua Jia Xuan Sherinen<b style="color:#9900FF"> (Merit)</b></li>
@@ -98,14 +98,14 @@ third_nav_title: Science
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
 <img align="left" style="width:50%" src="/images/Students award 1.jpg">
 <br><br><br><br><br><br><br><br><br>
-<b style="color:#3333FF">Year 2021 winners:</b>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
 	
 <ul>
 <li>Su Junrui<b style="color:#9900FF"> (Top 30)</b></li>
 <li>Lin Weizhe <b style="color:#9900FF"> (Top 30)</b></li>
 </ul>
 
-<b style="color:#3333FF">Year 2020 winners:</b>
+<p><b style="color:#3333FF">Year 2020 winners:</b>
 <ul>
 <li>Lin Xuan<b style="color:#9900FF"> (Top 10)</b></li>
 </ul>
@@ -113,13 +113,13 @@ third_nav_title: Science
 <h5>4. Abbott Young Scientist Award</h5>
 <img align="left" style="width:40%" src="/images/Students award 2.jpg">
 <br><br><br><br><br><br><br><br><br><br><br><br>
-<b style="color:#3333FF">Year 2022 Winner:</b>
+<p><b style="color:#3333FF">Year 2022 Winner:</b>
 	
 <ul>
 <li>Sofia Amirah</li>
 </ul>	
 
-<span style="color:#3333FF"><b>Year 2019 Winner:</b></span>
+<p><b style="color:#3333FF">Year 2019 Winner:</b>
 <ul>
 <li>Timothy Tan</li>
 </ul>
@@ -127,7 +127,7 @@ third_nav_title: Science
 <h5>5. Sony Creative Science Award</h5>
 <img align="left" style="width:50%" src="/images/whizkid2.jpg">
 <br><br><br><br><br><br><br><br>
-<b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
+<p><b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
 
 <ul>
 <li>Chloe Tan Jia En</li>
