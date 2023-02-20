@@ -76,15 +76,15 @@ third_nav_title: Science
 <li>Farhan Shahul Hameed <b style="color:#9900FF"> (Participation)</b></li>
 <li>Lim Sooji <b style="color:#9900FF"> (Participation)</b></li>
 <li>Lin Ting Xuan <b style="color:#9900FF"> (Participation)</b></li>
-<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Titus Soh Yu Miao <span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Wan Mika <span style="color:#9900FF"><b> (Bronze)</b></span></li>
+<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Titus Soh Yu Miao <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Wan Mika <b style="color:#9900FF"> (Bronze)</b></li>
 </ul>
 
-<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
+<b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
+<ul>
+<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
 	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
 	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
 	<li>Lin Weizhe<span style="color:#9900FF"><b> (Bronze)</b></span></li>
