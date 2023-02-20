@@ -165,11 +165,14 @@ Every student an inquirer.
 	
 <p style="text-align:justify">We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
 
-<p style="text-align:justify"><b>1.P6 “Meet the Scientist” career guidance talk<br>
-2.P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics<br>
-	3. P4 Science enrichment lesson on Electromagnets</b>
-	<br><br>
-<span style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.<br><br></b></span>
+<p>
+<ol style="text-align:left">
+	<li><b>P6 “Meet the Scientist” career guidance talk</b></li>
+<li><b>P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics</b></li>
+<li><b>P4 Science enrichment lesson on Electromagnets</b></li>
+</ol>
+<br>
+	<p style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 <center><b style="color:#0000FF; font-size:18px">Primary 3 to 5 - Creative Toy Making Workshop</b></center><br><br>
