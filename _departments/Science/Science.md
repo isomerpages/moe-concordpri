@@ -98,7 +98,7 @@ Every student an inquirer.
 </table>
 	
 <p style="text-align:justify">Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
-
+<br><br>
 <p><center><b style="color:#0000FF">Primary 5 - High Achievers</b></center>
 <img style="width:40%" src="/images/High Achievers.jpg">
 
