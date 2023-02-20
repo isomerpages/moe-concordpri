@@ -67,6 +67,7 @@ third_nav_title: Science
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
+<br>
 <p><b style="color:#3333FF">Year 2022 winners:</b>
 
 <ul>
@@ -96,7 +97,7 @@ third_nav_title: Science
 </ul>
 	
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
-<img align="left" style="width:50%" src="/images/Students award 1.jpg">
+<img align="left" style="width:30%" src="/images/Students award 1.jpg">
 <br><br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Year 2021 winners:</b>
 	
@@ -111,7 +112,7 @@ third_nav_title: Science
 </ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
-<img align="left" style="width:40%" src="/images/Students award 2.jpg">
+<img align="left" style="width:30%" src="/images/Students award 2.jpg">
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Year 2022 Winner:</b>
 	
@@ -125,7 +126,7 @@ third_nav_title: Science
 </ul>
 
 <h5>5. Sony Creative Science Award</h5>
-<img align="left" style="width:50%" src="/images/whizkid2.jpg">
+<img align="left" style="width:30%" src="/images/whizkid2.jpg">
 <br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
 
