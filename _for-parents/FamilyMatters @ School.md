@@ -11,7 +11,7 @@ description: ""
 <p style="text-align:justify">Fei Yue Community Services, a social service agency established since 1996, has been appointed by the Ministry of Social and Family Development (MSF) to partner with our school to deliver parenting programmes such as Positive Parenting Programme (Triple P) and provide parenting support as part of the Family Matters @ School initiative.   
   
 <p style="text-align:justify">Happy healthy parents make happy healthy children. Fei Yue aims to reduce the stress of parenting and make parenting more enjoyable and rewarding. They look forward to walking with parents in the parenting journey. 
-
+<br><br>
 <b style="color:blue">Parenting Support Programmes</b>  
 
 <p style="text-align:justify">There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why <a href="https://www.triplep-parenting.net/global/triple-p/">Triple P Positive Parenting Programmes</a> can help.
