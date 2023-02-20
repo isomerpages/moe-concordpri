@@ -96,18 +96,19 @@ third_nav_title: Science
 </ul>
 	
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
-<span style="color:#3333FF"><b>Year 2021 winners:</b>
-	</span>
-	<img style="width:30%" src="/images/Students award 1.jpg">
-<ul style="font-size:12px">
-	<li>Su Junrui <span style="color:#9900FF"><b> (Top 30)</b></span></li>
-	<li>Lin Weizhe <span style="color:#9900FF"><b> (Top 30)</b></span></li>
-	</ul>
+<img align="left" style="width:40%" src="/images/Students award 1.jpg">
+<br><br><br><br><br><br><br><br>
+<b style="color:#3333FF">Year 2021 winners:</b>
+	
+<ul>
+<li>Su Junrui<b style="color:#9900FF"> (Top 30)</b></li>
+<li>Lin Weizhe <b style="color:#9900FF"> (Top 30)</b></li>
+</ul>
 
-<span style="color:#3333FF"><b>Year 2020 winners:</b></span>
-<ul style="font-size:12px">
-	<li>Lin Xuan<span style="color:#9900FF"><b> (Top 10)</b></span></li>
-	</ul>
+<b style="color:#3333FF">Year 2020 winners:</b>
+<ul>
+<li>Lin Xuan<b style="color:#9900FF"> (Top 10)</b></li>
+</ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
 <span style="color:#3333FF"><b>Year 2022 Winner:</b>
