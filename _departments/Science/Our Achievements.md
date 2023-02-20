@@ -50,33 +50,33 @@ third_nav_title: Science
 	
 <h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
-<span style="color:#3333FF"><b>Year 2022 winners:</b>
-	</span>
+<br>
+<b style="color:#3333FF">Year 2022 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span></li>
-	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span></li>
-	<li>Deselva Myrtlev Delicia <span style="color:#9900FF"><b>(Participation)</b></span></li>
+<ul>
+<li>Wan Mika<b style="color:#9900FF">(Merit)</b></li>
+<li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
+<li>Chua Jia Xi Reannen<b style="color:#9900FF">(Participation)</b></li>
+<li>Deselva Myrtlev Delicia <span ><b>(Participation)</b></span></li>
 	</ul>
 	
-<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
+<b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<ul>
+<li>Lim Jun Yu<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
-<span style="color:#3333FF"><b>Year 2022 winners:</b>
-	</span>
-<ul style="font-size:12px">
-	<li>Ang Zhen Bin Leonel <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Deselva Myrtle Delicia <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Farhan Shahul Hameed <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Lim Sooji <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Lin Ting Xuan <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <span style="color:#9900FF"><b> (Participation)</b></span></li>
+<b style="color:#3333FF">Year 2022 winners:</b>
+
+<ul>
+<li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
+<li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Deselva Myrtle Delicia <b style="color:#9900FF"> (Participation)</b></li>
+<li>Farhan Shahul Hameed <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lim Sooji <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lin Ting Xuan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <span style="color:#9900FF"><b> (Participation)</b></span></li>
 	<li>Titus Soh Yu Miao <span style="color:#9900FF"><b> (Bronze)</b></span></li>
 	<li>Wan Mika <span style="color:#9900FF"><b> (Bronze)</b></span></li>
 </ul>
@@ -96,8 +96,8 @@ third_nav_title: Science
 </ul>
 	
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
-<img align="left" style="width:40%" src="/images/Students award 1.jpg">
-<br><br><br><br><br><br><br><br>
+<img align="left" style="width:50%" src="/images/Students award 1.jpg">
+<br><br><br><br><br><br><br><br><br>
 <b style="color:#3333FF">Year 2021 winners:</b>
 	
 <ul>
@@ -111,8 +111,8 @@ third_nav_title: Science
 </ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
-<img align="left" style="width:30%" src="/images/Students award 2.jpg">
-<br><br><br><br><br><br><br><br><br><br>
+<img align="left" style="width:40%" src="/images/Students award 2.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <b style="color:#3333FF">Year 2022 Winner:</b>
 	
 <ul>
@@ -120,17 +120,18 @@ third_nav_title: Science
 </ul>	
 
 <span style="color:#3333FF"><b>Year 2019 Winner:</b></span>
-<ul style="font-size:12px">
-	<li>Timothy Tan</li>
-	</ul>
+<ul>
+<li>Timothy Tan</li>
+</ul>
 
 <h5>5. Sony Creative Science Award</h5>
-<img style="width:30%" src="/images/whizkid2.jpg"><br>
-<span style="color:#3333FF"><b>Whizkid category Merit Award Winner:</b>
-</span>
-<ul style="font-size:12px">
-	<li>Chloe Tan Jia En</li>
-	</ul>
+<img align="left" style="width:50%" src="/images/whizkid2.jpg">
+<br><br><br><br><br><br><br><br>
+<b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
+
+<ul>
+<li>Chloe Tan Jia En</li>
+</ul>
 
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
