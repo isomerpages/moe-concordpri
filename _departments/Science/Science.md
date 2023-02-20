@@ -37,8 +37,8 @@ Every student an inquirer.
 <img style="width:55%" src="/images/Outdoor Learning.jpg">
 
 <h3><b>KEY PROGRAMMES</b></h3>
-
-<br><span style="color:#0000FF; font-size:18px"><b>Primary 1 to 2 - COL.OURS</b></span>
+<br>
+<b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
 <br>
 <img style="width:40%" src="/images/Colours.jpg">
 	
