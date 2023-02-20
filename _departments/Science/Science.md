@@ -102,8 +102,8 @@ Every student an inquirer.
 <p><center><b style="color:#0000FF">Primary 5 - High Achievers</b></center>
 <img style="width:40%" src="/images/High Achievers.jpg">
 
-<p style="text-align:justify">It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for&nbsp;Science competitions.
-
+<p style="text-align:justify">It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for Science competitions.
+<br><br>
   
 <p><center><b style="color:#0000FF">Primary 6 - PASS and ACE</b></center>
 <img style="width:30%" src="/images/Pass and Ace.png">
@@ -172,7 +172,7 @@ Every student an inquirer.
 <li><b>P4 Science enrichment lesson on Electromagnets</b></li>
 </ol>
 <br>
-	<p style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b><br>
+	<p style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 <p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center>
@@ -180,11 +180,11 @@ Every student an inquirer.
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
 <p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
-
+<br><br>
 <h4>Other Programmes</h4><br>
 
 <b>Parent Symposium</b>
-<br>	
+<br><br>
 <img style="width:65%" src="/images/Parent Symposium.png">
 
 <p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.
