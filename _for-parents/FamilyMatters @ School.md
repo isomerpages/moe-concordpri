@@ -23,7 +23,7 @@ description: ""
 
 <b style="color:#0000FF">Fei Yue Triple P Teaser</b>
 <br>
-<iframe width="900" height="506" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="Fei Yue Triple P Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="660" height="506" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="Fei Yue Triple P Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		 
 <p style="text-align:justify">Fei Yue also organizes various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. <a href="https://go.fycs.org/FLEsignup2022" target="_blank" rel="noopener noreferrer">https://go.fycs.org/FLEsignup2022</a>
 		 
