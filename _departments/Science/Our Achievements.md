@@ -111,12 +111,13 @@ third_nav_title: Science
 </ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
-<span style="color:#3333FF"><b>Year 2022 Winner:</b>
-	</span>
-	<img style="width:30%" src="/images/Students award 2.jpg">
-<ul style="font-size:12px">
-	<li>Sofia Amirah</li>
-	</ul>	
+<img align="left" style="width:30%" src="/images/Students award 2.jpg">
+<br><br><br><br><br><br><br><br><br><br>
+<b style="color:#3333FF">Year 2022 Winner:</b>
+	
+<ul>
+<li>Sofia Amirah</li>
+</ul>	
 
 <span style="color:#3333FF"><b>Year 2019 Winner:</b></span>
 <ul style="font-size:12px">
