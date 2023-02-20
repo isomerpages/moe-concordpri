@@ -60,7 +60,7 @@ description: ""
 </td>
 </tr>
 <tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td colspan="4">Exploring sound using different instrument</td>
+<td colspan="7">Exploring sound using different instrument</td>
 </tr>
 </tbody>
 </table>
