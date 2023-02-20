@@ -295,12 +295,12 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table class="tg" style="undefined;table-layout: fixed; width: 854px">
+<table class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
+<col style="width: 260px">
 <col style="width: 270px">
-<col style="width: 280px">
 </colgroup>
 <tbody>
   <tr>
