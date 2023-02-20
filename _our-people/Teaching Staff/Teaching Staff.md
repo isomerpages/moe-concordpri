@@ -70,7 +70,7 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
-			
+<br>
 <table class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 80px">
