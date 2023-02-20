@@ -6,13 +6,13 @@ description: ""
 <img src="/images/ENGLISH LANGUAGE_P1.jpeg" 
      style="width:80%">
 
-Vision
--------
+<h2>Vision</h2>
+
 
 Passionate Learners of the English Language.
 
-Mission
---------
+<h2>Mission</h2>
+
 
 <p style="text-align:justify">To nurture Concordians to be engaged listeners, passionate and avid readers, effective speakers and writers of Standard English.
 
