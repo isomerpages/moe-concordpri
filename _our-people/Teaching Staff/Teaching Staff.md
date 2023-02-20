@@ -14,7 +14,7 @@ third_nav_title: Teaching Staff
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;align: left; table-layout: fixed; width: 598px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
