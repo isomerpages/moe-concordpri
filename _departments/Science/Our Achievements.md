@@ -84,15 +84,15 @@ third_nav_title: Science
 <b style="color:#3333FF">Year 2021 winners:</b>
 
 <ul>
-<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
-	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
-	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Lin Weizhe<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Raja Vivegan<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Olivier Desroches<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Nishka Poddar<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Zhao Xiaoyu<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Chua Jia Xuan Sherinen<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<li>Lim Jun Yu<b style="color:#9900FF"> (Silver)</b></li>
+<li>Su Junrui<b style="color:#9900FF"> (Silver)</b></li>
+<li>Vinodh Babu Dheepta<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Lin Weizhe<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Raja Vivegan<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Olivier Desroches<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<li>Nishka Poddar<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Zhao Xiaoyu<b style="color:#9900FF"> (Merit)</b></li>
+<li>Chua Jia Xuan Sherinen<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
