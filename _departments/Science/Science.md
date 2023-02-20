@@ -39,7 +39,7 @@ Every student an inquirer.
 <h3><b>KEY PROGRAMMES</b></h3>
 <br>
 <b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
-<br>
+<br><br>
 <img style="width:40%" src="/images/Colours.jpg">
 	
 <p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
