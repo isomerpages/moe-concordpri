@@ -47,7 +47,7 @@ Mission
 <b><u>LISTENING & SPEAKING</u></b>
 
 <p style="text-align:justify">Students will be exposed to a variety of listening texts, encouraged to speak confidently by the EL teachers in the classroom. The school has embarked on 2 main strategies for Oral Communication – ACE for Reading Aloud & TREES for Stimulus-Based Conversation.
-	
+<br><br>
 <img src="/images/e2.png" 
      style="width:80%">
 	
