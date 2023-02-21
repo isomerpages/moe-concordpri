@@ -28,7 +28,7 @@ description: ""
 <br>
 <img src="/images/llp4.png" style="width:80%">
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPdDspWgbwE" title="Outdoor Education @ Concord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/kPdDspWgbwE" title="Outdoor Education @ Concord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br><br>
 <p><b><u>Student Outcomes through OE @ Concord</u></b>
 
