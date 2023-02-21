@@ -259,15 +259,15 @@ third_nav_title: Teaching Staff
 <span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br>
 	<tr>
     <td class="tg-yhj3">P5A<br></td>
-    <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P5B<br></td>
-    <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</span></a><br></td>
+    <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P5B<br></td>
+<td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</a><br></td>
+<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">P5C<br></td>
