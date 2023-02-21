@@ -95,11 +95,11 @@ Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-ass
 <br><br>
 <b>6. Purchase School Books and Uniform</b>
 
-<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
+<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf" target="_blank" rel="noopener noreferrer">info sheet</a> for more details.
 <br>
-<b>Bookshop: </b> <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a>
+<b>Bookshop: </b> <a href="https://www.pacificbookstores.com" target="_blank" rel="noopener noreferrer">https://www.pacificbookstores.com</a>
 <br>
-<b>Uniform Vendor: </b><a href="https://khuniform.com/">https://khuniform.com/</a>
+<b>Uniform Vendor: </b><a href="https://khuniform.com/" target="_blank" rel="noopener noreferrer">https://khuniform.com/</a>
 <br><br>
 <img style="width:60%" src="/images/Purchase of school uniform.jpg"><br>
 <br>
@@ -107,19 +107,19 @@ Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-ass
 
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
 <br>
-<b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8">https://forms.gle/mAakGAAHrt2mt7cY8</a>
+<b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener noreferrer">https://forms.gle/mAakGAAHrt2mt7cY8</a>
 <br><br>
 <img style="width:35%" src="/images/School bus services QR code.png">
 <br>
 <b>8.  Enrol into School-Based Student Care</b>
 
-Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/">here</a><b><u> by Sunday, 30 October 2022.</u></b>
+Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer">here</a><b><u> by Sunday, 30 October 2022.</u></b>
 
-For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
+For more information, please refer to this <a href="/files/Big Heart.pdf" target="_blank" rel="noopener noreferrer">pamphlet</a>.
 <br><br>
 <b>9. Apply for POSB Smart Buddy Watch</b>
 
-<p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
+<p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf" target="_blank" rel="noopener noreferrer">pamphlet</a> for more details.
 <br><br>
 <b>10. Complete Student Details Form (SDF)</b>
 
