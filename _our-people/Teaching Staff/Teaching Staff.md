@@ -320,11 +320,11 @@ third_nav_title: Teaching Staff
   </tr>
 	<tr>
     <td class="tg-yhj3">P6B<br></td>
-    <td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
+    <td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
+<td><br></td>
+</tr>
+<tr>
     <td class="tg-yhj3">P6C<br></td>
     <td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</span></a><br></td>
