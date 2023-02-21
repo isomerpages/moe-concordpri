@@ -5,12 +5,14 @@ description: ""
 ---
 <p style="text-align:justify; font-size: 18px"><b>IPW – The Thinking Chef Programme</b> is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.</p>
 
-<p style="text-align:justify; font-size: 18px"><b>Through IPW students will be able to:</b></p>
-  (a) apply creative and critical thinking skills<br>
-  (b) improve communication skills (both oral & written)<br>     (c)   foster collaborative learning skills<br>
-(d) develop self-directed & independent learning and life-long learning skills.<br>
-(e)  experience lessons that are experiential and innovative in terms of cooking and/or baking
-
+<p style="text-align:justify"><b>Through IPW students will be able to:</b>
+<ol>
+<li type="a">apply creative and critical thinking skills</li>
+<li type="a">improve communication skills (both oral & written</li>     
+<li type="a">foster collaborative learning skills</li>
+<li type="a">develop self-directed & independent learning and life-long learning skills.</li>
+<li type="a">experience lessons that are experiential and innovative in terms of cooking and/or baking</li>
+</ol>
   
 <p style="text-align:justify; font-size: 18px"><b>The learning outcomes for IPW are aligned with the Desired Outcomes of Education.</b>
 <br>
