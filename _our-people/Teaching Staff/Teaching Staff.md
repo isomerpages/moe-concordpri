@@ -68,7 +68,7 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">P1H<br></td>
 <td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</a><br></td>
 <td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
-  </tr>
+</tr>
 </tbody>
 </table>
 <br>
@@ -88,15 +88,15 @@ third_nav_title: Teaching Staff
   </tr>
   
 <span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br>	
-	<tr>
-    <td class="tg-yhj3">P2A<br></td>
-    <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2B<br></td>
-    <td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</span></a><br></td>
+<tr>
+ <td class="tg-yhj3">P2A<br></td>
+ <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</a><br></td>
+<td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2B<br></td>
+<td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:tan_xue_yun_patricia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Tan Xue Yun Patricia</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</span></a><br></td>
   </tr>
