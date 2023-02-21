@@ -40,7 +40,7 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal2.jpeg"></td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; ">
+<tr style="color:#0000FF; font-weight:bold">
 <td style="text-align:center">Animals Lovers</td>
 <td>Creating Music Together</td>
 </tr>
