@@ -343,10 +343,10 @@ third_nav_title: Teaching Staff
 <td><br></td>
 </tr>
 <tr>
-    <td class="tg-yhj3">P6F<br></td>
-    <td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</span></a><br></td>
-		<td><br></td>
-  </tr>
+<td class="tg-yhj3">P6F<br></td>
+<td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
+<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</a><br></td>
+<td><br></td>
+</tr>
 </tbody>
 </table>
