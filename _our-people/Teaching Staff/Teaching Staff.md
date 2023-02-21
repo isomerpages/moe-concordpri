@@ -58,14 +58,15 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</a><br></td>
 </tr>
-	<tr>
-    <td class="tg-yhj3">P1G<br></td>
-    <td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sabrina Yap Yan Ting</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P1H<br></td>
-    <td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</span></a><br></td>
+<tr>
+<td class="tg-yhj3">P1G<br></td>
+<td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</a><br></td>
+<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sabrina Yap Yan Ting</a><br></td>
+</tr>
+	
+<tr>
+<td class="tg-yhj3">P1H<br></td>
+<td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</span></a><br></td>
   </tr>
 </tbody>
