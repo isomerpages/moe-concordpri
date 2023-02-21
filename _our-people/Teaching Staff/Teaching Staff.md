@@ -217,16 +217,16 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">P4C<br></td>
 <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"  style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P4D<br></td>
-    <td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Joyce Fang Bee Hoon</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
+<td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P4D<br></td>
+<td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</a><br></td>
+<td class="tg-yhj3"><a href="mailto:fang_bee_hoon@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Joyce Fang Bee Hoon</a><br></td>
+<td><br></td>
+</tr>
+<tr>
     <td class="tg-yhj3">P4E<br></td>
     <td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</span></a><br></td>
