@@ -67,7 +67,7 @@ description: ""
 </ul>
 
 <p>For tips on <b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click 
-<a href="https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" target="_blank" rel="noopener noreferrer">here</a>.<br>
+<a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" target="_blank" rel="noopener noreferrer">here</a>.<br>
 <br>
 <p>For the <b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
