@@ -66,8 +66,8 @@ third_nav_title: Teaching Staff
 	
 <tr>
 <td class="tg-yhj3">P1H<br></td>
-<td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
   </tr>
 </tbody>
 </table>
