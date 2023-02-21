@@ -8,21 +8,21 @@ description: ""
 <img src="/images/SLS.jpeg" style="width:40%">
 
 <center><b>Student Learning Space</b></center> 
-<center>Website:<a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
+<center>Website:<a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
-<p>E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
+<p>E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
 <br><br>
-<p>SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
+<p>SLS User Guide for Students:<a href="/files/2-Annexes-to-Letter-to-Parents.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Student Annexes (Instructions and FAQs)</b></span></a>
 <br><br>
-<p>Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
+<p>Technical Support:<a href="https://vle.learning.moe.edu.sg/helpdesk" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://vle.learning.moe.edu.sg/helpdesk</b></span></a> 
 <br><br>
-Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
+Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 <br><br>
   
 <p><u>FREQUENTLY ASKED QUESTIONS</u>
 <br>
 <p><b>Q1 : I have forgotten my password. What should I do?</b><br>  
-Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
+Please refer to <a href="/files/2-Annexes-to-Letter-to-Parents.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>paragraphs 6-9 in Annex A</b></span></a> of the Student Annexes.
 <br><br> 
 <p><b>Q2 : I have forgotten my username. What should I do?</b><br>   
 	The format of your username is a combination of the first <u>5 characters of your name</u> (as per your birth certificate), the <u>last 4 digits and the letter of your NRIC/FIN/BC.</u>  
@@ -33,11 +33,11 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
 <p>Following which, you can do any of the following:
 <br>
-1) Complete the form: <a href="https://go.gov.sg/concordsls"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a>
+1) Complete the form: <a href="https://go.gov.sg/concordsls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a>
 <br>
-2) Email school SLS Administrator: <a href="mailto:norhafizah_pungut@schools.gov.sg"><span style="text-decoration:none;color:#1A7BDF"><b>norhafizah_pungut@schools.gov.sg</b></span></a>
+2) Email school SLS Administrator: <a href="mailto:norhafizah_pungut@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>norhafizah_pungut@schools.gov.sg</b></span></a>
 <br>
-3) Email SLS Helpdesk after school hours: <a href="mailto:helpdesk@sls.ufinity.com"><span style="text-decoration:none;color:#1A7BDF"><b>helpdesk@sls.ufinity.com</b></span></a> 
+3) Email SLS Helpdesk after school hours: <a href="mailto:helpdesk@sls.ufinity.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>helpdesk@sls.ufinity.com</b></span></a> 
 <br>
 <em>* The SLS Central Helpline will operate after school operating hours</em>
 <br>
