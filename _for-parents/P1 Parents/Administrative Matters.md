@@ -30,7 +30,7 @@ third_nav_title: P1 Parents
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/PG Mobile App User Guide April 2022.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
+    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/PG Mobile App User Guide April 2022.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
 </tr>
 </tbody>
 </table>
