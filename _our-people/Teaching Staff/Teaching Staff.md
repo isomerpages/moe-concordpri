@@ -120,13 +120,13 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2F<br></td>
-<td class="tg-yhj3"><a href="mailto:nur_eva_jailani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:kang_xue_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Kang XueWen</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2G<br></td>
-    <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie, Eunice</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_eva_jailani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</a><br></td>
+<td class="tg-yhj3"><a href="mailto:kang_xue_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Kang XueWen</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2G<br></td>
+ <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie, Eunice</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:toh_li_hiong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Toh Li Hiong</span></a><br></td>
 		<td><br></td>
   </tr>
