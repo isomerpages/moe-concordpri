@@ -210,13 +210,13 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P4B<br></td>
-<td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P4C<br></td>
-    <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</a><br></td>
+<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</a><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P4C<br></td>
+<td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"  style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
 		<td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</span></a><br></td>
 		<td><br></td>
   </tr>
