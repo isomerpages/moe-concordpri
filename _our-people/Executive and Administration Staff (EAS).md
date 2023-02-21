@@ -55,8 +55,10 @@ description: ""
 <span style="font-weight:bold"><a href="mailto:hairulnisha_mohd_yusoff@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Ms Lisa</a></span><br>Corporate Support Officer (CSO)<br>
 </td>
     
-<td class="tg-yhj3"><span style="font-weight:bold">Miss Dawn Lum</span><br>Corporate Support Officer (CSO)<br><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a></td>
- <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Miss Dawn Lum</a></span><br>Corporate Support Officer (CSO)
+</td>
+
+<td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
  </tr>
  <tr>
     <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
