@@ -40,14 +40,14 @@ third_nav_title: Teaching Staff
   </tr>
 	<tr>
     <td class="tg-yhj3">P1C<br></td>
-    <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</span></a><br></td>
-  </tr>
+    <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</a><br></td>
+</tr>
 	<tr>
     <td class="tg-yhj3">P1D<br></td>
-    <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</span></a><br></td>
-  </tr>
+    <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
+		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg"style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</a><br></td>
+</tr>
 	<tr>
     <td class="tg-yhj3">P1E<br></td>
     <td class="tg-yhj3"><a href="mailto:siti_aishah_hussain@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Aishah Bte Hussain</span></a><br></td>
