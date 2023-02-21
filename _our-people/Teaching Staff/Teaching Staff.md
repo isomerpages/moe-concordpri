@@ -336,13 +336,13 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</a><br></td>
 <td><br></td>
 </tr>
-	<tr>
-    <td class="tg-yhj3">P6E<br></td>
-    <td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
+<tr>
+<td class="tg-yhj3">P6E<br></td>
+<td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</a><br></td>
+<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</a><br></td>
+<td><br></td>
+</tr>
+<tr>
     <td class="tg-yhj3">P6F<br></td>
     <td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</span></a><br></td>
