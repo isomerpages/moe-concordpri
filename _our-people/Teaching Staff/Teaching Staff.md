@@ -234,10 +234,10 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P4F<br></td>
-<td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</span></a><br></td>
-		<td><br></td>
-  </tr>
+<td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</a><br></td>
+<td><br></td>
+</tr>
 </tbody>
 </table>
 <br>	
