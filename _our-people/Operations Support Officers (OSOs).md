@@ -26,7 +26,7 @@ description: ""
     <td class="tg-nrix"><img src="/images/oso4.jpeg"></td>
   </tr>
   <tr>
-		<td class="tg-nrix"><strong>Mr Tan Siam Seng</strong><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color: red">Mr Tan Siam Seng</b><br>OSO</td>
     <td class="tg-nrix"><strong>Mdm Hoo Yoke Mooi</strong><br>OSO</td>
     <td class="tg-nrix"><strong>Mdm Anita</strong><br>OSO</td>
     <td class="tg-nrix"><strong>Mdm Rokiah</strong><br>OSO</td>
