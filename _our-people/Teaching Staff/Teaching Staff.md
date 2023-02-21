@@ -325,14 +325,14 @@ third_nav_title: Teaching Staff
 <td><br></td>
 </tr>
 <tr>
-    <td class="tg-yhj3">P6C<br></td>
-    <td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P6D<br></td>
-    <td class="tg-yhj3"><a href="mailto:see_kai_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr See Kai Wen</span></a><br></td>
+<td class="tg-yhj3">P6C<br></td>
+<td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P6D<br></td>
+<td class="tg-yhj3"><a href="mailto:see_kai_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr See Kai Wen</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</span></a><br></td>
 		<td><br></td>
   </tr>
