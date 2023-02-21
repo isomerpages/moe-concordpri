@@ -39,7 +39,7 @@ third_nav_title: P1 Parents
 <br><br>
 <b>2.  Provide Additional Information for Form Teachers</b>
 
-<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile">link</a>.
+<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link</a>.
 <br><br>
 <b>3. Apply for GIRO</b>
 
@@ -63,19 +63,19 @@ third_nav_title: P1 Parents
 
 <p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
-Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">here.</a> Singpass login will be required.
+Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener noreferrer">here.</a> Singpass login will be required.
 <br><br>
 <b>5.  Apply for 2023 MOE Financial Assistance Scheme (FAS)</b>
 <img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
 <img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
 
-Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
+Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
 <ol>
 <li type ="i">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund.</b></u>
 </li>
 
-<li type ="i">Apply for FAS <a href="https://go.gov.sg/moe-efas">here.</a> Singpass login will be required.</li>
+<li type ="i">Apply for FAS <a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer">here.</a> Singpass login will be required.</li>
 <br>
 <img style="width:25%" src="/images/QR Code_eFAS form.png"><br>
 <li type ="i">Please do approach the school for assistance if you are unable to apply via the eFAS form.</li>
