@@ -26,11 +26,11 @@ description: ""
     <td class="tg-nrix"><img src="/images/sac4.jpeg"></td>
   </tr>
   <tr>
-		<td class="tg-nrix"><strong>Mr Perumal Arumai Chandran</strong><br>Chairman</td>
-    <td class="tg-nrix"><strong>Mr Tan Siew Tiong,
-Principal</strong><br>Secretary</td>
-    <td class="tg-nrix"><strong>Mr Ganesan S/O Maniam</strong><br>Member</td>
-    <td class="tg-nrix"><strong>Mr Tan Vincent</strong><br>Member </td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Perumal Arumai Chandran</b><br>Chairman</td>
+    <td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Siew Tiong,
+			Principal</b><br>Secretary</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Ganesan S/O Maniam</b><br>Member</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Vincent</b><br>Member </td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/sac5.jpeg"></td>
@@ -39,10 +39,10 @@ Principal</strong><br>Secretary</td>
     <td class="tg-nrix"><img src="/images/sac8.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><strong>Mr Steven Heng</strong><br>Member</td>
-    <td class="tg-nrix"><strong>Mdm Bernardette Lim</strong><br>Member</td>
-    <td class="tg-nrix"><strong>Mr Henry Toh</strong><br>Member</td>
-    <td class="tg-nrix"><strong>Mr Seah Hui Chou PBM</strong><br>Member</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Steven Heng</b><br>Member</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Bernardette Lim</b><br>Member</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Henry Toh</b><br>Member</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Seah Hui Chou PBM</b><br>Member</td>
   </tr>
 </tbody>
 </table>
