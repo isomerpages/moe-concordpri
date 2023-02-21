@@ -30,12 +30,12 @@ third_nav_title: Teaching Staff
 <span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
 	<tr>
     <td class="tg-yhj3">P1A<br></td>
-    <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Zarinah Binte Zainal</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Heng Chwee Hong</span></a><br></td>
-  </tr>
-	<tr>
+    <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Zarinah Binte Zainal</a><br></td>
+<td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Miss Heng Chwee Hong</a><br></td>
+</tr>
+<tr>
     <td class="tg-yhj3">P1B<br></td>
-    <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</span></a><br></td>
+    <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</a><br></td>
 		<td class="tg-yhj3"><a href="mailto:liao_han@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Liao Han</span></a><br></td>
   </tr>
 	<tr>
