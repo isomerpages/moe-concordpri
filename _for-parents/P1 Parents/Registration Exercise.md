@@ -14,7 +14,7 @@ third_nav_title: P1 Parents
 
 Information on the registration phases and procedures can be found in <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/primary/p1-registration.</a> Registration as a Parent Volunteer (PV) falls under Phase 2B.
 
-Please submit the PV application via <a href="https://form.gov.sg/5e4dd3c087faa30011fc6bf4 target="_blank" rel="noopener noreferrer""> online form</a> (FormSG).
+Please submit the PV application via <a href="https://form.gov.sg/5e4dd3c087faa30011fc6bf4" target="_blank" rel="noopener noreferrer"> online form</a> (FormSG).
 
   
 <br>
