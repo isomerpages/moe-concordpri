@@ -51,7 +51,7 @@ description: ""
 <tr>
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:cai_yunlin@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Miss Cai Yunlin</a></span><br>Admin Executive<br>(AE)</td>
     
-<td style="text-align:center"class="tg-yhj3">
+<td style="text-align:center" class="tg-yhj3">
 <span style="font-weight:bold"><a href="mailto:hairulnisha_mohd_yusoff@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Ms Lisa</a></span><br>Corporate Support Officer (CSO)<br>
 </td>
     
