@@ -227,14 +227,14 @@ third_nav_title: Teaching Staff
 <td><br></td>
 </tr>
 <tr>
-    <td class="tg-yhj3">P4E<br></td>
-    <td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P4F<br></td>
-    <td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</span></a><br></td>
+<td class="tg-yhj3">P4E<br></td>
+<td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</a><br></td>
+<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P4F<br></td>
+<td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</span></a><br></td>
 		<td><br></td>
   </tr>
