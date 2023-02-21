@@ -46,7 +46,7 @@ third_nav_title: Teaching Staff
 	<tr>
     <td class="tg-yhj3">P1D<br></td>
     <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg"style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</a><br></td>
+		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</a><br></td>
 </tr>
 	<tr>
     <td class="tg-yhj3">P1E<br></td>
