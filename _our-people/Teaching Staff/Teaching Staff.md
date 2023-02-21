@@ -281,14 +281,14 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</a><br></td>
 <td><br></td>
 </tr>
-	<tr>
-    <td class="tg-yhj3">P5E<br></td>
-    <td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P5F<br></td>
+<tr>
+ <td class="tg-yhj3">P5E<br></td>
+ <td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P5F<br></td>
     <td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</span></a><br></td>
 		<td><br></td>
