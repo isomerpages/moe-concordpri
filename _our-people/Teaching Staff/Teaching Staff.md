@@ -114,13 +114,13 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2E<br></td>
-<td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Tan Kim Keong</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2F<br></td>
-    <td class="tg-yhj3"><a href="mailto:nur_eva_jailani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tan Kim Keong</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2F<br></td>
+<td class="tg-yhj3"><a href="mailto:nur_eva_jailani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:kang_xue_wen@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Kang XueWen</span></a><br></td>
 		<td><br></td>
   </tr>
