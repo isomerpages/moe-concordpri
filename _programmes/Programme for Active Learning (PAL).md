@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr style="color:#0000FF; font-weight:bold">
 <td style="text-align:center">Animals Lovers</td>
-<td>Creating Music Together</td>
+<td class="tg-0lax">Creating Music Together</td>
 </tr>
 <tr>
 <td class="tg-0lax">
