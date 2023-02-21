@@ -31,9 +31,9 @@ description: ""
  <td class="tg-a4yv">Upper Primary </td>
 </tr>
  <tr>
-  <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf">Term 1 Issue #01</a></td>
-  <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf">Term 1 Issue #01</a></td>
-	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 5.pdf">Term 1 Issue #01</a></td>
+  <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+  <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 5.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 </tr>
 <tr>
  <td class="tg-ppzb"><a href="/files/LP%20Feb%2023%20Newsletter_Issue02.pdf">Term 1 Issue #02</a></td>
