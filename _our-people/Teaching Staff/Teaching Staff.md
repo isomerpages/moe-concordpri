@@ -72,7 +72,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table class="tg" style="undefined;table-layout: fixed; width: 834px">
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -186,7 +186,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table class="tg" style="undefined;table-layout: fixed; width: 794px">
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -241,7 +241,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>	
-<table class="tg" style="undefined;table-layout: fixed; width: 794px">
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -296,7 +296,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table class="tg" style="undefined;table-layout: fixed; width: 834px">
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
