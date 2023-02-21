@@ -289,10 +289,10 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P5F<br></td>
-    <td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</span></a><br></td>
-		<td><br></td>
-  </tr>
+    <td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</a><br></td>
+<td><br></td>
+</tr>
 </tbody>
 </table>
 <br>
