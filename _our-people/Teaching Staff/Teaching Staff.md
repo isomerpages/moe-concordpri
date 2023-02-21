@@ -267,20 +267,20 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">P5B<br></td>
 <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</a><br></td>
 <td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</a><br></td>
-<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P5C<br></td>
-    <td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P5D<br></td>
-    <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</span></a><br></td>
-		<td><br></td>
-  </tr>
+<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P5C<br></td>
+<td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</a><br></td>
+<td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P5D<br></td>
+ <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</a><br></td>
+<td><br></td>
+</tr>
 	<tr>
     <td class="tg-yhj3">P5E<br></td>
     <td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</span></a><br></td>
