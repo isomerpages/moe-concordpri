@@ -126,13 +126,13 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2G<br></td>
- <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie, Eunice</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:toh_li_hiong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Toh Li Hiong</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2H<br></td>
-    <td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</span></a><br></td>
+ <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie, Eunice</a><br></td>
+<td class="tg-yhj3"><a href="mailto:toh_li_hiong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Toh Li Hiong</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2H<br></td>
+<td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:nor_hayati_salimik@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</span></a><br></td>
 		<td><br></td>
 </tr>
