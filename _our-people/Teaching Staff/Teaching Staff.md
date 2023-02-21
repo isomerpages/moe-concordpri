@@ -102,19 +102,19 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2C<br></td>
-<td class="tg-yhj3"><a href="mailto:sohrah_mumhude@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sohrah Bte Mumhude</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:chong_see_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chong See Yin Ruth</span></a><br></td>
-		<td><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2D<br></td>
-    <td class="tg-yhj3"><a href="mailto:teo_tze_yue_joy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Teo Tze Yue, Joy</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nithiya d/o Krishnasamy</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2E<br></td>
-    <td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:sohrah_mumhude@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sohrah Bte Mumhude</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chong_see_yin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chong See Yin Ruth</a><br></td>
+<td><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2D<br></td>
+<td class="tg-yhj3"><a href="mailto:teo_tze_yue_joy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Teo Tze Yue, Joy</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nithiya_krishnasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nithiya d/o Krishnasamy</a><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2E<br></td>
+<td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Tan Kim Keong</span></a><br></td>
 		<td><br></td>
   </tr>
