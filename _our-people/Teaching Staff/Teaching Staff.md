@@ -202,15 +202,15 @@ third_nav_title: Teaching Staff
   </tr>
   
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
-	<tr>
-    <td class="tg-yhj3">P4A<br></td>
-    <td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P4B<br></td>
-    <td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</span></a><br></td>
+<tr>
+<td class="tg-yhj3">P4A<br></td>
+<td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P4B<br></td>
+<td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</span></a><br></td>
   </tr>
