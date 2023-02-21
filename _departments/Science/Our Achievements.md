@@ -50,85 +50,89 @@ third_nav_title: Science
 	
 <h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
-<span style="color:#3333FF"><b>Year 2022 winners:</b>
-	</span>
+<br>
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Wan Mika <span style="color:#9900FF"><b>(Merit)</b></span></li>
-	<li>Titus Soh Yu Miao<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b>(Participation)</b></span></li>
-	<li>Deselva Myrtlev Delicia <span style="color:#9900FF"><b>(Participation)</b></span></li>
-	</ul>
+<ul>
+<li>Wan Mika<b style="color:#9900FF">(Merit)</b></li>
+<li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
+<li>Chua Jia Xi Reannen<b style="color:#9900FF">(Participation)</b></li>
+<li>Deselva Myrtlev Delicia <b style="color:#9900FF">(Participation)</b></li>
+</ul>
 	
-<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<ul>
+<li>Lim Jun Yu<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
-<span style="color:#3333FF"><b>Year 2022 winners:</b>
-	</span>
-<ul style="font-size:12px">
-	<li>Ang Zhen Bin Leonel <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Chua Jia Xi Reannen <span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Deselva Myrtle Delicia <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Farhan Shahul Hameed <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Lim Sooji <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Lin Ting Xuan <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <span style="color:#9900FF"><b> (Participation)</b></span></li>
-	<li>Titus Soh Yu Miao <span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Wan Mika <span style="color:#9900FF"><b> (Bronze)</b></span></li>
+<br>
+<p><b style="color:#3333FF">Year 2022 winners:</b>
+
+<ul>
+<li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
+<li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Deselva Myrtle Delicia <b style="color:#9900FF"> (Participation)</b></li>
+<li>Farhan Shahul Hameed <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lim Sooji <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lin Ting Xuan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Titus Soh Yu Miao <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Wan Mika <b style="color:#9900FF"> (Bronze)</b></li>
 </ul>
 
-<span style="color:#3333FF"><b>Year 2021 winners:</b></span>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul style="font-size:12px">
-	<li>Lim Jun Yu<span style="color:#9900FF"><b> (Silver)</b></span></li>
-	<li>Su Junrui<span style="color:#9900FF"><b> (Silver)</b></span></li>
-	<li>Vinodh Babu Dheepta<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Lin Weizhe<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Raja Vivegan<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Olivier Desroches<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Nishka Poddar<span style="color:#9900FF"><b> (Bronze)</b></span></li>
-	<li>Zhao Xiaoyu<span style="color:#9900FF"><b> (Merit)</b></span></li>
-	<li>Chua Jia Xuan Sherinen<span style="color:#9900FF"><b> (Merit)</b></span></li>
+<ul>
+<li>Lim Jun Yu<b style="color:#9900FF"> (Silver)</b></li>
+<li>Su Junrui<b style="color:#9900FF"> (Silver)</b></li>
+<li>Vinodh Babu Dheepta<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Lin Weizhe<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Raja Vivegan<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Olivier Desroches<b style="color:#9900FF"> (Merit)</b></li>
+<li>Nishka Poddar<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Zhao Xiaoyu<b style="color:#9900FF"> (Merit)</b></li>
+<li>Chua Jia Xuan Sherinen<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
 <h5>3. West Zone Junior Science Whiz Challenge</h5>
-<span style="color:#3333FF"><b>Year 2021 winners:</b>
-	</span>
-	<img style="width:30%" src="/images/Students award 1.jpg">
-<ul style="font-size:12px">
-	<li>Su Junrui <span style="color:#9900FF"><b> (Top 30)</b></span></li>
-	<li>Lin Weizhe <span style="color:#9900FF"><b> (Top 30)</b></span></li>
-	</ul>
+<img align="left" style="width:30%" src="/images/Students award 1.jpg">
+<br><br><br><br><br><br><br><br><br>
+<p><b style="color:#3333FF">Year 2021 winners:</b>
+	
+<ul>
+<li>Su Junrui<b style="color:#9900FF"> (Top 30)</b></li>
+<li>Lin Weizhe <b style="color:#9900FF"> (Top 30)</b></li>
+</ul>
 
-<span style="color:#3333FF"><b>Year 2020 winners:</b></span>
-<ul style="font-size:12px">
-	<li>Lin Xuan<span style="color:#9900FF"><b> (Top 10)</b></span></li>
-	</ul>
+<p><b style="color:#3333FF">Year 2020 winners:</b>
+<ul>
+<li>Lin Xuan<b style="color:#9900FF"> (Top 10)</b></li>
+</ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
-<span style="color:#3333FF"><b>Year 2022 Winner:</b>
-	</span>
-	<img style="width:30%" src="/images/Students award 2.jpg">
-<ul style="font-size:12px">
-	<li>Sofia Amirah</li>
-	</ul>	
+<img align="left" style="width:25%" src="/images/Students award 2.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p><b style="color:#3333FF">Year 2022 Winner:</b>
+	
+<ul>
+<li>Sofia Amirah</li>
+</ul>	
 
-<span style="color:#3333FF"><b>Year 2019 Winner:</b></span>
-<ul style="font-size:12px">
-	<li>Timothy Tan</li>
-	</ul>
+<p><b style="color:#3333FF">Year 2019 Winner:</b>
+<ul>
+<li>Timothy Tan</li>
+</ul>
 
 <h5>5. Sony Creative Science Award</h5>
-<img style="width:30%" src="/images/whizkid2.jpg"><br>
-<span style="color:#3333FF"><b>Whizkid category Merit Award Winner:</b>
-</span>
-<ul style="font-size:12px">
-	<li>Chloe Tan Jia En</li>
-	</ul>
+<img align="left" style="width:30%" src="/images/whizkid2.jpg">
+<br><br><br><br><br><br><br><br>
+<p><b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
+
+<ul>
+<li>Chloe Tan Jia En</li>
+</ul>
 
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}

@@ -30,7 +30,7 @@ third_nav_title: P1 Parents
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/PG Mobile App User Guide April 2022.pdf"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
+    <td class="tg-yhj3"> <a href="/files/2-Annexes-to-Letter-to-Parents.pdf"><span style="text-decoration:none;color:#FD6500">PG letter to onboard parents </span></a><br><br><a href="/files/01 Invitation to Parent Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Invitation to Parents Gateway</span></a><br><br><a href="/files/FAQs for Parents April 2022.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Frequently Asked Questions For Parents</span></a><br><br><a href="/files/PG Mobile App User Guide April 2022.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">PG Mobile AppUser Guide</span></a></td>
 </tr>
 </tbody>
 </table>
@@ -39,7 +39,7 @@ third_nav_title: P1 Parents
 <br><br>
 <b>2.  Provide Additional Information for Form Teachers</b>
 
-<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile">link</a>.
+<p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link</a>.
 <br><br>
 <b>3. Apply for GIRO</b>
 
@@ -63,19 +63,19 @@ third_nav_title: P1 Parents
 
 <p style="text-align:justify">We strongly encourage you to sign up to reduce the out-of-pocket educational expenses for your child/ward. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that you do not want to use your child’s/ward’s Edusave account to co-pay for enrichment programmes, you can terminate the standing order at any time.
 
-Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">here.</a> Singpass login will be required.
+Please sign up for the Standing Order <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener noreferrer">here.</a> Singpass login will be required.
 <br><br>
 <b>5.  Apply for 2023 MOE Financial Assistance Scheme (FAS)</b>
 <img style="width:100%" src="/images/MOE Financial Assistance Scheme 2023.jpeg"><br>
 <img style="width:80%" src="/images/current and revised income eligibility tiers.jpeg"><br>
 
-Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
+Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"> https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS and the Financial Assistance Eligibility Checker. If you intend to apply for FAS for your child/ward,
 
 <ol>
 <li type ="i">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official   letter of the outcome of your FAS application as there is <u><b>strictly no refund.</b></u>
 </li>
 
-<li type ="i">Apply for FAS <a href="https://go.gov.sg/moe-efas">here.</a> Singpass login will be required.</li>
+<li type ="i">Apply for FAS <a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer">here.</a> Singpass login will be required.</li>
 <br>
 <img style="width:25%" src="/images/QR Code_eFAS form.png"><br>
 <li type ="i">Please do approach the school for assistance if you are unable to apply via the eFAS form.</li>
@@ -95,11 +95,11 @@ Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-ass
 <br><br>
 <b>6. Purchase School Books and Uniform</b>
 
-<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf">info sheet</a> for more details.
+<p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Kah Huat Uniform respectively. The default mode of sales is through their online sales channels listed below. You can opt for home delivery or self collection at our school.  They will be operating in our school from 17 to 19 October 2022 between <u><b>9 am to 3 pm</b></u>. You may click on this <a href="/files/KH_Uniform_CPS Info Sheet 2022.pdf" target="_blank" rel="noopener noreferrer">info sheet</a> for more details.
 <br>
-<b>Bookshop: </b> <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a>
+<b>Bookshop: </b> <a href="https://www.pacificbookstores.com" target="_blank" rel="noopener noreferrer">https://www.pacificbookstores.com</a>
 <br>
-<b>Uniform Vendor: </b><a href="https://khuniform.com/">https://khuniform.com/</a>
+<b>Uniform Vendor: </b><a href="https://khuniform.com/" target="_blank" rel="noopener noreferrer">https://khuniform.com/</a>
 <br><br>
 <img style="width:60%" src="/images/Purchase of school uniform.jpg"><br>
 <br>
@@ -107,19 +107,19 @@ Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-ass
 
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to indicate your interest and they will contact you for more details
 <br>
-<b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8">https://forms.gle/mAakGAAHrt2mt7cY8</a>
+<b>School Bus Vendor: </b><a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener noreferrer">https://forms.gle/mAakGAAHrt2mt7cY8</a>
 <br><br>
 <img style="width:35%" src="/images/School bus services QR code.png">
 <br>
 <b>8.  Enrol into School-Based Student Care</b>
 
-Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/">here</a><b><u> by Sunday, 30 October 2022.</u></b>
+Our School-based Student Care provider is Big Heart Student Care. If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer">here</a><b><u> by Sunday, 30 October 2022.</u></b>
 
-For more information, please refer to this <a href="/files/Big Heart.pdf">pamphlet</a>.
+For more information, please refer to this <a href="/files/Big Heart.pdf" target="_blank" rel="noopener noreferrer">pamphlet</a>.
 <br><br>
 <b>9. Apply for POSB Smart Buddy Watch</b>
 
-<p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf">pamphlet</a> for more details.
+<p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/Smart Buddy.pdf" target="_blank" rel="noopener noreferrer">pamphlet</a> for more details.
 <br><br>
 <b>10. Complete Student Details Form (SDF)</b>
 

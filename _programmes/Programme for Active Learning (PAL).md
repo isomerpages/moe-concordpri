@@ -22,7 +22,7 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:center;vertical-align:top}
 </style>
 
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
@@ -40,9 +40,9 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal2.jpeg"></td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td>Animals Lovers</td>
-<td>Creating Music Together</td>
+<tr style="color:#0000FF; font-weight:bold">
+<td class="tg-0lax">Animals Lovers</td>
+<td class="tg-0lax">Creating Music Together</td>
 </tr>
 <tr>
 <td class="tg-0lax">
@@ -50,17 +50,17 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal4.jpeg"></td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td>Exploring outdoors with Binoculars</td>
-<td>Building tents together as a team</td>
+<tr style="color:#0000FF; font-weight:bold">
+<td class="tg-0lax">Exploring outdoors with Binoculars</td>
+<td class="tg-0lax">Building tents together as a team</td>
 </tr>
 <tr>
 <td class="tg-0lax" colspan="2">
 <img src="/images/pal5.jpeg" style="width:55%">
 </td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td colspan="4">Exploring sound using different instrument</td>
+<tr style="color:#0000FF; font-weight:bold">
+<td class="tg-0lax" colspan="2">Exploring sound using different instrument</td>
 </tr>
 </tbody>
 </table>

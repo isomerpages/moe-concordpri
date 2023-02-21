@@ -29,7 +29,7 @@ third_nav_title: School Information
 </tr>
 <tr>
     <td class="tg-n1ni">2.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Dental Clinic</span><br><br><img src="/images/Dental%20Clinic%20QR.jpeg" 
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Dental Clinic</span><br><br><img src="/images/DentalQRCode.png" 
      style="width:25%" align="left">
 <br><br><br><br><br><br><br>Opening Hours:<br>Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br><span style="font-weight:bold">Closed on</span> <span style="font-weight:bold">Public Holidays</span><br>Tel: <span style="font-weight:bold;text-decoration:underline">9114 3917</span><br><br><span style="font-weight:400;font-style:normal">In the event that Concord Primary SDC is closed & students need emergency treatment, </span><span style="font-weight:bold">please contact HPB at 6436 3782.</span><br><b>Alternatively, you may contact our Dental Therapists (DTs) at 9114 3917.<br>Mobile Dental Clinic 1 Tel: 9270 7791</b><br><img src="/images/Dental Clinic February 2023 Schedule.jpg" 
      style="width:90%" align="left"></td>

@@ -27,22 +27,40 @@ description: ""
     <td class="tg-nrix"><img src="/images/eas5.jpeg"></td>
 </tr>
 <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold">Mr Tan Yian Chye</span><br>Operations Manager (OM)<br><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">tan_yian_chye@moe.edu.sg</span></a></td>
-    <td class="tg-yhj3"><span style="font-weight:bold">Ms Wong Siew Ling</span><br>Administration Manager (AM)<br><a href="mailto:Managerwong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1ABC9C">wong_siew_ling@ moe.edu.sg</span></a></td>
- <td class="tg-yhj3"><span style="font-weight:bold">Mdm Mala</span><br>Admin Executive (AE)<br><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1ABC9C">mala_ramiah@moe.edu.sg</span></a></td>
-<td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Lee Sook Hoon</span><br>Admin Executive (AE)<br><a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">lee_sook_hoon@moe.edu.sg</span></a></td>
+<td style="text-align:center" class="tg-yhj3">
+<span style="font-weight:bold"><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mr Tan Yian Chye</a></span><br>Operations Manager<br>(OM)</td>
+    
+<td style="text-align:center" class="tg-yhj3">
+<span style="font-weight:bold"><a href="mailto:wong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"  style="text-decoration:none; color:#1ABC9C">Ms Wong Siew Ling</a></span><br>Administration Manager<br>(AM)</td>
+
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Mala</a></span><br>Admin Executive<br>(AE)
+</td>
+
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold">
+<a href="mailto:lee_sook_hoon@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Lee Sook Hoon</a></span><br>Admin Executive<br>(AE)
+</td>
 </tr>
+
 <tr>
     <td class="tg-nrix"><img src="/images/eas6.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas7.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas8.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
 </tr>
+
 <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Miss Cai Yunlin</span><br>Admin Executive (AE)<br><a href="mailto:cai_yunlin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">cai_yunlin@moe.edu.sg</span></a></td>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Ms Lisa</span><br>Corporate Support Officer (CSO)<br><a href="mailto:hairulnisha_mohd_yusoff@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1ABC9C;background-color:initial">hairulnisha_mohd_yusoff@moe.edu.sg</span></a></td>
-    <td class="tg-yhj3"><span style="font-weight:bold">Miss Dawn Lum</span><br>Corporate Support Officer (CSO)<br><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a></td>
- <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Zarina</span><br>Librarian<br><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">Zarina.Munaris@staff.spydus.com.sg</span></a></td>
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:cai_yunlin@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Miss Cai Yunlin</a></span><br>Admin Executive<br>(AE)</td>
+    
+<td style="text-align:center" class="tg-yhj3">
+<span style="font-weight:bold"><a href="mailto:hairulnisha_mohd_yusoff@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Ms Lisa</a></span><br>Corporate Support Officer (CSO)<br>
+</td>
+    
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Miss Dawn Lum</a></span><br>Corporate Support Officer (CSO)
+</td>
+
+<td style="text-align:center" class="tg-yhj3">
+<span style="font-weight:bold"><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Zarina</a></span><br>Librarian<br>
+</td>
  </tr>
  <tr>
     <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
@@ -50,17 +68,27 @@ description: ""
     <td class="tg-nrix"><img src="/images/Gazali_VER2.jpg"></td>
 		<td class="tg-nrix"><img src="/images/test12.jpg"></td>
  </tr>
- <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Norhafizah</span><br><span style="background-color:initial">ICT Associate</span><br><a href="mailto:norhafizah_pungut@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1ABC9C">norhafizah_pungut@moe.edu.sg</span></a></td>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Miss Raihan</span><br>Desktop Engineer<br></td>
-   <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mr Gazali</span><br>Desktop Engineer<br></td>
-   <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Siti Razilah</span><br>ICT Support Staff<br></td>
-</tr>
+ 
 <tr>
- <td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:norhafizah_pungut@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Norhafizah</a></span><br>ICT Associate
+</td>
+
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold; color:#1ABC9C">Miss Raihan</span><br>Desktop Engineer<br>
+</td>
+
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mr Gazali</span><br>Desktop Engineer<br>
+</td>
+
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Siti Razilah</span><br>ICT Support Staff<br>
+</td>
 </tr>
+
 <tr>
-    <td class="tg-yhj3"><span style="font-weight:bold;background-color:initial">Mdm Suzana</span><br>Receptionist<br></td>  
+<td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
+</tr>
+
+<tr>
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>  
 </tr>
 </tbody>
 </table>

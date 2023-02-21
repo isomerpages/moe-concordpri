@@ -26,10 +26,10 @@ description: ""
     <td class="tg-nrix"><img src="/images/oso4.jpeg"></td>
   </tr>
   <tr>
-		<td class="tg-nrix"><strong>Mr Tan Siam Seng</strong><br>OSO</td>
-    <td class="tg-nrix"><strong>Mdm Hoo Yoke Mooi</strong><br>OSO</td>
-    <td class="tg-nrix"><strong>Mdm Anita</strong><br>OSO</td>
-    <td class="tg-nrix"><strong>Mdm Rokiah</strong><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Siam Seng</b><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Hoo Yoke Mooi</b><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Anita</b><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Rokiah</b><br>OSO</td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/oso5.jpeg"></td>
@@ -38,8 +38,8 @@ description: ""
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><strong>Mdm Loke Sue Feng</strong><br>OSO</td>
-    <td class="tg-nrix"><strong>Mr Teo Lit Onn</strong><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Loke Sue Feng</b><br>OSO</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Teo Lit Onn</b><br>OSO</td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
   </tr>

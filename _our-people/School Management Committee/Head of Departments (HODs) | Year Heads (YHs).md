@@ -10,15 +10,15 @@ third_nav_title: School Management Committee
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;align: left; table-layout: fixed; width: 869px">
+<table class="tg" style="undefined; table-layout: fixed; width: 820px">
 <colgroup>
-<col style="width: 305px">
-<col style="width: 234px">
-<col style="width: 330px">
+<col style="width: 300px">
+<col style="width: 220px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>

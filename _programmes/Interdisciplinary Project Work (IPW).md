@@ -5,18 +5,20 @@ description: ""
 ---
 <p style="text-align:justify; font-size: 18px"><b>IPW – The Thinking Chef Programme</b> is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.</p>
 
-<p style="text-align:justify; font-size: 18px"><b>Through IPW students will be able to:</b></p>
-  (a) apply creative and critical thinking skills<br>
-  (b) improve communication skills (both oral & written)<br>     (c)   foster collaborative learning skills<br>
-(d) develop self-directed & independent learning and life-long learning skills.<br>
-(e)  experience lessons that are experiential and innovative in terms of cooking and/or baking
-
+<p style="text-align:justify"><b>Through IPW students will be able to:</b>
+<ol>
+<li type="a">apply creative and critical thinking skills</li>
+<li type="a">improve communication skills (both oral & written</li>     
+<li type="a">foster collaborative learning skills</li>
+<li type="a">develop self-directed & independent learning and life-long learning skills.</li>
+<li type="a">experience lessons that are experiential and innovative in terms of cooking and/or baking</li>
+</ol>
   
 <p style="text-align:justify; font-size: 18px"><b>The learning outcomes for IPW are aligned with the Desired Outcomes of Education.</b>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}	
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;vertical-align:middle;font-size:14px}
+.tg .tg-yhj3{background-color:#F5EEF8;color:#0C463A;vertical-align:middle;font-size:14px}
 .tg .tg-feqv{background-color:#CCCCFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
@@ -49,14 +51,14 @@ description: ""
 	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Concerned Citizen</b></span></td>
 	<td class="tg-feqv"><span style="color:#000;background-color:#CCCCFF"><b>Active Contributor</b></span></td></tr>
 <tr>
-    <td class="tg-yhj3; position:relative">
+    <td class="tg-yhj3">
 <ul>
 	<li>Empathises with and respects others.</li>
 	<li>Participates actively.</li>
 	<li>Share responsibilities and tap on another's strengths.</li>
 </ul>
 </td> 
-<td class="tg-yhj3; position:relative">
+<td class="tg-yhj3">
 <ul>
 	<li>Exercise initiative and takes risks.</li>
 	<li>Innovation and creativity.</li>
@@ -75,7 +77,7 @@ description: ""
 overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
 font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj5{background-color:#FFF;color:#0C463A;vertical-align:top}
+.tg .tg-yhj5{background-color:#F5EEF8;color:#0C463A;vertical-align:top}
 .tg .tg-feqv{background-color:#CCCCFF;color:#000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:middle}
 </style>
@@ -147,14 +149,13 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj4{background-color:#FFFFE0;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-yhj7{background-color:#F0E68C;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-yhj8{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-#F0E68C
+.tg .tg-yhj8{background-color:#FFFFE0;color:#0C463A;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
     <td class="tg-yhj7"><b>Level/Term</b><br></td>
-		<td class="tg-yhj4"><b>What’s Cooking?</b><br></td>
+		<td class="tg-yhj7"><b>What’s Cooking?</b><br></td>
   </tr>
   <tr>
     <td class="tg-yhj8">P5/Term 1<br></td>
@@ -182,12 +183,15 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   </tr>
 </tbody>
 </table>
-
-<center><b>Research for IPW</b></center>
-	<img style="width:55%" src="/images/ipw.png">
-
-<center><b>Measuring Ingredients</b></center>
-	<img style="width:55%" src="/images/ip2.png">
-
-<center><b>Making pancakes</b></center>
-	<img style="width:55%" src="/images/ipw3.png">
+<figure>
+<b>Research for IPW</b>
+<img style="width:65%" src="/images/ipw.png">
+</figure>
+<figure>
+<b>Measuring Ingredients</b>
+<img style="width:65%" src="/images/ip2.png">
+</figure>
+<figure>
+<b>Making pancakes</b>
+<img style="width:55%" src="/images/ipw3.png">
+</figure>
