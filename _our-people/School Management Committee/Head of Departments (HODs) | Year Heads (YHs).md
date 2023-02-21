@@ -14,9 +14,9 @@ third_nav_title: School Management Committee
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined; table-layout: fixed; width: 900px">
+<table class="tg" style="undefined; table-layout: fixed; width: 820px">
 <colgroup>
-<col style="width: 380px">
+<col style="width: 300px">
 <col style="width: 220px">
 <col style="width: 300px">
 </colgroup>
