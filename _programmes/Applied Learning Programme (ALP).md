@@ -102,21 +102,21 @@ The acquisition of E3 Reasoning skills is <u>divided into two tiers.</u>
 </table>
 
 <p style="text-align:justify">Tier 1 caters to all students which includes the infusion of E3 Reasoning skills in all subjects and various programme catered to the different levels.
-
+<br><br>
 <b><u>P1 and 2 E3 Reasoning lessons and assembly programme</u></b>
 
 <p style="text-align:justify">2 periods (1 hour) per week is scheduled during curriculum time to introduce and teach our Primary 1 and 2 students E3 Reasoning skills. Learner-centred pedagogy, focussing on experiential learning through activities such as games and role-play, is used to engage students during these lessons.  
 
 <p style="text-align:justify">Assembly programme for the Primary 1 and 2 students are specially crafted to enable the students more opportunities to learn about the application of E3 Reasoning skills in their daily lives.
-
+<br><br>
 <b><u>Learn to Play, Play to Learn Corner (LPPL Corner)</u></b>
 
 <p style="text-align:justify">The corner is opened from Tuesdays to Thursdays during recess time to allow students to play E3 Reasoning games. The games allow students to develop and practise their E3 Reasoning skills.
-
+<br><br>
 <b><u>Modular CCA Programme (Soar for Life)</u></b>
 
 <p style="text-align:justify">E3 Reasoning has been integrated as part of the Modular CCA programme for our Primary 3 to 6 students. During the programme, our students get to learn and apply E3 Reasoning skills through the various activities. The table below shows the activities carried out for each level during Soar for Life.
-
+<br><br>
 <b><u>Lego Robotics</u></b>
 
 <p style="text-align:justify">Lego Robotics is our Tier 2 programme to stretch our students with greater interest and aptitude in E3 Reasoning skills to further strengthen and hone their skills. The objectives are to enable students to think creatively, analyse situations and apply critical thinking and problem solving skills to real world problems. It also provides opportunities to develop collaboration skills among students when they get to work together to solve problems in groups and to develop 21st CC.
