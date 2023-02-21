@@ -100,13 +100,13 @@ Arts <b style="color:blue">A</b>ppreciation . <b style="color:blue">C</b>urric
 
 <p style="text-align:justify">By the end of Primary 6, students will be able to appreciate arts from the Singapore and regional culture, experienced a range of instruments (pitched and unpitched), can perform on the main melodic instrument with good tone and expression, and also possess the ability to create artworks using a variety of mediums and present their art and share their ideas and inspirations with audience via exhibitions and publications.
 	
-<p style="text-align:justify">You can also find more updates on our art and music programmes, including a photo gallery in our uniquely ARTpression Blog. Click <a href="https://sites.google.com/moe.edu.sg/artspressionblog/art-weekly-updates?authuser=0"><b>here</b></a> to access the blog. 
+<p style="text-align:justify">You can also find more updates on our art and music programmes, including a photo gallery in our uniquely ARTpression Blog. Click <a href="https://sites.google.com/moe.edu.sg/artspressionblog/art-weekly-updates?authuser=0" target="_blank" rel="noopener noreferrer"><b>here</b></a> to access the blog. 
 <br><br>
 <h2>Key Programmes and Highlights</h2>
 <br><br>
 <img src="/images/ArtsAppreciation01.jpg" style="width:80%">
-<span style="font-size:14px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" style="color:red"><b>here</b></a></span>
+<span style="font-size:14px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link"  target="_blank" rel="noopener noreferrer" style="color:red"><b>here</b></a></span>
 <img src="/images/ArtsAppreciation02.jpg" style="width:80%">
-<span style="font-size:14px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link" style="color:red"><b>here</b></a></span>
+<span style="font-size:14px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Find photos <a href="https://drive.google.com/drive/folders/1aJvqn9Z-wKCx4eGa45d7_RZRYtdkzmS2?usp=share_link"  target="_blank" rel="noopener noreferrer" style="color:red"><b>here</b></a></span>
 <img src="/images/ArtsAppreciation03.jpg" style="width:80%">
 <img src="/images/ArtsAppreciation04.jpg" style="width:80%">
