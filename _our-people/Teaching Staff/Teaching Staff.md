@@ -313,10 +313,10 @@ third_nav_title: Teaching Staff
   
 <span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br>
 	<tr>
-    <td class="tg-yhj3">P6A<br></td>
-    <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mr Muhammad Osman Bin Rahmat Ali</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nur_alisa_abdul_samad@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nur Alisa Binte Abdul Samad</span></a><br></td>
+ <td class="tg-yhj3">P6A<br></td>
+ <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Osman Bin Rahmat Ali</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_alisa_abdul_samad@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Alisa Binte Abdul Samad</a><br></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">P6B<br></td>
