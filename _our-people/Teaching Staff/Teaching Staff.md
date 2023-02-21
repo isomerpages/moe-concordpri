@@ -55,9 +55,9 @@ third_nav_title: Teaching Staff
  </tr>
 	<tr>
     <td class="tg-yhj3">P1F<br></td>
-    <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</span></a><br></td>
-  </tr>
+    <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</a><br></td>
+</tr>
 	<tr>
     <td class="tg-yhj3">P1G<br></td>
     <td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</span></a><br></td>
