@@ -41,7 +41,7 @@ description: ""
 <img src="/images/pal2.jpeg"></td>
 </tr>
 <tr style="color:#0000FF; font-weight:bold">
-<td style="text-align:center">Animals Lovers</td>
+<td class="tg-0lax">Animals Lovers</td>
 <td class="tg-0lax">Creating Music Together</td>
 </tr>
 <tr>
@@ -50,17 +50,17 @@ description: ""
 <td class="tg-0lax">
 <img src="/images/pal4.jpeg"></td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td>Exploring outdoors with Binoculars</td>
-<td>Building tents together as a team</td>
+<tr style="color:#0000FF; font-weight:bold">
+<td class="tg-0lax">Exploring outdoors with Binoculars</td>
+<td class="tg-0lax">Building tents together as a team</td>
 </tr>
 <tr>
 <td class="tg-0lax" colspan="2">
 <img src="/images/pal5.jpeg" style="width:55%">
 </td>
 </tr>
-<tr style="color:#0000FF; font-weight:bold; text-align:center">
-<td colspan="7">Exploring sound using different instrument</td>
+<tr style="color:#0000FF; font-weight:bold">
+<td class="tg-0lax">Exploring sound using different instrument</td>
 </tr>
 </tbody>
 </table>
