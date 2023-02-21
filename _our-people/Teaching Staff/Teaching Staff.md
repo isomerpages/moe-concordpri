@@ -96,13 +96,13 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2B<br></td>
-<td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tan_xue_yun_patricia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Ms Tan Xue Yun Patricia</span></a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</span></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P2C<br></td>
-    <td class="tg-yhj3"><a href="mailto:sohrah_mumhude@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sohrah Bte Mumhude</span></a><br></td>
+<td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_xue_yun_patricia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Tan Xue Yun Patricia</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
+</tr>
+<tr>
+<td class="tg-yhj3">P2C<br></td>
+<td class="tg-yhj3"><a href="mailto:sohrah_mumhude@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Sohrah Bte Mumhude</span></a><br></td>
 		<td class="tg-yhj3"><a href="mailto:chong_see_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">Mdm Chong See Yin Ruth</span></a><br></td>
 		<td><br></td>
   </tr>
