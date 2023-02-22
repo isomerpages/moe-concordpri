@@ -54,7 +54,7 @@ third_nav_title: Science
 <p><b style="color:#3333FF">Year 2022 winners:</b>
 
 <ul>
-<li>Wan Mika<b style="color:#9900FF">(Merit)</b></li>
+<li>Wan Mika<b style="color:#9900FF"> (Merit)</b></li>
 <li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
 <li>Chua Jia Xi Reannen<b style="color:#9900FF">(Participation)</b></li>
 <li>Deselva Myrtlev Delicia <b style="color:#9900FF">(Participation)</b></li>
