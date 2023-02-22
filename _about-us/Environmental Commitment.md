@@ -12,7 +12,7 @@ description: ""
 
 <b>Concord Primary School’s Environmental Policy:</b><br>
 <p style="text-align:justify">Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement. 
-
+<br><br>
 <b>Concord Primary School’s Environmental Goals:</b>
 
 <ul>
@@ -28,7 +28,7 @@ description: ""
 <p style="text-align:justify">Every year, the school takes part in the School Greens Award and we have been affirmed for our efforts by being awarded the Prestigious Lotus Award since 2012. The school will continue to strive to educate our students to foster a sustainable future and to improve the environmental well-being of our community. 
 
   
-
+<br><br>
 <b>Key strategies to achieve our environmental mission and goals:</b>
 
 <ul>
