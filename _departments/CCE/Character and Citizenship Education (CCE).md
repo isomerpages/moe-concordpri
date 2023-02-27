@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 <img src="/images/Character and Citizen Education_P1.jpeg" 
      style="width:80%">
-		 
+		 /images/CCE%20Dept%20Photos.jpeg
 <h2>Vision</h2>
 
 <p style="text-align:justify">Every Concordian is a morally upright and socially responsible citizen with cross-cultural sensitivity and global awareness.
