@@ -3,7 +3,7 @@ title: English Language
 permalink: /departments/english/
 description: ""
 ---
-<img src="/images/ENGLISH LANGUAGE_P1.jpeg" 
+<img src="/images/English%20Dept%20Photos.jpeg" 
      style="width:80%">
 
 <h2>Vision</h2>
