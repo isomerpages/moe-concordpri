@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-<img src="/images/MATHEMATICS_P1.jpeg" 
+<img src="/images/Math%20Dept%20photos.jpeg" 
      style="width:80%">
 		 
 <h2>Vision</h2>
