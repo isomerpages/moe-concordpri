@@ -4,7 +4,7 @@ permalink: /departments/CCE/cce/
 description: ""
 third_nav_title: CCE
 ---
-<img src="/images/Character and Citizen Education_P1.jpeg" 
+<img src=" /images/CCE%20Dept%20Photos.jpeg" 
      style="width:80%">
 		 /images/CCE%20Dept%20Photos.jpeg
 <h2>Vision</h2>
