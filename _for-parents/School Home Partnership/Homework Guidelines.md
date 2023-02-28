@@ -8,7 +8,8 @@ third_nav_title: School Home Partnership
 
 In Concord Primary School, we believe in the value of homework to help our students consolidate their knowledge and skills, cultivate lifelong good study habits and positive work ethics, and foster self-directed learning. The main aim of this policy is to outline some guiding principles and measures to ensure the effective use of homework as complementary learning activities in tandem with the curriculum taught in school.
 
-<span style="color:#1A39DF; font-size:20px"><b>Guiding Principles</b></span><br>
+<span style="color:#1A39DF; font-size:20px"><b>Guiding Principles</b></span>
+
 Homework is any learning activity that is deemed beneficial for the students’ learning and is required to be completed outside school curriculum hours. Homework plays an important role in the holistic development of the students. The types and purposes of homework designed and disseminated are as follow:
 
 <style type="text/css">
