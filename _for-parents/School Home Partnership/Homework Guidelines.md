@@ -70,7 +70,8 @@ Parents can consider doing the following to support their children in their lear
 
 We seek the understanding, support and collaboration of parents as our partners-in-education to ensure that homework is seen as an important component in the teaching and learning process.
 
-<span style="color:#1A39DF; font-size:20px"><b>Role of Students</b></span><br>
+<span style="color:#1A39DF; font-size:20px"><b>Role of Students</b></span>
+
 In order to attain the full benefits from the homework assigned, students should do the following on a daily basis:
 
 *   Refer to the whiteboard in the classroom for the homework and record in Student Handbook.
