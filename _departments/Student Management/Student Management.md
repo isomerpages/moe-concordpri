@@ -4,8 +4,7 @@ permalink: /departments/Student-Management/student-management/
 description: ""
 third_nav_title: Student Management
 ---
-<img src="/images/Student Management Committee P1.jpeg" 
-     style="width:70%">
+<img src="/images/CCE%20Dept%20Photos.jpeg" >
 
 <h2>Vision</h2>
 
