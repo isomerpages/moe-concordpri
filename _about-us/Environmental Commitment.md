@@ -14,11 +14,10 @@ description: ""
 <p style="text-align:justify">Concord Primary School is committed to environmental education and our sustainable efforts for environmental improvement. 
 <br><br>
 <b>Concord Primary School’s Environmental Goals:</b>
-
 <ul>
 <li>To provide an environmentally-conducive environment for teaching and learning.</li>
 <li>To build and sustain Concordians’ commitment in environmental issues in accordance with our VMV.</li>
-	</ul>
+</ul>
 
 <p><b>Concord Primary School’s Environmental Efforts:</b>
 
