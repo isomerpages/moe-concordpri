@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 
-<img src="/images/CCE%20Dept%20Photos.jpeg" style="width:80%">
-
 <h2>Vision</h2>
 
 <p style="text-align:justify">Positive Role Models, Embodiment of Values and Culture
