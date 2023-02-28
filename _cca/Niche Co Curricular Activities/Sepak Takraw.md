@@ -52,6 +52,7 @@ third_nav_title: Niche Co Curricular Activities
 <br>
 <figure>
 <img src="/images/Takraw%2001.jpeg" style="width:80%">
+<br>
 <img src="/images/Takraw02.jpeg" style="width:80%">
 <b style="color:#0000FF">
 	Stretching exercises as part of our warm ups</b></figure>
@@ -62,5 +63,6 @@ third_nav_title: Niche Co Curricular Activities
 <br>
 <figure>
 <img src="/images/Takraw04.jpeg" style="width:80%">
+<br>
 <img src="/images/Takraw05.jpeg" style="width:80%">
 <b style="color:#0000FF">Our team doing us proud</b></figure>
