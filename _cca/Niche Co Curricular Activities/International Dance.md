@@ -17,7 +17,7 @@ third_nav_title: Niche Co Curricular Activities
 <p style="text-align:justify">Collaborating with our CCE department, we performed in Keat Hong CCC for the breakfast session at the Give and Take Corner. Mr Zaqy Mohamad, MP for Chua Chu Kang GRC (Keat Hong) was the guest of honour for this event.
 
 <p style="text-align:justify">As part of the National Day celebration at The Treasury building, we were invited by the Ministry of Finance to perform a fusion dance, together with the Indian Dance members. It was a rather unique dance performance that awed everyone who watched it.
-<br>
+<br><br>
 <img src="/images/id1.jpeg" style="width:80%">
 <br>
 <img src="/images/id2.jpeg" style="width:80%">
