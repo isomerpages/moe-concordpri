@@ -3,9 +3,9 @@ title: PE & Aesthetics
 permalink: /departments/pe-n-aesthetics/
 description: ""
 ---
-<img src="/images/PHYSICAL EDUCATION  MUSIC_P1.jpeg" 
+<img src="/images/Aesthetics%20Dept%20Photos.jpeg" 
      style="width:80%">
-		 
+		
 <h2>Mission</h2>
 
 <p style="text-align:justify">Providing a safe, positive and vibrant environment and a broad and rich curriculum where all Concordians can be encouraged to succeed in becoming fit and healthy individuals.

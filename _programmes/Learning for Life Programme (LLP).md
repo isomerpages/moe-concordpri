@@ -38,50 +38,52 @@ description: ""
 <li>Enjoy participating in outdoor activities and adopt a <b>positive attitude</b> to challenge and adventure.</li>
 <li>Gain personal <b>confidence</b> and <b>self-esteem</b> through taking challenges and achieving success.</li>
 
+<figure>
 <img src="/images/Abseiling%20Exposure%20Programme.jpg" style="width:50%">
-<b><center>Abseiling Exposure Programme</center></b>
+<b style="color:blue">Abseiling Exposure Programme</b></figure>
 
 <li>Develop their <b>SEL competencies</b> and appreciate the contributions and achievements of themselves and of others.</li>
-
-<img src="/images/llp3-5.jpeg" style="width:45%">
-<b><center>Team Building Games in PAL</center></b>
+<figure>
+<img src="/images/llp3-5.jpeg" style="width:50%">
+<b style="color:blue">Team Building Games in PAL</b></figure>
 
 <li><b>Becoming alive to the natural environment</b> and understand the importance of conservation and sustainable development.</li>
- 
-<img src="/images/llp4-5.jpg" style="width:35%">
-<b><center>Nature Appreciation in PAL</center></b>
+<figure>
+<img src="/images/llp4-5.jpg" style="width:40%">
+<b style="color:blue">Nature Appreciation in PAL</b></figure>
 
 <li>Acquiring and developing a range of <b>skills in outdoor activities, expeditions and explorations</b>.</li>
-
- <img src="/images/llp5.jpeg" style="width:35%">
-<b><center>Tent Building</center></b>
-
- <img src="/images/llp5-5.jpg" style="width:35%">
-	<b><center>Kayaking Orienteering Programme</center></b>
+<figure>
+<img src="/images/llp5.jpeg" style="width:40%">
+<b style="color:blue">Tent Building</b></figure>
+<figure>
+ <img src="/images/llp5-5.jpg" style="width:40%">
+<b style="color:blue">Kayaking Orienteering Programme</b></figure>
 
 <li>Demonstrating <b>increased initiative, self-reliance, responsibility, resilience and commitment</b>.</li>
 
 <li>Developing and extending their key skills of <b>communication, problem solving, leadership and teamwork</b>.</li>
 
 <li>Learning to appreciate the benefits of <b>physical fitness and lifelong value of participation</b> in healthy leisure activities.</li>
-
-<img src="/images/llp8.jpg" style="width:35%">
-<b><center>Simulated Caving in PAL</center></b>
+<figure>
+<img src="/images/llp8.jpg" style="width:40%">
+<b style="color:blue">Simulated Caving in PAL</b></figure>
 
 <li>Displaying an <b>increased motivation and appetite for learning</b> that is contributing to raised levels of attainment in other aspects of education.</li>
-
+<figure>
 <img src="/images/llp9.jpg" style="width:35%">
-<b><center>National Super Outdoor Race</center></b>  
+<b style="color:blue">National Super Outdoor Race</b></figure>
 
 <li>Broadening their horizons and becoming open to a <b>wider range of employment opportunities and life chances</b>.</li>
 </ol>
-
+<figure>
 <img src="/images/llp10.jpg" style="width:35%">
-<b><center>Level 1 Sport Climbing Course</center></b>
+<b style="color:blue">Level 1 Sport Climbing Course</b></figure>
 	
 <br>
 <center><b><u>Outdoor Adventure Facilities @ Concord</u></b></center>
 
- <img src="/images/Multi-Functional Rock Wall.jpg" 
+<figure>
+<img src="/images/Multi-Functional Rock Wall.jpg" 
      style="width:35%">
-		 <b><center>Concord's Multi-Functional Rock Wall</center></b>
+<b style="color:blue">Concord's Multi-Functional Rock Wall</b></figure>

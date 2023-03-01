@@ -62,10 +62,10 @@ At Concord Primary School, the following lessons will be taught 2023:
      style="width:70%"><br>
 <h4><center>Primary 6</center></h4>
 <img src="/images/P6 SEd 2023 Lesson Plan.jpg"  style="width:70%">
+<br>
+<b style="color:#DF1A3D; font-size:18px">Please Note:</b>
 
-<span style="color:#DF1A3D; font-size:18px"><b>Please Note:</b></span>
-
-<b>For <u>2023</u>, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.</b>
+<b>For <u>2023</u>, the Primary 5 lesson <em>“Did You Know?”</em> will also be conducted for the Primary 6 cohort.</b>
 
   
 

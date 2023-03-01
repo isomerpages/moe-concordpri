@@ -5,7 +5,7 @@ description: ""
 ---
 <h4>Welcome Address by School Principal</h4>
 
-<iframe width="734" height="549" src="https://www.youtube.com/embed/ecxOMBj0lLw" title="Welcome Address by School Principal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="549" src="https://www.youtube.com/embed/ecxOMBj0lLw" title="Welcome Address by School Principal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5>Virtual Tour</h5>
 

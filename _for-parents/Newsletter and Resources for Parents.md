@@ -38,7 +38,7 @@ description: ""
 <tr>
  <td class="tg-ppzb"><a href="/files/LP%20Feb%2023%20Newsletter_Issue02.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 	<td class="tg-ppzb"><a href="/files/Newsletter for Middle Primary_Term 1 Week 7_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
-<td></td>
+<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 8 (002).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 </tr>
 </tbody>
 </table>

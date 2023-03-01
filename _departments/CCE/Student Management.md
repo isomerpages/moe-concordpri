@@ -2,10 +2,8 @@
 title: Student Management
 permalink: /departments/Student-Management/student-management/
 description: ""
-third_nav_title: Student Management
+third_nav_title: CCE
 ---
-<img src="/images/Student Management Committee P1.jpeg" 
-     style="width:70%">
 
 <h2>Vision</h2>
 
@@ -34,7 +32,7 @@ third_nav_title: Student Management
 <p style="text-align:justify">The Prefectorial Board aims to develop every Prefects into confident leaders who contribute actively and lead by example. The leadership framework above is derived from the theoretical underpinnings of The Leadership Challenge Model by Kouzes and Posner. It is in alignment with the School’s Mission, Vision and Motto and the Desired Outcome of Education. 
 <br><br>
 <b><u>2022 Prefectorial Board Executive Committee Prefects</u></b>
-<br>
+<br><br>
 <img src="/images/sm1.jpeg" style="width:70%">
 <br>
 <img src="/images/sm2.jpeg" style="width:70%">

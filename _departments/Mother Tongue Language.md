@@ -3,9 +3,8 @@ title: Mother Tongue Language
 permalink: /departments/mtl/
 description: ""
 ---
-<img src="/images/MOTHER TONGUE _P1.jpeg" 
-     style="width:80%">
-		 
+<img src="/images/Mother%20Tongue%20Dept%20Photos.jpeg" style="width:80%">
+
 <h2>Vision</h2>
 
 <p style="text-align:justify">Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
