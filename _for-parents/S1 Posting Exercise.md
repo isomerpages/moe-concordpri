@@ -14,9 +14,9 @@ In addition to this, collaterals and materials are made available for students a
 
 
 <p style="text-align:justify">The school understands that P6 students and parents will generally research on secondary schools from Term 3 onwards. Therefore, please familiarise yourselves with the online resources (see below):
-
+<br><br>
 <b>MOE Website:</b> Contains essential and up-to-date information on S1 Posting process (<a href="https://www.moe.gov.sg/s1-posting" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/s1-posting</a>)
-
+<br><br>
 <b>SchoolFinder:</b> Similar to school profile page in the S1 IB, users can search and shortlist schools easily based on a set of criteria (e.g. location, CCA, PSLE score ranges, etc). The school information are up-to-date and secondary schools will publish their latest school information for the next academic year by Term 4. School staff may refer to the attached guide and the online tutorial guide to learn/refresh themselves on how to use the SchoolFinder <a href="https://go.gov.sg/schoolfinder" target="_blank" rel="noopener noreferrer">https://go.gov.sg/schoolfinder</a>.
 
 <ul>
