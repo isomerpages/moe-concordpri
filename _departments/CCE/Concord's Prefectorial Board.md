@@ -57,9 +57,9 @@ third_nav_title: CCE
 
 <p><b><u>Executive Committee Prefects 2023</u></b>
 <br><br>
-<img src="/images/pb.jpeg" style="width:70%">
+<img src="/images/2)%20head%20and%20vice%20head%20prefects.jpg" style="width:70%">
 <br>
-<img src="/images/pb1.jpeg" style="width:70%">
+<img src="/images/3)%20P4%20EXCO.jpg" style="width:70%">
 <br>
 <img src="/images/pb2.jpeg" style="width:70%">
 <br><br>
