@@ -61,9 +61,13 @@ third_nav_title: CCE
 <br>
 <img src="/images/3)%20P4%20EXCO.jpg" style="width:70%">
 <br>
-<img src="/images/pb2.jpeg" style="width:70%">
+<img src="/images/4)%20P5%20EXCO%201.jpg" style="width:70%">
+<br>
+<img src="/images/5)%20P5%20EXCO%202.jpg" style="width:70%">
+<br>
+<img src="/images/6)%20P6%20EXCO.jpg" style="width:70%">
 <br><br>
-<p><b><u>2022 Prefectorial Board</u></b>
+<p><b><u>2023 Prefectorial Board</u></b>
 <br><br>
 <img src="/images/pb3.jpeg" style="width:70%">
 <br>
