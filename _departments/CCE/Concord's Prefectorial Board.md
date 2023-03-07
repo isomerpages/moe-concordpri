@@ -69,9 +69,9 @@ third_nav_title: CCE
 <br><br>
 <p><b><u>2023 Prefectorial Board</u></b>
 <br><br>
-<img src="/images/pb3.jpeg" style="width:70%">
+<img src="/images/7)%20P3%20prefects%202023.jpg" style="width:70%">
 <br>
-<img src="/images/pb4.jpeg" style="width:70%">
+<img src="/images/8)%20P4%20Prefects%202023.jpg" style="width:70%">
 <br>
 <img src="/images/pb5.jpeg" style="width:70%">
 <br>
