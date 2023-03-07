@@ -4,7 +4,6 @@ permalink: /departments/Student-Management/concords-prefectorial-board/
 description: ""
 third_nav_title: CCE
 ---
-
 <img src="/images/Student-Leadership-Framework.jpeg" 
      style="width:70%">
 		 
@@ -52,33 +51,11 @@ third_nav_title: CCE
 </tbody>
 </table>
 <br>
-
-<b><u>Head Prefect’s Message 2022</u></b>
+<br><br>
+<img src="/images/1)%20Head's%20Prefect%20Message%202023.jpg" style="width:70%">
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 783px" class="tg">
-<colgroup>
-<col style="width: 221px">
-<col style="width: 562px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-n1ni"><img src="/images/Head%20Prefect%20Jayden.jpeg"></td>
-    <td class="tg-n1ni" style="text-align:justify">I believe that as a leader, we need to take the initiative to help anyone in need and listen to others. A good leader is also a good team player. And most importantly a good leader should be a role model and influence others positively. One quote that I hold close to my heart is "Leaders lead from the heart, not the head." This quote is a reminder for me that in order to be a good leader, I have to touch people's heart in order to take their hands and lead them. I strive to be a leader who can lead with a heart, touch the hearts of others with love and care. Hand in hand, shoulder to shoulder, I hope to walk with all concordians towards our school motto: Together, we soar to greater heights, where everyone plays in creating what we call home, Concord Primary School.
 
-<b><em>Jayden Tan Yanyi, Head Prefect 2022</em></b></td>
-</tr>
-</tbody>
-</table>
-<br>
-<p><b><u>Executive Committee Prefects 2022</u></b>
+<p><b><u>Executive Committee Prefects 2023</u></b>
 <br><br>
 <img src="/images/pb.jpeg" style="width:70%">
 <br>
