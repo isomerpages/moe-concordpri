@@ -73,11 +73,11 @@ third_nav_title: CCE
 <br>
 <img src="/images/8)%20P4%20Prefects%202023.jpg" style="width:70%">
 <br>
-<img src="/images/pb5.jpeg" style="width:70%">
+<img src="/images/9)%20P5%20Prefects%202023.jpg" style="width:70%">
 <br>
-<img src="/images/pb6.jpeg" style="width:70%">
+<img src="/images/10)%20P6%20Prefects%202023.jpg" style="width:70%">
 <br>
-
+	
 <p><b>Click here to read about the experiences of our past head prefects.</b>
 <br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
