@@ -100,10 +100,15 @@ third_nav_title: CCE
 <img src="/images/12)%20Investiture%20photo%202.jpg" style="width:70%">
 <br>
 
-<li><b>Prefect Training</b></li>
+<li><b>Student Leadership Training</b></li>
 <br>
-<img src="/images/pb13.png" style="width:70%">
-
+<img src="/images/13)%20training%201.jpeg" style="width:70%">
+<br>
+<img src="/images/14)%20Training%202.jpeg" style="width:70%">
+<br>
+<img src="/images/15)%20Training%203.jpeg" style="width:70%">
+<br>
+	
 <li><b>Prefects Camp 2021</b></li>  
 
 <p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
