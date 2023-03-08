@@ -43,7 +43,7 @@ description: ""
 <tr>
  <td class="tg-ppzb"><a href="/files/LP%20Newsletter%20issue%203.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
 	<td class="tg-ppzb">-</td>
-<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 8 (002).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
+<td class="tg-ppzb"><a href="/files/Newsletter%20for%20Upper%20Primary_Term%201%20Week%2010%20(003).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
 </tr>
 </tbody>
 </table>
