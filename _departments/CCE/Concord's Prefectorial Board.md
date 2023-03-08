@@ -4,10 +4,11 @@ permalink: /departments/Student-Management/concords-prefectorial-board/
 description: ""
 third_nav_title: CCE
 ---
-
 <img src="/images/Student-Leadership-Framework.jpeg" 
      style="width:70%">
 		 
+<p style="text-align:justify">The Prefectorial Board aims to develop every Prefects into confident leaders who contribute actively and lead by example. The leadership framework above is derived from the theoretical underpinnings of The Leadership Challenge Model by Kouzes and Posner. It is in alignment with the School’s Mission, Vision and Motto and the Desired Outcome of Education. 
+<br>
 <p style="text-align:justify">The Five Practices of The Leadership Challenge Model and the key behavior of Prefects are as shown in the table below:
 
 <style type="text/css">
@@ -52,51 +53,33 @@ third_nav_title: CCE
 </tbody>
 </table>
 <br>
-
-<b><u>Head Prefect’s Message 2022</u></b>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 783px" class="tg">
-<colgroup>
-<col style="width: 221px">
-<col style="width: 562px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-n1ni"><img src="/images/Head%20Prefect%20Jayden.jpeg"></td>
-    <td class="tg-n1ni" style="text-align:justify">I believe that as a leader, we need to take the initiative to help anyone in need and listen to others. A good leader is also a good team player. And most importantly a good leader should be a role model and influence others positively. One quote that I hold close to my heart is "Leaders lead from the heart, not the head." This quote is a reminder for me that in order to be a good leader, I have to touch people's heart in order to take their hands and lead them. I strive to be a leader who can lead with a heart, touch the hearts of others with love and care. Hand in hand, shoulder to shoulder, I hope to walk with all concordians towards our school motto: Together, we soar to greater heights, where everyone plays in creating what we call home, Concord Primary School.
-
-<b><em>Jayden Tan Yanyi, Head Prefect 2022</em></b></td>
-</tr>
-</tbody>
-</table>
-<br>
-<p><b><u>Executive Committee Prefects 2022</u></b>
 <br><br>
-<img src="/images/pb.jpeg" style="width:70%">
-<br>
-<img src="/images/pb1.jpeg" style="width:70%">
-<br>
-<img src="/images/pb2.jpeg" style="width:70%">
-<br><br>
-<p><b><u>2022 Prefectorial Board</u></b>
-<br><br>
-<img src="/images/pb3.jpeg" style="width:70%">
-<br>
-<img src="/images/pb4.jpeg" style="width:70%">
-<br>
-<img src="/images/pb5.jpeg" style="width:70%">
-<br>
-<img src="/images/pb6.jpeg" style="width:70%">
+<img src="/images/1)%20Head's%20Prefect%20Message%202023.jpg" style="width:70%">
 <br>
 
+<p><b><u>Executive Committee Prefects 2023</u></b>
+<br><br>
+<img src="/images/2)%20head%20and%20vice%20head%20prefects.jpg" style="width:70%">
+<br>
+<img src="/images/3)%20P4%20EXCO.jpg" style="width:70%">
+<br>
+<img src="/images/4)%20P5%20EXCO%201.jpg" style="width:70%">
+<br>
+<img src="/images/5)%20P5%20EXCO%202.jpg" style="width:70%">
+<br>
+<img src="/images/6)%20P6%20EXCO.jpg" style="width:70%">
+<br><br>
+<p><b><u>2023 Prefectorial Board</u></b>
+<br><br>
+<img src="/images/7)%20P3%20prefects%202023.jpg" style="width:70%">
+<br>
+<img src="/images/8)%20P4%20Prefects%202023.jpg" style="width:70%">
+<br>
+<img src="/images/9)%20P5%20Prefects%202023.jpg" style="width:70%">
+<br>
+<img src="/images/10)%20P6%20Prefects%202023.jpg" style="width:70%">
+<br>
+	
 <p><b>Click here to read about the experiences of our past head prefects.</b>
 <br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -113,21 +96,22 @@ third_nav_title: CCE
 <br>
 
 <li><b>Prefects Investiture</b></li>
-<p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.<br>
-<img src="/images/pb9.png" style="width:70%">
+<p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.<br><br>
+<img src="/images/11)%20Investiture%20Photo%201.jpg" style="width:70%">
 <br>
-<img src="/images/pb10.png" style="width:70%">
-<br>
-<img src="/images/pb11.jpeg" style="width:70%">
-<br>
-<img src="/images/pb12.jpeg" style="width:70%">
+<img src="/images/12)%20Investiture%20photo%202.jpg" style="width:70%">
 <br>
 
-<li><b>Prefect Training</b></li>
+<li><b>Student Leadership Training</b></li>
 <br>
-<img src="/images/pb13.png" style="width:70%">
-
-<li><b>Prefects Camp 2021</b></li>  
+<img src="/images/13)%20training%201.jpeg" style="width:70%">
+<br>
+<img src="/images/14)%20Training%202.jpeg" style="width:70%">
+<br>
+<img src="/images/15)%20Training%203.jpeg" style="width:70%">
+<br>
+	
+<li><b>Prefects Camp</b></li>  
 
 <p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
 <br><br>

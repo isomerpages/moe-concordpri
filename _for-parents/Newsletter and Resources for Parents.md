@@ -13,7 +13,7 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
-.tg .tg-ppzb{background-color:#FFF;color:#FD6500;text-align:center;vertical-align:top}
+.tg .tg-ppzr{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-ppzc{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
@@ -39,6 +39,11 @@ description: ""
  <td class="tg-ppzb"><a href="/files/LP%20Feb%2023%20Newsletter_Issue02.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 	<td class="tg-ppzb"><a href="/files/Newsletter for Middle Primary_Term 1 Week 7_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 8 (002).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
+</tr>
+<tr>
+ <td class="tg-ppzb"><a href="/files/LP%20Newsletter%20issue%203.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
+	<td class="tg-ppzr">-</td>
+<td class="tg-ppzb"><a href="/files/Newsletter%20for%20Upper%20Primary_Term%201%20Week%2010%20(003).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
 </tr>
 </tbody>
 </table>
