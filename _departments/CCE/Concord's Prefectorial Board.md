@@ -7,6 +7,8 @@ third_nav_title: CCE
 <img src="/images/Student-Leadership-Framework.jpeg" 
      style="width:70%">
 		 
+<p style="text-align:justify">The Prefectorial Board aims to develop every Prefects into confident leaders who contribute actively and lead by example. The leadership framework above is derived from the theoretical underpinnings of The Leadership Challenge Model by Kouzes and Posner. It is in alignment with the School’s Mission, Vision and Motto and the Desired Outcome of Education. 
+<br>
 <p style="text-align:justify">The Five Practices of The Leadership Challenge Model and the key behavior of Prefects are as shown in the table below:
 
 <style type="text/css">
