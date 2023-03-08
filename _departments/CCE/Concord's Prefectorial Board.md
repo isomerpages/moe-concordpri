@@ -111,7 +111,7 @@ third_nav_title: CCE
 <img src="/images/15)%20Training%203.jpeg" style="width:70%">
 <br>
 	
-<li><b>Prefects Camp 2021</b></li>  
+<li><b>Prefects Camp</b></li>  
 
 <p style="text-align:justify">The Prefects camp will be carried out in September. The day camp aims to enhance prefects’ leadership skills through hands-on activities.
 <br><br>
