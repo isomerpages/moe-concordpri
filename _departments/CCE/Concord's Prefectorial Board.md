@@ -94,14 +94,10 @@ third_nav_title: CCE
 <br>
 
 <li><b>Prefects Investiture</b></li>
-<p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.<br>
-<img src="/images/pb9.png" style="width:70%">
+<p style="text-align:justify">The Prefects Investiture, which is held in term 2, is an important ceremony held annually to celebrate the official appointment of Prefects.<br><br>
+<img src="/images/11)%20Investiture%20Photo%201.jpg" style="width:70%">
 <br>
-<img src="/images/pb10.png" style="width:70%">
-<br>
-<img src="/images/pb11.jpeg" style="width:70%">
-<br>
-<img src="/images/pb12.jpeg" style="width:70%">
+<img src="/images/12)%20Investiture%20photo%202.jpg" style="width:70%">
 <br>
 
 <li><b>Prefect Training</b></li>
