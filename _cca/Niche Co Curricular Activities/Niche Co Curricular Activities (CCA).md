@@ -26,19 +26,19 @@ third_nav_title: Niche Co Curricular Activities
     <td>Performing Arts CCAs</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Badminton (Boys)</td>
+    <td class="tg-yhj3">Floorball</td>
     <td class="tg-yhj3">Band</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Floorball</td>
+    <td class="tg-yhj3">Sepak Takraw</td>
     <td class="tg-yhj3">Choir</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Sepak Takraw (Boys)</td>
+    <td class="tg-yhj3">Volleyball (Girls)</td>
     <td class="tg-yhj3">Indian Dance</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Volleyball (Girls)</td>
+    <td class="tg-yhj3"></td>
     <td class="tg-yhj3">International Dance</td>
   </tr>
 </tbody>
@@ -66,7 +66,7 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
 .tg .tg-1pw2{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<b style="color:#0000FF"><center>Tentative Schedule (2022)</center></b>
+<b style="color:#0000FF"><center>Tentative Schedule (2023)</center></b>
 <table class="tg">
 <tbody>
   <tr>
@@ -74,48 +74,56 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
     <td class="tg-1pw2">Tuesday</td>
     <td class="tg-1pw2">Wednesdays</td>
     <td class="tg-1pw2">Thursday</td>
+		<td class="tg-1pw2">Friday</td>
   </tr>
   <tr>
     <td class="tg-yhj3">Floorball</td>
     <td class="tg-yhj3">Sepak Takraw</td>
-    <td class="tg-yhj3">Badminton</td>
+    <td class="tg-yhj3"></td>
     <td class="tg-yhj3">Floorball</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Volleyball</td>
     <td class="tg-yhj3">Choir</td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">Volleyball</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Indian Dance</td>
     <td class="tg-yhj3">Band</td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">Indian Dance</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3">International Dance</td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">International Dance</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Badminton</td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">Sepak Takraw</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">Choir</td>
+		<td class="tg-yhj3"></td>
   </tr>
   <tr>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3"> </td>
     <td class="tg-yhj3">Band</td>
+		<td class="tg-yhj3"></td>
   </tr>
 </tbody>
 </table>
