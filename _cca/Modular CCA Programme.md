@@ -12,7 +12,7 @@ description: ""
 <p>Every Wednesday, 7.30am to 9am
 <br><br>
 <b><u>2023 Schedule</u></b>
-<br>
+<br><br>
 	
 <img src="/images/Modular%20Programme%202023.jpg" 
      style="width:100%">
