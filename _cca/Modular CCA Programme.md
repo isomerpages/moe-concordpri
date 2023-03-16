@@ -21,7 +21,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-ua9x{background-color:#F90;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-o5if{background-color:#FFF;color:#00F;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-o5if{background-color:#FFF;color:#FF0000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-g4nz{background-color:#FFF;color:#6AA84F;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-pr0d{background-color:#FFF;color:#1E90FF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-pr0f{background-color:#FFF;color:#9400D3;font-weight:bold;text-align:center;vertical-align:middle}
@@ -42,8 +42,8 @@ description: ""
     <td class="tg-yhj3">Term 1</td>
     <td class="tg-91r2">Niche CCA Selection</td>
 			<td class="tg-pr0d">ICT</td>
-    <td class="tg-pr0f">Soar For Life / OE & S</td>
-    <td class="tg-o5if">PA (M) /<br>Lifeskills</td>
+		<td class="tg-pr0f">Soar For Life /<br><span style="color:#20B2AA">OE & S</span></td>
+		<td class="tg-o5if">PA (M) /<br><span style="color:blue">Lifeskills</span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Term 2</td>
