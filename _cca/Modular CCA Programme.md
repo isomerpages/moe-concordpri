@@ -13,7 +13,7 @@ description: ""
 <br><br>
 <b><u>2023 Schedule</u></b>
 <br>
-
+![](/images/Modular%20Programme%202023.jpg)
 
 <p style="text-align:justify">The Primary 3 to P6 classes will be having Modular CCA according to the schedule below. To provide an integrated approach to addressing our students’ development of leadership, E3 Reasoning and executive functioning skills in a coherent and holistic way, a new module – Soar For Life, has been designed for this purpose.
 
