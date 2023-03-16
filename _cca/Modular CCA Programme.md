@@ -23,14 +23,15 @@ description: ""
 .tg .tg-ua9x{background-color:#F90;color:#0C463A;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-o5if{background-color:#FFF;color:#00F;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-g4nz{background-color:#FFF;color:#6AA84F;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-pr0d{background-color:#FFF;color:#F0F;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-91r2{background-color:#FFF;color:#38761D;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pr0d{background-color:#FFF;color:#1E90FF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pr0f{background-color:#FFF;color:#9400D3;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-91r2{background-color:#FFF;color:#32CD32;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ij6h{background-color:#FFF;color:#F00;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-rp3o{background-color:#FFF;color:#3D85C6;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
-  <tr>
+  <tr style="font-weight:bold">
     <td class="tg-yhj3">Level/Term</td>
     <td class="tg-yhj3">P3</td>
     <td class="tg-yhj3">P4</td>
@@ -40,13 +41,13 @@ description: ""
   <tr>
     <td class="tg-yhj3">Term 1</td>
     <td class="tg-91r2">Niche CCA Selection</td>
-    <td class="tg-pr0d">Soar For Life /    <br> PA (Dance)</td>
-    <td class="tg-pr0d">Soar For Life / ICT</td>
-    <td class="tg-o5if">Lifeskills /<br>OE &amp; Sports</td>
+			<td class="tg-pr0d">ICT</td>
+    <td class="tg-pr0f">Soar For Life / OE & S</td>
+    <td class="tg-o5if">PA (M) /<br>Lifeskills</td>
   </tr>
   <tr>
     <td class="tg-yhj3">Term 2</td>
-    <td class="tg-pr0d">Soar For Life /<br>PA (Dance)</td>
+    <td class="tg-pr0f">Soar For Life /<br>PA (Dance)</td>
     <td class="tg-ij6h">Art /<br>ICT</td>
     <td class="tg-g4nz">OE &amp; Sports /<br>Lifeskills</td>
     <td class="tg-ij6h">PA (Music) /<br>Soar For Life</td>
