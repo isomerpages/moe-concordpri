@@ -11,7 +11,7 @@ description: ""
 <br>
 <p>Every Wednesday, 7.30am to 9am
 <br><br>
-<b><u>2022 Schedule</u></b>
+<b><u>2023 Schedule</u></b>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -47,7 +47,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-yhj3">Term 2</td>
-    <td class="tg-pr0f">Soar For Life /<br>PA (Dance)</td>
+    <td class="tg-pr0f">Soar For Life /<br><span style="color:red">PA (Dance)</td>
     <td class="tg-ij6h">Art /<br>ICT</td>
     <td class="tg-g4nz">OE &amp; Sports /<br>Lifeskills</td>
     <td class="tg-ij6h">PA (Music) /<br>Soar For Life</td>
