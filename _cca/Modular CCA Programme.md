@@ -39,7 +39,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-yhj3">Term 1</td>
-    <td class="tg-91r2">Sports Talent ID</td>
+    <td class="tg-91r2">Niche CCA Selection</td>
     <td class="tg-pr0d">Soar For Life /    <br> PA (Dance)</td>
     <td class="tg-pr0d">Soar For Life / ICT</td>
     <td class="tg-o5if">Lifeskills /<br>OE &amp; Sports</td>
