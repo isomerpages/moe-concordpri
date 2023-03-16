@@ -72,7 +72,7 @@ Niche CCAs are conducted outside curriculum time from 3.30pm to 5.30 pm.
   <tr>
     <td class="tg-1pw2">Mondays</td>
     <td class="tg-1pw2">Tuesday</td>
-    <td class="tg-1pw2">Wednesdays</td>
+    <td class="tg-1pw2">Wednesday</td>
     <td class="tg-1pw2">Thursday</td>
 		<td class="tg-1pw2">Friday</td>
   </tr>
