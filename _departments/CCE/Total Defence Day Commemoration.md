@@ -7,7 +7,9 @@ third_nav_title: CCE
 ![](/images/tdf1.png)
 ![](/images/tdf2.png)
 ![](/images/tdf3.png)
-
+<br><br>
+<img src="/images/m1.png" style="width:80%">
+<img src="/images/m2.png" style="width:80%">
 Total Defence Day, which falls on 15 February, holds great significance to Singapore as it was the day Singapore fell to the Japanese during World War 2 in 1942.
 
 As part of the school’s National Education efforts, Concord Primary School commemorated this day with several activities. During assembly, the students were presented with a drama skit produced by the Character and Citizenship Education (CCE) department.
