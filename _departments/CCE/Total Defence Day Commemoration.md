@@ -26,7 +26,8 @@ third_nav_title: CCE
 <img src="/images/tdd%20pic4.png" style="width:60%" align="center">
 <b style="font-size: 12px">Students watching NE.mation clips to learn the importance of Total Defence.</b>
 </figure>
-
-<img src="/images/tdd%20pic5.jpg" style="width:80%">
+<figure>
+<img src="/images/tdd%20pic5.jpg" style="width:60%" align="center">
 <br>
-Students were waiting patiently at the Assembly Area during the fire drill.
+<b style="font-size:12px">Students were waiting patiently at the Assembly Area during the fire drill.</b>
+</figure>
