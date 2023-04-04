@@ -4,9 +4,6 @@ permalink: /departments/CCE/total-defence-day-commemoration/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/tdf1.png)
-![](/images/tdf2.png)
-![](/images/tdf3.png)
 
 Total Defence Day, which falls on 15 February, holds great significance to Singapore as it was the day Singapore fell to the Japanese during World War 2 in 1942.
 
