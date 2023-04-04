@@ -15,9 +15,9 @@ third_nav_title: CCE
 </p><p style="text-align:justify">Subsequently, the students ended the day with a lockdown and fire drill. Students familiarized themselves with the school’s assembly area and the procedures to carry out during a school-wide emergency.
 
 <br><br>
-<img src="/images/tdd%20pic1.png" style="width:80%"><br>
-<img src="/images/tdd%20pic2.png" style="width:80%"><br>
-<img src="/images/tdd%20pic3.png" style="width:80%">
+<img src="/images/tdd%20pic1.png" style="width:45%" align="left">
+<img src="/images/tdd%20pic2.png" style="width:45%"><br>
+<img src="/images/tdd%20pic3.png" style="width:90%">
 
 Students learnt to be prepared for school emergencies like intruder lockdowns.
 
