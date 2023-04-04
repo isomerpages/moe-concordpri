@@ -28,6 +28,5 @@ third_nav_title: CCE
 </figure>
 <figure>
 <img src="/images/tdd%20pic5.jpg" style="width:60%" align="center">
-<br>
 <b style="font-size:14px">Students were waiting patiently at the Assembly Area during the fire drill.</b>
 </figure>
