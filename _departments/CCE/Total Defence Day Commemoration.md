@@ -29,4 +29,4 @@ third_nav_title: CCE
 
 <img src="/images/tdd%20pic5.jpg" style="width:80%">
 <br>
-Students were waiting patiently at the Assembly Area during the fire drill.<p></p>
+Students were waiting patiently at the Assembly Area during the fire drill.
