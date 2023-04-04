@@ -15,12 +15,12 @@ third_nav_title: CCE
 </p><p style="text-align:justify">Subsequently, the students ended the day with a lockdown and fire drill. Students familiarized themselves with the school’s assembly area and the procedures to carry out during a school-wide emergency.
 
 <br><br>
+</p><figure>	
 <img src="/images/tdd%20pic1.png" style="width:45%" align="left">
 <img src="/images/tdd%20pic2.png" style="width:45%"><br>
 <img src="/images/tdd%20pic3.png" style="width:90%">
-
-Students learnt to be prepared for school emergencies like intruder lockdowns.
-
+<b style="font-size:&quot;10px&quot;">Students learnt to be prepared for school emergencies like intruder lockdowns.</b>
+	</figure>
 <br>
 <img src="/images/tdd%20pic4.png" style="width:80%">
 
@@ -29,4 +29,4 @@ Students watching NE.mation clips to learn the importance of Total Defence.
 <br>
 <img src="/images/tdd%20pic5.jpg" style="width:80%">
 <br>
-Students were waiting patiently at the Assembly Area during the fire drill.</p>
+Students were waiting patiently at the Assembly Area during the fire drill.<p></p>
