@@ -19,15 +19,15 @@ third_nav_title: CCE
 <img src="/images/tdd%20pic1.png" style="width:45%" align="left">
 <img src="/images/tdd%20pic2.png" style="width:45%"><br>
 <img src="/images/tdd%20pic3.png" style="width:60%">
-<b style="font-size:12px">Students learnt to be prepared for school emergencies like intruder lockdowns.</b>
+<b style="font-size:14px">Students learnt to be prepared for school emergencies like intruder lockdowns.</b>
 </figure>
 
 <figure>	
 <img src="/images/tdd%20pic4.png" style="width:60%" align="center">
-<b style="font-size: 12px">Students watching NE.mation clips to learn the importance of Total Defence.</b>
+<b style="font-size: 14px">Students watching NE.mation clips to learn the importance of Total Defence.</b>
 </figure>
 <figure>
 <img src="/images/tdd%20pic5.jpg" style="width:60%" align="center">
 <br>
-<b style="font-size:12px">Students were waiting patiently at the Assembly Area during the fire drill.</b>
+<b style="font-size:14px">Students were waiting patiently at the Assembly Area during the fire drill.</b>
 </figure>
