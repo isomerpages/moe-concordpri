@@ -4,7 +4,7 @@ permalink: /for-parents/parent-support-group/psg/
 description: ""
 third_nav_title: Parent Support Group
 ---
-<img src="/images/mad_psg.jpeg" style="width:80%">
+<img src="/images/mad_psg.jpeg" style="width:50%">
 
 
 **2018**   
