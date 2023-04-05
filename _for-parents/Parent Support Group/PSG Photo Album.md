@@ -1,9 +1,14 @@
 ---
 title: PSG Photo Album
-permalink: /for-parents/Parent-Support-Group/psg-photo-album
+permalink: /for-parents/Parent-Support-Group/psg-photo-album/
 description: ""
 third_nav_title: Parent Support Group
 ---
+
+
+
+
+
 **2018**   
 [Back to School 2018](/for-parents/Parent-Support-Group/bts-2018)
 
