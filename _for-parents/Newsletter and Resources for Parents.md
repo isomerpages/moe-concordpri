@@ -3,7 +3,6 @@ title: Newsletter and Resources for Parents
 permalink: /for-parents/newsletter/
 description: ""
 ---
-<body>
 <h3>2023 Newsletter for Parents</h3>
 
 <style type="text/css">
@@ -31,9 +30,9 @@ description: ""
  <td class="tg-a4yv">Upper Primary </td>
 </tr>
  <tr>
-  <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
-  <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
-	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 5.pdf"  target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+  <td class="tg-ppzb"><a href="/files/Jan%202023%20Newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+  <td class="tg-ppzc"><a href="/files/T1W4%20Newsletter%20V1_Vetted.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+	<td class="tg-ppzb"><a href="/files/Newsletter for Upper Primary_Term 1 Week 5.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 </tr>
 <tr>
  <td class="tg-ppzb"><a href="/files/LP%20Feb%2023%20Newsletter_Issue02.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
@@ -44,6 +43,9 @@ description: ""
  <td class="tg-ppzb"><a href="/files/LP%20Newsletter%20issue%203.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
 	<td class="tg-ppzr"><a href="/files/T2W2%20MP%20Newsletter%20(edited).pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #03</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter%20for%20Upper%20Primary_Term%201%20Week%2010%20(003).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #03</a></td>
+</tr>
+<tr>
+<td class="tg-ppzb"><a href="/files/lp%20newsletter%204_t2.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #04</a></td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +118,7 @@ description: ""
 </tbody>
 </table>
 
-<p><h3>Resources for Parents</h3>
+<p></p><h3>Resources for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
