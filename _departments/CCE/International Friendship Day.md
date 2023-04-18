@@ -4,9 +4,6 @@ permalink: /departments/CCE/IFD/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/ifd1.png)
-![](/images/ifd2.png)
-![](/images/ifd3.png)
 
 <h3>International Friendship Day 2023</h3>
 
@@ -54,3 +51,7 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table></figure>
+
+![](/images/ifd1.png)
+![](/images/ifd2.png)
+![](/images/ifd3.png)
