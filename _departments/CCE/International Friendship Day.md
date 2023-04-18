@@ -25,5 +25,7 @@ third_nav_title: CCE
 ![](/images/ifday05.jpg)
 <figure>
 <img src="/images/ifday04.jpg" style="width:45%" align="left">
-<img src="/images/ifday05.jpg" style="width:45%"><br>
+<img src="/images/ifday05.jpg" style="width:45%">
+<b style="font-size:14px">Students taking photographs with the “tuk tuks” and at the photo booth.</b>
+<br><br>
 	<img src="/images/ifday03.png" style="width:60%" align="left"></figure>
