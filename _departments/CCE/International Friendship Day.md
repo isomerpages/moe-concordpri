@@ -28,4 +28,30 @@ third_nav_title: CCE
 <img src="/images/ifday05.jpg" style="width:45%">
 <b style="font-size:14px">Students taking photographs with the “tuk tuks” and at the photo booth.</b>
 <br><br>
-	<img src="/images/ifday06.jpg" style="width:60%" align="left"></figure>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td class="tg-nrix"><img src="/images/ifday06.jpg" style="width:65%">Sorting food products from ASEAN countries	</td>
+    <td class="tg-nrix"><img src="/images/ifday07.jpg" style="width:65%">Learning to play the congkak 
+</td>
+</tr>
+<tr>
+<td class="tg-nrix"><img src="/images/ifday08.jpg" style="width:65%">Memory game on ASEAN countries
+</td>
+<td class="tg-nrix"><img src="/images/ifday09.jpg" style="width:65%">Matching ASEAN flags to the countries.</td>
+</tr>
+</tbody>
+</table></figure>
