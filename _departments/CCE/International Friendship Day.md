@@ -8,7 +8,7 @@ third_nav_title: CCE
 ![](/images/ifd2.png)
 ![](/images/ifd3.png)
 
-<h4>International Friendship Day 2023</h4>
+<h3>International Friendship Day 2023</h3>
 
 <p style="text-align:justify">Concord Primary School commemorated International Friendship Day on 3rd April 2023 this year. The theme for this year is Singapore in Asia. Asia is the world’s fastest-growing region, and Singapore continues to facilitate closer economic, political, social, and cultural cooperation within ASEAN and in Asia.</p> 
 
