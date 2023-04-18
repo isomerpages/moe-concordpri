@@ -16,9 +16,9 @@ third_nav_title: CCE
 
 <br>
 <p></p><figure>	
-<img src="/images/ifday01.png" style="width:45%" align="left">
-<img src="/images/ifday02.png" style="width:45%"><br>
-<img src="/images/ifday03.png" style="width:60%">
+<img src="/images/ifday01.png" style="width:40%" align="left">
+<img src="/images/ifday02.png" style="width:40%"><br>
+<img src="/images/ifday03.png" style="width:40%">
 <b style="font-size:14px">Skit put up by teachers during Assembly Programme to introduce students to the different ASEAN countries.</b>
 </figure>
 <br><br>
