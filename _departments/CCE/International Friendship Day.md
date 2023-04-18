@@ -23,10 +23,10 @@ third_nav_title: CCE
 </figure>
 <br>
 <figure>
-<img src="/images/ifday04.jpg" style="width:45%" align="left">
-<img src="/images/ifday05.jpg" style="width:45%">
+<img src="/images/ifday04.jpg" style="width:40%" align="left">
+<img src="/images/ifday05.jpg" style="width:40%">
 <b style="font-size:14px">Students taking photographs with the “tuk tuks” and at the photo booth.</b>
-<br><br>
+<br><br><br>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
