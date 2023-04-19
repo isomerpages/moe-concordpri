@@ -46,6 +46,9 @@ description: ""
 </tr>
 <tr>
 <td class="tg-ppzb"><a href="/files/lp%20newsletter%204_t2.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #04</a></td>
+<td class="tg-ppzc">-</td>
+<td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%202%20week%204_vetted%20(02).pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #04</a></td>
+<td class="tg-ppzc">-</td>
 </tr>
 </tbody>
 </table>
