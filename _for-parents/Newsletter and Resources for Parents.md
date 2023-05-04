@@ -49,6 +49,9 @@ description: ""
 <td class="tg-ppzb"><a href="/files/t2w5%20mp%20newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #04</a></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%202%20week%204_vetted%20(02).pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #04</a></td>
 </tr>
+<tr>
+<td class="tg-ppzb"><a href="/files/lp%20newsletter%20issue%205.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #05</a></td>
+</tr>
 </tbody>
 </table>
 
