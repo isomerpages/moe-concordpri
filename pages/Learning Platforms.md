@@ -5,6 +5,7 @@ description: ""
 ---
 <ul>
 <li><a href="https://vle.learning.moe.edu.sg/login"><span style="color:#FD6500; font-size:14px; font-weight:bold">Student Learning Space (SLS)</span></a></li>
+	<li><a href="https://workspace.google.com/dashboard"><span style="color:#FD6500; font-size:14px; font-weight:bold">Student ICON</span></a></li>
 <li><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><span style="color:#FD6500; font-size:14px; font-weight:bold">MySkillsFuture</span></a></li>
 </ul>
 
