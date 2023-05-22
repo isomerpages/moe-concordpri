@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Our Service Provider.md
       - Child's Absence.md
+      - Our Service Provider.md
       - FamilyMatters @ School.md
       - Newsletter and Resources for Parents.md
       - Parent Support Group/.keep
