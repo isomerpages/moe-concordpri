@@ -21,7 +21,7 @@ description: ""
 <tbody>
 <tr>
 	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br><a href="#uniform-info">School Uniform Supplier</a></td>
-	<td class="tg-nrix"><a href="insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
+	<td class="tg-nrix"><a href="#insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
 	<td class="tg-nrix"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
 </tr>
 </tbody>
