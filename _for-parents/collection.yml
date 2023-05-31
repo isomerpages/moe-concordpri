@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE ICT Platform.md
       - Child's Absence.md
       - Our Service Providers.md
       - P1 Parents/.keep
       - P1 Parents/Administrative Matters.md
       - P1 Parents/Registration Exercise.md
       - S1 Posting Exercise.md
+      - MOE ICT Platform.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Traffic Management Plan.md
