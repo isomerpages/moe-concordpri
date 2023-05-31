@@ -5,6 +5,31 @@ description: ""
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 716px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 108px">
+<col style="width: 108px">
+<col style="width: 108px">
+</colgroup>
+<tbody>
+<tr>
+	<td class="tg-lpkg"></td>
+	<td class="tg-lpkg">School Dental Clinic</td>
+	<td class="tg-lpkg"><center>Group Personal Insurance For Students</center></td>
+	<td class="tg-lpkg">Student Care Centre</td>
+</tr>
+<tr>
+	<td class="tg-lpkg"></td>
+	<td class="tg-lpkg">School Uniform Supplier</td>
+	<td class="tg-lpkg">School Bookshop</td>
+	<td class="tg-lpkg">School Bus Service</td>
+</tr>	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -12,7 +37,7 @@ description: ""
 .tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 716px">
+</tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
 <col style="width: 608px">
