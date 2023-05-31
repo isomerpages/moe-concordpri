@@ -20,7 +20,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
+	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br><a href="#uniform-info">School Uniform Supplier</a></td>
 	<td class="tg-nrix"><a href="insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
 	<td class="tg-nrix"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
 </tr>
@@ -60,7 +60,7 @@ description: ""
 <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br><span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>Phone: <br>98552563<br><br><span style="font-weight:400;font-style:normal">Website: </span><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><br>Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
 <tr>
     <td class="tg-n1ni">4.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Uniform Supplier</span><br><br><span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd</span><br><span style="font-weight:400;font-style:normal">Chen Nam Sing Department Store</span><br><span style="font-weight:400;font-style:normal">Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413</span><br><span style="font-weight:400;font-style:normal">Operation Hours:</span><br><span style="font-weight:400;font-style:normal">Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-style:normal">Closed on Mondays</span><br><span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a></td>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="uniform-info">School Uniform Supplier</span><br><br><span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd</span><br><span style="font-weight:400;font-style:normal">Chen Nam Sing Department Store</span><br><span style="font-weight:400;font-style:normal">Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413</span><br><span style="font-weight:400;font-style:normal">Operation Hours:</span><br><span style="font-weight:400;font-style:normal">Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-style:normal">Closed on Mondays</span><br><span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a></td>
 </tr>
 <tr>
     <td class="tg-n1ni">5.</td>
