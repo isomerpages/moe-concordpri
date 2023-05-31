@@ -4,14 +4,14 @@ permalink: /for-parents/school-information/our-service-providers/
 description: ""
 ---
 <style type="text/css">
-.tm  {border:none;}
-.tm td{border-color:transparent!important;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border:none;}
+.tg td{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tm th{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tm .tm-nrix{text-align:center;vertical-align:middle;font-weight:bold}
+.tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
-<table class="tm" style="undefined;table-layout: fixed; width: 600px">
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -19,9 +19,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-	<td class="tm-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
-	<td class="tm-nrix">Group Personal Insurance For Students<br><br><a href="bookshop-info">School Bookshop</a></td>
-	<td class="tm-nrix"><a href="#scc-info">Student Care Centre</a><br><br><a href="#school-bus-service">School Bus Service</a></td>
+	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
+	<td class="tg-nrix">Group Personal Insurance For Students<br><br><a href="bookshop-info">School Bookshop</a></td>
+	<td class="tg-nrix"><a href="#scc-info">Student Care Centre</a><br><br><a href="#school-bus-service">School Bus Service</a></td>
 </tr>
 
 <style type="text/css">
