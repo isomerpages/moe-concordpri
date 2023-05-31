@@ -11,12 +11,6 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 770px">
-<colgroup>
-<col style="width: 385px">
-<col style="width: 385px">
-</colgroup>
-</table>
 <table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
 <col style="width: 50px">
