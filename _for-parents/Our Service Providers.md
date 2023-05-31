@@ -16,7 +16,8 @@ description: ""
 <col style="width: 385px">
 <col style="width: 385px">
 </colgroup>
-</table><table class="tg" style="undefined;table-layout: fixed; width: 716px">
+</table>
+<table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
 <col style="width: 50px">
 <col style="width: 108px">
@@ -25,16 +26,16 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-	<td class="tg-lpkg"></td>
-	<td class="tg-lpkg">School Dental Clinic</td>
-	<td class="tg-lpkg"><center>Group Personal Insurance For Students</center></td>
-	<td class="tg-lpkg">Student Care Centre</td>
+	<td class="tg-nrix"></td>
+	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a></td>
+	<td class="tg-nrix">Group Personal Insurance For Students</td>
+	<td class="tg-nrix">Student Care Centre</td>
 </tr>
 <tr>
-	<td class="tg-lpkg"></td>
-	<td class="tg-lpkg">School Uniform Supplier</td>
-	<td class="tg-lpkg">School Bookshop</td>
-	<td class="tg-lpkg">School Bus Service</td>
+	<td class="tg-nrix"></td>
+	<td class="tg-nrix">School Uniform Supplier</td>
+	<td class="tg-nrix">School Bookshop</td>
+	<td class="tg-nrix">School Bus Service</td>
 </tr>	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -56,7 +57,7 @@ description: ""
 	<td class="tg-lpkg"><b>Services</b></td>
 </tr>
 <tr><td class="tg-n1ni">1.</td>
-<td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Dental Clinic</span><br><br>Opening Hours:<br>Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br> Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br> Buddy Clinic @ Bukit Panjang Primary School<br> Tel no. <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br><img src="/images/dental%20clinic%20schedule%20for%20month%20of%20may%202023.JPG" style="width:90%" align="left"><br>
+<td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="dental-clinic;">School Dental Clinic</span><br><br>Opening Hours:<br>Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br> Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br> Buddy Clinic @ Bukit Panjang Primary School<br> Tel no. <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br><img src="/images/dental%20clinic%20schedule%20for%20month%20of%20may%202023.JPG" style="width:90%" align="left"><br>
 <img src="/images/DentalQRCode.png" style="width:25%" align="left"></td>
 </tr>
 <tr>
