@@ -20,7 +20,7 @@ description: ""
 <tbody>
 <tr>
 	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
-	<td class="tg-nrix">Group Personal Insurance For Students<br><br><a href="#bookshop-info">School Bookshop</a></td>
+	<td class="tg-nrix"><a href="insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
 	<td class="tg-nrix"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
 </tr>
 
@@ -49,7 +49,7 @@ description: ""
 </tr>
 <tr>
     <td class="tg-n1ni">2.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">Group Personal Accident Insurance For Students</span><br><br>Product Fact Sheet <a href="/files/Product Fact Sheet Year 2023.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br><a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a></td>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="insurance-info">Group Personal Accident Insurance For Students</span><br><br>Product Fact Sheet <a href="/files/Product Fact Sheet Year 2023.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br><a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a></td>
 </tr>
 <tr><td class="tg-n1ni">3.</td>
 <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br><span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>Phone: <br>98552563<br><br><span style="font-weight:400;font-style:normal">Website: </span><br><a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><br>Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
