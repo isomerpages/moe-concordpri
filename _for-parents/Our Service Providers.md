@@ -3,15 +3,6 @@ title: Our Service Providers
 permalink: /for-parents/school-information/our-service-providers/
 description: ""
 ---
-
-
-|[sb](     6.     <span style="font-weight:bold;text-decoration:underline">School Bus Service </span><br><br><span style="font-weight:400;font-style:normal">DKJ Transport Service</span><br><span style="font-weight:400;font-style:normal">7 Soon Lee Street, #05-12</span><br><span style="font-weight:400;font-style:normal">iSpace, Singapore 627608</span><br><span style="font-weight:400;font-style:normal">Tel: 9772 3370, 6397 4955</span><br><span style="font-weight:400;font-style:normal">Fax: 6397 4905 <br><br> <b><u>School Bus Operator and Bus Fare</u></b> <br> <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services</a> </span> ) | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
