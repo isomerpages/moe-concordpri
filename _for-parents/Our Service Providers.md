@@ -23,7 +23,7 @@ description: ""
 	<td class="tg-lpkg"><b>Services</b></td>
 </tr>
 <tr><td class="tg-n1ni">1.</td>
-<td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Dental Clinic</span><br><br>Opening Hours:<br>Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br> Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br> Buddy Clinic Ten no. <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br><img src="/images/dental%20clinic%20schedule%20for%20month%20of%20may%202023.JPG" style="width:90%" align="left"><br>
+<td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Dental Clinic</span><br><br>Opening Hours:<br>Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br> Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br> Buddy Clinic @ Bukit Panjang Primary School<br> Tel no. <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br><img src="/images/dental%20clinic%20schedule%20for%20month%20of%20may%202023.JPG" style="width:90%" align="left"><br>
 <img src="/images/DentalQRCode.png" style="width:25%" align="left"></td>
 </tr>
 <tr>
