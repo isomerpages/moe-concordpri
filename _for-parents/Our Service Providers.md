@@ -21,7 +21,7 @@ description: ""
 <tr>
 	<td class="tm-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
 	<td class="tm-nrix">Group Personal Insurance For Students<br><br>School Bookshop</td>
-	<td class="tm-nrix">Student Care Centre<br><br><a href="school-bus-service">School Bus Service</a></td>
+	<td class="tm-nrix"><a href="scc-info">Student Care Centre</a><br><br><a href="school-bus-service">School Bus Service</a></td>
 </tr>
 
 <style type="text/css">
@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
     <td class="tg-n1ni">5.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Bookshop</span><br><br><span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Opened to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)</span><br><br><span style="font-weight:400;font-style:normal">Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a></td>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline" id="scc-info">School Bookshop</span><br><br><span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Opened to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)</span><br><br><span style="font-weight:400;font-style:normal">Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a></td>
 </tr>
 <tr>
     <td class="tg-n1ni">6.</td>
