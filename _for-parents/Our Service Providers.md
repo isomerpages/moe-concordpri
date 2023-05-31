@@ -35,7 +35,7 @@ description: ""
 	<td class="tg-nrix"></td>
 	<td class="tg-nrix">School Uniform Supplier</td>
 	<td class="tg-nrix">School Bookshop</td>
-	<td class="tg-nrix"><a href="#school-bus-service">School Bus Service</a></td>
+	<td class="tg-nrix"><a href="#bus-service">School Bus Service</a></td>
 </tr>	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -76,9 +76,9 @@ description: ""
 </tr>
 <tr>
     <td class="tg-n1ni">6.</td>
-    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Bus Service </span><br><br><span id="school-bus-service">DKJ Transport Service</span><br><br><span style="font-weight:400;font-style:normal">Tel: 9772 3370, 6397 4955</span><br><br>
+    <td class="tg-lpkg"><span style="font-weight:bold;text-decoration:underline">School Bus Service </span><br><br><span id="bus-service">DKJ Transport Service</span><br><br>Tel: 9772 3370, 6397 4955<br><br>
 <b><u>School Bus Operator and Bus Fare</u></b>
-<br>
+<br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services</a>
 </td>
 </tr>
