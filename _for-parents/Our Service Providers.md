@@ -4,33 +4,26 @@ permalink: /for-parents/school-information/our-service-providers/
 description: ""
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tm  {border:none;}
+.tm td{border-color:transparent!important;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tm th{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
+.tm .tm-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 824px">
+<table class="tm" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 50px">
-<col style="width: 108px">
-<col style="width: 108px">
-<col style="width: 108px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
 <tr>
-	<td class="tg-nrix"></td>
-	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a></td>
-	<td class="tg-nrix">Group Personal Insurance For Students</td>
-	<td class="tg-nrix">Student Care Centre</td>
+	<td class="tm-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br>School Uniform Supplier</td>
+	<td class="tm-nrix">Group Personal Insurance For Students<br><br>School Bookshop</td>
+<td class="tm-nrix">Student Care Centre<br><br>School Bus Service</td>
 </tr>
-<tr>
-	<td class="tg-nrix"></td>
-	<td class="tg-nrix">School Uniform Supplier</td>
-	<td class="tg-nrix">School Bookshop</td>
-	<td class="tg-nrix"><a href="#bus-service">School Bus Service</a></td>
-</tr>	
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -40,7 +33,7 @@ description: ""
 .tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
-</tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 716px">
+</tbody></table><br><table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
 <col style="width: 608px">
