@@ -11,6 +11,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
 <col style="width: 200px">
@@ -23,6 +24,8 @@ description: ""
 	<td class="tg-nrix"><a href="insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
 	<td class="tg-nrix"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
 </tr>
+</tbody>
+</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -33,11 +36,13 @@ description: ""
 .tg .tg-n1ni{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
-</tbody></table><br><table class="tg" style="undefined;table-layout: fixed; width: 716px">
+
+<table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
 <col style="width: 608px">
 </colgroup>
+
 <tbody>
 <tr>
 	<td class="tg-lpkg"><b>No.</b></td>
@@ -68,6 +73,8 @@ description: ""
 <br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services</a>
 </td>
-</tr>
-</tbody>
+</tr></tbody>
+</table><table>
+
+
 </table>
