@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - E Form.md
       - Financial Assistance.md
       - Child's Absence.md
       - Our Service Providers.md
