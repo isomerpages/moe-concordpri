@@ -51,7 +51,7 @@ You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-
 <!--Student Learning Space content -->
 <tr>
 	<td class="tg-info"><br>2.</td>
-	<td class="tg-title"><br><span>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.</span> 
+	<td class="tg-title"><br>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
 <p></p><center><b>Student Learning Space</b></center>&nbsp;
