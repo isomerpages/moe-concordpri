@@ -14,10 +14,10 @@ description: ""
 <br>
 
 <!--table grid -->
-<table class="tg" style="undefined;table-layout: fixed; width: 850px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 50px">
-<col style="width: 800px">
+<col style="width: 700px">
 </colgroup>
 
 <!--ICT Platform heading -->
