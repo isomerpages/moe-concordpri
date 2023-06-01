@@ -31,7 +31,7 @@ description: ""
 <span style="font-weight:bold"><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mr Tan Yian Chye</a></span><br>Operations Manager<br>(OM)</td>
     
 <td style="text-align:center" class="tg-yhj3">
-<span style="font-weight:bold"><a href="mailto:wong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"  style="text-decoration:none; color:#1ABC9C">Ms Wong Siew Ling</a></span><br>Administration Manager<br>(AM)</td>
+<span style="font-weight:bold"><a href="mailto:wong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Ms Wong Siew Ling</a></span><br>Administration Manager<br>(AM)</td>
 
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Mala</a></span><br>Admin Executive<br>(AE)
 </td>
@@ -64,16 +64,13 @@ description: ""
  </tr>
  <tr>
     <td class="tg-nrix"><img src="/images/eas10.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/eas11.jpeg"></td>
     <td class="tg-nrix"><img src="/images/Gazali_VER2.jpg"></td>
 		<td class="tg-nrix"><img src="/images/test12.jpg"></td>
+	 <td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
  </tr>
  
 <tr>
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:norhafizah_pungut@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Norhafizah</a></span><br>ICT Associate
-</td>
-
-<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold; color:#1ABC9C">Miss Raihan</span><br>Desktop Engineer<br>
 </td>
 
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mr Gazali</span><br>Desktop Engineer<br>
@@ -81,13 +78,7 @@ description: ""
 
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Siti Razilah</span><br>ICT Support Staff<br>
 </td>
-</tr>
-
-<tr>
-<td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
-</tr>
-
-<tr>
+	
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>  
 </tr>
 </tbody>
