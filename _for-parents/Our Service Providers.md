@@ -128,8 +128,10 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 <!--6. School Bus Service Information -->
 <tr>
     <td class="tg-info">6.</td>
-    <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bus-service">School Bus Service </span><br><br><span>DKJ Transport Service</span><br><br>Tel: 9772 3370, 6397 4955<br><br>
-<b><u>School Bus Operator and Bus Fare</u></b>
+    <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bus-service">School Bus Service </span><br><br>
+		<span>DKJ Transport Service</span><br><br>
+			Tel: 9772 3370, 6397 4955<br><br>
+			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services</a>
 </td>
