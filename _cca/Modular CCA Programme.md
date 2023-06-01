@@ -5,12 +5,13 @@ description: ""
 ---
 <p style="text-align:justify">As part of the two tier approach for our Concord CCA framework, the Modular CCA (MCCA) Programme reaches the masses. It offers every P3 to P6 student the opportunity to develop skills and knowledge from a wide variety of experiences, such as Outdoor Education, Sports, Aesthetics and other critical skills such as ICT and Lifeskills. In 2022, we have adopted an integrated approach to address our students’ development of leadership, E3 Reasoning and executive functioning skills in a coherent and holistic way through a new module – Soar For Life.&nbsp;We envision that, through MCCA, our students will become all-rounders who has a passion for learning and develop the confidence to face the challenges of life.</p>
 <br><br>
+<!--CPS CCA Briefing video-->
 <iframe width="675" height="506" src="https://www.youtube.com/embed/v2lmoY-Imjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br> 
 <br>
 <b><u>Schedule</u></b>
-<br>
-<div>Every Wednesday, 7.30am to 9am</div>
+
+<p>Every Wednesday, 7.30am to 9am</p>
 <br><br>
 <b><u>2023 Schedule</u></b>
 <br><br>
