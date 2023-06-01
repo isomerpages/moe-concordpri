@@ -7,16 +7,16 @@ description: ""
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:break-word;}
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-info{font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-title{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
 <br>
 
 <!--table grid for the service providers information -->
-<table class="tg" style="undefined;table-layout: fixed; width: 520px">
+<table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 20px">
+<col style="width: 50px">
 <col style="width: 500px">
 </colgroup>
 
