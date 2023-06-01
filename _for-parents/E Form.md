@@ -16,7 +16,7 @@ description: ""
 <a href="/files/edusave_application_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:12; font-weight:bold;">Edusave Application Form </span></a>
 	</li>
 	<li>
-		<a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:12; font-weight:bold;">Edusave Application Form </span></a>
+		<a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:12; font-weight:bold;">GIRO Termination Form </span></a>
 	</li>
 </ul>
 
