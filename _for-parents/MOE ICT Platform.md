@@ -14,10 +14,10 @@ description: ""
 <br>
 
 <!--table grid for the service providers information -->
-<table class="tg" style="undefined;table-layout: fixed; width: 1250px">
+<table class="tg" style="undefined;table-layout: fixed; width: 520px">
 <colgroup>
-<col style="width: 50px">
-<col style="width: 1000px">
+<col style="width: 20px">
+<col style="width: 500px">
 </colgroup>
 
 <!--service providers heading -->
