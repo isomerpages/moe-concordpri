@@ -3,7 +3,7 @@ title: MOE ICT Platform
 permalink: /for-parents/permalink/moe-ict-platform/
 description: ""
 ---
-<!--table style for the service providers information -->
+<!--table style -->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -13,19 +13,21 @@ description: ""
 </style>
 <br>
 
-<!--table grid for the service providers information -->
+<!--table grid -->
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 50px">
 <col style="width: 700px">
 </colgroup>
 
-<!--service providers heading -->
+<!--ICT Platform heading -->
 <tbody>
 <tr>
 	<td class="tg-title"><b>No.</b></td>
 	<td style="text-align:center;" class="tg-title"><b>ICT Platform</b></td>
 </tr>
+
+<!--Parent Gateway content -->
 <tr>
 	<td style="text-align:center" class="tg-info">1.</td>
 	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%">
@@ -46,6 +48,7 @@ description: ""
 You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.</p>
 </td>
 </tr>
+<!--Student Learning Space content -->
 <tr>
 	<td class="tg-info"><br>2.</td>
 	<td class="tg-title"><br><p>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
