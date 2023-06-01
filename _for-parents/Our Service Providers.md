@@ -94,7 +94,7 @@ Product Fact Sheet
 <tr>
 	<td class="tg-info">3.</td>
 	<td class="tg-title">
-	<span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br>
+	<span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br><br>
 	<span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>
 Phone: 98552563<br><br>
 <span style="font-weight:400;font-style:normal">Website: </span>
@@ -109,9 +109,9 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
 		<span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd<br>Chen Nam Sing Department Store<br>
 Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413<br><br>
 Operation Hours:<br>
-			Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-weight:bold">Closed on Mondays</span><br>
-<span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br>
-<a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a>
+Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-weight:bold">Closed on Mondays</span><br><br>
+<span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><br>
+Website: <a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a>
 	</td>
 </tr>
 
