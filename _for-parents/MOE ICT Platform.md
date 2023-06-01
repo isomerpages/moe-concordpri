@@ -51,11 +51,10 @@ You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-
 <!--Student Learning Space content -->
 <tr>
 	<td class="tg-info"><br>2.</td>
-	<td class="tg-title"><br><p>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
+	<td class="tg-title"><br><span>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.</span> 
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
-
-</p><center><b>Student Learning Space</b></center>&nbsp;
+<p></p><center><b>Student Learning Space</b></center>&nbsp;
 <center>Website:<a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 <p>E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
