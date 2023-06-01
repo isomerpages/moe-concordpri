@@ -1,5 +1,5 @@
 ---
-title: Parent Support Group
+title: Make a Difference @ Concord
 permalink: /for-parents/parent-support-group/psg/
 description: ""
 third_nav_title: Parent Support Group

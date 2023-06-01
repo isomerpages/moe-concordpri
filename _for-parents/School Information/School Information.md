@@ -7,10 +7,9 @@ third_nav_title: School Information
 **1\.  School Curriculum Hours**
 
 
-<img src="/images/School Curriculum Hours.jpg" 
-     style="width:90%">
-<center><br>CCA will be conducted on Wednesdays during curriculum hours.</center>
-<center>Student selected for Niche CCAs will be informed of their CCA timing by their CCA teachers.</center>
+<img src="/images/student%20dismissal.JPG" style="width:90%">
+<center><br>Modular CCA will be conducted on Wednesdays during curriculum hours.</center>
+<center>Student selected for Niche CCAs will be informed via Parent Gateway of their CCA timing by their CCA teachers.</center>
 
 **2\. Visits To School**
 
@@ -28,7 +27,7 @@ For the safety of the students and staff of the school, we seek the cooperation 
 **3\. Student Arrival In The Morning**
 
 *   Students who arrive before 7.00am are to wait in the canteen until instructed to move to their respective venues.
-*    Students walking to school can enter via the following gates:
+*   &nbsp;Students walking to school can enter via the following gates:
 	* Main Gate, 6.45am onwards (Monday to Friday)
 	* Gate 4, 6.50am to 7.30am (Monday to Friday)
 	* Gate 12, 6.50am to 7.30am (Monday to Friday)  
@@ -97,7 +96,7 @@ For the safety of the students and staff of the school, we seek the cooperation 
 *   The school seeks the support of parents / guardians in the following:
 *   Supervising your child’s homework and ensure that all assignments are completed and submitted on time.
 *   Signing of worksheets and books at the required column to acknowledge that all assignments are completed.
-*    Ensuring attendance of their child for supplementary/remedial lesson, CCAs and enrichment programmes organised by school.
+*   &nbsp;Ensuring attendance of their child for supplementary/remedial lesson, CCAs and enrichment programmes organised by school.
 
   
 
@@ -109,6 +108,6 @@ For the safety of the students and staff of the school, we seek the cooperation 
 	*   Telephone
 	*   Email
 	*   Parents Gateway
-	*   School Website: <a href=" https://concordpri.moe.edu.sg"><span style="text-decoration:none;color:#1A7BDF"><b>https://concordpri.moe.edu.sg</b></span></a>
+	*   School Website: <a href="https://concordpri.moe.edu.sg"><span style="text-decoration:none;color:#1A7BDF"><b>https://concordpri.moe.edu.sg</b></span></a>
 
 *   Parents are strongly encouraged to attend school engagement sessions such as Parent-Teacher Conference (PTC), Parent-Child-Teacher-Conference (PCTC) and parents’ briefings. These are important platforms for parents to understand their child’s learning process and how they can better support his/her holistic development. We seek your fullest support to attend all school engagement sessions.

@@ -1,10 +1,9 @@
 ---
-title: Registration Exercise
-permalink: /for-parents/Registration-Exercise/
+title: Parent Volunteer Application
+permalink: /for-parents/parent-volunteer-application/
 description: ""
 third_nav_title: P1 Parents
 ---
-
 <b>2024 PRIMARY ONE (P1) REGISTRATION EXERCISE FOR ADMISSION TO P1 IN 2025</b>
 <br><br>
 <b>1. Registration Phases and Procedures</b>
@@ -16,6 +15,6 @@ Please submit the PV application via <a href="https://form.gov.sg/5e4dd3c087faa3
 	
 <b>2. Parent Volunteers (PV) Application</b>
 
-<p style="text-align:justify">The application window will open on <b><u>1 March 2023 and closes on 26 May 2023</u></b>. Please refer to the flow chart below for more information.
+</p><p style="text-align:justify">The application window will open on <b><u>1 March 2023 and closes on 26 May 2023</u></b>. Please refer to the flow chart below for more information.
 <br><br>
-<img style="width:80%" src="/images/PV Application Flowchart2024.png"><br>
+<img style="width:80%" src="/images/PV Application Flowchart2024.png"><br></p>

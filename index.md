@@ -9,13 +9,10 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcement/
         - title: Highlights
           description: ""
           url: /highlights/2023/
-        - title: Calendar & Note
+        - title: School Calendar & Term Note
           description: ""
           url: /for-parents/term-calendar-and-note/
         - title: Newsletter

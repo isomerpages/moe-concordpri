@@ -2,22 +2,21 @@ collections:
   for-parents:
     output: true
     order:
+      - E Form.md
       - Child's Absence.md
-      - Our Service Provider.md
-      - FamilyMatters @ School.md
-      - Newsletter and Resources for Parents.md
-      - Parent Support Group/.keep
-      - Parent Support Group/Parent Support Group.md
+      - Our Service Providers.md
       - P1 Parents/.keep
       - P1 Parents/Administrative Matters.md
-      - P1 Parents/Registration Exercise.md
-      - Parents Gateway (PG).md
-      - S1 Posting Exercise.md
+      - P1 Parents/Parent Volunteer Application.md
+      - MOE ICT Platform.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Traffic Management Plan.md
-      - Student Learning Space (SLS).md
+      - Newsletter and Resources for Parents.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Make a Difference @ Concord.md
       - Sexuality Education (P5 & P6).md
       - School Home Partnership/.keep
       - School Home Partnership/Homework Guidelines.md
       - Term Calendar and Note.md
+      - FamilyMatters @ School.md
