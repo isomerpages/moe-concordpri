@@ -59,8 +59,10 @@ description: ""
 </tr>
 
 <!--1. School Dental Clinic Information -->
-<tr><td class="tg-info">1.</td>
-<td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="dental-clinic">School Dental Clinic</span>
+<tr>
+	<td class="tg-info">1.</td>
+	<td class="tg-title">
+	<span style="font-weight:bold;text-decoration:underline" id="dental-clinic">School Dental Clinic</span>
 <br><br>
 Opening Hours:<br>
 Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
