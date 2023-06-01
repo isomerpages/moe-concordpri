@@ -76,7 +76,9 @@ Buddy Clinic @ Bukit Panjang Primary School<br> Tel: <span style="font-weight:bo
 <div style="text-align:left;">
 <img src="/images/dental%20clinic%20schedule%20for%20month%20of%20may%202023.JPG" style="width:90%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
-<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></td>
+<a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
+<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
+	</td>
 </tr>
 
 <!--2. Group Personal Accident Insurance For Students information-->
