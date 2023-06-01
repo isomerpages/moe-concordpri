@@ -16,10 +16,10 @@ description: ""
 <br>
 
 <!--table grid for the service providers information -->
-<table class="tg" style="undefined;table-layout: fixed; width: 850px">
+<table class="tg" style="undefined;table-layout: fixed; width: 900px">
 <colgroup>
 <col style="width: 50px">
-<col style="width: 800px">
+<col style="width: 900px">
 </colgroup>
 
 <!--service providers heading -->
@@ -31,7 +31,7 @@ description: ""
 <tr>
 	<td style="text-align:center">1.</td>
 	<td><img src="/images/parents-gateway.jpeg" style="width:25%">
-		<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
+	<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
 <br><br>
 <b>You will need your SingPass to log into Parents Gateway.</b>&nbsp;
 <br>
@@ -65,7 +65,6 @@ You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-
 <br><br>
 Login Troubleshooting User<br>Guide:<a href="http://go.gov.sg/slsloginhelp" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a> 
 <br><br>
-  
 </p><p><u>FREQUENTLY ASKED QUESTIONS</u>
 <br>
 </p><p><b>Q1 : I have forgotten&nbsp;my password. What should I do?</b><br>  
