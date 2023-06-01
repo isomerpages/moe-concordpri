@@ -3,6 +3,7 @@ title: Our Service Providers
 permalink: /for-parents/school-information/our-service-providers/
 description: ""
 ---
+<!--table style for the link table -->
 <style type="text/css">
 .tg  {border:none;}
 .tg td{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
@@ -12,6 +13,7 @@ description: ""
 .tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
 
+<!--table grid for the link table -->
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
 <col style="width: 200px">
@@ -19,6 +21,8 @@ description: ""
 <col style="width: 200px">
 </colgroup>
 <tbody>
+
+<!--Data for the link table such as "School Dental Clinic") -->
 <tr>
 	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br><a href="#uniform-info">School Uniform Supplier</a></td>
 	<td class="tg-nrix"><a href="#insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
@@ -27,6 +31,7 @@ description: ""
 </tbody>
 </table>
 
+<!--table style for the service providers information -->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -37,12 +42,15 @@ description: ""
 .tg .tg-lpkg{font-family:inherit;font-size:16px;text-align:left;vertical-align:middle}
 </style>
 <br>
+
+<!--table grid for the service providers information -->
 <table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
 <col style="width: 608px">
 </colgroup>
 
+<!--service providers information goes here -->
 <tbody>
 <tr>
 	<td class="tg-lpkg"><b>No.</b></td>
