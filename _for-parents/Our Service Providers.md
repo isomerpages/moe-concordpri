@@ -7,6 +7,9 @@ description: ""
 <style type="text/css">
 .lg  {border:none;}
 .lg .lg-linkdata{text-align:center;vertical-align:middle;font-weight:bold}
+	.lg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.lg linkdata{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:15px 5px;
 </style>
 
 <!--table grid for the link table -->
