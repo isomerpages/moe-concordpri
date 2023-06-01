@@ -6,11 +6,7 @@ description: ""
 <!--table style for the link table -->
 <style type="text/css">
 .tg  {border:none;}
-.tg td{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:transparent;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle;font-weight:bold}
+.tg .tg-linkdata{text-align:center;vertical-align:middle;font-weight:bold}
 </style>
 
 <!--table grid for the link table -->
@@ -24,9 +20,9 @@ description: ""
 
 <!--Data for the link table such as "School Dental Clinic") -->
 <tr>
-	<td class="tg-nrix"><a href="#dental-clinic">School Dental Clinic</a><br><br><a href="#uniform-info">School Uniform Supplier</a></td>
-	<td class="tg-nrix"><a href="#insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
-	<td class="tg-nrix"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
+	<td class="tg-linkdata"><a href="#dental-clinic">School Dental Clinic</a><br><br><a href="#uniform-info">School Uniform Supplier</a></td>
+	<td class="tg-linkdata"><a href="#insurance-info">Group Personal Insurance For Students</a><br><br><a href="#bookshop-info">School Bookshop</a></td>
+	<td class="tg-linkdata"><a href="#studentcare-info">Student Care Centre</a><br><br><a href="#bus-service">School Bus Service</a></td>
 </tr>
 </tbody>
 </table>
