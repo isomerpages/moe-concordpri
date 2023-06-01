@@ -29,8 +29,8 @@ description: ""
 	<td style="text-align:center;" class="tg-title"><b>ICT Platform</b></td>
 </tr>
 <tr>
-	<td style="text-align:center">1.</td>
-	<td><br><img src="/images/parents-gateway.jpeg" style="width:25%">
+	<td style="text-align:center" class="tg-info">1.</td>
+	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%">
 	<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
 <br><br>
 <b>You will need your SingPass to log into Parents Gateway.</b>&nbsp;
@@ -49,8 +49,8 @@ You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-
 </td>
 </tr>
 <tr>
-	<td><br>2.</td>
-	<td><br><p>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
+	<td class="tg-info"><br>2.</td>
+	<td class="tg-title"><br><p>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school.  
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
 
