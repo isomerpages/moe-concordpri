@@ -21,7 +21,7 @@ description: ""
 </colgroup>
 <tbody>
 
-<!--Data for the link table such as "School Dental Clinic") -->
+<!--Data for the link table) -->
 <tr>
 	<td class="lg-linkdata">
 	<a href="#dental-clinic">School Dental Clinic</a><br><br>
