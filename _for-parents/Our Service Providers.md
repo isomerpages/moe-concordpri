@@ -103,7 +103,15 @@ Email: <br><a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="n
 <!--4. School Uniform Supplier information -->
 <tr>
     <td class="tg-info">4.</td>
-    <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="uniform-info">School Uniform Supplier</span><br><br><span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd</span><br><span style="font-weight:400;font-style:normal">Chen Nam Sing Department Store</span><br><span style="font-weight:400;font-style:normal">Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413</span><br><span style="font-weight:400;font-style:normal">Operation Hours:</span><br><span style="font-weight:400;font-style:normal">Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-style:normal">Closed on Mondays</span><br><span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a></td>
+    <td class="tg-title">
+		<span style="font-weight:bold;text-decoration:underline" id="uniform-info">School Uniform Supplier</span><br><br>
+		<span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd<br>Chen Nam Sing Department Store<br>
+Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413<br><br>
+Operation Hours:<br>
+			Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-weight:bold">Closed on Mondays</span><br>
+<span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br>
+<a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a>
+	</td>
 </tr>
 
 <!--5. School Bookshop Information -->
