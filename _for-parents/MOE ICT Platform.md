@@ -16,10 +16,10 @@ description: ""
 <br>
 
 <!--table grid for the service providers information -->
-<table class="tg" style="undefined;table-layout: fixed; width: 950px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1050px">
 <colgroup>
 <col style="width: 50px">
-<col style="width: 900px">
+<col style="width: 1000px">
 </colgroup>
 
 <!--service providers heading -->
