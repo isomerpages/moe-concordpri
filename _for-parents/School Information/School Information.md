@@ -7,7 +7,7 @@ third_nav_title: School Information
 **1\.  School Curriculum Hours**
 
 
-<img src="/images/School Curriculum Hours.jpg" style="width:90%">
+<img src="/images/student%20dismissal.JPG" style="width:90%">
 <center><br>Modular CCA will be conducted on Wednesdays during curriculum hours.</center>
 <center>Student selected for Niche CCAs will be informed via Parent Gateway of their CCA timing by their CCA teachers.</center>
 
