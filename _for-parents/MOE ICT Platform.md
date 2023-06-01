@@ -45,16 +45,16 @@ description: ""
 <br>
 ✦ <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en\_SG" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For Android User)</b></a>
 <br><br>
-You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.</p>
+You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.</p><br>
 </td>
 </tr>
 <!--Student Learning Space content -->
 <tr>
 	<td class="tg-info"><br>2.</td>
-	<td class="tg-title"><br>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
+	<td class="tg-title"><p style="text-align:justify">The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
-<p></p><center><b>Student Learning Space</b></center>&nbsp;
+</p><p></p><center><b>Student Learning Space</b></center>&nbsp;
 <center>Website:<a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>vle.learning.moe.edu.sg/login</b></span></a></center>  
 
 <p>E-poster for Navigation on SLS Interface:<a href="/files/Student-E-Poster-for-Navigation-on-SLS.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>How to Navigate SLS Interface</b></span></a>
