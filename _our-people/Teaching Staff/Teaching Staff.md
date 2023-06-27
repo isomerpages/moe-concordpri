@@ -14,7 +14,7 @@ third_nav_title: Teaching Staff
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -26,9 +26,9 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
-  
-<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
-	<tr>
+
+<!-- Primary 1 Form Teachers --> 
+<tr>
     <td class="tg-yhj3">P1A<br></td>
     <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Zarinah Binte Zainal</a><br></td>
 <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Miss Heng Chwee Hong</a><br></td>
@@ -72,7 +72,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -87,7 +87,7 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br>	
+<!-- Primary 2 Form Teachers -->	
 <tr>
  <td class="tg-yhj3">P2A<br></td>
  <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</a><br></td>
@@ -139,7 +139,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -151,8 +151,8 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
-  <br><br>
-<span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br>
+  
+<!-- Primary 3 Form Teachers -->
 <tr>
 <td class="tg-yhj3">P3A<br></td>
 <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</a><br></td>
@@ -186,7 +186,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
+<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -201,7 +201,7 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
-<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
+<!-- Primary 4 Form Teachers -->
 <tr>
 <td class="tg-yhj3">P4A<br></td>
 <td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</a><br></td>
@@ -216,7 +216,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P4C<br></td>
-<td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg"  style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
 <td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</a><br></td>
 <td><br></td>
 </tr>
@@ -241,7 +241,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>	
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
+<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -255,9 +255,9 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
-  
-<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br>
-	<tr>
+
+<!-- Primary 5 Form Teachers -->  
+<tr>
     <td class="tg-yhj3">P5A<br></td>
     <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</a><br></td>
 <td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
@@ -296,7 +296,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
@@ -310,9 +310,9 @@ third_nav_title: Teaching Staff
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
   </tr>
-  
-<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br>
-	<tr>
+
+<!-- Primary 6 Form Teachers -->	
+<tr>
  <td class="tg-yhj3">P6A<br></td>
  <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</a><br></td>
 <td class="tg-yhj3"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Osman Bin Rahmat Ali</a><br></td>
