@@ -181,21 +181,21 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">P3D<br></td>
 <td class="tg-yhj3"><a href="mailto:tan_shi_qi_christine@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Christine Tan Shi Qi</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:muhammad_hafiz_mohamed_osm@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Hafiz Bin Mohamed Osman</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P3E<br></td>
 <td class="tg-yhj3"><a href="mailto:chen_qiuru@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chen Qiuru</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:syaza_amirah_azlan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Syaza Amirah Binte Azlan</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P3F<br></td>
 <td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
-<td class="tg-yhj3"><a href="mailto:see_shen_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms See Shen Leng</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Alifah Binte Samsudin</a><br></td>
 </tr>
 </tbody>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
