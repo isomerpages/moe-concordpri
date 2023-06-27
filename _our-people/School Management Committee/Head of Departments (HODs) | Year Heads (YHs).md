@@ -37,9 +37,9 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">siti_rianawati_shukor@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Rozianah Bte Ibrahim<br></td>
-    <td class="tg-yhj3"> HOD ICT</td>
-    <td class="tg-o5fr"><a href="mailto:rozianah_ibrahim@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">rozianah_ibrahim@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Miss Norishah Binte Anwar<br></td>
+    <td class="tg-yhj3"> HOD ICT (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Miss Joyce Fang Bee Hoon<br></td>
@@ -58,7 +58,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3"> Mr Muhammad Osman Bin Rahmat Ali</td>
-    <td class="tg-yhj3"> HOD Character& Citizenship Education (CCE)<br></td>
+    <td class="tg-yhj3"> HOD Character&amp; Citizenship Education (CCE)<br></td>
     <td class="tg-o5fr"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>muhammad_osman_rahmat_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
@@ -69,8 +69,7 @@ third_nav_title: School Management Committee
   <tr>
     <td class="tg-yhj3">Mrs Noelle Chong-Yee Lai Wan<br></td>
     <td class="tg-yhj3">Year Head Lower Primary<br></td>
-    <td class="tg-yhj3"><a
-			href="mailto:chong-yee_lai_wan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chong-yee_lai_wan@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3"><a href="mailto:chong-yee_lai_wan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chong-yee_lai_wan@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3"> Mdm Quek Bee Ha</td>
