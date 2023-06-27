@@ -29,8 +29,7 @@ third_nav_title: School Management Committee
   <tr>
     <td class="tg-yhj3">Miss Maslina Bte Nis Bee<br></td>
     <td class="tg-yhj3">LH English Language<br></td>
-			<td class="tg-o5fr"><a
-													 href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
+			<td class="tg-o5fr"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nur Eva Binte Jailani<br></td>
@@ -88,9 +87,9 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nur_jihan_kahar@moe.edu.sg</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-yhj3">Miss Norishah Binte Anwar </td>
-    <td class="tg-yhj3">AYH Upper Primary </td>
-    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a></td>
+    <td class="tg-yhj3">Mr See Kai Wen</td>
+    <td class="tg-yhj3">AYH Upper Primary (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:see_kai_wen@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">see_kai_wen@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
