@@ -47,11 +47,6 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">fang_bee_hoon@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mdm Sharon Goh Hsuan Lin</td>
-    <td class="tg-yhj3"> HOD PE, CCA &amp; Aesthetics<br></td>
-    <td class="tg-o5fr"><a href="mailto:sharon_goh_hsuan_lin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">sharon_goh_hsuan_lin@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
     <td class="tg-yhj3"> Mr Tay Soo Hong</td>
     <td class="tg-yhj3"> HOD Science</td>
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
