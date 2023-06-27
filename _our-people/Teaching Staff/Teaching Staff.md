@@ -108,7 +108,6 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">P2D<br></td>
-<td class="tg-yhj3"><a href="mailto:teo_tze_yue_joy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Teo Tze Yue, Joy</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nithiya_krishnasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nithiya d/o Krishnasamy</a><br></td>
 </tr>
