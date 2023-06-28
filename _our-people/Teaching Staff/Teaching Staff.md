@@ -205,8 +205,8 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
-<br>
-<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
+<br><br>
+<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
@@ -221,7 +221,7 @@ third_nav_title: Teaching Staff
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-  </tr>
+ </tr>
   
 <!-- Primary 4 Form Teachers -->
 <tr>
@@ -262,8 +262,8 @@ third_nav_title: Teaching Staff
 </tr>
 </tbody>
 </table>
-<br>	
-<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br>
+<br><br>	
+<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 	
@@ -274,12 +274,12 @@ third_nav_title: Teaching Staff
 <col style="width: 240px">
 </colgroup>
 <tbody>
-  <tr>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-  </tr>
+<tr>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+</tr>
 
 <!-- Primary 5 Form Teachers -->  
 <tr>
@@ -320,8 +320,8 @@ third_nav_title: Teaching Staff
 </tr>
 </tbody>
 </table>
-<br>
-<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br>
+<br><br>
+<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
