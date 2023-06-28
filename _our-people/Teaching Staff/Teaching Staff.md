@@ -84,7 +84,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
-<br><br><span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br>
+<br><span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 
@@ -155,7 +155,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
+<br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 
@@ -205,7 +205,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
-<br><br>
+<br>
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
@@ -262,7 +262,7 @@ third_nav_title: Teaching Staff
 </tr>
 </tbody>
 </table>
-<br><br>	
+<br>	
 <span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
@@ -320,7 +320,7 @@ third_nav_title: Teaching Staff
 </tr>
 </tbody>
 </table>
-<br><br>
+<br>
 <span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
