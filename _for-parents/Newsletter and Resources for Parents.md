@@ -147,7 +147,7 @@ description: ""
 <br><br><a href="/files/Parent%20Engagement%20Resource_Term%202.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Praise your child. Do it right. Do it well.</span></a>
 <br><br><a href="/files/Term%203_How%20to%20Study%20Effectively.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">How to study effectively</span></a>
 <br><br><a href="/files/recognising%20and%20talking%20about%20stress.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">Recognising and talking about stress</span></a>
-<br><br><a href="/files/school%20age%20screen%20time_tips%20for%20balance.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">School Age Screen time - Tips for Balance</span></a></td>
+<br><br><a href="/files/school%20age%20screen%20time_tips%20for%20balance.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FD6500">School Age Screen Time Tips for Balance</span></a></td>
 </tr>
 </tbody>
 </table>
