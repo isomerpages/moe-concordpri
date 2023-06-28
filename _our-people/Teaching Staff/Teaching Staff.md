@@ -14,7 +14,7 @@ third_nav_title: Teaching Staff
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
@@ -84,8 +84,7 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
-<br>
-<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br>
+<br><br><span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 
@@ -156,9 +155,9 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br>
+<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 
 <colgroup>
 <col style="width: 80px">
@@ -203,9 +202,10 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Alifah Binte Samsudin</a><br></td>
 </tr>
+
 </tbody>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
