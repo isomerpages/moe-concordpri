@@ -202,9 +202,9 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Alifah Binte Samsudin</a><br></td>
 </tr>
-
 </tbody>
 </table>
+
 <br>
 <span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
 
