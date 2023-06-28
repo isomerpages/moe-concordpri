@@ -157,7 +157,7 @@ third_nav_title: Teaching Staff
 			
 <br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br>
 
-<br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 
 <colgroup>
 <col style="width: 80px">
