@@ -14,7 +14,9 @@ third_nav_title: Teaching Staff
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -37,32 +39,32 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
 </tr>
 <tr>
-    <td class="tg-yhj3">P1B<br></td>
-    <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</a><br></td>
+   <td class="tg-yhj3">P1B<br></td>
+   <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</a><br></td>
 		<td class="tg-yhj3"><a href="mailto:liao_han@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Liao Han</a><br></td>
 	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">P1C<br></td>
-    <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</a><br></td>
+</tr>
+<tr>
+  <td class="tg-yhj3">P1C<br></td>
+  <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</a><br></td>
 <td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
-	<tr>
-    <td class="tg-yhj3">P1D<br></td>
-    <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</a><br></td>
-	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
+<tr>
+  <td class="tg-yhj3">P1D<br></td>
+  <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:siti_mariam_mohd_amin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Mariam Binte Mohd Amin</a><br></td>
+<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
-	<tr>
-    <td class="tg-yhj3">P1E<br></td>
-    <td class="tg-yhj3"><a href="mailto:siti_aishah_hussain@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Aishah Bte Hussain</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:teng_yue_ting@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Teng Yue Ting</a><br></td>
-	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
- </tr>
-	<tr>
-    <td class="tg-yhj3">P1F<br></td>
-    <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</a><br></td>
+<tr>
+  <td class="tg-yhj3">P1E<br></td>
+  <td class="tg-yhj3"><a href="mailto:siti_aishah_hussain@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Aishah Bte Hussain</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:teng_yue_ting@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Teng Yue Ting</a><br></td>
+<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
+</tr>
+<tr>
+  <td class="tg-yhj3">P1F<br></td>
+  <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</a><br></td>
 	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
@@ -70,7 +72,7 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">P1G<br></td>
 <td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</a><br></td>
 <td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sabrina Yap Yan Ting</a><br></td>
-	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
+<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
 	
 <tr>
@@ -81,21 +83,26 @@ third_nav_title: Teaching Staff
 </tr>
 </tbody>
 </table>
+
 <br>
-<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+<span style="font-size:24px"><b>Primary 2 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
 <col style="width: 240px">
 <col style="width: 280px">
 </colgroup>
+
 <tbody>
-  <tr>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-  </tr>
+<tr>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+ </tr>
   
 <!-- Primary 2 Form Teachers -->	
 <tr>
@@ -149,7 +156,10 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 			
-<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<br><br><span style="font-size:24px"><b>Primary 3 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -157,9 +167,9 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
 <tr>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 </tr>
 
 <!-- Primary 3 Form Teachers -->
@@ -196,7 +206,9 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
+<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -204,11 +216,11 @@ third_nav_title: Teaching Staff
 <col style="width: 240px">
 </colgroup>
 <tbody>
-  <tr>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
-		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+<tr>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
   
 <!-- Primary 4 Form Teachers -->
@@ -251,7 +263,10 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>	
-<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
+<span style="font-size:24px"><b>Primary 5 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
+	
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -306,7 +321,9 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 <br>
-<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><br>
+
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
