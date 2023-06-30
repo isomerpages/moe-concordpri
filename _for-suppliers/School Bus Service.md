@@ -27,7 +27,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b>Email: </b><a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a><br><br>
 <b>Contact Person: </b>Ms Joan Wong
-<br><br>
+<br><br><br>
 <b style="color:blue">How to get there?</b>
 
 <b>Nearest MRT: </b>Choa Chu Kang MRT (NS4/BP1 line) – 15 minutes walking distance
