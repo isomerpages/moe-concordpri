@@ -73,8 +73,9 @@ Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
 Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br>
 Buddy Clinic @ Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+<b style="color:red">In case of emergency and school is closed, parent to contact Buddy Clinic for assistance.</b><br><br>
 <div style="text-align:left;">
-<img src="/images/dental%20clinic%20schedule%20june%2023.JPG" style="width:90%"><br></div>
+<img src="/images/dental%20clinic%20schedule%20for%20month%20of%20july%2023.JPG" style="width:90%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
