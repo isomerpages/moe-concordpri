@@ -19,7 +19,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1\. Complete the <a href="/files/application%20procedure_complete%20the%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">[Call for Proposal -Annex A]</a><br>
 
-2\. Submit the completed <b>Call for Proposal – Annex A</b> and all supporting documents by closing date, <b style="color:red"><u>11 Jul 2023</u></b> , to the School’s General Office.
+2\. Submit the completed <b>Call for Proposal – Annex A</b> and all supporting documents by <b style="color:red">closing date, <u>11 Jul 2023</u></b> , to the School’s General Office.
 
 <b>Address:</b> Concord Primary School, 3 Choa Chu Kang Ave 4, S(689814)
 
