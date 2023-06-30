@@ -18,5 +18,4 @@ links:
   - title: For Parents
     collection: for-parents
   - title: For Suppliers
-    url: /forsuppliers/schoolbusservice
-    sublinks: []
+    collection: for-suppliers
