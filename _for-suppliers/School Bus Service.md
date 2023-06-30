@@ -14,7 +14,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2.&nbsp;&nbsp;Agreement for Appointment of School Bus Operator<a href="/files/attachment%201%20call%20for%20proposals%20by%20concord%20ps%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
 3.&nbsp;&nbsp;Request for School Bus Services<a href="/files/attachment%203%20request%20for%20school%20bus%20services%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
-
+<br><br>
 <b style="color:blue">Application Procedure</b>
 
 1\. Complete the <a href="/files/application%20procedure_complete%20the%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">[Call for Proposal -Annex A]</a><br>
@@ -27,7 +27,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b>Email: </b><a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a><br><br>
 <b>Contact Person: </b>Ms Joan Wong
-
+<br><br>
 <b style="color:blue">How to get there?</b>
 
 <b>Nearest MRT: </b>Choa Chu Kang MRT (NS4/BP1 line) – 15 minutes walking distance
