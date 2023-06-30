@@ -1,0 +1,4 @@
+collections:
+  for-suppliers:
+    output: true
+    order: []
