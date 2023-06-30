@@ -25,12 +25,12 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b>Contact No: </b>6763 2139
 
-Email: concord\_ps@moe.edu.sg
+<b>Email: </b>concord\_ps@moe.edu.sg
 
-Contact Person: Ms Joan Wong&nbsp;
+<b>Contact Person: </b>Ms Joan Wong
 
 <b style="color:blue">How to get there?</b>
 
-Nearest MRT: Choa Chu Kang MRT (NS4/BP1 line) – 15 minutes walking distance
+<b>Nearest MRT: </b>Choa Chu Kang MRT (NS4/BP1 line) – 15 minutes walking distance
 
-Bus number: 300 / 983 – 3rd bus stop (opposite Concord Primary School)
+<b>Bus number: </b>300 / 983 – 3rd bus stop (opposite Concord Primary School)
