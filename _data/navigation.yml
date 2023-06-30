@@ -17,3 +17,6 @@ links:
     url: /learning-platforms/
   - title: For Parents
     collection: for-parents
+  - title: For Suppliers
+    url: /forsuppliers
+    sublinks: []
