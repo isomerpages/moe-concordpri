@@ -9,11 +9,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b style="color:blue">Service Requirements</b>
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Call for Proposal\]
+1.&nbsp;&nbsp;Call for Proposal <a href="/files/attachment%201%20call%20for%20proposals%20by%20concord%20ps%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
-&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Agreement for Appointment of School Bus Operator\]
+2.&nbsp;&nbsp;Agreement for Appointment of School Bus Operator<a href="/files/attachment%201%20call%20for%20proposals%20by%20concord%20ps%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Request for School Bus Services\]
+3.&nbsp;&nbsp;Request for School Bus Services<a href="/files/attachment%203%20request%20for%20school%20bus%20services%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
 <b style="color:blue">Application Procedure</b>
 
