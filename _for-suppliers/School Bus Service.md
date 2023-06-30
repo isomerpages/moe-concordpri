@@ -3,7 +3,6 @@ title: School Bus Service
 permalink: /for-suppliers/schoolbusservice/
 description: ""
 ---
-
 <h3>School Bus Advertisement</h3>
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
@@ -18,13 +17,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b style="color:blue">Application Procedure</b>
 
-1\. Complete the \[Call for Proposal - Annex A\]
+1\. Complete the <a href="/files/application%20procedure_complete%20the%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">[Call for Proposal -Annex A]</a><br>
 
-2\. Submit the completed **Call for Proposal – Annex A** and all supporting documents by closing date, 11 Jul 2023, to the School’s General Office.
+2\. Submit the completed <b>Call for Proposal – Annex A</b> and all supporting documents by closing date, <b style="color:red"><u>11 Jul 2023</u></b> , to the School’s General Office.
 
-Address: Concord Primary School, 3 Choa Chu Kang Ave 4, S(689814)
+<b>Address:</b> Concord Primary School, 3 Choa Chu Kang Ave 4, S(689814)
 
-Contact No: 6763 2139
+<b>Contact No: </b>6763 2139
 
 Email: concord\_ps@moe.edu.sg
 
