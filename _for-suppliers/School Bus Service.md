@@ -11,7 +11,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1.&nbsp;&nbsp;Call for Proposal <a href="/files/attachment%201%20call%20for%20proposals%20by%20concord%20ps%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
-2.&nbsp;&nbsp;Agreement for Appointment of School Bus Operator<a target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
+2.&nbsp;&nbsp;Agreement for Appointment of School Bus Operator<a href="/files/annex%20b%20_agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 
 3.&nbsp;&nbsp;Request for School Bus Services<a href="/files/attachment%203%20request%20for%20school%20bus%20services%20(version%20june%202023).pdf" target="_blank" rel="noopener noreferrer">(Click here for more information)</a><br>
 <br><br>
