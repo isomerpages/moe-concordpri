@@ -22,25 +22,21 @@ description: ""
 <tbody>
 <tr>
     <td class="tg-nrix"><img src="/images/eas1.jpeg"></td>
+	  <td class="tg-nrix"><img src="/images/mr%20frederick_om.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas3.jpeg"></td>
     <td class="tg-nrix"><img src="/images/eas4.jpeg"></td>
-   
 </tr>
 <tr>
 <td style="text-align:center" class="tg-yhj3">
 <span style="font-weight:bold"><a href="mailto:tan_yian_chye@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mr Tan Yian Chye</a></span><br>Operations Manager<br>(OM)</td>
-
-</tr><tr>
 <td style="text-align:center" class="tg-yhj3">
-<span style="font-weight:bold"><a href="mailto:tong_sio_beng@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mr Tong Sio Beng Fredrick</a></span><br>Operations Manager<br>(OM)</td>
+<span style="font-weight:bold"><a href="mailto:tong_sio_beng@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mr Tong Sio Beng</a></span><br>Operations Manager<br>(OM)</td>
 	
 <td style="text-align:center" class="tg-yhj3">
 <span style="font-weight:bold"><a href="mailto:wong_siew_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Ms Wong Siew Ling</a></span><br>Admin Manager<br>(AM)</td>
 
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:mala_ramiah@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Mala</a></span><br>Admin Executive<br>(AE)
 </td>
-
-
 </tr>
 
 <tr>
