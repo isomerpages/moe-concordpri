@@ -81,5 +81,10 @@ description: ""
 	
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>  
 </tr>
-</tbody>
+<tr>
+	<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>
+	<td style="text-align:center" class="tg-yhj3"></td>
+	<td style="text-align:center" class="tg-yhj3"></td>
+	<td style="text-align:center" class="tg-yhj3"></td>
+</tr></tbody>
 </table>
