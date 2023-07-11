@@ -3,14 +3,21 @@ title: Useful Forms
 permalink: /for-parents/useful-forms/
 description: ""
 ---
-<h4>Admin Forms</h4>
+<h4>1.&nbsp;&nbsp;Finance Assistance</h4>
 <ul>
 	<li>
-<a href="/files/form%20c%20(address%20updates).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Updating of Students' address</span></a>
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">MOE FAS </span></a>
 	</li>
 </ul>
 
-<h4>Payment Matters Forms</h4>
+<h4>Admin Forms</h4>
+<ul>
+	<li>
+<a href="/files/form%20c%20(address%20updates).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Update on family information</span></a>
+	</li>
+</ul>
+
+<h4>Payment</h4>
 <ul>
 	<li>
 <a href="/files/edusave_application_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Edusave Application Form </span></a>
@@ -20,7 +27,7 @@ description: ""
 	</li>
 </ul>
 
-<h4>School Services</h4>
+<h4>School-Based Student Care Services</h4>
 <ul>
 	<li>
 <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Big Heart Registration Form</span></a>
