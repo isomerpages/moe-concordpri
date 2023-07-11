@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - E Form.md
       - Inform Child's Absence.md
+      - E Form.md
       - Our Service Providers.md
       - P1 Parents/.keep
       - P1 Parents/Administrative Matters.md
@@ -12,10 +12,10 @@ collections:
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Traffic Management Plan.md
-      - Newsletter and Resources for Parents.md
       - Parent Support Group/.keep
       - Parent Support Group/Make a Difference @ Concord.md
       - Sexuality Education (P5 & P6).md
+      - Newsletter and Resources for Parents.md
       - School Home Partnership/.keep
       - School Home Partnership/Homework Guidelines.md
       - Term Calendar and Note.md
