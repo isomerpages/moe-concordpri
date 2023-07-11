@@ -13,8 +13,9 @@ description: ""
 </style>
 
 <!--table grid for the link table -->
-<table class="lg" style="undefined;table-layout: fixed; width: 600px">
+<table class="lg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
+<col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">
@@ -31,6 +32,8 @@ description: ""
 	<td class="lg-linkdata">
 	<a href="#studentcare-info">Student Care Centre</a><br><br>
 	<a href="#bus-service">School Bus Service</a></td>
+<td class="lg-linkdata">
+	<a href="#smart-watch-buddy">POSB Smart Buddy Watch</a><br><br></td>
 </tr>
 </tbody>
 </table>
@@ -137,6 +140,17 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services</a>
+</td>
+</tr>
+
+<!--7. POSB Smart Buddy Watch -->
+<tr>
+    <td class="tg-info">7.</td>
+    <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="smart-watch-buddy">POSB Smart Buddy Watch</span><br><br>
+		<span>For SMART watch replacement, please make replacement at:</span><br><br>
+			Smart Buddy WAtch Service Centre (c/o STYL Solutions Pte Ltd)<br><br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
+			<span style="font-weight:bold;text-decoration:underline">Operation hours:</span>
+<br><br>Monday to Friday, 9.30am to 5.30pm<br><br>Saturday, 9am to 12.30pm<br><br>Closed on Public Holiday)<br><br>
 </td>
 </tr>
 </tbody>
