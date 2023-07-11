@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - E Form.md
-      - Child's Absence.md
+      - Inform Child's Absence.md
       - Our Service Providers.md
       - P1 Parents/.keep
       - P1 Parents/Administrative Matters.md
