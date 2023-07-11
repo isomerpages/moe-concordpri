@@ -4,13 +4,10 @@ permalink: /for-parents/useful-forms/
 description: ""
 ---
 <h4>1.&nbsp;&nbsp;Finance Assistance</h4><br>
-<ul>
-	<li>
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">MOE FAS </span></a>
-	</li><br>
-	<li><span style="text-decoration:font-size:16px;">Should you not meet the MOE FAS eligibility requirements but still in need of financial assistance, please write in to <a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a>. The school will review your request on a case-by-case basis.</span>
-	</li>
-</ul>
+
+<span><ul><li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold">MOE FAS </span></a></li>
+<br><br>
+<li><span style="text-decoration:font-size:16px;">Should you not meet the MOE FAS eligibility requirements but still in need of financial assistance, please write in to <a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a>. The school will review your request on a case-by-case basis.</span></li>
 
 <h4>Admin Forms</h4>
 <ul>
@@ -34,4 +31,4 @@ description: ""
 	<li>
 <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Big Heart Registration Form</span></a>
 	</li>
-	</ul>
+	</ul></ul></span>
