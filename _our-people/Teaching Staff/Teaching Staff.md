@@ -66,7 +66,7 @@ third_nav_title: Teaching Staff
   <td class="tg-yhj3">P1F<br></td>
   <td class="tg-yhj3"><a href="mailto:toh_sze_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Felicia Toh Tze Hui</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nurul_syuadah_kadar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurul Syuadah Bte Kadar</a><br></td>
-	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
+	<td class="tg-yhj3"><a href="mailto:nur_rasyiqah_syakirah_roslan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Nur Rasyiqah Syakirah Binte Roslan</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P1G<br></td>
