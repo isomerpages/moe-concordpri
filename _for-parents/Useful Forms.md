@@ -31,7 +31,7 @@ description: ""
 	<li>
 <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Big Heart Registration Form</span></a>
 	</li>
-	</ul></span>
+	</ul>
 	
 
 <h5>2. Finance Assistance</h5>
@@ -55,4 +55,4 @@ description: ""
 </p><ul>
 <li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
 <li>Wan Mika <b style="color:#9900FF"> (Bronze)</b></li>
-</ul>
+</ul></span>
