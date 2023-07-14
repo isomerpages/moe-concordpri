@@ -32,3 +32,34 @@ description: ""
 <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Big Heart Registration Form</span></a>
 	</li>
 	</ul></span>
+	
+
+<h5>2. Singapore Primary Science Olympiad</h5>
+<br>
+<p><b style="color:#3333FF">Year 2022 winners:</b>
+
+</p><ul>
+<li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
+<li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Deselva Myrtle Delicia <b style="color:#9900FF"> (Participation)</b></li>
+<li>Farhan Shahul Hameed <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lim Sooji <b style="color:#9900FF"> (Participation)</b></li>
+<li>Lin Ting Xuan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Mohamed Radhi Hamzah Bin Mohamed Ramdan <b style="color:#9900FF"> (Participation)</b></li>
+<li>Titus Soh Yu Miao <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Wan Mika <b style="color:#9900FF"> (Bronze)</b></li>
+</ul>
+
+<p><b style="color:#3333FF">Year 2021 winners:</b>
+
+</p><ul>
+<li>Lim Jun Yu<b style="color:#9900FF"> (Silver)</b></li>
+<li>Su Junrui<b style="color:#9900FF"> (Silver)</b></li>
+<li>Vinodh Babu Dheepta<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Lin Weizhe<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Raja Vivegan<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Olivier Desroches<b style="color:#9900FF"> (Merit)</b></li>
+<li>Nishka Poddar<b style="color:#9900FF"> (Bronze)</b></li>
+<li>Zhao Xiaoyu<b style="color:#9900FF"> (Merit)</b></li>
+<li>Chua Jia Xuan Sherinen<b style="color:#9900FF"> (Merit)</b></li>
+</ul>
