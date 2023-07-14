@@ -36,11 +36,6 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Art</td>
     <td class="tg-o5fr"><a href="mailto:stanley_chin_ming_sing@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">stanley_chin_ming_sing@moe.edu.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-yhj3"> Mdm Pang Kah Kah</td>
-    <td class="tg-yhj3"> Chinese Language </td>
-     <td class="tg-o5fr"><a href="mailto:pang_kah_kah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">pang_kah_kah@moe.edu.sg</span></a><br></td>
-	</tr>
 	 <tr>
     <td class="tg-yhj3"> Mdm Liew Yu Jia</td>
     <td class="tg-yhj3"> Chinese Language </td>
@@ -85,11 +80,6 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
     <td class="tg-yhj3">Music </td>
    <td class="tg-o5fr"><a href="mailto:thang_cheong_foong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">thang_cheong_foong@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Joyce Chen Ziwei </td>
-    <td class="tg-yhj3">Music </td>
-   <td class="tg-o5fr"><a href="mailto:chen_ziwei_joyce@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">chen_ziwei_joyce@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Ow Tong Lan Connie</td>
