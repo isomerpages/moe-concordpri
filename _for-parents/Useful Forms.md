@@ -36,7 +36,7 @@ description: ""
 
 <h5>1. Finance Assistance</h5>
 <ul>
-<li>MOE FAS page</li>
+<li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">MOE FAS</a> page</li>
 <li>Should you not meet the MOE FAs eligibility requirements but still in need of financial assistance, please write in to concord_ps@moe.edu.sg. The school will review your request on a case-by-case basis.</li>
 </ul>
 
