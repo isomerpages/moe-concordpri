@@ -144,7 +144,7 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">P2G<br></td>
  <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie, Eunice</a><br></td>
 <td class="tg-yhj3"><a href="mailto:toh_li_hiong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Toh Li Hiong</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:loy_xue_ying@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loy Xue Ying</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2H<br></td>
