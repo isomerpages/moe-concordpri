@@ -71,6 +71,11 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"> Mathematics</td>
     <td class="tg-o5fr"><a href="mailto:wong_lye_hoong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_lye_hoong@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Mrs Lim - Kwek Yen Ping</td>
+    <td class="tg-yhj3"> Mathematics</td>
+    <td class="tg-o5fr"><a href="mailto:lim-kwek_yen_ping@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lim-kwek_yen_ping@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
     <td class="tg-yhj3">Music </td>
