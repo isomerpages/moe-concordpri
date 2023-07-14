@@ -68,7 +68,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nithiya d/o Krishnasamy </td>
-    <td class="tg-yhj3"> SH ICT</td>
+    <td class="tg-yhj3"> SH Information &amp; Communications Technology (ICT)</td>
     <td class="tg-o5fr"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nithiya_krishnasamy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
