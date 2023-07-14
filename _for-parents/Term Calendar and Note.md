@@ -105,9 +105,9 @@ description: ""
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%202%20week%2010.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #05</a></td>
 </tr>
 <tr>
-<td class="tg-ppzb"></td>
-<td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%202_edited.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #06</a></td>
+<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/lp%20newsletter%20issue%206.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #06</a></td>
 </tr>
 </tbody>
 </table>
