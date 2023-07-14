@@ -15,7 +15,7 @@ sections:
         - title: School Calendar, Term Note and Newsletters
           description: ""
           url: /for-parents/term-calendar-and-note/
-        - title: Newsletter
+        - title: Holidays and  school closures
           description: ""
           url: /for-parents/newsletter/
 ---
