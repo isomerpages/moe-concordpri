@@ -31,6 +31,11 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Art</td>
     <td class="tg-o5fr"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">nornizah_hamzah@moe.edu.sg</span></a><br></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Mr Stanley Chin Ming Sing<br></td>
+    <td class="tg-yhj3">Art</td>
+    <td class="tg-o5fr"><a href="mailto:stanley_chin_ming_sing@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">stanley_chin_ming_sing@moe.edu.sg</span></a><br></td>
+  </tr>
   <tr>
     <td class="tg-yhj3"> Mdm Pang Kah Kah</td>
     <td class="tg-yhj3"> Chinese Language </td>
