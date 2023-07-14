@@ -39,7 +39,12 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-yhj3"> Mdm Pang Kah Kah</td>
     <td class="tg-yhj3"> Chinese Language </td>
-     <td class="tg-o5fr"><a href="mailto:pang_kah_kah@moe.edu.sg@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">pang_kah_kah@moe.edu.sg</span></a><br></td>
+     <td class="tg-o5fr"><a href="mailto:pang_kah_kah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">pang_kah_kah@moe.edu.sg</span></a><br></td>
+	</tr>
+	 <tr>
+    <td class="tg-yhj3"> Mdm Liew Yu Jia</td>
+    <td class="tg-yhj3"> Chinese Language </td>
+     <td class="tg-o5fr"><a href="mailto:liew_yu_jia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">liew_yu_jia@moe.edu.sg</span></a><br></td>
 	</tr>
   <tr>
     <td class="tg-yhj3"> Mdm Huzaimah Binte Ahmad</td>
