@@ -81,6 +81,11 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3"> SH Student Wellbeing</td>
     <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zarinah_zainal@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3"> Mdm Lee Yi Ling</td>
+    <td class="tg-yhj3"> SH Student Leadership (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">lee_yi_ling@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
     <td class="tg-yhj3">AYH Lower Primary </td>
