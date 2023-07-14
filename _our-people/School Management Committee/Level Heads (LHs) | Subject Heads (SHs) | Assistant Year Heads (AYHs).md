@@ -53,7 +53,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mr T S Charleston s/o VN </td>
-    <td class="tg-yhj3">SH CCA </td>
+    <td class="tg-yhj3">SH Co-Curricular Activities (CCA)</td>
     <td class="tg-o5fr"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">ts_charleston@moe.edu.sg</span></a></td>
   </tr>
   <tr>
