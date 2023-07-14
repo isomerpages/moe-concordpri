@@ -108,7 +108,7 @@ third_nav_title: Teaching Staff
  <td class="tg-yhj3">P2A<br></td>
  <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</a><br></td>
 <td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:koh_pek_song_andy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Koh Pek Song, Andy</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2B<br></td>
