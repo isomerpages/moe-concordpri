@@ -17,5 +17,5 @@ sections:
           url: /for-parents/term-calendar-and-note/
         - title: Holidays and  school closures
           description: ""
-          url: /for-parents/newsletter/
+          url: /for-parents/holidays-and-school-closures/
 ---
