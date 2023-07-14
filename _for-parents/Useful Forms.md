@@ -43,7 +43,7 @@ description: ""
 <h5>2. DigitalAccess@ Home Application</h5>
 <ul>
 <li>DigitalAccess@Home provides subsidised broadband and laptops/ tablets to lower-income households to support their lifestyle needs, including work and social activities.</li>
-<li>To apply, please refer to IMDA website: <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" target="_blank" rel="noopener noreferrer">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> .</li>
+<li>To apply, please refer to IMDA website:<br><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" target="_blank" rel="noopener noreferrer">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> .</li>
 </ul>
 
 <h5>3. Update on family information</h5>
