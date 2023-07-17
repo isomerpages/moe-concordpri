@@ -53,7 +53,7 @@ description: ""
 <li><a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer">Big Heart Registration Form</a></li>
 </ul>
 
-<h5>6. School Wait List Application (https://go.gov.sg/cpswaitlist)</h5>
+<h5>6. School Wait List Application</h5>
 <ul>
 <li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a></li>
 </ul>
