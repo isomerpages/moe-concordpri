@@ -16,7 +16,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-yhj7"><b>Event</b><br></td>
+    <td class="tg-yhj7"><b>Events</b><br></td>
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
   <tr>
