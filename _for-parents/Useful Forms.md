@@ -48,8 +48,8 @@ description: ""
 
 <h5>3. Update on family information</h5>
 <ul>
-<li>For change in address, please download and return the signed copy to the General Office. https://www.concordpri.moe.edu.sg/files/form%20c%20(address%20updates).pdf</li>
-<li>For updates on other information e.g. child's medical condition, contact numbers, custody matters, please inform your child's Form Teachers directly.</li>
+<li>To update the school of any changes  in you r child's details (e.g. medical condition, contact numbers and residential address),  please inform through the Students Details Form (SDF)<br>(<a href="https://pg.moe.edu.sg/forms/sdf" target="_blank" rel="noopener noreferrer">https://pg.moe.edu.sg/forms/sdf</a>)<br></li>
+<li>Please inform your child's Form Teachers directly if there is a custody and/or care and control order pertaining to your child.</li>
 </ul>
 
 <h5>4. Payment</h5>
