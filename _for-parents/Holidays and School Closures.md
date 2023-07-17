@@ -23,6 +23,10 @@ description: ""
     <td class="tg-yhj8">Day after National Day<br></td>
     <td class="tg-yhj8">Thursday, 10 August 2023<br></td>
   </tr>
+	<tr>
+    <td class="tg-yhj8">PSLE Oral<br></td>
+    <td class="tg-yhj8">Tuesday, 15 August 2023<br>Wednesday. 16 August 2023</td>
+  </tr>
   <tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 1 September 2023<br></td>
