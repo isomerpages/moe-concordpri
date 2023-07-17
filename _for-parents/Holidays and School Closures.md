@@ -39,6 +39,5 @@ description: ""
     <td class="tg-yhj8">Children's Day<br></td>
     <td class="tg-yhj8">6 October 2023<br></td>
   </tr>
-  
 </tbody>
 </table>
