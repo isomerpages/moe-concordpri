@@ -20,16 +20,16 @@ description: ""
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
   <tr>
-    <td class="tg-yhj8">P5/Term 1<br></td>
-    <td class="tg-yhj8">Fried Rice<br></td>
+    <td class="tg-yhj8">Day after National Day<br></td>
+    <td class="tg-yhj8">Thursday, 10 August 2023<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj8">P3/Term 2<br></td>
-    <td class="tg-yhj8">Pancake<br></td>
+    <td class="tg-yhj8">Teachers' Day<br></td>
+    <td class="tg-yhj8">Friday, 1 September 2023<br></td>
   </tr>
   <tr>
-    <td class="tg-yhj8">P4/Term 2<br></td>
-    <td class="tg-yhj8">Cupcake<br></td>
+    <td class="tg-yhj8">Children's Day<br></td>
+    <td class="tg-yhj8">6 October 2023<br></td>
   </tr>
   <tr>
     <td class="tg-yhj8">P2/Term 3<br></td>
