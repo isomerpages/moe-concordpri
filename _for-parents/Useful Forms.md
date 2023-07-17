@@ -24,7 +24,7 @@ description: ""
 
 <h5>3. Update on family information</h5>
 <ul>
-<li>To update the school of any changes  in you r child's details (e.g. medical condition, contact numbers and residential address),  please inform through the Students Details Form (SDF)<br>(<a href="https://pg.moe.edu.sg/forms/sdf" target="_blank" rel="noopener noreferrer">https://pg.moe.edu.sg/forms/sdf</a>)<br></li>
+<li>To update the school of any changes  in you r child's details (e.g. medical condition, contact numbers and residential address),  please inform through the Students Details Form (SDF)<br><a href="https://pg.moe.edu.sg/forms/sdf" target="_blank" rel="noopener noreferrer"><img src="/images/sdfform.png" style="width:25%" align="center"></a></li>
 <li>Please inform your child's Form Teachers directly if there is a custody and/or care and control order pertaining to your child.</li>
 </ul>
 
