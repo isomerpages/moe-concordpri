@@ -16,16 +16,6 @@ description: ""
 	</li>
 </ul>
 
-<h4>Payment</h4>
-<ul>
-	<li>
-<a href="/files/edusave_application_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Edusave Application Form </span></a>
-	</li>
-	<li>
-		<a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">GIRO Termination Form </span></a>
-	</li>
-</ul>
-
 <h4>School-Based Student Care Services</h4>
 <ul>
 	<li>
@@ -54,18 +44,16 @@ description: ""
 
 <h5>4. Payment</h5>
 <ul>
-<li>For change in address, please download and return the signed copy to the General Office. https://www.concordpri.moe.edu.sg/files/form%20c%20(address%20updates).pdf</li>
-<li>For updates on other information e.g. child's medical condition, contact numbers, custody matters, please inform your child's Form Teachers directly.</li>
+<li><a href="/files/edusave_application_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer">Edusave Application Form</a></li>
+<li><a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer">GIRO Termination Form</a></li>
 </ul>
 
 <h5>5. School-Based Student Care Services</h5>
 <ul>
-<li>For change in address, please download and return the signed copy to the General Office. https://www.concordpri.moe.edu.sg/files/form%20c%20(address%20updates).pdf</li>
-<li>For updates on other information e.g. child's medical condition, contact numbers, custody matters, please inform your child's Form Teachers directly.</li>
+<li><a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="noopener noreferrer">Big Heart Registration Form</a></li>
 </ul>
 
 <h5>6. School Wait List Application (https://go.gov.sg/cpswaitlist)</h5>
 <ul>
-<li>For change in address, please download and return the signed copy to the General Office. https://www.concordpri.moe.edu.sg/files/form%20c%20(address%20updates).pdf</li>
-<li>For updates on other information e.g. child's medical condition, contact numbers, custody matters, please inform your child's Form Teachers directly.</li>
+<li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a></li>
 </ul>
