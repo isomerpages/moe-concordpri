@@ -31,21 +31,14 @@ description: ""
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 1 September 2023<br></td>
   </tr>
+	 <tr>
+    <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
+    <td class="tg-yhj8">Friday, 15 September 2023<br></td>
+  </tr>
   <tr>
     <td class="tg-yhj8">Children's Day<br></td>
     <td class="tg-yhj8">6 October 2023<br></td>
   </tr>
-  <tr>
-    <td class="tg-yhj8">P2/Term 3<br></td>
-    <td class="tg-yhj8">Muffin<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj8">P1/Term 3<br></td>
-    <td class="tg-yhj8">Cookies<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj8">P6/Term 4<br></td>
-    <td class="tg-yhj8">3-course Meal</td>
-  </tr>
+  
 </tbody>
 </table>
