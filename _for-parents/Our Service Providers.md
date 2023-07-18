@@ -150,7 +150,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 		<span>For SMART watch replacement, please make replacement at:</span><br><br>
 			Smart Buddy Watch Service Centre (c/o STYL Solutions Pte Ltd)<br><br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
 			<span style="font-weight:bold;text-decoration:underline">Operation hours:</span>
-<br><br>Monday to Friday, 9.30am to 5.30pm<br><br>Saturday, 9am to 12.30pm<br><br>Closed on Public Holiday)<br><br>
+<br><br>Monday to Friday, 9.30am to 5.30pm<br><br>Saturday, 9am to 12.30pm<br><br><b>(Closed on Public Holiday)</b><br><br>
 </td>
 </tr>
 </tbody>
