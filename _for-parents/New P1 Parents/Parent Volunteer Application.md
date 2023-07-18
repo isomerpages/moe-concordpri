@@ -2,7 +2,7 @@
 title: Parent Volunteer Application
 permalink: /for-parents/parent-volunteer-application/
 description: ""
-third_nav_title: P1 Parents
+third_nav_title: New P1 Parents
 ---
 <b>2024 PRIMARY ONE (P1) REGISTRATION EXERCISE FOR ADMISSION TO P1 IN 2025</b>
 <br><br>

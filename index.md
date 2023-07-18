@@ -12,10 +12,10 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/2023/
-        - title: School Calendar & Term Note
+        - title: School Calendar, Term Note and Newsletters
           description: ""
           url: /for-parents/term-calendar-and-note/
-        - title: Newsletter
+        - title: Holidays and  school closures
           description: ""
-          url: /for-parents/newsletter/
+          url: /for-parents/holidays-and-school-closures/
 ---

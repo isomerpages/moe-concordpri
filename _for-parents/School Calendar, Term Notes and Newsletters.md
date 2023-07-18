@@ -1,8 +1,58 @@
 ---
-title: Newsletter and Resources for Parents
-permalink: /for-parents/newsletter/
+title: School Calendar, Term Notes and Newsletters
+permalink: /for-parents/term-calendar-and-note/
 description: ""
 ---
+<p>Please download the following for your reference.
+<br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xuj5{background-color:#F2F9FF;color:#3D85C6;text-align:center;vertical-align:top}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 1 Calendar</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 2 Calender</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 3 Calendar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xuj5"><a href="/files/T1_Parents Calendar_2023 V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 1 Calendar</a><br></td>
+    <td class="tg-xuj5"><a href="/files/T2_Parents%20Calendar_2023%20V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Calendar</a><br></td>
+    <td class="tg-xuj5"><a href="/files/t3_parents%20calendar_2023.pdf" target="_blank" rel="noopener noreferrer">2023 Term 3 Calendar</a></td>
+</tr>
+</tbody>
+</table>
+<br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xuj5{background-color:#F2F9FF;color:#3D85C6;text-align:center;vertical-align:top}
+.tg .tg-ocgv{background-color:#FD7E00;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ocgv"><span style="color:#F2F9FF">Term 1 Note</span></td>
+    <td class="tg-ocgv"><span style="color:#F2F9FF">Term 2 Note</span></td>
+    <td class="tg-ocgv"><span style="color:#F2F9FF;">Term 3 Note</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xuj5"><a href="/files/2023%20CPS%20Term%20Note%20-%20Term%201.pdf" target="_blank" rel="noopener noreferrer">2023 Term 1 Note</a><br></td>
+   <td class="tg-xuj5"><a href="/files/2023%20cps%20term%20note%20-%20term%202.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Note</a><br></td>
+    <td class="tg-xuj5">-</td>
+</tr>
+</tbody>
+</table></p>
+
 <h3>2023 Newsletter for Parents</h3>
 
 <style type="text/css">
@@ -55,9 +105,14 @@ description: ""
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%202%20week%2010.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #05</a></td>
 </tr>
 <tr>
-<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/lp%20newsletter%20issue%206.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #06</a></td>
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%202_edited.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #06</a></td>
+</tr>
+<tr>
+<td class="tg-ppzb"></td>
+<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%205_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #07</a></td>
 </tr>
 </tbody>
 </table>

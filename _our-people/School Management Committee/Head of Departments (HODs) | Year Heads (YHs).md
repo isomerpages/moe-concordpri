@@ -36,9 +36,14 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">HOD English Language</td>
     <td class="tg-o5fr"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">siti_rianawati_shukor@moe.edu.sg</span></a><br></td>
   </tr>
+	 <tr>
+    <td class="tg-yhj3">Mdm Teoh Kah Min<br></td>
+    <td class="tg-yhj3">HOD Mother Tongue Languages</td>
+    <td class="tg-o5fr"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">teoh_kah_min@moe.edu.sg</span></a><br></td>
+  </tr>
   <tr>
     <td class="tg-yhj3">Miss Norishah Binte Anwar<br></td>
-    <td class="tg-yhj3"> HOD ICT (Internal)</td>
+    <td class="tg-yhj3"> HOD Information &amp; Communications Technology (ICT) (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a> </td>
   </tr>
   <tr>

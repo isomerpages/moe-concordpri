@@ -1,5 +1,5 @@
 ---
-title: MOE ICT Platform
+title: MOE ICT Platforms
 permalink: /for-parents/permalink/moe-ict-platform/
 description: ""
 ---

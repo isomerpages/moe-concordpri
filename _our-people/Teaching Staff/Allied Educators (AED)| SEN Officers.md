@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Yow Jit Sin</td>
-    <td class="tg-yhj3">Senior SEN Officer </td>
+    <td class="tg-yhj3">Lead SEN Officer </td>
     <td class="tg-o5fr"><a href="mailto:yow_jit_sin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yow_jit_sin@moe.edu.sg</span></a></td>
   </tr>
 	<tr>

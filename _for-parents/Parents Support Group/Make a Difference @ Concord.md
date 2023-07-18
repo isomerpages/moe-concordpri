@@ -2,7 +2,7 @@
 title: Make a Difference @ Concord
 permalink: /for-parents/parent-support-group/psg/
 description: ""
-third_nav_title: Parent Support Group
+third_nav_title: Parents Support Group
 ---
 <img src="/images/mad_psg.jpeg" style="width:50%">
 <br>

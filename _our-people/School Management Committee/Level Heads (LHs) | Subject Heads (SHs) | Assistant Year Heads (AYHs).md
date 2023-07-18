@@ -41,6 +41,11 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">LH Science </td>
     <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Miss Huang Kaixin</td>
+    <td class="tg-yhj3">SH Chinese Language (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-yhj3"> Miss Felicia Toh Sze Hui</td>
     <td class="tg-yhj3"> SH Aesthetics</td>
@@ -48,7 +53,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mr T S Charleston s/o VN </td>
-    <td class="tg-yhj3">SH CCA </td>
+    <td class="tg-yhj3">SH Co-Curricular Activities (CCA)</td>
     <td class="tg-o5fr"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">ts_charleston@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -63,7 +68,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Nithiya d/o Krishnasamy </td>
-    <td class="tg-yhj3"> SH ICT</td>
+    <td class="tg-yhj3"> SH Information &amp; Communications Technology (ICT)</td>
     <td class="tg-o5fr"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nithiya_krishnasamy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -75,6 +80,11 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3"> Mdm Zarinah Binte Zainal</td>
     <td class="tg-yhj3"> SH Student Wellbeing</td>
     <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zarinah_zainal@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3"> Mdm Lee Yi Ling</td>
+    <td class="tg-yhj3"> SH Student Leadership (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">lee_yi_ling@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
