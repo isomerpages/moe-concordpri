@@ -64,29 +64,29 @@ description: ""
 </tr>
  <tr>
     <td class="tg-nrix"><img src="/images/eas8.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/Gazali_VER2.jpg"></td>
-		<td class="tg-nrix"><img src="/images/test12.jpg"></td>
+    <td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
 	 <td class="tg-nrix"><img src="/images/eas9.jpeg"></td>
+	 <td class="tg-nrix"><img src="/images/test12.jpg"></td>
  </tr>
 <tr>
 <td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold"><a href="mailto:lum_git_har@moe.edu.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Miss Dawn Lum</a></span><br>Corporate Support Officer (CSO)
 </td>
 
-<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mr Gazali</span><br>Desktop Engineer<br>
-</td>
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>
 
-<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Siti Razilah</span><br>ICT Support Staff<br>
-</td>
-	
 <td style="text-align:center" class="tg-yhj3">
 <span style="font-weight:bold"><a href="mailto:Zarina.Munaris@staff.spydus.com.sg" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1ABC9C">Mdm Zarina</a></span><br>Librarian<br>
 </td>
+	
+<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Siti Razilah</span><br>ICT Support Staff<br>
+</td>
+</tr>
+
+<tr>
+	<td class="tg-nrix"><img src="/images/Gazali_VER2.jpg"></td>
 </tr>
 <tr>
-		<td class="tg-nrix"><img src="/images/eas13v2.jpg"></td>
-</tr>
-<tr>
-	<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mdm Suzana</span><br>Receptionist<br></td>
+	<td style="text-align:center" class="tg-yhj3"><span style="font-weight:bold;color:#1ABC9C">Mr Gazali</span><br>Desktop Engineer<br></td>
 	<td style="text-align:center" class="tg-yhj3"></td>
 	<td style="text-align:center" class="tg-yhj3"></td>
 	<td style="text-align:center" class="tg-yhj3"></td>
