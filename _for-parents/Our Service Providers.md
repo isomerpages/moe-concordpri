@@ -75,7 +75,9 @@ Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.
 Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
 Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br>
-Buddy Clinic @ Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+<b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
+South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
 <b style="color:red">In case of emergency and school is closed, parent to contact Buddy Clinic for assistance.</b><br><br>
 <div style="text-align:left;">
 <img src="/images/dental%20clinic%20schedule%20for%20month%20of%20july%2023.JPG" style="width:90%"><br></div>
