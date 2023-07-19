@@ -79,7 +79,7 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
 </p><p>Following which, you can do any of the following:
 <br>
-1) Complete the form: <a href="https://go.gov.sg/concordsls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a>
+1) Complete the form: <a href="https://go.gov.sg/concordsls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordslshelpdesk</b></span></a>
 <br>
 2) Email school SLS Administrator:&nbsp;<a href="mailto:norhafizah_pungut@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>norhafizah_pungut@schools.gov.sg</b></span></a>
 <br>
