@@ -26,7 +26,10 @@ description: ""
 	<tr>
     <td class="tg-yhj8">Chinese New Year<br></td>
     <td class="tg-yhj8">Sunday, 22 January 2023<br>to<br>Monday, 23 January 2023<br><b style="color:blue"><em>(Tuesday, 24 January 2023 will<br>be a Public Holiday)</em></b></td>
-  </tr>
+ </tr>
+<tr><td class="tg-yhj8"><b style="color:#FF7F50">March<br>School Holiday<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 11 March 2023<br>to<br>Sunday, 19 March 2023</b></td>
+</tr>
 		<tr>
     <td class="tg-yhj8">Good Friday<br></td>
     <td class="tg-yhj8">Friday, 7 April 2023<br>
@@ -38,8 +41,11 @@ description: ""
 	<tr>
     <td class="tg-yhj8">Labour Day<br></td>
     <td class="tg-yhj8">Monday, 1 May 2023<br>
-	</td></tr>
-	<tr>
+	</td>
+	</tr>
+	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Middle of School Year<br>School Holiday<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 27 May 2023<br>to<br>Sunday, 25 June 2023</b></td>
+	</tr><tr>
     <td class="tg-yhj8">Vesak Day<br></td>
     <td class="tg-yhj8">Friday, 2 June 2023<br>
 	</td></tr>
