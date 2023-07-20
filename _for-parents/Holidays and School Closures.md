@@ -15,10 +15,10 @@ description: ""
 </style>
 <!--<table class="tg">-->
 	
-<table class="tg" style="undefined; table-layout: fixed; width: 390px">
+<table class="tg" style="undefined; table-layout: fixed; width: 500px">
 <colgroup>
 <col style="width: 150px">
-	<col style="width: 240px">
+	<col style="width: 350px">
 </colgroup>
 
 <tbody>
