@@ -19,6 +19,38 @@ description: ""
     <td class="tg-yhj7"><b>Events</b><br></td>
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
+	<tr>
+    <td class="tg-yhj8">New Year's Day<br></td>
+    <td class="tg-yhj8">Sunday, 1 January 2023<br></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj8">Chinese New Year<br></td>
+    <td class="tg-yhj8">Sunday, 22 January 2023<br>to<br>Monday, 23 January 2023<br><b style="color:blue"><em>(Tuesday, 24 January 2023 will<br>be a Public Holiday)</em></b></td>
+  </tr>
+		<tr>
+    <td class="tg-yhj8">Good Friday<br></td>
+    <td class="tg-yhj8">Friday, 7 April 2023<br>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Hari Raya Puasa<br></td>
+    <td class="tg-yhj8">Saturday, 22 April 2023<br><b style="color:blue"><em>(Monday, 24 April 2023 will<br>be a School Holiday)</em></b>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Labour Day<br></td>
+    <td class="tg-yhj8">Monday, 1 May 2023<br>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Vesak Day<br></td>
+    <td class="tg-yhj8">Friday, 2 June 2023<br>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Hari Raya Haji<br></td>
+    <td class="tg-yhj8">Thursday, 29 June 2023<br>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Youth Day<br></td>
+    <td class="tg-yhj8">Sunday, 2 July 2023<br><b style="color:blue"><em>(Monday, 3 July 2023 will<br>be a scheduled School Holiday)</em></b></td>
+	</tr>
   <tr>
     <td class="tg-yhj8">National Day<br></td>
     <td class="tg-yhj8">Wednesday, 9 August 2023<br></td>
@@ -45,11 +77,11 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-yhj8">Deepavali<br></td>
-    <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a public holiday)</em></b></td>
+    <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a Public Holiday)</em></b></td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">End of School Year,<br>School Holidays<br></td>
-		<td class="tg-yhj8">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
 	</tr>
 	<tr>
     <td class="tg-yhj8">Christmas Day<br></td>
