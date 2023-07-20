@@ -93,7 +93,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-yhj8">Children's Day<br></td>
-    <td class="tg-yhj8">6 October 2023<br></td>
+    <td class="tg-yhj8">Friday, 6 October 2023<br></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">Deepavali<br></td>
