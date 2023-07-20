@@ -45,14 +45,17 @@ description: ""
 	</tr>
 	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Middle of School Year<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 27 May 2023<br>to<br>Sunday, 25 June 2023</b></td>
-	</tr><tr>
+	</tr>
+	<tr>
     <td class="tg-yhj8">Vesak Day<br></td>
     <td class="tg-yhj8">Friday, 2 June 2023<br>
-	</td></tr>
+	</td>
+	</tr>
 	<tr>
     <td class="tg-yhj8">Hari Raya Haji<br></td>
     <td class="tg-yhj8">Thursday, 29 June 2023<br>
-	</td></tr>
+	</td>
+	</tr>
 	<tr>
     <td class="tg-yhj8">Youth Day<br></td>
     <td class="tg-yhj8">Sunday, 2 July 2023<br><b style="color:blue"><em>(Monday, 3 July 2023 will<br>be a scheduled School Holiday)</em></b></td>
