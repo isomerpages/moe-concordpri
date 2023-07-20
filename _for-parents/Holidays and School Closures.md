@@ -15,9 +15,9 @@ description: ""
 </style>
 <!--<table class="tg">-->
 	
-<table class="tg" style="undefined; table-layout: fixed; width: 600px">
+<table class="tg" style="undefined; table-layout: fixed; width: 650px">
 <colgroup>
-<col style="width: 150px">
+<col style="width: 200px">
 	<col style="width: 450px">
 </colgroup>
 
