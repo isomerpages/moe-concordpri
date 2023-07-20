@@ -13,7 +13,14 @@ description: ""
 .tg .tg-yhj7{background-color:#F0E68C;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-yhj8{background-color:#FFFFE0;color:#0C463A;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<!--<table class="tg">-->
+	
+<table class="tg" style="undefined; table-layout: fixed; width: 390px">
+<colgroup>
+<col style="width: 150px">
+	<col style="width: 240px">
+</colgroup>
+
 <tbody>
   <tr>
     <td class="tg-yhj7"><b>Events</b><br></td>
