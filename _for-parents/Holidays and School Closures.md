@@ -67,6 +67,10 @@ description: ""
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 1 September 2023<br></td>
   </tr>
+	<tr>
+		<td class="tg-yhj8"><b style="color:#FF7F50">September<br>School Holiday<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 2 September 2023<br>to<br>Sunday, 10 September 2023</b></td>
+	</tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
     <td class="tg-yhj8">Friday, 15 September 2023<br></td>
@@ -80,7 +84,7 @@ description: ""
     <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a Public Holiday)</em></b></td>
   </tr>
 	<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
 	</tr>
 	<tr>
