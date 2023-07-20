@@ -45,7 +45,15 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-yhj8">Deepavali<br></td>
-    <td class="tg-yhj8">Sunday, 12 November 2023<br></td>
+    <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a public holiday)</em></b></td>
   </tr>
+	<tr>
+    <td class="tg-yhj8">End of School Year,<br>School Holidays<br></td>
+		<td class="tg-yhj8">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Christmas Day<br></td>
+		<td class="tg-yhj8">Monday, 25 December 2023</td>
+	</tr>
 </tbody>
 </table>
