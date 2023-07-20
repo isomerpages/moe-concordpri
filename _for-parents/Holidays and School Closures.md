@@ -20,6 +20,10 @@ description: ""
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
   <tr>
+    <td class="tg-yhj8">National Day<br></td>
+    <td class="tg-yhj8">Wednesday, 9 August 2023<br></td>
+  </tr>
+	<tr>
     <td class="tg-yhj8">Day after National Day<br></td>
     <td class="tg-yhj8">Thursday, 10 August 2023<br></td>
   </tr>
