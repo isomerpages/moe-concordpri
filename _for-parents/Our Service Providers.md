@@ -51,6 +51,8 @@ description: ""
 <br>
 
 <!--table grid for the service providers information -->
+
+	[](/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf)
 <table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
@@ -141,11 +143,9 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 			Tel: 9772 3370, 9650 0512<br><br>
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br><br>
-<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br><br>
+<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
-</td>
-	
-</tr>
+</td></tr>
 
 <!--7. POSB Smart Buddy Watch -->
 <tr>
