@@ -67,6 +67,10 @@ description: ""
     <td class="tg-yhj8">Youth Day<br></td>
     <td class="tg-yhj8">Sunday, 2 July 2023<br><b style="color:blue"><em>(Monday, 3 July 2023 will<br>be a scheduled School Holiday)</em></b></td>
 	</tr>
+	<tr>
+    <td class="tg-yhj8">Eve of National Day<br></td>
+    <td class="tg-yhj8">Tuesday, 8 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
+  </tr>
   <tr>
     <td class="tg-yhj8">National Day<br></td>
     <td class="tg-yhj8">Wednesday, 9 August 2023<br></td>
