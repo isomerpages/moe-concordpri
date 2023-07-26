@@ -3,6 +3,8 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 26 July 2023</p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -67,6 +69,10 @@ description: ""
     <td class="tg-yhj8">Youth Day<br></td>
     <td class="tg-yhj8">Sunday, 2 July 2023<br><b style="color:blue"><em>(Monday, 3 July 2023 will<br>be a scheduled School Holiday)</em></b></td>
 	</tr>
+	<tr>
+    <td class="tg-yhj8">Eve of National Day<br></td>
+    <td class="tg-yhj8">Tuesday, 8 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
+  </tr>
   <tr>
     <td class="tg-yhj8">National Day<br></td>
     <td class="tg-yhj8">Wednesday, 9 August 2023<br></td>

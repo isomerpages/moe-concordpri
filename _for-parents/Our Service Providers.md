@@ -52,7 +52,6 @@ description: ""
 
 <!--table grid for the service providers information -->
 
-	[](/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf)
 <table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
 <col style="width: 108px">
