@@ -33,7 +33,7 @@ third_nav_title: CCE
 <tr><td style="border-color:transparent"></td></tr>
 <tr><td style="border-color:transparent"></td></tr>
 <tr>
-<td style="border-color:transparent"><img src="/images/racialharmony05.jpg" style="width:97%"></td>
+<td style="border-color:transparent"><img src="/images/racialharmony05.jpg" style="width:98%"></td>
 <td style="border-color:transparent"><img src="/images/racialharmony06.jpg" style="width:95%"></td>
 </tr>
 <tr>
