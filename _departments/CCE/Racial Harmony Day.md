@@ -49,8 +49,8 @@ third_nav_title: CCE
 <tr><td style="border-color:transparent"></td></tr>
 <tr><td style="border-color:transparent"></td></tr>
 <tr>
-<td style="border-color:transparent"><img src="/images/racialharmony08.jpg" style="width:88.5%"></td>
-<td style="border-color:transparent"><img src="/images/racialharmony09.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/racialharmony08.jpg" style="width:90%"></td>
+<td style="border-color:transparent"><img src="/images/racialharmony09.jpg"></td>
 </tr>
 <tr>
 <th style="text-align: center; border-color:transparent" colspan="2">CHEESE!!!</th>
