@@ -143,7 +143,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br><br>
-<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
+<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
 </td></tr>
 
 <!--7. POSB Smart Buddy Watch -->
