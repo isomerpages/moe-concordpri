@@ -48,7 +48,7 @@ third_nav_title: School Management Committee
   </tr>
 	<tr>
     <td class="tg-yhj3">Miss Huang Kaixin</td>
-    <td class="tg-yhj3">SH Chinese Language (Internal)</td>
+    <td class="tg-yhj3">LH Chinese Language (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
