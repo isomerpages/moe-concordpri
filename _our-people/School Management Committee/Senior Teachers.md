@@ -61,5 +61,10 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">ST English Language (Internal)</td>
     <td class="tg-ppzb"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">haslindah_safini@moe.edu.sg</span></a> </td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Chan Liea Sun</td>
+    <td class="tg-yhj3">ST Science (Internal)</td>
+    <td class="tg-ppzb"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chan_liea_sun@moe.edu.sg</span></a> </td>
+  </tr>
 </tbody>
 </table>
