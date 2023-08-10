@@ -91,6 +91,11 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3"> SH Student Leadership (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">lee_yi_ling@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-yhj3"> Ms Zaneth Bte Mohd Kassim</td>
+    <td class="tg-yhj3"> SH Modular CCA (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zaneth_mohd_kassim@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
     <td class="tg-yhj3">AYH Lower Primary </td>
