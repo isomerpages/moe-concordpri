@@ -51,5 +51,20 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3"> English Language</td>
     <td class="tg-ppzb"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norhariaty_mohamed_ismail@moe.edu.sg</span></a> </td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Low Ming Lee Charlena</td>
+    <td class="tg-yhj3">ST PE &amp; OE (Internal)</td>
+    <td class="tg-ppzb"><a href="mailto:low_ming_lee_charlena@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">low_ming_lee_charlena@moe.edu.sg</span></a> </td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Miss Haslindah Binte Safini</td>
+    <td class="tg-yhj3">ST English Language (Internal)</td>
+    <td class="tg-ppzb"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">haslindah_safini@moe.edu.sg</span></a> </td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Chan Liea Sun</td>
+    <td class="tg-yhj3">ST Science (Internal)</td>
+    <td class="tg-ppzb"><a href="mailto:chan_liea_sun@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chan_liea_sun@moe.edu.sg</span></a> </td>
+  </tr>
 </tbody>
 </table>

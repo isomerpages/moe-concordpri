@@ -42,8 +42,13 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
+    <td class="tg-yhj3">Mdm Aryane Binte Mohamed Ali</td>
+    <td class="tg-yhj3">LH Mathematics (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:aryane_mohamed_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">aryane_mohamed_ali@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-yhj3">Miss Huang Kaixin</td>
-    <td class="tg-yhj3">SH Chinese Language (Internal)</td>
+    <td class="tg-yhj3">LH Chinese Language (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -85,6 +90,16 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3"> Mdm Lee Yi Ling</td>
     <td class="tg-yhj3"> SH Student Leadership (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:lee_yi_ling@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">lee_yi_ling@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3"> Ms Zaneth Bte Mohd Kassim</td>
+    <td class="tg-yhj3"> SH Modular CCA (Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zaneth_mohd_kassim@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3"> Miss Yeo Hui Qi</td>
+    <td class="tg-yhj3"> SH Aesthetics (Internal) </td>
+    <td class="tg-o5fr"><a href="mailto:yeo_hui_qi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">yeo_hui_qi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
