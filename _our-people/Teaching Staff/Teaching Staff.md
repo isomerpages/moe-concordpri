@@ -114,6 +114,7 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">P2B<br></td>
 <td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</a><br></td>
 <td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2C<br></td>
