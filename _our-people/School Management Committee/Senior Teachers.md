@@ -56,5 +56,10 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">ST PE &amp; OE (Internal)</td>
     <td class="tg-ppzb"><a href="mailto:low_ming_lee_charlena@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">low_ming_lee_charlena@moe.edu.sg</span></a> </td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Miss Haslindah Binte Safini</td>
+    <td class="tg-yhj3">ST English Language (Internal)</td>
+    <td class="tg-ppzb"><a href="mailto:haslindah_safini@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">haslindah_safini@moe.edu.sg</span></a> </td>
+  </tr>
 </tbody>
 </table>
