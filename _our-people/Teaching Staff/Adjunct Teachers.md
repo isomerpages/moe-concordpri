@@ -91,5 +91,10 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3"></td>
     <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a> </td>
   </tr>
+	<tr>
+    <td class="tg-yhj3">Mrs Tng Yoke Yin</td>
+    <td class="tg-yhj3"></td>
+    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
+  </tr>
 </tbody>
 </table>
