@@ -86,17 +86,20 @@ description: ""
     <td class="tg-yhj8">Tuesday, 15 August 2023<br>Wednesday. 16 August 2023</td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">Eve of Teachers' Day<br></td>
-    <td class="tg-yhj8">Thursday, 31 August 2023<br><b style="color:blue"><em>(Early dismissal at 12.30pm)</em></b></td>
+    <td class="tg-yhj8">Eve of Polling Day<br></td>
+    <td class="tg-yhj8">Thursday, 31 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am for students)<br>(General Office will cease operation after 11am)<br>(Student Care will operate till 7pm)</em></b></td>
   </tr>
-  <tr>
-    <td class="tg-yhj8">Teachers' Day<br></td>
-    <td class="tg-yhj8">Friday, 1 September 2023<br></td>
+	<tr>
+    <td class="tg-yhj8">Presidential Election<br> Polling Day<br></td>
+    <td class="tg-yhj8">Friday, 1 September 2023</td>
   </tr>
 	<tr>
 		<td class="tg-yhj8"><b style="color:#FF7F50">September<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 2 September 2023<br>to<br>Sunday, 10 September 2023</b></td>
-	</tr>
+		</tr><tr>
+    <td class="tg-yhj8">Teachers' Day<br></td>
+    <td class="tg-yhj8">Monday, 11 September 2023<br></td>
+  </tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
     <td class="tg-yhj8">Friday, 15 September 2023<br></td>
