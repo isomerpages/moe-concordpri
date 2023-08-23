@@ -86,7 +86,7 @@ description: ""
     <td class="tg-yhj8">Tuesday, 15 August 2023<br>Wednesday. 16 August 2023</td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">Eve of Teachers' Day<br></td>
+    <td class="tg-yhj8">Eve of Polling Day<br></td>
     <td class="tg-yhj8">Thursday, 31 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am for students)<br>(General Office will cease operation after 11am)<br>(Student Care will operate till 7pm)</em></b></td>
   </tr>
 	<tr>
