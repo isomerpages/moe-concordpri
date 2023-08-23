@@ -87,7 +87,7 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-yhj8">Eve of Teachers' Day<br></td>
-    <td class="tg-yhj8">Thursday, 31 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am for students)</em><br>(General Office will cease operation after 11am)<br>(Student Care will operate till 7pm)</b></td>
+    <td class="tg-yhj8">Thursday, 31 August 2023<br><b style="color:blue"><em>(Early dismissal at 10.30am for students)<br>(General Office will cease operation after 11am)<br>(Student Care will operate till 7pm)</em></b></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">Presidential Election<br> Polling Day<br></td>
