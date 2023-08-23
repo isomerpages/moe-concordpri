@@ -100,7 +100,6 @@ description: ""
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Monday, 11 September 2023<br></td>
   </tr>
-	
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
     <td class="tg-yhj8">Friday, 15 September 2023<br></td>
