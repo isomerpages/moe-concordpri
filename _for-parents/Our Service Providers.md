@@ -119,8 +119,8 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
  
 If you have an urgent need for a change of school uniforms, the school may have used ones for loan. Please contact us at 6763 2139 from 8am to 5pm during school days to enquire.
 
-	</span></td>
-</tr>
+
+</span></td></tr>
 
 <!--5. School Bookshop Information -->
 <tr>
