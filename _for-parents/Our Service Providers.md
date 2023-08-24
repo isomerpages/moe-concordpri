@@ -115,13 +115,11 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
     <td class="tg-info">4.</td>
     <td class="tg-title">
 		<span style="font-weight:bold;text-decoration:underline" id="uniform-info">School Uniform Supplier</span><br><br>
-		<span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd<br>Chen Nam Sing Department Store<br>
-Blk 413 Bukit Batok West Ave 4 #01-206 Singapore 650413<br><br>
-Operation Hours:<br>
-Tuesday to Sunday 10 am - 7 pm</span><br><span style="font-weight:400;font-weight:bold">Closed on Mondays</span><br><br>
-<span style="font-weight:400;font-style:normal">Tel: 6565 8961</span><br><br>
-Website: <a href="https://khuniform.com" target="_blank" rel="noopener noreferrer">https://khuniform.com</a>
-	</td>
+		<span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd has ceased the sales of our uniforms as their contract with the school has ended.<br><br>The school has appointed Bibi &amp; Baba Pte Ltd as our new uniform supplier. The new batch of uniforms is now in production and should be ready for sale by mid-September 2023. <br><br>We will share more details once the stock is ready.
+ 
+If you have an urgent need for a change of school uniforms, the school may have used ones for loan. Please contact us at 6763 2139 from 8am to 5pm during school days to enquire.
+
+	</span></td>
 </tr>
 
 <!--5. School Bookshop Information -->
