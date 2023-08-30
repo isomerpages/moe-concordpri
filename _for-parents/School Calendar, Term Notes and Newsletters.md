@@ -115,7 +115,7 @@ description: ""
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%205_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #07</a></td>
 </tr>
 	<tr>
-<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/lp%20newsletter%20issue%208.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #08</a></td>
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%209_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #08</a></td>
 </tr>
