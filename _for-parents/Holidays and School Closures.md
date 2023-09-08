@@ -3,7 +3,7 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 11 August 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 8 September 2023</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -102,11 +102,19 @@ description: ""
   </tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
-    <td class="tg-yhj8">Friday, 15 September 2023<br></td>
+    <td class="tg-yhj8">Friday, 15 September 2023<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
-  <tr>
-    <td class="tg-yhj8">Children's Day<br></td>
-    <td class="tg-yhj8">Friday, 6 October 2023<br></td>
+<tr>
+ <td class="tg-yhj8">PSLE Written Examination<br></td>
+ <td class="tg-yhj8">Thursday, 28 September 2023<br>to<br>Friday, 29 September 2023<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
+</tr>
+<tr>
+ <td class="tg-yhj8">PSLE Written Examination<br></td>
+ <td class="tg-yhj8">Monday, 2 October 2023<br>to<br>Tuesday, 3 October 2023<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
+</tr>
+<tr>
+  <td class="tg-yhj8">Children's Day<br></td>
+  <td class="tg-yhj8">Friday, 6 October 2023</td>
   </tr>
 	<tr>
     <td class="tg-yhj8">Deepavali<br></td>
