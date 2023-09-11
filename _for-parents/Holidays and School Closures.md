@@ -106,7 +106,7 @@ description: ""
   </tr>
  <tr>
     <td class="tg-yhj8">P6 Study Break<br></td>
-    <td class="tg-yhj8">Monday, 25 September 2023<br>to<br>Wednesday, 27 September 2023<br><b style="color:blue"><em>(P6 students do not need to report to school)<br></em></b></td>
+    <td class="tg-yhj8">Monday, 25 September 2023<br>to<br>Wednesday, 27 September 2023<br><b style="color:blue"><em>(P6 students need not report to school)<br></em></b></td>
   </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
