@@ -104,6 +104,10 @@ description: ""
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
     <td class="tg-yhj8">Friday, 15 September 2023<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
+ <tr>
+    <td class="tg-yhj8">P6 Study Break<br></td>
+    <td class="tg-yhj8">Monday, 25 September 2023<br>to<br>Wednesday, 27 September 2023<br><b style="color:blue"><em>(P6 students do not need to report to school)<br></em></b></td>
+  </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
  <td class="tg-yhj8">Thursday, 28 September 2023<br>to<br>Friday, 29 September 2023<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
