@@ -3,7 +3,7 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 8 September 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 11 September 2023</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -103,6 +103,10 @@ description: ""
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
     <td class="tg-yhj8">Friday, 15 September 2023<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+  </tr>
+ <tr>
+    <td class="tg-yhj8">P6 Study Break<br></td>
+    <td class="tg-yhj8">Monday, 25 September 2023<br>to<br>Wednesday, 27 September 2023<br><b style="color:blue"><em>(P6 students need not report to school)<br></em></b></td>
   </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
