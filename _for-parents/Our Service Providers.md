@@ -75,13 +75,13 @@ Opening Hours:<br>
 Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
 Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
-Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span><br><br>
-<b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span> (Ms Cheryl)<br><br>
+<b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span> (Ms Cheryl)<br><br>
 Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
 South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
-<b style="color:red">In case of emergency and school is closed, parent to contact Buddy Clinic for assistance.</b><br><br>
+<b style="color:red">In case of emergency and school clinic is closed, parent to contact Buddy Clinic for assistance, our DT will be at Bukit Panjang Pri.<br><br>Or parents can contact Chua Chu Kang or South View Pri for assistance (contact numbers on school's website).</b><br><br>
 <div style="text-align:left;">
-<img src="/images/dental%20clinic%20schedule%20for%20august%2023.JPG" style="width:90%"><br></div>
+<img src="/images/dental%20clinic%20schedule%20for%20september%202023.png" style="width:90%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
