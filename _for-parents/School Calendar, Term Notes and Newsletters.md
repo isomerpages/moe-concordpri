@@ -50,7 +50,7 @@ description: ""
     <td class="tg-xuj5"><a href="/files/2023%20CPS%20Term%20Note%20-%20Term%201.pdf" target="_blank" rel="noopener noreferrer">2023 Term 1 Note</a><br></td>
    <td class="tg-xuj5"><a href="/files/2023%20cps%20term%20note%20-%20term%202.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Note</a><br></td>
     <td class="tg-xuj5">-</td>
-		 <td class="tg-xuj5"><a href="/files/2023%20cps%20term%20note%20-%20term%202.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Note</a><br></td>
+		 <td class="tg-xuj5"><a href="/files/2023%20cps%20term%20note%20-%20term%204.pdf" target="_blank" rel="noopener noreferrer">2023 Term 4 Note</a><br></td>
 </tr>
 </tbody>
 </table></p>
