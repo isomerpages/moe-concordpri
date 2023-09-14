@@ -3,7 +3,7 @@ title: School Calendar, Term Notes and Newsletters
 permalink: /for-parents/term-calendar-and-note/
 description: ""
 ---
-<p>Please download the following for your reference.
+<p>Please download the following for your reference.</p>
 <br><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -53,7 +53,7 @@ description: ""
 		 <td class="tg-xuj5"><a href="/files/2023%20cps%20term%20note%20-%20term%204.pdf" target="_blank" rel="noopener noreferrer">2023 Term 4 Note</a><br></td>
 </tr>
 </tbody>
-</table></p>
+</table>
 
 <h3>2023 Newsletter for Parents</h3>
 
