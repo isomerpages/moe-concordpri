@@ -115,12 +115,20 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
     <td class="tg-info">4.</td>
     <td class="tg-title">
 		<span style="font-weight:bold;text-decoration:underline" id="uniform-info">School Uniform Supplier</span><br><br>
-		<span style="font-weight:400;font-style:normal">KH Uniform Pte Ltd has ceased the sales of our uniforms as their contract with the school has ended.<br><br>The school has appointed Bibi &amp; Baba Pte Ltd as our new uniform supplier. The new batch of uniforms is now in production and should be ready for sale by mid-September 2023. <br><br>We will share more details once the stock is ready.
- 
-If you have an urgent need for a change of school uniforms, the school may have used ones for loan. Please contact us at 6763 2139 from 8am to 5pm during school days to enquire.
-
-
-</span></td></tr>
+		<span style="font-weight:400;font-style:normal"><b>Bibi&amp;Baba Retail Outlets:</b><br><br>
+			<b style="color:blue">Far East Shopping Centre</b><br>
+545 Orchard Road, #02-28<br>
+Singapore 238882<br><br>Tel: <u><b>6732 7022</b></u><br>SMS: <u><b>9234 1033</b></u><br><br>Mon to Sat: <u><b>10:00 am to 7:00 pm</b></u><br>Sun: <u><b>10:00 am to 6:00 pm</b></u><br><br><br><b style="color:blue">Henderson Outlet</b><br>
+213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><p><b style="color:red">*Please call Bibi&amp;Baba to check stock availability before going.</b></p><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
+For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements.<br><br><b style="color:blue">
+*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b>
+<ul>
+	<li>Students can purchase during their recess or lunch break.</li>
+	<li>Parents can walk-in to purchase from 2.00pm to 2.45pm.</li>
+</ul>
+If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>.<br><br>The dates, once finalised, will be communicated to all parents and guardians by the end of this term.<br><br>Please call the General Office at <b>67632139</b> if you have any enquires.<br>Thank you.</span>
+</td>
+</tr>
 
 <!--5. School Bookshop Information -->
 <tr>
