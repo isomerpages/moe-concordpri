@@ -123,18 +123,18 @@ description: ""
 <tr>
   <td class="tg-yhj8">PSLE Marking Days<br></td>
   <td class="tg-yhj8">Monday, 16 October 2023<br>to<br>Wednesday, 18 October 2023</td>
-  </tr>
-	<tr>
+</tr>
+<tr>
     <td class="tg-yhj8">Deepavali<br></td>
     <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a Public Holiday)</em></b></td>
-  </tr>
-	<tr>
+</tr>
+<tr>
 		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
     <td class="tg-yhj8">Christmas Day<br></td>
 		<td class="tg-yhj8">Monday, 25 December 2023</td>
-	</tr>
+</tr>
 </tbody>
 </table>
