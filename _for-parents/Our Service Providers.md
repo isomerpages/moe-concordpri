@@ -119,13 +119,11 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
 			<b style="color:blue">Far East Shopping Centre</b><br>
 545 Orchard Road, #02-28<br>
 Singapore 238882<br><br>Tel: <u><b>6732 7022</b></u><br>SMS: <u><b>9234 1033</b></u><br><br>Mon to Sat: <u><b>10:00 am to 7:00 pm</b></u><br>Sun: <u><b>10:00 am to 6:00 pm</b></u><br><br><br><b style="color:blue">Henderson Outlet</b><br>
-213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><p><b style="color:red">*Please call Bibi&amp;Baba to check stock availability before going.</b></p><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
-For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements.<br><br><b style="color:blue">
-*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b>
-<ul>
-	<li>Students can purchase during their recess or lunch break.</li>
-	<li>Parents can walk-in to purchase from 2.00pm to 2.45pm.</li>
-</ul>
+213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><br><br><b style="color:red">*Please call Bibi&amp;Baba to check stock availability before going.</b><br><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
+For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements.<br><br><b style="color:blue">*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b><ul>
+<li style="font-weight:400;font-style:normal" span="">Students can purchase during their recess or lunch break.</li>
+<li style="font-weight:400;font-style:normal" span="">Parents can walk-in to purchase from 2.00pm to 2.45pm.</li>
+</ul><br><br>
 If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>.<br><br>The dates, once finalised, will be communicated to all parents and guardians by the end of this term.<br><br>Please call the General Office at <b>67632139</b> if you have any enquires.<br>Thank you.</span>
 </td>
 </tr>
