@@ -3,7 +3,7 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 15 September 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 18 September 2023</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -123,6 +123,10 @@ description: ""
 <tr>
   <td class="tg-yhj8">PSLE Marking Days<br></td>
   <td class="tg-yhj8">Monday, 16 October 2023<br>to<br>Wednesday, 18 October 2023</td>
+</tr>
+<tr>
+    <td class="tg-yhj8">Admin Day<br></td>
+    <td class="tg-yhj8">Friday, 10 November 2023<br></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
