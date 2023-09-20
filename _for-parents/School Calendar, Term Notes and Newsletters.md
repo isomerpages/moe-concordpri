@@ -20,11 +20,13 @@ description: ""
     <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 1 Calendar</span></td>
     <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 2 Calender</span></td>
     <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 3 Calendar</span></td>
+		<td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 4 Calendar</span></td>
   </tr>
   <tr>
     <td class="tg-xuj5"><a href="/files/T1_Parents Calendar_2023 V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 1 Calendar</a><br></td>
     <td class="tg-xuj5"><a href="/files/T2_Parents%20Calendar_2023%20V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Calendar</a><br></td>
     <td class="tg-xuj5"><a href="/files/t3_parents%20calendar_2023.pdf" target="_blank" rel="noopener noreferrer">2023 Term 3 Calendar</a></td>
+	<td class="tg-xuj5"><a href="/files/t4_parents%20calendar_2023.pdf" target="_blank" rel="noopener noreferrer">2023 Term 4 Calendar</a></td>
 </tr>
 </tbody>
 </table>
