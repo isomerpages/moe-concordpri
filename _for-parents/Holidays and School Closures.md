@@ -3,7 +3,7 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 18 September 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 22 September 2023</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -126,7 +126,7 @@ description: ""
 </tr>
 <tr>
     <td class="tg-yhj8">Admin Day<br></td>
-    <td class="tg-yhj8">Friday, 10 November 2023<br></td>
+    <td class="tg-yhj8">Friday, 10 November 2023<br><b style="color:blue"><em>(Students from all levels do not report to school)</em></b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
