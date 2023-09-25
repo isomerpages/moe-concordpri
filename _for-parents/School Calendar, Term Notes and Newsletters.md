@@ -123,6 +123,11 @@ description: ""
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%209_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #08</a></td>
 </tr>
+<tr>
+<td class="tg-ppzb"></td>
+<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%204%20week%203.pdf" target="_blank" rel="noopener noreferrer">Term 4 Issue #09</a></td>
+</tr>
 </tbody>
 </table>
 
