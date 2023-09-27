@@ -15,6 +15,10 @@ third_nav_title: New P1 Parents
 <img style="width:65%" src="/images/giro%20picture.png"><br>
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <br><br>
+<b>2.  Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></b>
+<p style="text-align:justify">Every Singapore Citizen (SC) will have an Edusave account created automatically for them.
+For SCs in MOE-funded schools, they will receive annual contributions from the start of their primary school education until they complete their secondary school education. 
+Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellaneous fees); and<br>•	Level–wide enrichment programmes organised by the school.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
