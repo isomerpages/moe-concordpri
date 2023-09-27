@@ -6,13 +6,15 @@ third_nav_title: New P1 Parents
 ---
 <h3>Administrative Matters</h3>
 
-<p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday.
+<p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday.</p>
 <br><br>
 <b>1.  Apply for GIRO</b>
 
-</p><p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.
+<p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <br><br>
-<img style="width:65%" src="/images/Introducing Parents Gateway.jpg"><br>
+<img style="width:65%" src="/images/giro%20picture.png"><br>
+<p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
+<br><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -35,7 +37,7 @@ third_nav_title: New P1 Parents
 </tbody>
 </table>
 
-</p><p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
+<p></p><p style="text-align:justify">All future announcements from the school will be made via Parents Gateway.
 <br><br>
 <b>2.  Provide Additional Information for Form Teachers</b>
 
