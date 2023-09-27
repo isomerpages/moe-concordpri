@@ -22,7 +22,9 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 
 <p style="text-align:justify">To enable the school to use your child’s Edusave account to pay for the above expenses, you will need to sign up for the Edusave Standing Order via the PG app. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that to use alternative funding sources for enrichment programmes, you can terminate the Standing Order at any time.</p>
 <br><br>
-<img style="width:65%" src="/images/edusave%20standing%20order.png"><br>
+<img style="width:65%" src="/images/edusave%20standing%20order.png"><br><br>
+<b>3.  Declare Travel Plans for 2023 Year-end School Holidays <em>(Not needed if not travelling)</em></b>
+<p style="text-align:justify">If your child is travelling during the 2023 year-end school holidays, please declare your travel plans through PG app.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
