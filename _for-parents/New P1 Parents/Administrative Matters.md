@@ -20,7 +20,7 @@ third_nav_title: New P1 Parents
 For SCs in MOE-funded schools, they will receive annual contributions from the start of their primary school education until they complete their secondary school education. 
 Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellaneous fees); and<br>•	Level–wide enrichment programmes organised by the school.</p>
 
-<p style="text-align:justify">To enable the school to use your child’s Edusave account to pay for the above expenses, you will need to sign up for the Edusave Standing Order via the PG app. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that to use alternative funding sources for enrichment programmes, you can terminate the Standing Order at any time</p>
+<p style="text-align:justify">To enable the school to use your child’s Edusave account to pay for the above expenses, you will need to sign up for the Edusave Standing Order via the PG app. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that to use alternative funding sources for enrichment programmes, you can terminate the Standing Order at any time.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
