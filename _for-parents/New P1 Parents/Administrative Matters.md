@@ -34,7 +34,8 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.
 <br><br>
 <b>5.  Provide Additional Information for Form Teachers</b> <br>
-</p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this link.</p>
+</p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
