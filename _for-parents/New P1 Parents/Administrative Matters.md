@@ -30,6 +30,8 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>4.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!<br><br>
 <div style="background: ghostwhite; font-size: 20px; text-align:justify; padding: 35px; border: 1px solid lightgray; margin: 2px;">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></div>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p><br><br>
+<img style="width:30%" src="/images/2023%20income%20and%20fas%20subsidies%20.png"><br><br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
