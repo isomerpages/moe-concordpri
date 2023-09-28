@@ -41,6 +41,7 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p>
 <b>7.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br>
+<img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
