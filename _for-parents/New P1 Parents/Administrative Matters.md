@@ -26,7 +26,10 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>3.  Declare Travel Plans for 2023 Year-end School Holidays <em>(Not needed if not travelling)</em></b>
 <p style="text-align:justify">If your child is travelling during the 2023 year-end school holidays, please declare your travel plans through PG app.</p>
 <br><br>
-<img style="width:65%" src="/images/giro%20picture.png"><br>
+<img style="width:65%" src="/images/declare%20travel%20plans.png"><br><br>
+<b>4.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!<br><br>
+	<p style="font-size:20px; text-align:justify">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></p><br><br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -137,4 +140,4 @@ For more information, please refer to this&nbsp;<a href="/files/Big Heart.pdf" t
 <br><br>
 <b>10. Complete Student Details Form (SDF)</b>
 
-</p><p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.</p>
+</p><p style="text-align:justify">Parents are to submit/verify their child/ward’s particulars on the SDF Portal from end-Nov. School will provide more information once we received from MOE.</p></span>
