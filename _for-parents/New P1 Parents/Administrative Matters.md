@@ -47,7 +47,8 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <p>If you would like to enrol your child with them, please complete their application form here <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer"> Big Heart Pamphlet.</a></p>
 <b>9. Apply for POSB Smart Buddy Watch</b> – <span style="background-color: #FFFF00">To be updated!</span><br>
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" target="_blank" rel="no opener noreferrer">Pamphlet</a> for more details.</p>
-
+<b>10. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
+<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
