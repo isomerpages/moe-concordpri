@@ -44,7 +44,7 @@ third_nav_title: New P1 Parents
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
 <b>8.  Enrol into School-Based Student Care</b><br>
 <p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
-<p>If you would like to enrol your child with them, please complete their application form here <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer"> Big Heart Pamphlet.</a></p><br>
+<p>If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="no opener noreferrer">here</a> <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer"> Big Heart Pamphlet.</a></p><br>
 <b>9. Apply for POSB Smart Buddy Watch</b><br>
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" target="_blank" rel="no opener noreferrer">Pamphlet</a> for more details.</p><br>
 <b>10. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
