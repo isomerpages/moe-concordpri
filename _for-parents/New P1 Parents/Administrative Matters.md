@@ -43,7 +43,9 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:40%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
 <b>8.  Enrol into School-Based Student Care</b><br>
-
+<p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
+<p>If you would like to enrol your child with them, please complete their application form here <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the Big Heart Pamphlet. To insert BH Pamphlet</p>
+<p></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
