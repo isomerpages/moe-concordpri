@@ -12,7 +12,7 @@ third_nav_title: New P1 Parents
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <br><br>
-<img style="width:65%" src="/images/giro%20picture.png"><br>
+<img style="width:30%" src="/images/giro%20picture.png"><br>
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <br><br>
 <b>2.  Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></b>
@@ -22,11 +22,11 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 
 <p style="text-align:justify">To enable the school to use your child’s Edusave account to pay for the above expenses, you will need to sign up for the Edusave Standing Order via the PG app. Schools will continue to inform and seek your consent for your child’s/ward’s participation before the withdrawal of Edusave funds. If you subsequently decide that to use alternative funding sources for enrichment programmes, you can terminate the Standing Order at any time.</p>
 <br><br>
-<img style="width:65%" src="/images/edusave%20standing%20order.png"><br><br>
+<img style="width:30%" src="/images/edusave%20standing%20order.png"><br><br>
 <b>3.  Declare Travel Plans for 2023 Year-end School Holidays <em>(Not needed if not travelling)</em></b>
 <p style="text-align:justify">If your child is travelling during the 2023 year-end school holidays, please declare your travel plans through PG app.</p>
 <br><br>
-<img style="width:65%" src="/images/declare%20travel%20plans.png"><br><br>
+<img style="width:30%" src="/images/declare%20travel%20plans.png"><br><br>
 <b>4.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!<br><br>
 <p style="font-size:20px; text-align:justify">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></p><br>
 <div style="background: ghostwhite; font-size: 20px; text-align:justify; padding: 35px; border: 1px solid lightgray; margin: 2px;">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></div>
