@@ -13,8 +13,7 @@ third_nav_title: New P1 Parents
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <p style="text-align:justify">The GIRO application can be made through the Parents Gateway (PG) app under the Services tab. Parents will have up till 15 January 2024 to sign up for GIRO for the first deduction in Feb 2024. Please refer to this <a href="/files/egiro%20user%20guide%20sep23.pdf" target="_blank" rel="noopner noreferrer">guide</a> for more information.</p>
 <br>
-<img style="width:30%" src="/images/giro%20picture.png"><br>
-<p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
+<img style="width:30%" src="/images/giro%20picture.png">
 <br>
 <b>2.  Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></b>
 <p style="text-align:justify">Every Singapore Citizen (SC) will have an Edusave account created automatically for them.
