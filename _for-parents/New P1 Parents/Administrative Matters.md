@@ -7,14 +7,14 @@ third_nav_title: New P1 Parents
 <h3>Administrative Matters</h3>
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday.</p>
-<br><br>
+<br>
 <b>1.  Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
 <br><br>
 <img style="width:30%" src="/images/giro%20picture.png"><br>
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
-<br><br>
+<br>
 <b>2.  Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></b>
 <p style="text-align:justify">Every Singapore Citizen (SC) will have an Edusave account created automatically for them.
 For SCs in MOE-funded schools, they will receive annual contributions from the start of their primary school education until they complete their secondary school education. 
@@ -30,15 +30,15 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>4.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!</span><br><br>
 <div style="background: ghostwhite; font-size: 20px; text-align:justify; padding: 35px; border: 1px solid lightgray; margin: 2px;">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></div>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>
-<img style="width:100%" src="/images/2023%20income%20and%20fas%20subsidies%20.png"><br><br>
+<img style="width:70%" src="/images/2023%20income%20and%20fas%20subsidies%20.png"><br>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.
 <br><br>
 <b>5.  Provide Additional Information for Form Teachers</b> <br>
 </p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information abokut your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
-<br><br>
+<br>
 <b>6.  Purchase School Books and Uniform</b> <br>
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi&amp;Baba respectively. The default mode of sales is through their online sales channels listed below. They will also be operating in our school during the P1 Orientation on 18 October 2023 from <u>11 am to 3 pm</u> and on selected days during the year-end school holidays .<br><br><b>Bookshop: </b><a href="https://www.pacificbookstores.com" target="_blank" rel="noopener no referrer">https://www.pacificbookstores.com</a><br>
-<b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p>
+<b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p><br>
 <b>7.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:40%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br>
