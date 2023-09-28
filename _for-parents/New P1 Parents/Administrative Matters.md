@@ -30,7 +30,7 @@ third_nav_title: New P1 Parents
 <b>4.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!</span><br><br>
 <div style="background: ghostwhite; font-size: 20px; text-align:justify; padding: 35px; border: 1px solid lightgray; margin: 2px;">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></div>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>
-<img style="width:100%" src="/images/2023%20income%20eligibility%20tier.png"><br>
+<img style="width:90%" src="/images/2023%20income%20eligibility%20tier.png"><br>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.
 <br><br>
 <b>5.  Provide Additional Information for Form Teachers</b> <br>
