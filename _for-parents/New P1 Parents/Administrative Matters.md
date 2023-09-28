@@ -35,7 +35,7 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.
 <br><br>
 <b>5.  Provide Additional Information for Form Teachers</b> <br>
-</p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information abokut your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
+</p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
 <br>
 <b>6.  Purchase School Books and Uniform</b> <br>
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi&amp;Baba respectively. The default mode of sales is through their online sales channels listed below. They will also be operating in our school during the P1 Orientation on 18 October 2023 from <u>11 am to 3 pm</u> and on selected days during the year-end school holidays .<br><br><b>Bookshop: </b><a href="https://www.pacificbookstores.com" target="_blank" rel="noopener no referrer">https://www.pacificbookstores.com</a><br>
