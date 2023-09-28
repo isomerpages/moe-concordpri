@@ -45,7 +45,9 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>8.  Enrol into School-Based Student Care</b><br>
 <p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
 <p>If you would like to enrol your child with them, please complete their application form here <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the Big Heart Pamphlet. <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer">Click here for the Pamphlet.</a></p>
-<p></p>
+<b>9. Apply for POSB Smart Buddy Watch</b> – <span style="background-color: #FFFF00">To be updated!</span><br><br><br>
+<p style="text-align:justify"></p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;
