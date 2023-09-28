@@ -42,7 +42,7 @@ Edusave funds can be used for:<br><br> •	Approved Fees by MOE (e.g. miscellane
 <b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p><br>
 <b>7.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:40%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
 <b>8.  Enrol into School-Based Student Care</b><br>
 <p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
 <p>If you would like to enrol your child with them, please complete their application form here <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer"> Big Heart Pamphlet.</a></p>
