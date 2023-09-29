@@ -122,7 +122,7 @@ description: ""
 </tr>
 <tr>
   <td class="tg-yhj8">PSLE Marking Days<br></td>
-  <td class="tg-yhj8">Monday, 16 October 2023<br>to<br>Wednesday, 18 October 2023</td>
+  <td class="tg-yhj8">Monday, 16 October 2023<br>to<br>Wednesday, 18 October 2023<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Admin Day<br></td>
