@@ -38,9 +38,12 @@ third_nav_title: New P1 Parents
 <br>
 <b>6.  Purchase School Books and Uniform</b> <br>
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi&amp;Baba respectively. The default mode of sales is through their online sales channels listed below. They will also be operating in our school during the P1 Orientation on 18 October 2023 from <u>11 am to 3 pm</u> and on selected days during the year-end school holidays .<br><br><b>Bookshop: </b><a href="https://www.pacificbookstores.com" target="_blank" rel="noopener no referrer">https://www.pacificbookstores.com</a><br>
-<b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p><br>
+<b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p>
+<p style="align:justify">For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to purchase.<br><b>*Far East Shopping Centre</b><br>545 Orchard Road, #02-28<br>Singapore 238882
+<br>Tel: 6732 7022<br>SMS: 9234 1033<br>Mon to Sat: 10:00 am to 7:00 pm<br>Sun: 10:00 am to 6:00 pm<br>
+	<span style="color:blue"><b>*not to be confused with Far East Plaza which is along Scotts Road.</b></span><br><br>
 <b>7.  Apply for School Bus Services</b><br>
-<p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
+</p><p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
 <b>8.  Enrol into School-Based Student Care</b><br>
 <p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
