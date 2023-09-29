@@ -8,6 +8,7 @@ third_nav_title: New P1 Parents
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday.</p>
 <br>
+<p style="text-align:justify; font-size:20px"><u><b>Section A: Mandatory Tasks</b></u></p><br>
 <b>1.  Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
