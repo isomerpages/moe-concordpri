@@ -32,8 +32,8 @@ third_nav_title: New P1 Parents
 <p></p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
 <br>
 <b>5. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
-<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p><br>
-<p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p><br>
+<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p><br><br>
+<p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p>
 <b>6.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
