@@ -24,7 +24,7 @@ third_nav_title: New P1 Parents
 <img style="width:30%" src="/images/edusave%20standing%20order.png"><br><br>
 <b>3.  Declare Travel Plans for 2023 Year-end School Holidays <em>(Not needed if not travelling)</em></b>
 <p style="text-align:justify">If your child is travelling during the 2023 year-end school holidays, please declare your travel plans through PG app.</p><br><img style="width:30%" src="/images/declare%20travel%20plans.png"><br><br>
-<b>4.  Provide Additional Information for Form Teachers</b><br><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p><br>
+<b>4.  Provide Additional Information for Form Teachers</b><br><br><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p><br>
 <b>5. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br><p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p><br><br>
 
 <p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p>
