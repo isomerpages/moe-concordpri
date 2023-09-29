@@ -8,7 +8,7 @@ third_nav_title: New P1 Parents
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday:</p>
 <br>
-<p style="text-align:justify; font-size:26px"><u><b>Section A: Mandatory Tasks</b></u></p><br>
+<p style="text-align:justify; font-size:24px"><u><b>Section A: Mandatory Tasks</b></u></p><br>
 <b>1.  Apply for GIRO</b>
 
 <p style="text-align:justify">GIRO is a convenient, paperless, and cashless payment method to make hassle-free payments for your child’s school fees and miscellaneous fees. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.</p>
@@ -33,7 +33,7 @@ third_nav_title: New P1 Parents
 <br>
 <b>5. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
 <p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p>
-<p style="text-align:justify; font-size:26px"><u><b>Section B: Optional Tasks</b></u></p><br>
+<p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p><br>
 <b>6.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a><br></p><br>
