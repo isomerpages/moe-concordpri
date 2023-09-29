@@ -7,7 +7,7 @@ third_nav_title: New P1 Parents
 <h3>Administrative Matters</h3>
 
 <p style="text-align:justify">In preparation for your child’s entry to Primary One in 2024, please complete the following items before the P1 Orientation Day on 18 October 2023, Wednesday:</p>
-<br>
+
 <p style="text-align:justify; font-size:24px"><u><b>Section A: Mandatory Tasks</b></u></p><br>
 <b>1.  Apply for GIRO</b>
 
@@ -32,7 +32,7 @@ third_nav_title: New P1 Parents
 <p></p><p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p>
 <br>
 <b>5. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
-<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p>
+<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p><br>
 <p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p><br>
 <b>6.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
