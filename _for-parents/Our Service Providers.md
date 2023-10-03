@@ -78,10 +78,10 @@ Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</s
 Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span> (Ms Cheryl)<br><br>
 <b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span> (Ms Cheryl)<br><br>
 Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
-South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
-<b style="color:red">In case of emergency and school clinic is closed, parent to contact Buddy Clinic for assistance, our DT will be at Bukit Panjang Pri.<br><br>Or parents can contact Chua Chu Kang or South View Pri for assistance (contact numbers on school's website).</b><br><br>
+South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br><b style="color:red">Ms Cheryl will be on leave (and overseas) from 23 Oct to 31 Oct. Concord and Bukit Panjang Pri clinic will be closed and uncontactable.</b><br><br>
+<b style="color:red">In case of emergency (during this period),  parent to contact Buddy Clinic for assistance, Chua Chu Kang or South View Pri for assistance (contact numbers on school's website.</b><br><br>
 <div style="text-align:left;">
-<img src="/images/dental%20clinic%20schedule%20for%20september%202023.png" style="width:90%"><br></div>
+<img src="/images/dental%20clinic%20for%20month%20of%20october%202023.png" style="width:90%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
@@ -130,8 +130,8 @@ For purchases in the school bookshop, it is recommended only for small quantitie
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bookshop-info">School Bookshop</span><br><br>
 <span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Open to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)<br>
 Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><br>
-<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a>
-	</td>
+<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br><img src="/images/year-end%20on-site%20books%20and%20uniform%20sales.png" style="width=80%">
+</td>
 </tr>
 
 <!--6. School Bus Service Information -->
