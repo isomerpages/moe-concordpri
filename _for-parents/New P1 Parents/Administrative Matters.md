@@ -27,7 +27,9 @@ third_nav_title: New P1 Parents
 <b>4.  Provide Additional Information for Form Teachers</b><br>
 <p style="text-align:justify">Please help your child’s Form Teacher to have a better understanding of your child by providing additional information about your child via this <a href="https://go.gov.sg/cps-pupilprofile" target="_blank" rel="noopener noreferrer">link.</a></p><br>
 <b>5. Complete Student Details Form (SDF) </b> – <span style="background-color: #FFFF00">To be updated!</span><br>
-<p style="text-align:justify">Parents are to submit/verify their child’s particulars on the SDF Portal from end-Nov. School will provide more information via PG once we received them from MOE.</p><br>
+<p style="text-align:justify">As your child/ward will be starting primary one in January 2024, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
+<p style="text-align:justify">You will be able to submit via the Student Details Form portal from late November onwards. We will notify you via PG when the portal is available.
+</p><br>
 <p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p>
 <b>6.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
