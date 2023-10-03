@@ -30,7 +30,7 @@ third_nav_title: New P1 Parents
 <p style="text-align:justify">As your child/ward will be starting primary one in January 2024, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
 <p style="text-align:justify">You will be able to submit via the Student Details Form portal from late November onwards. We will notify you via PG when the portal is available.
 </p><br>
-<p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p>
+<p style="text-align:justify; font-size:24px"><u><b>Section B: Optional Tasks</b></u></p><br>
 <b>6.  Apply for School Bus Services</b><br>
 <p style="text-align:justify">Our school bus service provider is DKJ School Bus Services. Please use the link below to express your interest and they will contact you for more details.<br><br><b>School Bus Vendor: </b> <a href="https://forms.gle/mAakGAAHrt2mt7cY8" target="_blank" rel="noopener no referrer">https://forms.gle/mAakGAAHrt2mt7cY8</a><br><br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" target="_blank" rel="noopener no referrer"><img style="width:25%" src="/images/school%20bus%20vendor%20qr%20code.png"></a></p><br>
