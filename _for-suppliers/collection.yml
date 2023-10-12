@@ -1,5 +1,0 @@
-collections:
-  for-suppliers:
-    output: true
-    order:
-      - School Bus Service.md
