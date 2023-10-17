@@ -37,7 +37,7 @@ third_nav_title: New P1 Parents
 <b>7.  Enrol into School-Based Student Care</b><br>
 <p style="text-align:justify">Our School-based Student Care provider is Big Heart Student Care. They will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
 <p>If you would like to enrol your child with them, please complete their application form <a href="https://bigheartstudentcare.com/interest/" target="_blank" rel="no opener noreferrer">here</a> <b><u>by Tuesday, 31 October 2023.</u></b> For more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" target="_blank" rel="noopener no referrer"> Big Heart Pamphlet.</a></p><br>
-<b>8.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b> – <span style="background-color: #FFFF00">To be updated!</span><br><br>
+<b>8.  Apply for 2024 MOE Financial Assistance Scheme (FAS)</b><br><br>
 <div style="background: ghostwhite; font-size: 20px; text-align:justify; padding: 35px; border: 1px solid lightgray; margin: 2px;">Please do <b><u>NOT</u></b> purchase any textbook or school attire before you are notified through the school official letter of the outcome of your FAS application as there is <b><u>strictly no refund.</u></b></div>
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>
 <img style="width:90%" src="/images/2023%20income%20eligibility%20tier.png"><br>
