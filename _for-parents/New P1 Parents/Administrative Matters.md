@@ -44,15 +44,15 @@ third_nav_title: New P1 Parents
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.</p>
 <p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener noreferrer">link</a>.</p>
 <br>
-<table style="width: 600px">
+<table style="width: 600px; margin-left:auto; margin-right:auto">
 <colgroup>
 <col style="width: 300px">
 <col style="width: 300px">
 </colgroup>
 <tbody>
 <tr>
-<td style="border-color:transparent"><img src="/images/fas%20service%20pic.png"></td>
-<td style="border-color:transparent"><br><br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener no referrer"><img style="width:70%" src="/images/fas%20qr%20code.png"></a></td>
+<td style="border-color:transparent"><img style="width:100%" src="/images/fas%20service%20pic.png"></td>
+<td style="border-color:transparent"><br><br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener no referrer"><img style="width:50%" src="/images/fas%20qr%20code.png"></a></td>
 </tr>
 </tbody>
 </table>
