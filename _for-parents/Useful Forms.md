@@ -14,7 +14,7 @@ description: ""
 <ul>
 <li><a href="/files/document4a_moe%20fas%20pamphet%20el.pdf" target="_blank" rel="noopener noreferrer">Infograph</a> about MOE FAS</li>
 <li>For more information: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"> MOE FAS</a> page</li>
-<li>Parents can apply via the PG app or via this <a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer">link</a>.<br><a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer"><img style="width:25%" src="/images/fas%20qr%20code.png" align="left"></a></li><br><br><br><br><br><br><br>
+<li>Parents can apply via the PG app or via this <a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer">link</a>.<br><a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer"><div style="width:25%; align:left"><img src="/images/fas%20qr%20code.png"></div></a></li>
 <li>Should you not meet the MOE FAs eligibility requirements but is in need of financial assistance, please write in to <a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a>. The school will review your request on a case-by-case basis.</li>
 </ul>
 <h5>2. DigitalAccess@ Home Application</h5>
