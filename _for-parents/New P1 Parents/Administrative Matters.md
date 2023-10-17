@@ -42,9 +42,24 @@ third_nav_title: New P1 Parents
 <p style="text-align:justify">Below is the Eligibility Criteria and Subsidy information for 2023 FAS. We will inform you via PG once the application for 2024 FAS is opened and if there are any revisions.</p>
 <img style="width:90%" src="/images/2023%20income%20eligibility%20tier.png"><br>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for more information regarding MOE FAS.</p>
-<p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener noreferrer">link</a>.</p><br>
-<img style="width:30%" src="/images/fas%20service%20pic.png"><img style="width:30%" src="/images/fas%20qr%20code.png">
+<p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener noreferrer">link</a>.</p>
 <br>
+<table style="width: 600px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 300px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img style="width:75%" src="/images/fas%20service%20pic.png"></td>
+<td style="border-color:transparent"><br><img style="width:45%" src="/images/fas%20qr%20code.png"></td>
+</tr>
+<tr>
+<th style="border-color:transparent"></th>
+<th style="border-color:transparent"></th>
+</tr>
+</tbody>
+</table>
 <b>9.  Purchase School Books and Uniform</b> <br>
 <p style="text-align:justify">Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi&amp;Baba respectively. The default mode of sales is through their online sales channels listed below. They will also be operating in our school during the P1 Orientation on 18 October 2023 from <u>11 am to 3 pm</u> and on selected days during the year-end school holidays .<br><br><b>Bookshop: </b><a href="https://www.pacificbookstores.com" target="_blank" rel="noopener no referrer">https://www.pacificbookstores.com</a><br>
 <b>Uniform Vendor: </b> <a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener no referrer">https://www.schooluniforms.sg/concord-primary-school</a><br></p>
