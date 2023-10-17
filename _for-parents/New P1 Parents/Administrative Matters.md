@@ -52,11 +52,7 @@ third_nav_title: New P1 Parents
 <tbody>
 <tr>
 <td style="border-color:transparent"><img src="/images/fas%20service%20pic.png"></td>
-<td style="border-color:transparent"><br><br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener no referrer"><img style="align:right; width:70%" src="/images/fas%20qr%20code.png"></a></td>
-</tr>
-<tr>
-<th style="border-color:transparent"></th>
-<th style="border-color:transparent"></th>
+<td style="border-color:transparent"><br><br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" target="_blank" rel="noopener no referrer"><img style="width:70%" src="/images/fas%20qr%20code.png"></a></td>
 </tr>
 </tbody>
 </table>
