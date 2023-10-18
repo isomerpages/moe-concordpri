@@ -7,7 +7,7 @@ third_nav_title: Parents Support Group
 <img src="/images/mad_psg.jpeg" style="width:50%">
 <br>
 <h4>Sign Up for MAD@CONCORD</h4>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform" target="_blank" rel="noopener noreferrer"><img src="/images/mad%20sign%20up.jpeg" style="“align:left”;style=&quot;width:20%&quot;"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform" target="_blank" rel="noopener noreferrer"><img src="/images/mad%20sign%20up.jpeg" style="width:20%"></a>
 <h3>Past Year Album</h3>
 
 <h4>Parent Support Group</h4>
