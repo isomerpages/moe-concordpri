@@ -66,4 +66,4 @@ third_nav_title: New P1 Parents
 <p style="text-align:justify">Our school canteen and bookshop accept cashless payments via the POSB Smart Buddy watch. If you would like to register your child for a POSB Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" target="_blank" rel="no opener noreferrer">Pamphlet</a> for more details.</p>
 <p></p><br>
 <b>11. Join M.A.D parents</b><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform" target="_blank" rel="noopener noreferrer"><img src="/images/mad%20sign%20up.jpeg" style="width:20%"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform" target="_blank" rel="noopener noreferrer"><img src="/images/mad%20sign%20up.jpeg" style="width:40%"></a>
