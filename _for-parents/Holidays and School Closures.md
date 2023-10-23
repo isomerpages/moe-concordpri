@@ -133,6 +133,10 @@ description: ""
     <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a Public Holiday)</em></b></td>
 </tr>
 <tr>
+    <td class="tg-yhj8">Grace Day<br></td>
+    <td class="tg-yhj8">Friday, 17 November 2023<br><b style="color:blue"><em>(Non-school day  for all students except<br> for those involved in the event)</em></b></td>
+</tr>
+<tr>
 		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
 </tr>
