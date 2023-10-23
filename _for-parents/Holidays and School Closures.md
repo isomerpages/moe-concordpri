@@ -3,7 +3,7 @@ title: Holidays and School Closures
 permalink: /for-parents/holidays-and-school-closures/
 description: ""
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 29 September 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 23 October 2023</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -131,6 +131,10 @@ description: ""
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
     <td class="tg-yhj8">Sunday, 12 November 2023<br><b style="color:blue"><em>(Monday, 13 November 2023 will<br>be a Public Holiday)</em></b></td>
+</tr>
+<tr>
+    <td class="tg-yhj8">Grace Day<br></td>
+    <td class="tg-yhj8">Friday, 17 November 2023<br><b style="color:blue"><em>(Non-school day  for all students except<br> for those involved in the event)</em></b></td>
 </tr>
 <tr>
 		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holiday<br></b></td>
