@@ -81,7 +81,7 @@ Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decorat
 South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
 
 <div style="text-align:left;">
-<img src="/images/november 23 dental clinic schedule.png" style="width:90%"><br></div>
+<img src="/images/november 23 dental clinic schedule.png" style="width:100%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
