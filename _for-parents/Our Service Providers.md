@@ -79,7 +79,6 @@ Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">9114
 <b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span> (Ms Cheryl)<br><br>
 Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
 South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
-
 <div style="text-align:left;">
 <img src="/images/november 23 dental clinic schedule.png" style="width:100%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
