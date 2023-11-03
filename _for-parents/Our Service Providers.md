@@ -78,10 +78,9 @@ Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</s
 Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span> (Ms Cheryl)<br><br>
 <b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span> (Ms Cheryl)<br><br>
 Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
-South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br><b style="color:red">Ms Cheryl will be on leave (and overseas) from 23 Oct to 31 Oct. Concord and Bukit Panjang Pri clinic will be closed and uncontactable.</b><br><br>
-<b style="color:red">In case of emergency (during this period),  parent to contact Buddy Clinic for assistance, Chua Chu Kang or South View Pri for assistance (contact numbers on school's website.</b><br><br>
+South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
 <div style="text-align:left;">
-<img src="/images/dental%20clinic%20for%20month%20of%20october%202023.png" style="width:90%"><br></div>
+<img src="/images/november 23 dental clinic schedule.png" style="width:100%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
