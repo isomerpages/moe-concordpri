@@ -2,6 +2,7 @@
 title: School Calendar, Term Notes and Newsletters
 permalink: /for-parents/term-calendar-and-note/
 description: ""
+variant: markdown
 ---
 <p>Please download the following for your reference.</p>
 <br><br>
@@ -118,13 +119,13 @@ description: ""
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%205_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #07</a></td>
 </tr>
-	<tr>
+<tr>
 <td class="tg-ppzb"><a href="/files/lp%20newsletter%20issue%208.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #08</a></td>
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%203%20week%209_vetted.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #08</a></td>
 </tr>
 <tr>
-<td class="tg-ppzb"></td>
+<td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_9.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #09</a></td>
 <td class="tg-ppzb"></td>
 <td class="tg-ppzb"><a href="/files/newsletter%20for%20upper%20primary_term%204%20week%203.pdf" target="_blank" rel="noopener noreferrer">Term 4 Issue #09</a></td>
 </tr>
