@@ -30,7 +30,7 @@ variant: markdown
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
 	<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">End of School Year,<br>School Holiday<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Year-End<br>School Holiday<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
 </tr>
 	<tr>
