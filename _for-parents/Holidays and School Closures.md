@@ -85,7 +85,8 @@ variant: markdown
     <td class="tg-yhj8">Hari Raya Haji<br></td>
     <td class="tg-yhj8">Monday, 17 June 2024<br>
 	</td>
-	</tr><tr>
+	</tr>
+	<tr>
     <td class="tg-yhj8">Youth Day<br></td>
     <td class="tg-yhj8">Sunday, 30 June 2024<br><b style="color:blue"><em>(Monday, 1 July 2024 will<br>be a scheduled School Holiday)</em></b></td>
 	</tr>
@@ -97,7 +98,6 @@ variant: markdown
     <td class="tg-yhj8">National Day<br></td>
     <td class="tg-yhj8">Friday, 9 August 2024<br></td>
   </tr>
-	
 	<tr>
     <td class="tg-yhj8">PSLE Oral<br></td>
     <td class="tg-yhj8">Tuesday, 13 August 2024 (TBC)<br>Wednesday, 14 August 2024 (TBC)<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
