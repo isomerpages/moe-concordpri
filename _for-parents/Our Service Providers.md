@@ -94,7 +94,7 @@ South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration
     <td class="tg-title">
 		<span style="font-weight:bold;text-decoration:underline" id="insurance-info">Group Personal Accident Insurance For Students</span><br><br>
 Product Fact Sheet 
-<a href="/files/Product Fact Sheet Year 2023.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
+<a href="/files/Product_Fact_Sheet_Year_2024.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
 <a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a>
 	</td>
 </tr>
