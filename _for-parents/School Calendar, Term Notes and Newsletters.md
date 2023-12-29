@@ -96,7 +96,7 @@ variant: markdown
 	<td class="tg-ppzb">-</td>
 </tr>
 </tbody><tbody>
-</tbody></table><br><h3>2023 Newsletter for Parents</h3><table>
+</tbody></table><h3>2023 Newsletter for Parents</h3><table>
 
 
 
