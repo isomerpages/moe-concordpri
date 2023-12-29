@@ -23,15 +23,18 @@ variant: markdown
     <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 3 Calendar</span></td>
 		<td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 4 Calendar</span></td>
   </tr>
-	<tr>
-	<td class="tg-xuj5"><a href="/files/T1_Parents Calendar_2023 V3.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
-	</tr>
   <tr>
     <td class="tg-xuj5"><a href="/files/T1_Parents Calendar_2023 V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 1 Calendar</a><br></td>
     <td class="tg-xuj5"><a href="/files/T2_Parents%20Calendar_2023%20V3.pdf" target="_blank" rel="noopener noreferrer">2023 Term 2 Calendar</a><br></td>
     <td class="tg-xuj5"><a href="/files/t3_parents%20calendar_2023.pdf" target="_blank" rel="noopener noreferrer">2023 Term 3 Calendar</a></td>
 	<td class="tg-xuj5"><a href="/files/t4_parents%20calendar_2023%20v1.pdf" target="_blank" rel="noopener noreferrer">2023 Term 4 Calendar</a></td>
 </tr>
+	<tr>
+	<td class="tg-xuj5"><a href="/files/T1_Parents_Calendar_2024.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
+	<td class="tg-xuj5"><br></td>
+		<td class="tg-xuj5"><br></td>
+		<td class="tg-xuj5"><br></td>
+	</tr>
 </tbody>
 </table>
 <br><br>
@@ -61,7 +64,7 @@ variant: markdown
 </tbody>
 </table>
 
-<h3>2023 Newsletter for Parents</h3>
+<h3>2024 Newsletter for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -76,6 +79,40 @@ variant: markdown
 .tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+<tr>
+ <td class="tg-a4yv">Lower Primary </td>
+ <td class="tg-a4yv">Middle Primary</td>
+ <td class="tg-a4yv">Upper Primary </td>
+</tr>
+ <tr>
+  <td class="tg-ppzb">-</td>
+  <td class="tg-ppzc">-</td>
+	<td class="tg-ppzb">-</td>
+</tr>
+</tbody><tbody>
+</tbody></table><br><h3>2023 Newsletter for Parents</h3><table>
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-ppzr{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-ppzc{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
+</style>
+</table><table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 250px">
 <col style="width: 250px">
