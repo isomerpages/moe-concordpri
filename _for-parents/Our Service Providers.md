@@ -2,6 +2,7 @@
 title: Our Service Providers
 permalink: /for-parents/school-information/our-service-providers/
 description: ""
+variant: markdown
 ---
 <!--table style for the link table -->
 <style type="text/css">
@@ -93,7 +94,7 @@ South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration
     <td class="tg-title">
 		<span style="font-weight:bold;text-decoration:underline" id="insurance-info">Group Personal Accident Insurance For Students</span><br><br>
 Product Fact Sheet 
-<a href="/files/Product Fact Sheet Year 2023.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
+<a href="/files/Product_Fact_Sheet_Year_2024.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
 <a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener noreferrer">https://www.income.com.sg/studentgpa</a>
 	</td>
 </tr>
@@ -118,8 +119,8 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
 			<b style="color:blue">Far East Shopping Centre Outlet</b><br>
 545 Orchard Road, #02-28<br>
 Singapore 238882<br><br>Tel: <u><b>6732 7022</b></u><br>SMS: <u><b>9234 1033</b></u><br><br>Mon to Sat: <u><b>10:00 am to 7:00 pm</b></u><br>Sun: <u><b>10:00 am to 6:00 pm</b></u><br><br><br><b style="color:blue">Henderson Outlet</b><br>
-213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><br><br><b style="color:red">*Please call Bibi&amp;Baba to check stock availability before going.</b><br><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
-For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements.<br><br><b style="color:blue">*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b><br><br><b>~</b> Students can purchase during their recess or lunch break.<br><br><b>~</b> Parents can walk-in to purchase from 2.00pm to 2.45pm.<br><br><br>If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>.<br><br>The dates, once finalised, will be communicated to all parents and guardians by the end of this term.<br><br>Please call the General Office at <b>67632139</b> if you have any enquires.<br>Thank you.</span>
+213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><br><br><b style="color:red">*Please call Bibi&amp;Baba to reserve stock before going.</b><br><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
+For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements. Stock will only be available from February 2024.<br><br><b style="color:blue">*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b><br><br><b>~</b> Students can purchase during their recess or lunch break.<br><br><b>~</b> Parents can walk-in to purchase from 2.00pm to 2.45pm.<br><br><br>If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>.<br><br>The dates, once finalised, will be communicated to all parents and guardians by the end of this term.<br><br>Please call the General Office at <b>67632139</b> if you have any enquires.<br>Thank you.</span>
 </td>
 </tr>
 
@@ -129,7 +130,7 @@ For purchases in the school bookshop, it is recommended only for small quantitie
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bookshop-info">School Bookshop</span><br><br>
 <span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Open to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)<br>
 Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><br>
-<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br><img src="/images/year-end%20on-site%20books%20and%20uniform%20sales.png" style="width=80%">
+<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
 </td>
 </tr>
 
