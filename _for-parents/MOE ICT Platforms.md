@@ -94,12 +94,12 @@ Note: The URL in the email will expire within 10 minutes. If the URL has expired
 <br>
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</p></td></tr>
 
-	<!--All Ears Portal info -->
+<!--All Ears Portal info -->
 <tr>
 	<td style="text-align:center" class="tg-info">2.</td>
-	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%">
-	<p style="text-align:justify">All Ears Form Builder is a data collection tool that is integrated with the school. Students may use All Ears Form Builder to complete their Termly Check-in Survey using their MIMS Account. 
-</p></td>
+	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%"><br><center><a href="http://go.gov.sg/slsloginhelp" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>go.gov.sg/slsloginhelp</b></span></a></center> 
+<p style="text-align:justify">All Ears Form Builder is a data collection tool that is integrated with the school. Students may use All Ears Form Builder to complete their Termly Check-in Survey using their MIMS Account.</p>
+</td>
 </tr>
 	
 <!--Parent Gateway content -->
