@@ -97,7 +97,7 @@ You can access SLS from internet browsers installed on your mobile phones or equ
 <!--All Ears Portal info -->
 <tr>
 	<td style="text-align:center" class="tg-info">2.</td>
-	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%"><br><center><a href="https://allears.estl.edu.sg/home" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://allears.estl.edu.sg/home</b></span></a></center> 
+	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%"><center><a href="https://allears.estl.edu.sg/home" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://allears.estl.edu.sg/home</b></span></a></center> 
 <p style="text-align:justify">All Ears Form Builder is a data collection tool that is integrated with the school. Students may use All Ears Form Builder to complete their Termly Check-in Survey using their MIMS Account.</p>
 </td>
 </tr>
