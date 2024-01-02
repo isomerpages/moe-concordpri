@@ -32,7 +32,7 @@ variant: markdown
 <!--Student Learning Space content -->
 <tr>
 	<td class="tg-info"><br>1.</td>
-	<td class="tg-title"><p style="text-align:justify">The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
+	<td class="tg-title"><p style="text-align:justify"><br>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
 </p><p></p><center><b>Student Learning Space</b></center>&nbsp;
@@ -76,7 +76,6 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
 <br>
 Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
 <br><br>
-  
 </p><p><b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
 <br>
 </p><p>The following are the recommended operating systems:
@@ -89,19 +88,16 @@ Note: The URL in the email will expire within 10 minutes. If the URL has expired
 <li>SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 &amp; later, Google Chrome 51 &amp; later, FireFox 51 &amp; later or Safari 7.1 &amp; later).</li>
 </ul>
 <br>
-
 <p><b>Q6 : Can SLS run on mobile phones?</b>
 <br>
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</p></td></tr>
-
 <!--All Ears Portal info -->
 <tr>
 	<td style="text-align:center" class="tg-info">2.</td>
-	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%"><center><a href="https://allears.estl.edu.sg/home" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://allears.estl.edu.sg/home</b></span></a></center> 
+	<td class="tg-title"><br><img src="/images/All_Ears.png" style="width:25%"><center><a href="https://allears.estl.edu.sg/home" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://allears.estl.edu.sg/home</b></span></a></center> 
 <p style="text-align:justify">All Ears Form Builder is a data collection tool that is integrated with the school. Students may use All Ears Form Builder to complete their Termly Check-in Survey using their MIMS Account.</p>
 </td>
 </tr>
-	
 <!--Parent Gateway content -->
 <tr>
 	<td style="text-align:center" class="tg-info">3.</td>
