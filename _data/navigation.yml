@@ -1,0 +1,19 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    url: /departments/english
+    sublinks:
+      - title: Departments
+        url: /departments/english
+      - title: Programmes
+        url: /programmes/concords-soar-programme
+      - title: CCA
+        url: /cca/Modular-CCA-Programme/Modular-CCA-Programme
+  - title: Learning Platforms
+    url: /learning-platforms/
+  - title: For Parents
+    collection: for-parents
