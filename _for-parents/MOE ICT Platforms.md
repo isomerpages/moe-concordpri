@@ -2,6 +2,7 @@
 title: MOE ICT Platforms
 permalink: /for-parents/permalink/moe-ict-platform/
 description: ""
+variant: markdown
 ---
 <!--table style -->
 <style type="text/css">
@@ -27,31 +28,11 @@ description: ""
 	<td style="text-align:center;" class="tg-title"><b>ICT Platform</b></td>
 </tr>
 
-<!--Parent Gateway content -->
-<tr>
-	<td style="text-align:center" class="tg-info">1.</td>
-	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%">
-	<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
-<br><br>
-<b>You will need your SingPass to log into Parents Gateway.</b>&nbsp;
-<br>
-</p><p style="text-align:justify">For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
-<br><br>
-	1. <a href="https://youtu.be/02uYTlYD1P4" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Onboarding Video for Parents</b></a><br>
-2.&nbsp;<a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
-3.&nbsp;<a href="/files/PG Mobile App User Guide.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway User Guide</b></span></a><br>
-	4.&nbsp;<a href="/files/PG Mobile App Meetings Feature User Guide.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway Meeting Feature User Guide</b></span></a><br><br>
- ✦ <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For iOS User)</b></a>
-<br>
-✦ <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en\_SG" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For Android User)</b></a>
-<br><br>
-You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.</p><br>
-</td>
-</tr>
+
 <!--Student Learning Space content -->
 <tr>
-	<td class="tg-info"><br>2.</td>
-	<td class="tg-title"><p style="text-align:justify">The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
+	<td class="tg-info"><br>1.</td>
+	<td class="tg-title"><p style="text-align:justify"><br>The Student Learning Space (SLS) is an online platform that will support teaching and learning in the school. 
 <br><br>
 <img src="/images/SLS.jpeg" style="width:40%">
 </p><p></p><center><b>Student Learning Space</b></center>&nbsp;
@@ -95,7 +76,6 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
 <br>
 Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
 <br><br>
-  
 </p><p><b>Q5 : What are the Operating System and Browser Requirements for SLS?</b>  
 <br>
 </p><p>The following are the recommended operating systems:
@@ -108,7 +88,34 @@ Note: The URL in the email will expire within 10 minutes. If the URL has expired
 <li>SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 &amp; later, Google Chrome 51 &amp; later, FireFox 51 &amp; later or Safari 7.1 &amp; later).</li>
 </ul>
 <br>
-
 <p><b>Q6 : Can SLS run on mobile phones?</b>
 <br>
-You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</p></td></tr></tbody></table>
+You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</p></td></tr>
+<!--All Ears Portal info -->
+<tr>
+	<td style="text-align:center" class="tg-info">2.</td>
+	<td class="tg-title"><br><img src="/images/All_Ears.png" style="width:25%"><center><a href="https://allears.estl.edu.sg/home" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://allears.estl.edu.sg/home</b></span></a></center> 
+<p style="text-align:justify">All Ears Form Builder is a data collection tool that is integrated with the school. Students may use All Ears Form Builder to complete their Termly Check-in Survey using their MIMS Account.</p>
+</td>
+</tr>
+<!--Parent Gateway content -->
+<tr>
+	<td style="text-align:center" class="tg-info">3.</td>
+	<td class="tg-title"><br><img src="/images/parents-gateway.jpeg" style="width:25%">
+	<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.  
+<br><br>
+<b>You will need your SingPass to log into Parents Gateway.</b>&nbsp;
+<br>
+</p><p style="text-align:justify">For assistance to download the Parents Gateway Mobile Application, you may refer to the following:
+<br><br>
+	1. <a href="https://youtu.be/02uYTlYD1P4" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Onboarding Video for Parents</b></a><br>
+2.&nbsp;<a href="/files/Step-by-step-Guide-to-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Step-by-step Guide to Parents Gateway</b></span></a><br>
+3.&nbsp;<a href="/files/PG Mobile App User Guide.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway User Guide</b></span></a><br>
+	4.&nbsp;<a href="/files/PG Mobile App Meetings Feature User Guide.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Parent Gateway Meeting Feature User Guide</b></span></a><br><br>
+ ✦ <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For iOS User)</b></a>
+<br>
+✦ <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en\_SG" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For Android User)</b></a>
+<br><br>
+You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.</p><br>
+</td>
+</tr></tbody></table>
