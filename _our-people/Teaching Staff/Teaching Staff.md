@@ -303,20 +303,20 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P5C<br></td>
-<td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</a><br></td>
-<td class="tg-yhj3"><a href="mailto:sharon_goh_hsuan_lin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sharon Goh Hsuan Lin</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</a><br></td>
+<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P5D<br></td>
- <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</a><br></td>
-<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
+<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
 <td><br></td>
 </tr>
 <tr>
  <td class="tg-yhj3">P5E<br></td>
- <td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</a><br></td>
-<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:see_kai_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr See Kai Wen</a><br></td>
+<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
 <td><br></td>
 </tr>
 <tr>
