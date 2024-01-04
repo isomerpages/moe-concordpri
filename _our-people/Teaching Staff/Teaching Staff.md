@@ -71,8 +71,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P1G<br></td>
-<td class="tg-yhj3"><a href="mailto:siti_weinawaty_mohd_salleh@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Weinawaty Bte Mohd Saleh</a><br></td>
-<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sabrina Yap Yan Ting</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chong_see_yin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chong See Yin Ruth</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nithiya_krishnasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nithiya d/o Krishnasamy</a><br></td>
 <td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
 	
