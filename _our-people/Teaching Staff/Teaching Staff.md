@@ -189,8 +189,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P3C<br></td>
- <td class="tg-yhj3"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</a><br></td>
-<td class="tg-yhj3"><a href="mailto:zhang_kaixin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Zhang Kaixin</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
+<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
