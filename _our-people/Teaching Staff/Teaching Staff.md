@@ -354,8 +354,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-yhj3">P6B<br></td>
-    <td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo</a><br></td>
-<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
+    <td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</a><br></td>
 <td><br></td>
 </tr>
 <tr>
