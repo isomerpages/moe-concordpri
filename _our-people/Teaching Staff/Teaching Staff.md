@@ -47,8 +47,8 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-yhj3">P1C<br></td>
-  <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</a><br></td>
-<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</a><br></td>
+  <td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
+<td class="tg-yhj3"><a href="mailto:loy_xue_ying@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loy Xue Ying</a><br></td>
 <td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
 <tr>
