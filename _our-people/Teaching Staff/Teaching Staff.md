@@ -125,9 +125,9 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P2D<br></td>
-<td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
-<td class="tg-yhj3"><a href="mailto:nithiya_krishnasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nithiya d/o Krishnasamy</a><br></td>
-<td class="tg-yhj3"><a href="mailto:ieo_gek_ching@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Ieo Gek Ching</a><br></td>
+<td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
+<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2E<br></td>
