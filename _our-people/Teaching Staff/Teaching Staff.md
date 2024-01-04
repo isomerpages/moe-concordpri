@@ -183,8 +183,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P3B<br></td>
-<td class="tg-yhj3"><a href="mailto:tan_wee_loon@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tan Wee Loon</a><br></td>
-<td class="tg-yhj3"><a href="mailto:ping_sibo@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Ping Sibo</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chou_qi_ling_felicia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Chou Qi Ling, Felicia</a><br></td>
+<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
