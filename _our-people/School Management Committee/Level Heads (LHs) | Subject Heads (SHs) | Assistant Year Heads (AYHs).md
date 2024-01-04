@@ -3,6 +3,7 @@ title: Level Heads (LHs) | Subject Heads (SHs) | Assistant Year Heads (AYHs)
 permalink: /our-people/School-Management-Committee/LHs-SHs-AYHs/
 description: ""
 third_nav_title: School Management Committee
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -52,11 +53,6 @@ third_nav_title: School Management Committee
     <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Miss Felicia Toh Sze Hui</td>
-    <td class="tg-yhj3"> SH Aesthetics</td>
-    <td class="tg-o5fr"><a href="mailto:toh_sze_hui@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">toh_sze_hui@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-yhj3">Mr T S Charleston s/o VN </td>
     <td class="tg-yhj3">SH Co-Curricular Activities (CCA)</td>
     <td class="tg-o5fr"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">ts_charleston@moe.edu.sg</span></a></td>
@@ -75,16 +71,6 @@ third_nav_title: School Management Committee
     <td class="tg-yhj3">Mdm Nithiya d/o Krishnasamy </td>
     <td class="tg-yhj3"> SH Information &amp; Communications Technology (ICT)</td>
     <td class="tg-o5fr"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nithiya_krishnasamy@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3"> Mr Zhang Kaixin</td>
-    <td class="tg-yhj3"> SH Physical Education</td>
-    <td class="tg-o5fr"><a href="mailto:zhang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zhang_kaixin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3"> Mdm Zarinah Binte Zainal</td>
-    <td class="tg-yhj3"> SH Student Wellbeing</td>
-    <td class="tg-o5fr"><a href="mailto:zarinah_zainal@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zarinah_zainal@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3"> Mdm Lee Yi Ling</td>
