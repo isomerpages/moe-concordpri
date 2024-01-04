@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /our-people/Teaching-Staff/permalink/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -34,9 +35,9 @@ third_nav_title: Teaching Staff
 <!-- Primary 1 Form Teachers --> 
 <tr>
     <td class="tg-yhj3">P1A<br></td>
-    <td class="tg-yhj3"><a href="mailto:zarinah_zainal@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Zarinah Binte Zainal</a><br></td>
-<td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Miss Heng Chwee Hong</a><br></td>
-<td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
+    <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Chew Ning Jie, Eunice</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
+<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
    <td class="tg-yhj3">P1B<br></td>
