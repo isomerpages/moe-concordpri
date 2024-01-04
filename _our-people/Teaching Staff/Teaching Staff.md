@@ -207,7 +207,7 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P3F<br></td>
-<td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chan_liea_sun@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chan Liea Sun</a><br></td>
 <td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Alifah Binte Samsudin</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
@@ -234,9 +234,9 @@ variant: markdown
 <!-- Primary 4 Form Teachers -->
 <tr>
 <td class="tg-yhj3">P4A<br></td>
-<td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy</a><br></td>
-<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</a><br></td>
-<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</a><br></td>
+<td class="tg-yhj3"><a href="mailto:mohammad_isham_rahmat@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Mohammad Isham Bin Rahmat</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P4B<br></td>
