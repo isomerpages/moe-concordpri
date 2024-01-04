@@ -321,8 +321,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P5F<br></td>
-    <td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</a><br></td>
-<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</a><br></td>
+    <td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
+<td class="tg-yhj3"><a href="mailto:noor_hanif_sulaimee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Noor Hanif Bin Sulaimee</a><br></td>
 <td><br></td>
 </tr>
 </tbody>
