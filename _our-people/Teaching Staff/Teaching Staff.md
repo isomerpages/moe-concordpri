@@ -297,9 +297,9 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P5B<br></td>
-<td class="tg-yhj3"><a href="mailto:maslina_nis_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Maslina Bte Nis Bee</a><br></td>
-<td class="tg-yhj3"><a href="mailto:ang_si_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen</a><br></td>
-<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
+<td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Osman Bin Rahmat Ali</a><br></td>
+<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P5C<br></td>
