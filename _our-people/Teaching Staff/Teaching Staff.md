@@ -240,9 +240,9 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4B<br></td>
-<td class="tg-yhj3"><a href="mailto:teo_aik_nen_aden@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Teo Aik Nen Aden</a><br></td>
-<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
-<td class="tg-yhj3"><a href="mailto:noraza_surani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noraza Bte Surani</a><br></td>
+<td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ping_sibo@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Ping Sibo</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P4C<br></td>
