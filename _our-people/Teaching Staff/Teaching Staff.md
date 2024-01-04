@@ -107,9 +107,9 @@ variant: markdown
 <!-- Primary 2 Form Teachers -->	
 <tr>
  <td class="tg-yhj3">P2A<br></td>
- <td class="tg-yhj3"><a href="mailto:chua_baofeng_jenny@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Jenny Chua</a><br></td>
-<td class="tg-yhj3"><a href="mailto:noorlaily_jupri@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Noorlaily Binte Jupri</a><br></td>
-<td class="tg-yhj3"><a href="mailto:koh_pek_song_andy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Koh Pek Song, Andy</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2B<br></td>
