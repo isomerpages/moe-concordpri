@@ -360,8 +360,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P6C<br></td>
-<td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</a><br></td>
-<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lim_suzanne@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
 <td><br></td>
 </tr>
 <tr>
