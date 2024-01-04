@@ -119,9 +119,9 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P2C<br></td>
-<td class="tg-yhj3"><a href="mailto:sohrah_mumhude@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Sohrah Bte Mumhude</a><br></td>
-<td class="tg-yhj3"><a href="mailto:chong_see_yin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chong See Yin Ruth</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nurul_sakinah_ishaak@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2D<br></td>
