@@ -263,8 +263,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4F<br></td>
-<td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</a><br></td>
-<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chua_yu_juan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Chua Yu Juan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nor_hayati_salimik@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
 <td><br></td>
 </tr>
 </tbody>
@@ -291,9 +291,9 @@ variant: markdown
 <!-- Primary 5 Form Teachers -->  
 <tr>
     <td class="tg-yhj3">P5A<br></td>
-    <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</a><br></td>
-<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
-<td><br></td>
+    <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ooi_sze_jia_dawn@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ooi Sze Jia Dawn</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P5B<br></td>
