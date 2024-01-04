@@ -257,8 +257,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4E<br></td>
-<td class="tg-yhj3"><a href="mailto:teo_xue_hua_grace@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Grace Shen</a><br></td>
-<td class="tg-yhj3"><a href="mailto:teoh_kah_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min</a><br></td>
+<td class="tg-yhj3"><a href="mailto:chen_qiuru@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chen Qiuru</a><br></td>
+<td class="tg-yhj3"><a href="mailto:syaza_amirah_azlan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Syaza Amirah Binte Azlan</a><br></td>
 <td><br></td>
 </tr>
 <tr>
