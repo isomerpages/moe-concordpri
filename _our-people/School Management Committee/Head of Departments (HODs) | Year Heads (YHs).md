@@ -3,6 +3,7 @@ title: Head of Departments (HODs) | Year Heads (YHs)
 permalink: /our-people/School-Management-Committee/HODs-YHs/
 description: ""
 third_nav_title: School Management Committee
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -78,7 +79,7 @@ third_nav_title: School Management Committee
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Upper Primary <br></td>
+    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE (Covering) <br></td>
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 </tr>
 </tbody>
