@@ -366,21 +366,21 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P6D<br></td>
-<td class="tg-yhj3"><a href="mailto:see_kai_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr See Kai Wen</a><br></td>
-<td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</a><br></td>
+<td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nurfirdawati_iryani_abdull@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6E<br></td>
-<td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</a><br></td>
-<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6F<br></td>
-<td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
-<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</a><br></td>
-<td><br></td>
+<td class="tg-yhj3"><a href="mailto:yeo_hui_qi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Yeo Hui Qi</a><br></td>
+<td class="tg-yhj3"><a href="mailto:siti_rianawati_shukor@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Rianawati</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr T S Charleston</a><br></td>
 </tr>
 </tbody>
 </table>
