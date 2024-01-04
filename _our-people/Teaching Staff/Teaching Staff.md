@@ -131,8 +131,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P2E<br></td>
-<td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng</a><br></td>
-<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tan Kim Keong</a><br></td>
+<td class="tg-yhj3"><a href="mailto:siti_aishah_hussain@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Aishah Bte Hussain</a><br></td>
+<td class="tg-yhj3"><a href="mailto:teng_yue_ting@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Teng Yue Ting</a><br></td>
 <td><br></td>
 </tr>
 <tr>
