@@ -41,8 +41,8 @@ variant: markdown
 </tr>
 <tr>
    <td class="tg-yhj3">P1B<br></td>
-   <td class="tg-yhj3"><a href="mailto:aryane_mohamed_ali@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Aryane Binte Mohamed Ali</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:liao_han@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Liao Han</a><br></td>
+   <td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Ms Ker Leng Leng</a><br></td>
+		<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mr Tan Kim Keong</a><br></td>
 	<td class="tg-yhj3"><a style="text-decoration:none; color:#1ABC9C"></a><br></td>
 </tr>
 <tr>
