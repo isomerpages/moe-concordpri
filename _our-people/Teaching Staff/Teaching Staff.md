@@ -246,8 +246,8 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4C<br></td>
-<td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi</a><br></td>
-<td class="tg-yhj3"><a href="mailto:yuan_huiling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</a><br></td>
+<td class="tg-yhj3"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</a><br></td>
+<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
 <td><br></td>
 </tr>
 <tr>
