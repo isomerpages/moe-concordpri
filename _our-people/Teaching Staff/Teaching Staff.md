@@ -177,9 +177,9 @@ variant: markdown
 <!-- Primary 3 Form Teachers -->
 <tr>
 <td class="tg-yhj3">P3A<br></td>
-<td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
 <td class="tg-yhj3"><a href="mailto:ng_jia_hui@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Jia Hui</a><br></td>
-	<td class="tg-yhj3"><a href="mailto:mohammad_isham_rahmat@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Mohammad Isham Bin Rahmat</a><br></td>
+	<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P3B<br></td>
