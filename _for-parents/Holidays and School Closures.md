@@ -4,7 +4,7 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 8 December 2023</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 4 January 2024</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -28,18 +28,6 @@ variant: markdown
   <tr>
     <td class="tg-yhj7"><b>Events</b><br></td>
 		<td class="tg-yhj7"><b>Dates</b><br></td>
-  </tr>
-	<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Year-End<br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 18 November 2023<br>to<br>Sunday, 31 December 2023</b></td>
-</tr>
-	<tr>
-    <td class="tg-yhj8">Christmas Day<br></td>
-		<td class="tg-yhj8">Monday, 25 December 2023</td>
-</tr>
-	<tr>
-    <td class="tg-yhj8">New Year's Day<br></td>
-    <td class="tg-yhj8">Monday, 1 January 2024<br></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">First Day of School<br></td>

@@ -3,6 +3,7 @@ title: Allied Educators (AED)| SEN Officers
 permalink: /our-people/Teaching-Staff/aed/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -45,11 +46,6 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Mdm Padma Subramaniam </td>
     <td class="tg-yhj3"> SEN Officer</td>
     <td class="tg-o5fr"><a href="mailto:padma_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">padma_subramaniam@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Miss Koh Xiao Ting Anne</td>
-    <td class="tg-yhj3">SEN Officer </td>
-    <td class="tg-o5fr"><a href="mailto:koh_xiao_ting_anne@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">koh_xiao_ting_anne@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Yow Jit Sin</td>
