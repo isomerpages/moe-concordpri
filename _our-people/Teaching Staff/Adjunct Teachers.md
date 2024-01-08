@@ -27,11 +27,6 @@ variant: markdown
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
   </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Nornizah Binte Hamzah<br></td>
-    <td class="tg-yhj3">Art</td>
-    <td class="tg-o5fr"><a href="mailto:nornizah_hamzah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">nornizah_hamzah@moe.edu.sg</span></a><br></td>
-  </tr>
 	<tr>
     <td class="tg-yhj3">Mr Stanley Chin Ming Sing<br></td>
     <td class="tg-yhj3">Art</td>
@@ -68,9 +63,9 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:wong_lye_hoong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_lye_hoong@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mrs Lim - Kwek Yen Ping</td>
+    <td class="tg-yhj3">Mrs Tng Yoke Yin</td>
     <td class="tg-yhj3"> Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:lim-kwek_yen_ping@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lim-kwek_yen_ping@moe.edu.sg</span></a></td>
+    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
@@ -81,16 +76,6 @@ variant: markdown
     <td class="tg-yhj3">Mdm Ow Tong Lan Connie</td>
     <td class="tg-yhj3">Science</td>
     <td class="tg-o5fr"><a href="mailto:ow_tong_lan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">ow_tong_lan@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mrs Constance Sum Siew Leng</td>
-    <td class="tg-yhj3"></td>
-    <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mrs Tng Yoke Yin</td>
-    <td class="tg-yhj3"></td>
-    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
