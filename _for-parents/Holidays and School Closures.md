@@ -4,7 +4,7 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 8 January 2024</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 4 January 2024</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
