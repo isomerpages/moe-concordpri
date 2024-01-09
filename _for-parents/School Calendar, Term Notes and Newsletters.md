@@ -30,11 +30,11 @@ variant: markdown
 	<td class="tg-xuj5"><a href="/files/t4_parents%20calendar_2023%20v1.pdf" target="_blank" rel="noopener noreferrer">2023 Term 4 Calendar</a></td>
 </tr>
 	<tr>
-	<td class="tg-xuj5"><a href="/files/T1_Parents_Calendar_2024.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
-	<td class="tg-xuj5"><br></td>
-		<td class="tg-xuj5"><br></td>
-		<td class="tg-xuj5"><br></td>
-	</tr>
+	<td class="tg-xuj5"><a href="/files/T1_Parents_Calendar_2024_V1.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
+<td class="tg-xuj5"><br></td>
+<td class="tg-xuj5"><br></td>
+<td class="tg-xuj5"><br></td>
+</tr>
 </tbody>
 </table>
 <br><br>
