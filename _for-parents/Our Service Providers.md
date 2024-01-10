@@ -73,13 +73,11 @@ variant: markdown
 	<span style="font-weight:bold;text-decoration:underline" id="dental-clinic">School Dental Clinic</span>
 <br><br>
 Opening Hours:<br>
-Mon - Thurs: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
-Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
+Mon, Wed &amp; Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
+Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
-Dental Clinic Tel: <span style="font-weight:bold;text-decoration:underline">91143917</span> (Ms Cheryl)<br><br>
-<b style="color:blue">Buddy Clinic at:</b><br> Bukit Panjang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91142186</span> (Ms Cheryl)<br><br>
-Chua Chu Kang Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">9822 8628</span><br><br>
-South View Primary School<br> Tel: <span style="font-weight:bold;text-decoration:underline">91156994</span><br><br>
+Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+
 <div style="text-align:left;">
 <img src="/images/Dental_Schedule_JAN_2024.png" style="width:100%"><br></div>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
