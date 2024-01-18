@@ -92,14 +92,14 @@ variant: markdown
 </tr>
  <tr>
   <td class="tg-ppzb">-</td>
-  <td class="tg-ppzc">-</td>
+ <td class="tg-ppzb"><a href="/files/T1W3_Newsletter_V2.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 	<td class="tg-ppzb">-</td>
 </tr>
 </tbody><tbody>
-</tbody></table><h3>2023 Newsletter for Parents</h3><table>
+</tbody></table>
 
-
-
+<h3>2023 Newsletter for Parents</h3>
+<table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
