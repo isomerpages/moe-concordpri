@@ -91,8 +91,8 @@ variant: markdown
  <td class="tg-a4yv">Upper Primary </td>
 </tr>
  <tr>
-  <td class="tg-ppzb">-</td>
  <td class="tg-ppzb"><a href="/files/T1W3_Newsletter_V2.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+ <td class="tg-ppzb"><a href="/files/Jan_Newsletters_issue_1.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 	<td class="tg-ppzb">-</td>
 </tr>
 </tbody><tbody>
