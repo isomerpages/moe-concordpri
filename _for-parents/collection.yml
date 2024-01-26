@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE ICT Platforms/Parents Gateway.md
-      - MOE ICT Platforms/Student iCON.md
-      - MOE ICT Platforms/Students Learning Space (SLS).md
       - MOE ICT Platforms/.keep
+      - MOE ICT Platforms/Students Learning Space (SLS).md
+      - MOE ICT Platforms/Student iCON.md
+      - MOE ICT Platforms/Parents Gateway.md
       - Inform Child's Absence.md
       - Useful Forms.md
       - Our Service Providers.md
