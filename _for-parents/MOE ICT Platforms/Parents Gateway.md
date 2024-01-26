@@ -7,7 +7,7 @@ third_nav_title: MOE ICT Platforms
 ---
 <img src="/images/parents-gateway.jpeg" style="width:25%">
 <br>
-	<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.</p>
+<p style="text-align:justify">Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school's programmes and activities.</p>
 <br>
 <b>You will need your SingPass to log into Parents Gateway.</b>
 <br>
