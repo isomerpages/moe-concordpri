@@ -17,3 +17,4 @@ third_nav_title: MOE ICT Platforms
 
 <p>These useful applications will be provided progressively and will follow you throughout your learning journey from Primary School to Junior Colleges.</p>
 </ul>
+<img src="/images/SLS.jpeg" style="width:40%">
