@@ -30,5 +30,5 @@ third_nav_title: MOE ICT Platforms
 <p style="color: blue"><b>Useful Resources:</b></p>
 <ul>
 <li><a href="/files/_For_Student__Data_Management_EDM_for_Student_iCON.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Data Management EDM for Student iCON</b></span></a></li>
-<li><a href="/files/_For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Quick Guide on Student iCON Data Management</b></span></a></li>
+<li><a href="/files/_For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>Quick Guide on Student iCON Data Management &amp; Housekeeping</b></span></a></li>
 </ul>
