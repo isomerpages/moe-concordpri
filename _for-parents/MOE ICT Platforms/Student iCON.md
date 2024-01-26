@@ -19,4 +19,4 @@ third_nav_title: MOE ICT Platforms
 </ul>
 
 <h3>Common GSuite Services</h3>
-<img src="/images/SLS.jpeg" style="width:40%">
+<img src="/images/GSuiteServices.png" style="width:100%">
