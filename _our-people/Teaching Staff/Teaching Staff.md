@@ -153,6 +153,7 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 </tr>
 
 <!-- Primary 3 Form Teachers -->
@@ -180,6 +181,7 @@ variant: markdown
 <td class="tg-yhj3">P3E<br></td>
 <td class="tg-yhj3"><a href="mailto:nur_eva_jailani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</a></td>
 <td class="tg-yhj3"><a href="mailto:fang_yunna@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Fang Yunna</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:tow_wen_lu@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Tow Wen Lu</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P3F<br></td>
