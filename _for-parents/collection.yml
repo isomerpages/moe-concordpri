@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE ICT Platforms/MOE ICT Platforms.md
+      - MOE ICT Platforms/Students Learning Space (SLS).md
       - MOE ICT Platforms/.keep
       - Inform Child's Absence.md
       - Useful Forms.md
