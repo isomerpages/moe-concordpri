@@ -7,7 +7,7 @@ third_nav_title: MOE ICT Platforms
 ---
 <h3>Student iCON</h3>
 <p>Student iCON is a suite of Google apps that helps to better support student’s learning and collaboration with others.</p>
-<p>Student iCON can be accessed from https://workspace.google.com/dashboard . Students may refer to Page 25 of their Student Handbook for details on their MIMS Username and Password.</p>
+<p>Student iCON can be accessed from <a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://workspace.google.com/dashboard</b></span></a>. Students may refer to Page 25 of their Student Handbook for details on their MIMS Username and Password.</p>
 
 <h3>Benefits of Student iCON</h3>
 <ul>
