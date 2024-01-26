@@ -19,7 +19,7 @@ third_nav_title: MOE ICT Platforms
 </ul>
 
 <h3>Common GSuite Services</h3>
-<img src="/images/GSuiteServices.png" style="width:100%">
+<img src="/images/GSuiteServices.png" style="width:80%">
 
 <h3>Student iCON Support</h3>
 
