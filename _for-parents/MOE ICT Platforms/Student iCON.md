@@ -20,3 +20,9 @@ third_nav_title: MOE ICT Platforms
 
 <h3>Common GSuite Services</h3>
 <img src="/images/GSuiteServices.png" style="width:100%">
+
+<h3>Student iCON Support</h3>
+
+<ol>
+	<li>Request for reset password through our School-based Helpdesk at https://go.gov.sg/concordsls</li>
+<ol></ol></ol>
