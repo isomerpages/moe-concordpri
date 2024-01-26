@@ -20,4 +20,4 @@ third_nav_title: MOE ICT Platforms
 <br>
 ✦ <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en\_SG" target="_blank" rel="noopener noreferrer"><b style="text-decoration:none;color:#1A7BDF">Parent Gateway (For Android User)</b></a>
 <br><br>
-You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.<p></p><br>
+You may refer to the Frequently Asked Questions (FAQs) <a href="/files/FAQs-for-Parents-Gateway.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>here</b></span></a> for more information.
