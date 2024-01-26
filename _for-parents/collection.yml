@@ -2,16 +2,16 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE ICT Platforms/.keep
-      - MOE ICT Platforms/Students Learning Space (SLS).md
-      - MOE ICT Platforms/Student iCON.md
-      - MOE ICT Platforms/Parents Gateway.md
       - Inform Child's Absence.md
       - Useful Forms.md
       - Our Service Providers.md
       - New P1 Parents/.keep
       - New P1 Parents/Administrative Matters.md
       - New P1 Parents/Parent Volunteer Application.md
+      - MOE ICT Platforms/.keep
+      - MOE ICT Platforms/Students Learning Space (SLS).md
+      - MOE ICT Platforms/Student iCON.md
+      - MOE ICT Platforms/Parents Gateway.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Traffic Management Plan.md
