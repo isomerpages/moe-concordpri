@@ -2,6 +2,7 @@
 title: Learning Platforms
 permalink: /learning-platforms/
 description: ""
+variant: markdown
 ---
 <ul>
 <li><a href="https://vle.learning.moe.edu.sg/login"><span style="color:#FD6500; font-size:14px; font-weight:bold">Student Learning Space (SLS)</span></a></li>
@@ -28,7 +29,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-5o1s">English<br><br><a href="http://www.kinglishschool.com/game_eng.htm"><span style="text-decoration:none;color:#FD6500">Kinglish School</span></a><br><a href="http://www.english-online.org.uk/games/gamezone2.htm"><span style="text-decoration:none;color:#FD6500">English Online</span></a></td>
-    <td class="tg-5o1s">Mathematics<br><br><a href="http://www.primarygames.com/math.htm"><span style="text-decoration:none;color:#FD6500">Primary Games</span></a><br><a href="http://www.coolmath-games.com/"><span style="text-decoration:none;color:#FD6500">Cool Math Game</span></a><br><a href="http://www.mathplayground.com/math-html"><span style="text-decoration:none;color:#FD6500">Math Playground</span></a><br><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login"><span style="text-decoration:none;color:#FD6500">KooBits</span></a><br><a href="https://app.fasttestweb.com/testing/pr/20/2"><span style="text-decoration:none;color:#FD6500">Math CATalytics</span></a><br>
+    <td class="tg-5o1s">Mathematics<br><br><a href="http://www.primarygames.com/math.htm"><span style="text-decoration:none;color:#FD6500">Primary Games</span></a><br><a href="http://www.coolmath-games.com/"><span style="text-decoration:none;color:#FD6500">Cool Math Game</span></a><br><a href="http://www.mathplayground.com/math-html"><span style="text-decoration:none;color:#FD6500">Math Playground</span></a><br><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login"><span style="text-decoration:none;color:#FD6500">KooBits</span></a><br><a href="https://seab.assess.ai/"><span style="text-decoration:none;color:#FD6500">Math CATalytics</span></a><br>
 <a href="https://go.gov.sg/253rdi"><span style="text-decoration:none;color:#FD6500">Fractions post-test survey</span></a><br>
 <a href="https://apmops.hci.hk.cn/login"><span style="text-decoration:none;color:#FD6500">2023 Math Olympiad Student Login</span></a>
 		</td>
