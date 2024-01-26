@@ -59,7 +59,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3"> Mr Muhammad Osman Bin Rahmat Ali</td>
-    <td class="tg-yhj3"> HOD Character&amp; Citizenship Education (CCE)<br></td>
+    <td class="tg-yhj3"> HOD Character &amp; Citizenship Education (CCE) / HOD Mathematics (Covering)<br></td>
     <td class="tg-o5fr"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>muhammad_osman_rahmat_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
