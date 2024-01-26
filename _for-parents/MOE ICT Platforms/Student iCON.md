@@ -24,6 +24,6 @@ third_nav_title: MOE ICT Platforms
 <h3>Student iCON Support</h3>
 
 <ol>
-	<li>Request for reset password through our School-based Helpdesk at https://go.gov.sg/concordsls</li>
-	<li>2.	Students may approach their form or subject teachers for assistance if they encounter any issues such as password related matters.
-<ol></ol></li></ol>
+	<li>Request for reset password through our School-based Helpdesk at <a href="https://go.gov.sg/concordsls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1A7BDF"><b>https://go.gov.sg/concordsls</b></span></a></li>
+	<li>Students may approach their form or subject teachers for assistance if they encounter any issues such as password related matters.</li>
+	</ol>
