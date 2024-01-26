@@ -2,6 +2,7 @@
 title: Operations Support Officers (OSOs)
 permalink: /our-people/operations-support-officers/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -33,13 +34,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/oso5.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/oso6.jpeg"></td>
+    <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Loke Sue Feng</b><br>OSO</td>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Teo Lit Onn</b><br>OSO</td>
+		<td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
   </tr>

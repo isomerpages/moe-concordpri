@@ -48,18 +48,13 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Miss Joyce Fang Bee Hoon<br></td>
-    <td class="tg-yhj3">HOD Mathematics </td>
-    <td class="tg-o5fr"><a href="mailto:fang_bee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">fang_bee_hoon@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
     <td class="tg-yhj3"> Mr Tay Soo Hong</td>
     <td class="tg-yhj3"> HOD Science</td>
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3"> Mr Muhammad Osman Bin Rahmat Ali</td>
-    <td class="tg-yhj3"> HOD Character&amp; Citizenship Education (CCE)<br></td>
+    <td class="tg-yhj3"> HOD Character &amp; Citizenship Education (CCE) / HOD Mathematics (Covering)<br></td>
     <td class="tg-o5fr"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>muhammad_osman_rahmat_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
@@ -79,7 +74,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE (Covering) <br></td>
+    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE &amp; Aesthetics (Covering) <br></td>
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 </tr>
 </tbody>
