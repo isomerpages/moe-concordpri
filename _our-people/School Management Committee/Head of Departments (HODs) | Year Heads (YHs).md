@@ -79,7 +79,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE (Covering) <br></td>
+    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE &amp; Aesthetics (Covering) <br></td>
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 </tr>
 </tbody>
