@@ -34,3 +34,5 @@ b.	Character and Citizenship Education (CCE)</li>
 <li style="align:justify">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form will be included in the Parents Gateway notification to parents at the start of the year.</li><br>
 <li style="align:justify">Parents can contact the school at (Concord_PS@moe.edu.sg or 67632139) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
+![](/images/P5_Sed_Lesson_Plan_2024.png)
+![](/images/P6_Sed_Lesson_Plan_2024.png)
