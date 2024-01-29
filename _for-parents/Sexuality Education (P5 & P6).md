@@ -17,7 +17,7 @@ variant: markdown
 <ol>
 <li type="a">Love and respect yourself as you love and respect others;</li>
 <li type="a">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li type="a">Make responsible decisions for yourself, your family and society; and</li><br>
+<li type="a">Make responsible decisions for yourself, your family and society; and</li>
 <li type="a">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ol>
 <p style="align:justify">You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener noreferrer">here </a>for more information on MOE Sexuality Education.</p></li>
 <h5>OVERVIEW OF CONCORD PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME FOR 2024</h5><p></p>
