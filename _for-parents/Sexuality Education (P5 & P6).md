@@ -30,8 +30,8 @@ b.	Character and Citizenship Education (CCE)</li>
 <li style="align:justify">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <h4>At CONCORD PRIMARY SCHOOL, the following Sexuality Education lessons will be taught in 2024:</h4>
 <br>
-<img src="/images/P5_Sed_Lesson_Plan_2024.png" style="width:100%"><br>
-<img src="/images/P6_Sed_Lesson_Plan_2024.png" style="width:100%">
+<img src="/images/P5_Sed_Lesson_Plan_2024.png" style="width:110%"><br>
+<img src="/images/P6_Sed_Lesson_Plan_2024.png" style="width:110%">
 	<h5>INFORMATION FOR PARENTS</h5><p></p>
 <li style="align:justify">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li><br>
 <li style="align:justify">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form will be included in the Parents Gateway notification to parents at the start of the year.</li><br>
