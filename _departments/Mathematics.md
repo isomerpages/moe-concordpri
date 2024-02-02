@@ -88,22 +88,36 @@ variant: markdown
 <td style="border-color:transparent"><img src="/images/Math_Trail_4.jpg" style="width:100%"></td>
 </tr>
 <tr>
+<td style="border-color:transparent">
+</td></tr></tbody>
+</table>
+<img src="/images/Math_Trail_5.jpg" style="width:50%">
+<br><br>
+<u><b>Factual Fluency Champions</b></u>.
+<br><br>
+<table style="width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img src="/images/FFC_2.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/FFC_5.jpg" style="width:100%"></td>
+</tr>
+<tr>
 <td style="border-color:transparent"></td>
 </tr>
 <tr>
-<td rowspan="2"><img src="/images/Math_Trail_5.jpg" style="width:100%"></td>
-<td></td>
+<td style="border-color:transparent"><img src="/images/FFC_3.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/FFC_4.jpg" style="width:100%"></td>
+</tr>
+<tr>
+	<td style="border-color:transparent"></td>
 </tr>
 </tbody>
 </table>
-<br>
-<u><b>Factual Fluency Champions</b></u>.
-<br><br>
-<img src="/images/FFC_1.jpg" style="width:80%">
-<img src="/images/FFC_2.jpg" style="width:80%">
-<img src="/images/FFC_3.jpg" style="width:80%">
-<img src="/images/FFC_4.jpg" style="width:80%">
-<img src="/images/FFC_5.jpg" style="width:80%">
+<img src="/images/FFC_1.jpg" style="width:50%">
 <br><br><b style="color:#0000FF; font-size:18px">Alternative mode of assessments (Primary 1 to 6)</b>
 <br><br>
 <u><b>Math Performance Tasks</b></u>   
