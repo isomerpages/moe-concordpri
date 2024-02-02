@@ -41,20 +41,60 @@ variant: markdown
 <u><b>Math Playground (P1 and P2)</b></u>.  
 <p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.</p>  
 <br><br>
-<img src="/images/Math_PG_1.jpg" style="width:50%">
-<img src="/images/Math_PG_2.jpg" style="width:50%">
-<img src="/images/Math_PG_3.jpg" style="width:80%">
-<img src="/images/Math_PG_4.jpg" style="width:80%">
-<img src="/images/Math_PG_5.jpg" style="width:80%">
-<img src="/images/Math_PG_6.jpg" style="width:80%">
+<table style="width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img src="/images/Math_PG_1.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_PG_2.jpg" style="width:100%"></td>
+</tr>
+<tr>
+	<td style="border-color:transparent"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Math_PG_3.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_PG_4.jpg" style="width:100%"></td>
+</tr>
+<tr>
+	<td style="border-color:transparent"></td>
+</tr>
+<tr>
+ <td style="border-color:transparent"><img src="/images/Math_PG_5.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_PG_6.jpg" style="width:100%"></td>
+</tr>
+</tbody>
+</table>
 <br>
 <u><b>Math Trails (Primary 1 and 2)</b></u>.
 <br><br>
-<img src="/images/Math_Trail_1.jpg" style="width:80%">
-<img src="/images/Math_Trail_2.jpg" style="width:80%">
-<img src="/images/Math_Trail_3.jpg" style="width:80%">
-<img src="/images/Math_Trail_4.jpg" style="width:80%">
-<img src="/images/Math_Trail_5.jpg" style="width:80%">
+<table style="width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img src="/images/Math_Trail_1.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_Trail_2.jpg" style="width:100%"></td>
+</tr>
+<tr>
+	<td style="border-color:transparent"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Math_Trail_3.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_Trail_4.jpg" style="width:100%"></td>
+</tr>
+<tr>
+	<td style="border-color:transparent"></td>
+</tr>
+<tr>
+ <td style="border-color:transparent"><img src="/images/Math_Trail_5.jpg" style="width:100%"></td>
+</tr>
+</tbody>
+</table>
 <br>
 <u><b>Factual Fluency Champions</b></u>.
 <br><br>
