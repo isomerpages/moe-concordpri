@@ -72,13 +72,13 @@ variant: markdown
 <br><br>
 <table style="width: 770px">
 <colgroup>
-<col style="width: 385px">
-<col style="width: 385px">
+<col style="width: 700px">
+<col style="width: 700px">
 </colgroup>
 <tbody>
 <tr>
-<td style="border-color:transparent"><img src="/images/Math_Trail_1.jpg" style="width:100%"></td>
-<td style="border-color:transparent"><img src="/images/Math_Trail_2.jpg" style="width:100%"></td>
+<td style="border-color:transparent"><img src="/images/Math_Trail_1.jpg" style="width:80%"></td>
+<td style="border-color:transparent"><img src="/images/Math_Trail_2.jpg" style="width:80%"></td>
 </tr>
 <tr>
 	<td style="border-color:transparent"></td>
