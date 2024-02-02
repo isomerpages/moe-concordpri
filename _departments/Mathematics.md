@@ -91,7 +91,8 @@ variant: markdown
 	<td style="border-color:transparent"></td>
 </tr>
 <tr>
- <td style="border-color:transparent"><img src="/images/Math_Trail_5.jpg" style="width:100%"></td>
+<td style="align:center" rowspan="2"><img src="/images/Math_Trail_5.jpg" style="width:100%; align:center"></td>
+<td></td>
 </tr>
 </tbody>
 </table>
