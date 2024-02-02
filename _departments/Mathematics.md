@@ -36,7 +36,7 @@ variant: markdown
 <br><br>
 <img src="/images/m3.png" style="width:80%">
 <br>
-<u><b>Math Playground (P1 and P2)</b></u>.  
+<u><b>Math Playground (P1 and P2)</b></u> 
 <p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.</p>  
 <br><br>
 <table style="width: 770px">
@@ -66,7 +66,7 @@ variant: markdown
 </tbody>
 </table>
 <br>
-<u><b>Math Trails (Primary 1 and 2)</b></u>.
+<u><b>Math Trails (Primary 1 and 2)</b></u>
 <br><br>
 <table style="width: 770px">
 <colgroup>
@@ -91,7 +91,7 @@ variant: markdown
 </table>
 <img src="/images/Math_Trail_5.jpg" style="width:50%">
 <br><br>
-<u><b>Factual Fluency Champions</b></u>.
+<u><b>Factual Fluency Champions</b></u>
 <br><br>
 <table style="width: 770px">
 <colgroup>
