@@ -33,9 +33,9 @@ variant: markdown
 <br>
 <u><b>Use of ICT tools</b></u>   
 <p style="text-align:justify">ICT platforms such as Students Learning Space (SLS), Koobits and other ICT tools are used to provide a varied way to learning and assessment. Such platforms allow the students to acquire knowledge, do collaborative learning and allows assessment and revision to be done in a fun and interactive manner. All students in Concord Primary are given a Koobits account and they can access the portal to do their own learning and earn points through the challenges and assignments given by their teachers. Termly prizes are given to classes and individual prizes to students with the highest points at each level.</p>
-<br><br>
-<img src="/images/m3.png" style="width:80%">
 <br>
+<img src="/images/m3.png" style="width:80%">
+<br><br>
 <u><b>Math Playground (P1 and P2)</b></u> 
 <p style="text-align:justify">Math Playground in Concord allows our students to have fun doing Mathematical activities. Apart from the hands-on activities, the corner provides a platform for them to solve non-routine problems through puzzles and games. The corner is opened for Primary 1 to 2 students during their recesses and students get an opportunity to participate in challenging games such as Sudoku, Chess and Math Puzzles during their recesses. Students may also practice on mastering their number facts through the online games accessible via tablets at the corner.</p>  
 <br>
