@@ -4,10 +4,8 @@ permalink: /departments/mathematics/
 description: ""
 variant: markdown
 ---
-<img src="/images/Math%20Dept%20photos.jpeg" style="width:80%">
-		 
+<img src="/images/Math%20Dept%20photos.jpeg" style="width:80%">		 
 <h2>Vision</h2>
-
 <p style="text-align:justify">Cultivating interest, developing problem solving skills and confidence in Mathematics.</p>
 <h2>Mission</h2>
 <p style="text-align:justify">Explore, Experience and Discover Mathematics.</p>
