@@ -127,7 +127,7 @@ variant: markdown
 <b style="color:#0000FF; font-size:18px">Developing Metacognition and Problem-Solving skills (Primary 1 to 6)</b>
 <p style="text-align:justify">S.T.A.R. approach was adopted from George Polya’s four-step process for problem solving. It was created to help our students to scaffold their thinking when they tackle heuristics and problem sums via the questions at each step of the approach. When students solve problems, they will make use of the 4 steps -&nbsp;<u><b>S</b></u>top,&nbsp;<u><b>T</b></u>hink,&nbsp;<u><b>A</b></u>ct,&nbsp;<u><b>R</b></u>eflect.&nbsp;Throughout these four steps, metacognition plays an essential role in problem-solving as students make and regulate their thinking and their decisions.  
 The S.T.A.R. approach was customised into two versions. One for the Primary 1 and 2 students and the other for Primary 3 to 6 students.</p>
-<img src="/images/m4.png" style="width:90%">
+<img src="/images/m4.png" style="width:100%">
 <br><br>
 <b style="color:#0000FF; font-size:18px">Developing students' interest and talent in Mathematics</b>
 <br><br>
