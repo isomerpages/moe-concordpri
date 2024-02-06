@@ -79,7 +79,7 @@ Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</s
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
 
 <div style="text-align:left;">
-<img src="/images/Dental_Schedule_JAN_2024.png" style="width:100%"><br></div>
+<img src="/images/Dental_Clinic_for_month_of_February_2024.png" style="width:100%"><br><i><b style="color:red">7 Feb 2024 - DT will be covering at Clementi Town Sec</b></i></div><br>
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
