@@ -18,4 +18,4 @@ Please submit the PV application via <a href="https://form.gov.sg/65df4fa2f55d12
 
 </p><p style="text-align:justify">The application window will open on <b><u>1 March 2024 and closes on 24 May 2024</u></b>. Please refer to the flow chart below for more information.
 <br><br>
-<img style="width:80%" src="/images/PV Application Flowchart2024.png"><br></p>
+<img style="width:80%" src="/images/2024 pv.png"><br></p>
