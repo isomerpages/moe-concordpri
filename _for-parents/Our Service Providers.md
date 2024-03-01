@@ -78,7 +78,7 @@ Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</s
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
 
 <div style="text-align:left;">
-<img src="/images/Dental_Clinic_for_month_of_February_2024.png" style="width:100%">
+<img src="/images/2024_Mar_Dental_Clinic_Dates.png" style="width:100%">
 	
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
