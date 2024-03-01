@@ -4,7 +4,6 @@ permalink: /for-parents/school-information/our-service-providers/
 description: ""
 variant: markdown
 ---
-<!--table style for the link table -->
 <style type="text/css">
 .lg  {border:none;}
 .lg .lg-linkdata{text-align:center;vertical-align:middle;font-weight:bold}
@@ -13,7 +12,7 @@ variant: markdown
   overflow:hidden;padding:15px 5px;
 </style>
 
-<!--table grid for the link table -->
+
 <table class="lg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 200px">
@@ -23,7 +22,7 @@ variant: markdown
 </colgroup>
 <tbody>
 
-<!--Data for the link table) -->
+
 <tr>
 	<td class="lg-linkdata">
 	<a href="#dental-clinic">School Dental Clinic</a><br><br>
@@ -39,7 +38,7 @@ variant: markdown
 </tbody>
 </table>
 
-<!--table style for the service providers information -->
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,7 +50,7 @@ variant: markdown
 </style>
 <br>
 
-<!--table grid for the service providers information -->
+
 
 <table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
@@ -59,14 +58,14 @@ variant: markdown
 <col style="width: 608px">
 </colgroup>
 
-<!--service providers heading -->
+
 <tbody>
 <tr>
 	<td class="tg-title"><b>No.</b></td>
 	<td class="tg-title"><b>Services</b></td>
 </tr>
 
-<!--1. School Dental Clinic Information -->
+
 <tr>
 	<td class="tg-info">1.</td>
 	<td class="tg-title">
@@ -79,14 +78,15 @@ Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</s
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
 
 <div style="text-align:left;">
-<img src="/images/Dental_Clinic_for_month_of_February_2024.png" style="width:100%"><br><i><b style="color:red">7 Feb 2024 - DT will be covering at Clementi Town Sec</b></i></div><br>
+<img src="/images/Dental_Clinic_for_month_of_February_2024.png" style="width:100%">
+	
 <span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
-	</td>
+	</div></td>
 </tr>
 
-<!--2. Group Personal Accident Insurance For Students information-->
+
 <tr>
     <td class="tg-info">2.</td>
     <td class="tg-title">
@@ -97,7 +97,7 @@ Product Fact Sheet
 	</td>
 </tr>
 
-<!--3. Student Care Centre information -->
+
 <tr>
 	<td class="tg-info">3.</td>
 	<td class="tg-title">
@@ -108,7 +108,7 @@ Phone: 98552563<br><br>
 <a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><br>
 Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
 
-<!--4. School Uniform Supplier information -->
+
 <tr>
     <td class="tg-info">4.</td>
     <td class="tg-title">
@@ -122,7 +122,7 @@ For purchases in the school bookshop, it is recommended only for small quantitie
 </td>
 </tr>
 
-<!--5. School Bookshop Information -->
+
 <tr>
     <td class="tg-info">5.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bookshop-info">School Bookshop</span><br><br>
@@ -132,7 +132,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 </td>
 </tr>
 
-<!--6. School Bus Service Information -->
+
 <tr>
     <td class="tg-info">6.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bus-service">School Bus Service </span><br><br>
@@ -144,7 +144,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
 </td></tr>
 
-<!--7. POSB Smart Buddy Watch -->
+
 <tr>
     <td class="tg-info">7.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="smart-watch-buddy">POSB Smart Buddy Watch</span><br><br>
