@@ -99,7 +99,7 @@ variant: markdown
  <td class="tg-ppzb"><a href="/files/LP_Newsletter_Issue_2.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
  <td class="tg-ppzb"><a href="/files/T1W4_MP_Newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 <td class="tg-ppzb"></td>
-<td class="tg-ppzb"><a href="/files/UP\_Term\_1\_Issue\_\_02.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
+<td class="tg-ppzb"><a href="/files/UP_Term_1_Issue_02.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #02</a></td>
 <td class="tg-ppzb"></td>
 </tr>
 </tbody><tbody>
