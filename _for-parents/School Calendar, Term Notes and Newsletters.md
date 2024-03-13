@@ -31,6 +31,7 @@ variant: markdown
 </tr>
 	<tr>
 	<td class="tg-xuj5"><a href="/files/T1_Parents_Calendar_2024_V1.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="/files/T2_Parents Calendar_2024.pdf" target="_blank" rel="noopener noreferrer">2024 Term 2 Calendar</a><br></td>
 <td class="tg-xuj5"><br></td>
 <td class="tg-xuj5"><br></td>
 <td class="tg-xuj5"><br></td>
