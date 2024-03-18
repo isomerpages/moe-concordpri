@@ -16,7 +16,7 @@ variant: markdown
 .tg .tg-yhj7{background-color:#F0E68C;color:#0C463A;text-align:center;vertical-align:middle}
 .tg .tg-yhj8{background-color:#FFFFE0;color:#0C463A;text-align:center;vertical-align:middle}
 </style>
-<!--<table class="tg">-->
+
 	
 <table class="tg" style="undefined; table-layout: fixed; width: 650px">
 <colgroup>
@@ -66,6 +66,11 @@ variant: markdown
     <td class="tg-yhj8">Wednesday, 22 May 2024<br>
 	</td>
 	</tr>
+	<tr>
+    <td class="tg-yhj8">Home-based Learning <br>(All students)</td>
+    <td class="tg-yhj8">Friday, 24 May 2024<br><b style="color:blue"><em>(Parent-Teacher Conference for P2 to P6)</em></b>
+	</td>
+	</tr>	
 	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Mid Year<br>School Holidays<br></b></td>
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 25 May 2024<br>to<br>Sunday, 23 June 2024</b></td>
 	</tr>
