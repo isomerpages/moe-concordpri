@@ -131,39 +131,51 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:wong_siew_ling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_siew_ling@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mrs Sally Gan</td>
-    <td class="tg-yhj3"> English Language</td>
-    <td class="tg-o5fr"><a href="mailto:sio_kim_hwa@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sio_kim_hwa@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3"> Mdm Norhafizah</td>
+    <td class="tg-yhj3"> ICT Associate/AM(Internal)</td>
+    <td class="tg-o5fr"><a href="mailto:norhafizah_pungut@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">norhafizah_pungut@moe.edu.sg</span></a> </td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mrs Sum Siu Leng Constance</td>
-    <td class="tg-yhj3"> English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a></td>
+    <td class="tg-yhj3">Mdm Mala</td>
+    <td class="tg-yhj3">Admin Executive (AE)</td>
+    <td class="tg-o5fr"><a href="mailto:mala_ramiah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">mala_ramiah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Miss Yeong Shook Fern </td>
-    <td class="tg-yhj3"> English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:yeong_shook_fern@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yeong_shook_fern@moe.edu.sg</span></a></td>
+    <td class="tg-yhj3">Miss Cai Yunlin </td>
+    <td class="tg-yhj3"> Admin Executive(AE)</td>
+    <td class="tg-o5fr"><a href="mailto:cai_yunlin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">cai_yunlin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mr Wong Lye Hoong </td>
-    <td class="tg-yhj3"> Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:wong_lye_hoong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_lye_hoong@moe.edu.sg</span></a></td>
+    <td class="tg-yhj3">Ms Hairulnisha Mohd Yusoff </td>
+    <td class="tg-yhj3"> Corporate Support Officer (CSO)</td>
+    <td class="tg-o5fr"><a href="mailto:hairulnisha_mohd_yusoff@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">hairulnisha_mohd_yusoff@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mrs Tng Yoke Yin</td>
-    <td class="tg-yhj3"> Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Miss Dawn Lum</td>
+    <td class="tg-yhj3"> Corporate Support Officer (CSO)</td>
+    <td class="tg-o5fr"><a href="mailto:lum_git_har@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
-    <td class="tg-yhj3">Music </td>
-   <td class="tg-o5fr"><a href="mailto:thang_cheong_foong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">thang_cheong_foong@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mdm Suzana Sidek </td>
+    <td class="tg-yhj3">Receptionist</td>
+   <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Ow Tong Lan Connie</td>
-    <td class="tg-yhj3">Science</td>
-    <td class="tg-o5fr"><a href="mailto:ow_tong_lan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">ow_tong_lan@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mdm Zarina Munaris</td>
+    <td class="tg-yhj3">Librarian</td>
+    <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+  </tr>
+	 <tr><td class="tg-yhj3">Mr Gazali Mohd Yusof</td>
+    <td class="tg-yhj3">Desktop Engineer</td>
+    <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+  </tr>
+	 <tr><td class="tg-yhj3">Nurul Faizah Binti Nawawi</td>
+    <td class="tg-yhj3">Desktop Engineer</td>
+    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+  </tr>
+	 <tr><td class="tg-yhj3">Mr Lim Swee Beng</td>
+    <td class="tg-yhj3">ICT Support Staff</td>
+    <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
   </tr>
 </tbody>
 </table>
