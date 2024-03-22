@@ -14,7 +14,7 @@ variant: markdown
 
 <p>Every Wednesday, 7.30am to 9am</p>
 <br><br>
-<b><u>2023 Schedule</u></b>
+<b><u>2024 Schedule</u></b>
 <br><br>
 
 	
