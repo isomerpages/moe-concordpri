@@ -129,7 +129,7 @@ For purchases in the school bookshop, it is recommended only for small quantitie
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bookshop-info">School Bookshop</span><br><br>
 <span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Open to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)<br>
 Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><br>
-<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">6760 4961</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
+<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">9091 9850</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
 </td>
 </tr>
 
