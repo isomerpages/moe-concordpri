@@ -2,9 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Modular CCA/.keep
-      - Overview/CCA@Concord Programme.md
       - Overview/.keep
+      - Overview/CCA@Concord Programme.md
+      - Modular CCA/.keep
+      - Niche CCA/.keep
       - Niche CCA/Niche Co Curricular Activities (CCA).md
       - Niche CCA/Choir.md
       - Niche CCA/Band.md
@@ -14,4 +15,3 @@ collections:
       - Niche CCA/Volleyball.md
       - Niche CCA/Floorball.md
       - Niche CCA/Sepak Takraw.md
-      - Niche CCA/.keep
