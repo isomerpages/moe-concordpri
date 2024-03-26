@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - CCA@Concord Programme.md
       - Niche Co Curricular Activities/Niche Co Curricular Activities (CCA).md
       - Niche Co Curricular Activities/Choir.md
       - Niche Co Curricular Activities/Band.md
