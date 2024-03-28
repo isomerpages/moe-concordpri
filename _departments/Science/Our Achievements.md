@@ -3,9 +3,8 @@ title: Our Achievements
 permalink: /departments/Science/our-achievements/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-<body>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,6 +27,10 @@ third_nav_title: Science
   <tr>
     <td class="tg-a5i5">Awards / Competitions</td>
     <td class="tg-a5i5"></td>
+		 </tr>
+  <tr>
+		<td class="tg-d0eu"><br><b>Green Schools@South West 2023</b><br>- 3 Starts for year 2023<br> </td>
+    <td class="tg-da8v"><img style="width:30%" src="/images/GreenSchools_SW2023.png"></td>
   </tr>
   <tr>
 		<td class="tg-d0eu"><br><b>BCA Green Mark Award</b><br>- Gold Award<br> </td>
@@ -53,7 +56,7 @@ third_nav_title: Science
 <br>
 <p><b style="color:#3333FF">Year 2022 winners:</b>
 
-<ul>
+</p><ul>
 <li>Wan Mika<b style="color:#9900FF"> (Merit)</b></li>
 <li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
 <li>Chua Jia Xi Reannen<b style="color:#9900FF">(Participation)</b></li>
@@ -62,7 +65,7 @@ third_nav_title: Science
 	
 <p><b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul>
+</p><ul>
 <li>Lim Jun Yu<b style="color:#9900FF"> (Merit)</b></li>
 </ul>
 	
@@ -70,7 +73,7 @@ third_nav_title: Science
 <br>
 <p><b style="color:#3333FF">Year 2022 winners:</b>
 
-<ul>
+</p><ul>
 <li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
 <li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
 <li>Deselva Myrtle Delicia <b style="color:#9900FF"> (Participation)</b></li>
@@ -84,7 +87,7 @@ third_nav_title: Science
 
 <p><b style="color:#3333FF">Year 2021 winners:</b>
 
-<ul>
+</p><ul>
 <li>Lim Jun Yu<b style="color:#9900FF"> (Silver)</b></li>
 <li>Su Junrui<b style="color:#9900FF"> (Silver)</b></li>
 <li>Vinodh Babu Dheepta<b style="color:#9900FF"> (Bronze)</b></li>
@@ -101,13 +104,13 @@ third_nav_title: Science
 <br><br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Year 2021 winners:</b>
 	
-<ul>
+</p><ul>
 <li>Su Junrui<b style="color:#9900FF"> (Top 30)</b></li>
 <li>Lin Weizhe <b style="color:#9900FF"> (Top 30)</b></li>
 </ul>
 
 <p><b style="color:#3333FF">Year 2020 winners:</b>
-<ul>
+</p><ul>
 <li>Lin Xuan<b style="color:#9900FF"> (Top 10)</b></li>
 </ul>
 
@@ -116,12 +119,12 @@ third_nav_title: Science
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Year 2022 Winner:</b>
 	
-<ul>
+</p><ul>
 <li>Sofia Amirah</li>
 </ul>	
 
 <p><b style="color:#3333FF">Year 2019 Winner:</b>
-<ul>
+</p><ul>
 <li>Timothy Tan</li>
 </ul>
 
@@ -130,7 +133,7 @@ third_nav_title: Science
 <br><br><br><br><br><br><br><br>
 <p><b style="color:#3333FF">Whizkid category Merit Award Winner:</b>
 
-<ul>
+</p><ul>
 <li>Chloe Tan Jia En</li>
 </ul>
 
