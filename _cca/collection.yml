@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA@Concord Programme.md
+      - Modular CCA Programme.md
       - Overview/.keep
       - Modular CCA/.keep
       - Niche CCA/.keep
