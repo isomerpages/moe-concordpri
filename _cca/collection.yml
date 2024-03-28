@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Aesthetics.md
       - CCA@Concord Programme.md
       - Overview/.keep
       - Modular CCA/.keep
@@ -17,3 +16,4 @@ collections:
       - Niche CCA/Floorball.md
       - Niche CCA/Sepak Takraw.md
       - Sports/.keep
+      - Aesthetics.md
