@@ -2,10 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Aesthetics/.keep
       - CCA@CONCORD PROGRAMME.md
-      - Modular CCA/Modular Co Curricular Activities (MCCA).md
       - Modular CCA/.keep
+      - Modular CCA/Modular Co Curricular Activities (MCCA).md
       - Niche CCA/.keep
       - Niche CCA/Niche Co Curricular Activities (CCA).md
       - Niche CCA/Choir.md
@@ -17,3 +16,4 @@ collections:
       - Niche CCA/Floorball.md
       - Niche CCA/Sepak Takraw.md
       - Sports/.keep
+      - Aesthetics/.keep
