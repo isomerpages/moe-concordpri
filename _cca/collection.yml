@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/.keep
       - CCA@CONCORD PROGRAMME.md
       - Modular CCA/Modular Co Curricular Activities (MCCA).md
       - Modular CCA/.keep
