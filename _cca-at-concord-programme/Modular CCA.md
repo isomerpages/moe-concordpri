@@ -4,7 +4,7 @@ permalink: /test-modular-co-curricular-activities-mcca/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Modular Co Curricular Activities (MCCA)</strong></h4>
+<h4><strong>Modular Co-Curricular Activities (MCCA)</strong></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The 1st tier consists of the Modular
 Co-Curricular Activity (MCCA) which aims to reach out to and engage all
 P3 to P6 students during curriculum time on Wednesdays between 7:30 am
