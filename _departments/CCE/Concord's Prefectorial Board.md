@@ -137,18 +137,15 @@ process.
 <br>
 <br>
 </p>
-<h4><strong>Click here to read about the experiences of our past head prefects.</strong> <br></h4>
+<p>Click here to read about the experiences of our past head prefects.
+<br>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h2>Key Programmes/events</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Daily Duties</strong>
-</p>
-</li>
-</ul>
+<h4><strong>Daily Duties</strong></h4>
 <p>The prefects are involved in various duties such as recess duties, late-comers
 duty, and pledge taking duties. The prefects also actively support the
 school programmes by taking on roles of emcees and prefects ushers.
@@ -166,12 +163,7 @@ school programmes by taking on roles of emcees and prefects ushers.
 <p>
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Prefects Investiture</strong>
-</p>
-</li>
-</ul>
+<h4><strong>Prefects Investiture</strong></h4>
 <p>The Prefects Investiture is an important ceremony held annually to celebrate
 the official appointment of Prefects.
 <br>
@@ -189,15 +181,8 @@ the official appointment of Prefects.
 </div>
 <p></p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Student Leadership Training</strong>
-</p>
-</li>
-</ul>
-<p>
-<br>
-</p>
+<h4><strong>Student Leadership Training</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/13)%20training%201.jpeg">
 </div>
@@ -213,44 +198,8 @@ the official appointment of Prefects.
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/15)%20Training%203.jpeg">
 </div>
-<p>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Prefects Camp</strong>
-</p>
-</li>
-</ul>
-<p>The Prefects camp will be carried out in September. The day camp aims
-to enhance prefects’ leadership skills through hands-on activities.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/pb14.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/pb15.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/pb16.jpeg">
-</div>
-<p>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Teachers’ Day Celebration</strong>
-</p>
-</li>
-</ul>
+<p></p>
+<h4><strong>Teachers’ Day Celebration</strong></h4>
 <p>Every year, the prefects put together a performance and the Executive
 Committee prefects will put together a gift to show appreciation to the
 school on this special day.
