@@ -137,9 +137,7 @@ process.
 <br>
 <br>
 </p>
-<p><strong>Click here to read about the experiences of our past head prefects.</strong> 
-<br>
-</p>
+<h4><strong>Click here to read about the experiences of our past head prefects.</strong> <br></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
@@ -174,23 +172,23 @@ school programmes by taking on roles of emcees and prefects ushers.
 </p>
 </li>
 </ul>
-<p>The Prefects Investiture, which is held in term 2, is an important ceremony
-held annually to celebrate the official appointment of Prefects.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/11)%20Investiture%20Photo%201.jpg">
-</div>
-<p>
+<p>The Prefects Investiture is an important ceremony held annually to celebrate
+the official appointment of Prefects.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/12)%20Investiture%20photo%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_3.jpg">
+</div>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Student Leadership Training</strong>
