@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CCA@Concord Programme.md
-      - Modular CCA/Modular CCA.md
       - Modular CCA/.keep
