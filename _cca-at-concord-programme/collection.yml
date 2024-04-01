@@ -2,6 +2,7 @@ collections:
   cca-at-concord-programme:
     output: true
     order:
+      - TEST Modular Co Curricular Activities (MCCA).md
       - CCA@CONCORD PROGRAMME.md
       - Modular CCA/.keep
       - Modular CCA/Modular Co Curricular Activities (MCCA).md
