@@ -2,11 +2,11 @@ collections:
   cca-at-concord-programme:
     output: true
     order:
-      - TEST Niche CCA.md
       - CCA@CONCORD PROGRAMME.md
       - Modular CCA.md
       - Niche CCA/.keep
       - Niche CCA/Niche Co Curricular Activities (CCA).md
+      - TEST Niche CCA.md
       - Sports/.keep
       - Sports/Sepak Takraw.md
       - Sports/Floorball.md
