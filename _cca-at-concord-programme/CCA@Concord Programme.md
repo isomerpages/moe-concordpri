@@ -30,4 +30,3 @@ various means, including engagement in community service activities and
 VIA initiatives. This comprehensive approach ensures that character development
 remains a central focus within the CCA framework.</p>
 <p>&nbsp;</p>
-<p></p>
