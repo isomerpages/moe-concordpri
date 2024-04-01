@@ -2,4 +2,5 @@ collections:
   cca-at-concord-programme:
     output: true
     order:
+      - Modular CCA.md
       - CCA@Concord Programme.md
