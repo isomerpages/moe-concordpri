@@ -4,7 +4,7 @@ permalink: /test-niche-cca/
 variant: tiptap
 description: ""
 ---
-<h3>Niche Co Curricular Activities (CCA) Talent Development Programme</h3>
+<h3>Niche Co-Curricular Activities (CCA) Talent Development Programme</h3>
 <p></p>
 <p>The 2nd tier, Niche CCA, focuses on Talent Management. Through a systematic
 identification process, selected students are offered one of the seven
