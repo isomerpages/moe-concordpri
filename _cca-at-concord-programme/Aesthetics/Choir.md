@@ -2,13 +2,13 @@
 title: Choir
 permalink: /cca/Niche-Co-Curricular-Activities/choir/
 description: ""
-third_nav_title: Niche Co Curricular Activities
+third_nav_title: Aesthetics
 ---
 <p style="text-align:justify">Concord Primary School Choir was established in 2000 as a Dancing Choir and integrated as Soprano/ Alto choir in 2003. Concord’s commitment to its school choir and the dedication of its teachers, have helped the choristers develop a strong sense of discipline and passion for vocal training through the sensitive interpretation of their senses. The unity and devotion of the choristers can often be heard in the beauty and elegance of each song performed by the children.
 
-<p style="text-align:justify">The Choir has established itself as a recognized Choir nationally and internationally by achieving many awards. The Choir has also been invited to perform in many prestigious occasions and events.
+</p><p style="text-align:justify">The Choir has established itself as a recognized Choir nationally and internationally by achieving many awards. The Choir has also been invited to perform in many prestigious occasions and events.
 
-<center><h5>Competitions</h5></center>
+</p><center><h5>Competitions</h5></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -123,4 +123,4 @@ third_nav_title: Niche Co Curricular Activities
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>
+</table></p>

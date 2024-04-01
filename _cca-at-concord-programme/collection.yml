@@ -1,0 +1,16 @@
+collections:
+  cca-at-concord-programme:
+    output: true
+    order:
+      - CCA@CONCORD PROGRAMME.md
+      - Modular CCA.md
+      - Niche CCA.md
+      - Sports/.keep
+      - Sports/Sepak Takraw.md
+      - Sports/Floorball.md
+      - Sports/Volleyball.md
+      - Aesthetics/.keep
+      - Aesthetics/International Dance.md
+      - Aesthetics/Indian Dance.md
+      - Aesthetics/Band.md
+      - Aesthetics/Choir.md
