@@ -160,9 +160,6 @@ school programmes by taking on roles of emcees and prefects ushers.
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/pb8.png">
 </div>
-<p>
-<br>
-</p>
 <h4><strong>Prefects Investiture</strong></h4>
 <p>The Prefects Investiture is an important ceremony held annually to celebrate
 the official appointment of Prefects.
@@ -183,8 +180,6 @@ the official appointment of Prefects.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_3.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Student Leadership Training</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -202,7 +197,6 @@ the official appointment of Prefects.
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/15)%20Training%203.jpeg">
 </div>
-<p></p>
 <h4><strong>Teachers’ Day Celebration</strong></h4>
 <p>Every year, the prefects put together a performance and the Executive
 Committee prefects will put together a gift to show appreciation to the
