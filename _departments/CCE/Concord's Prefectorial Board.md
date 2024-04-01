@@ -168,6 +168,9 @@ school programmes by taking on roles of emcees and prefects ushers.
 the official appointment of Prefects.
 <br>
 </p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aexugZNBxtY?si=gaPO_fOiMn1_w3V3"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_1.jpg">
 </div>
