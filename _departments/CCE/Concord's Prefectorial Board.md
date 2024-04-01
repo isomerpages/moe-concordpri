@@ -171,6 +171,7 @@ the official appointment of Prefects.
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aexugZNBxtY?si=gaPO_fOiMn1_w3V3"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect_investiture_2024_1.jpg">
 </div>
