@@ -1,5 +1,5 @@
 collections:
-  cca:
+  cca-at-concord-programme:
     output: true
     order:
       - CCA@CONCORD PROGRAMME.md
