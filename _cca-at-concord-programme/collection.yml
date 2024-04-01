@@ -2,18 +2,18 @@ collections:
   cca-at-concord-programme:
     output: true
     order:
-      - TEST Modular Co Curricular Activities (MCCA).md
       - CCA@CONCORD PROGRAMME.md
+      - TEST Modular Co Curricular Activities (MCCA).md
       - Modular CCA/.keep
       - Modular CCA/Modular Co Curricular Activities (MCCA).md
       - Niche CCA/.keep
       - Niche CCA/Niche Co Curricular Activities (CCA).md
+      - Sports/.keep
       - Sports/Sepak Takraw.md
       - Sports/Floorball.md
       - Sports/Volleyball.md
-      - Sports/.keep
+      - Aesthetics/.keep
       - Aesthetics/International Dance.md
       - Aesthetics/Indian Dance.md
       - Aesthetics/Band.md
       - Aesthetics/Choir.md
-      - Aesthetics/.keep
