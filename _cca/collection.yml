@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Modular CCA 2/Modular CCA2.md
       - Modular CCA 2/.keep
       - CCA@CONCORD PROGRAMME.md
       - Modular CCA/.keep
