@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA@CONCORD PROGRAMME.md
-      - Overview/.keep
       - Modular CCA/.keep
       - Niche CCA/.keep
       - Niche CCA/Niche Co Curricular Activities (CCA).md
