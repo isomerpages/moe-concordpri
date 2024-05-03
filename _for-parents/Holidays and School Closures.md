@@ -93,7 +93,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-yhj8">PSLE Oral<br></td>
-    <td class="tg-yhj8">Tuesday, 13 August 2024 (TBC)<br>Wednesday, 14 August 2024 (TBC)<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+    <td class="tg-yhj8">Tuesday, 13 August 2024<br>Wednesday, 14 August 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
@@ -105,7 +105,7 @@ variant: markdown
 		</tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
-    <td class="tg-yhj8">Friday, 13 September 2024 (TBC)<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+    <td class="tg-yhj8">Friday, 13 September 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
  <tr>
     <td class="tg-yhj8">P6 Study Break<br>(TBC)</td>
@@ -113,11 +113,11 @@ variant: markdown
   </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Thursday, 26 September 2024 (TBC)<br>to<br>Friday, 27 September 2024 (TBC)<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
+ <td class="tg-yhj8">Thursday, 26 September 2024<br>to<br>Friday, 27 September 2024<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
 </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Monday, 30 September 2024 (TBC)<br>to<br>Tuesday, 1 October 2024 (TBC)<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
+ <td class="tg-yhj8">Monday, 30 September 2024<br>to<br>Tuesday, 1 October 2024<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
 </tr>
 <tr>
   <td class="tg-yhj8">Children's Day<br></td>
