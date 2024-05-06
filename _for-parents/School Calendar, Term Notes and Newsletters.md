@@ -110,7 +110,7 @@ Term 2 Issue #01</a></td>
 <td class="tg-ppzb"></td>
 	</tr><tr>
 </tr><tr>
- <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer">Term 2 Issue #02</a></td>
+ <td class="tg-ppzb"><a href="/files/LP_Newsletter_issue_5__1_.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #02</a></td>
  <td class="tg-ppzb"><a href="/files/T2W5_Newsletter_V1.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #02</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_2_Week_5.pdf" target="_blank" rel="noopener noreferrer">
 Term 2 Issue #02</a></td>
