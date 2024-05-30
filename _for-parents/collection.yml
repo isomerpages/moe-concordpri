@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
+      - School Information.md
       - Inform Child's Absence.md
       - Useful Forms.md
-      - School Information/.keep
-      - School Information/School Information.md
-      - School Information/Traffic Management Plan.md
+      - Traffic Management Plan.md
       - Our Service Providers.md
+      - School Informations/.keep
       - New P1 Parents/.keep
       - New P1 Parents/Administrative Matters.md
       - New P1 Parents/Parent Volunteer Application.md

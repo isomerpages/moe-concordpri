@@ -76,9 +76,6 @@ Mon, Wed &amp; Fri: <span style="font-weight:bold;text-decoration:underline">8 a
 Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
-
-<img src="/images/2024_May_Dental_Clinic_Dates.png" style="width:100%">
-<br>
 		
 <img src="/images/2024_June_Dental_Clinic_Dates.png" style="width:100%">
 <br>
