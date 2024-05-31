@@ -26,7 +26,7 @@ Passionate Learners of the English Language.
 
 </p><p style="text-align:justify">The school has an extensive and whole-school approach Reading Programme to cater to the varied needs of our students.
 
-<img style="/images/B__Reading_Table.png"><br>
+<img src="/images/B__Reading_Table.png" style="width:80%"><br>
 		 
 <b>#TheQUEST Library</b><br>
 
