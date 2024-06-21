@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-### **General Terms and Conditions on the Use of Concord Primary School Website Pages **
+### **General Terms and Conditions on the Use of Concord Primary School Website Pages**
 
 #### **Term Of Use**
         
