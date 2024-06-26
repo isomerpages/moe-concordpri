@@ -96,6 +96,10 @@ variant: markdown
     <td class="tg-yhj8">Tuesday, 13 August 2024<br>Wednesday, 14 August 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
 	<tr>
+    <td class="tg-yhj8">Teachers' Day Celebration<br></td>
+    <td class="tg-yhj8">Thursday, 29 August 2024<br><b style="color:blue"><em>(Early dismissal at 10.30am)<br></em></b></td>
+  </tr>
+	<tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 30 August 2024<br></td>
   </tr>
