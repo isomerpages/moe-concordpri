@@ -42,16 +42,10 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:wong_siew_ling@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_siew_ling@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mdm Norhafizah</td>
-    <td class="tg-yhj3"> ICT Associate/AM(Internal)</td>
+    <td class="tg-yhj3"> Mdm Norhafizah Pungut</td>
+    <td class="tg-yhj3"> Admin Manager</td>
     <td class="tg-o5fr"><a href="mailto:norhafizah_pungut@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">norhafizah_pungut@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Mala</td>
-    <td class="tg-yhj3">Admin Executive (AE)</td>
-    <td class="tg-o5fr"><a href="mailto:mala_ramiah@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">mala_ramiah@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-yhj3">Miss Cai Yunlin </td>
     <td class="tg-yhj3"> Admin Executive (AE)</td>
     <td class="tg-o5fr"><a href="mailto:cai_yunlin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">cai_yunlin@moe.edu.sg</span></a></td>
@@ -66,15 +60,9 @@ variant: markdown
     <td class="tg-yhj3"> Corporate Support Officer (CSO)</td>
     <td class="tg-o5fr"><a href="mailto:lum_git_har@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a> </td>
   </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Suzana Sidek </td>
-    <td class="tg-yhj3">Receptionist</td>
-   <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Zarina Munaris</td>
-    <td class="tg-yhj3">Librarian</td>
-    <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+	   <tr><td class="tg-yhj3">Mr Suhaimi Mahuan</td>
+    <td class="tg-yhj3">ICT Manager</td>
+    <td class="tg-o5fr"><a href="mailto:suhaimi_mahuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">suhaimi_mahuan@moe.edu.sg</span></a></td>
   </tr>
 	 <tr><td class="tg-yhj3">Mr Gazali Mohd Yusof</td>
     <td class="tg-yhj3">Desktop Engineer</td>
@@ -88,5 +76,14 @@ variant: markdown
     <td class="tg-yhj3">ICT Support Staff</td>
     <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
   </tr>
+	 <tr>
+    <td class="tg-yhj3">Mdm Zarina Munaris</td>
+    <td class="tg-yhj3">Librarian</td>
+    <td class="tg-o5fr"><a href="mailto"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+	</tr><tr>
+    <td class="tg-yhj3">Mdm Suzana Sidek </td>
+    <td class="tg-yhj3">Receptionist</td>
+   <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+  </tr>		
 </tbody>
 </table>
