@@ -60,7 +60,7 @@ variant: markdown
     <td class="tg-yhj3"> Corporate Support Officer (CSO)</td>
     <td class="tg-o5fr"><a href="mailto:lum_git_har@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lum_git_har@moe.edu.sg</span></a> </td>
   </tr>
-	   <tr><td class="tg-yhj3">Suhaimi Mahuan</td>
+	   <tr><td class="tg-yhj3">Mr Suhaimi Mahuan</td>
     <td class="tg-yhj3">ICT Manager</td>
     <td class="tg-o5fr"><a href="mailto:suhaimi_mahuan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">suhaimi_mahuan@moe.edu.sg</span></a></td>
   </tr>
