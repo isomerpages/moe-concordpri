@@ -36,8 +36,8 @@ variant: markdown
   <tr>
     <td class="tg-nrix"><img src="/images/sac5.jpeg"></td>
     <td class="tg-nrix"><img src="/images/sac8.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/"></td>
-    <td class="tg-nrix"><img src="/images/"></td>
+    <td class="tg-nrix"><img src="/images/SAC_Leow_Geng_Hui.jpg"></td>
+    <td class="tg-nrix"><img src="/images/SAC_Tan_Pamg_Toon.jpg"></td>
   </tr>
   <tr>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Steven Heng</b><br>Member</td>
