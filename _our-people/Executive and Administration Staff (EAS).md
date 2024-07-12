@@ -45,7 +45,13 @@ variant: markdown
     <td class="tg-yhj3"> Mdm Norhafizah Pungut</td>
     <td class="tg-yhj3"> Admin Manager</td>
     <td class="tg-o5fr"><a href="mailto:norhafizah_pungut@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">norhafizah_pungut@moe.edu.sg</span></a> </td>
-  </tr><tr>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Lee Sook Hoon </td>
+    <td class="tg-yhj3"> Admin Executive (AE)</td>
+    <td class="tg-o5fr"><a href="mailto:lee_sook_hoon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lee_sook_hoon@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-yhj3">Miss Cai Yunlin </td>
     <td class="tg-yhj3"> Admin Executive (AE)</td>
     <td class="tg-o5fr"><a href="mailto:cai_yunlin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">cai_yunlin@moe.edu.sg</span></a></td>
