@@ -42,7 +42,7 @@ variant: markdown
   <tr>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Steven Heng</b><br>Member</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Seah Hui Chou PBM</b><br>Member</td>
-			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Leow Heng Hui</b><br>Member</td>
+			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Leow Geng Hui</b><br>Member</td>
 			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Pang Toon</b><br>Member</td>
   </tr>
 </tbody>
