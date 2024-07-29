@@ -27,22 +27,20 @@ variant: markdown
     <td class="tg-nrix"><img src="/images/sac4.jpeg"></td>
   </tr>
   <tr>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Perumal Arumai Chandran</b><br>Chairman</td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Perumal Arumai Chandran PBM</b><br>Chairman</td>
     <td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Siew Tiong,
 			Principal</b><br>Secretary</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Ganesan S/O Maniam</b><br>Member</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Vincent</b><br>Member </td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/sac5.jpeg"></td>
     <td class="tg-nrix"><img src="/images/sac8.jpeg"></td>
     <td class="tg-nrix"><img src="/images/SAC_Leow_Geng_Hui.jpg"></td>
     <td class="tg-nrix"><img src="/images/SAC_Tan_Pang_Toon.jpg"></td>
   </tr>
   <tr>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Steven Heng</b><br>Member</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Seah Hui Chou PBM</b><br>Member</td>
-			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Leow Geng Hui</b><br>Member</td>
+			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Leow Geng Hui PBM</b><br>Member</td>
 			<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Pang Toon</b><br>Member</td>
   </tr>
 </tbody>
