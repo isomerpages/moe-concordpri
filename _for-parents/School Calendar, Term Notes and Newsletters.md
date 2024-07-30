@@ -131,13 +131,19 @@ Term 2 Issue #03</a></td>
 </tr><tr>
 </tr><tr>
 	 <td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_6.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #01</a></td>
-	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+	<td class="tg-ppzb"><a href="/files/T3W4_MP_Newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #01</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_3_Week_2_vetted.pdf" target="_blank" rel="noopener noreferrer">
 Term 3 Issue #01</a></td>
 <td class="tg-ppzb"></td>
 </tr><tr>
 </tr><tr>
-
+	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_3_Week_5_v2.pdf" target="_blank" rel="noopener noreferrer">
+Term 3 Issue #02</a></td>
+<td class="tg-ppzb"></td>
+</tr><tr>
+</tr><tr>
 </tr></tbody><tbody>
 </tbody></table>
 <h3>2023 Newsletter for Parents</h3>
