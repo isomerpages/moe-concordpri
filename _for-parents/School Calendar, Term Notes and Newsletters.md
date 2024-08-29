@@ -33,6 +33,7 @@ variant: markdown
 	<td class="tg-xuj5"><a href="/files/T1_Parents_Calendar_2024_V1.pdf" target="_blank" rel="noopener noreferrer">2024 Term 1 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/T2_Parents_Calendar_2024_V2.pdf" target="_blank" rel="noopener noreferrer">2024 Term 2 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/T3_Parents_Calendar_2024.pdf" target="_blank" rel="noopener noreferrer">2024 Term 3 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="/files/T4_Parents_Calendar_2024.pdf" target="_blank" rel="noopener noreferrer">2024 Term 4 Calendar</a><br></td>
 <td class="tg-xuj5"><br></td>
 <td class="tg-xuj5"><br></td>
 <td class="tg-xuj5"><br></td>
@@ -137,7 +138,7 @@ Term 3 Issue #01</a></td>
 <td class="tg-ppzb"></td>
 </tr><tr>
 </tr><tr>
-	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+	<td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_7__2_.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #02</a></td>
 	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_3_Week_5_v2.pdf" target="_blank" rel="noopener noreferrer">
 Term 3 Issue #02</a></td>
