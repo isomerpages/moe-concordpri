@@ -112,7 +112,7 @@ variant: markdown
     <td class="tg-yhj8">Friday, 13 September 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
  <tr>
-    <td class="tg-yhj8">P6 Study Break<br>(TBC)</td>
+    <td class="tg-yhj8">P6 Study Break<br></td>
     <td class="tg-yhj8">Monday, 23 September 2024<br>to<br>Wednesday, 25 September 2024<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
   </tr>
 <tr>
