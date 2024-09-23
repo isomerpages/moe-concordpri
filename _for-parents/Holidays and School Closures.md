@@ -129,7 +129,7 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-yhj8">PSLE Marking Days<br></td>
-  <td class="tg-yhj8">Monday, 14 October 2024 (TBC)<br>to<br>Wednesday, 16 October 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+  <td class="tg-yhj8">Monday, 14 October 2024<br>to<br>Wednesday, 16 October 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Eve of Deepavali<br></td>
