@@ -87,6 +87,7 @@ variant: markdown
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 250px">
@@ -126,7 +127,7 @@ Term 2 Issue #02</a></td>
 </tr><tr>
 </tr><tr>
  <td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
-	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+	<td class="tg-ppzb"><a href="/files/MP_Newsletter__Term_2_Issue_3_.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue # 03</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_2_Week_9_vetted__1_.pdf" target="_blank" rel="noopener noreferrer">
 Term 2 Issue #03</a></td>
 <td class="tg-ppzb"></td>
@@ -139,8 +140,7 @@ Term 3 Issue #01</a></td>
 <td class="tg-ppzb"></td>
 </tr><tr>
 </tr><tr>
-	<td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_7__2_.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #02</a></td>
-	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+	<td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_7__2_.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #02</a></td><td class="tg-ppzb"><a href="/files/T3W8_MP_Newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #02</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Upper_Primary_Term_3_Week_5_v2.pdf" target="_blank" rel="noopener noreferrer">
 Term 3 Issue #02</a></td>
 <td class="tg-ppzb"></td>
