@@ -88,7 +88,7 @@ variant: markdown
 .tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
 </style>
 
-## 	<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 250px">
 <col style="width: 250px">
