@@ -179,7 +179,8 @@ cut-off dates:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniform.png">
 </div>
-<p>You may refer to here for more information.</p>
+<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for more
+information.</p>
 <p>
 <br><strong>11. Apply for POSB Smart Buddy Watch</strong>
 </p>
