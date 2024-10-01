@@ -85,7 +85,7 @@ your child by providing additional information about your child via this
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
 </div>
 <p>
-<br><strong>6. Complete Student Details Form (SDF) </strong>
+<br><strong>6. Complete Student Details Form (SDF)</strong>
 </p>
 <p>As your child/ward will be starting primary one in January 2025, the Ministry
 of Education (MOE) would like to collect necessary information about you
@@ -128,13 +128,14 @@ QR code</p>
 or school attire before you are notified through the school official letter
 of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no refund.</u></strong>
 </p>
-<p>Below is the Eligibility Criteria and Subsidy information for 2025 FAS.</p>
-<p>
-<br>
-</p>
+<p>Below is the Eligibility Criteria and Subsidy information for 2025 FAS:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FAS_Eligibility.png">
+</div>
+<p></p>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
 more information regarding MOE FAS.</p>
-<p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer" target="_blank">link</a>.</p>
+<p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer" target="_blank">link</a>.</p>
 <p>
 <br>
 </p>
@@ -162,17 +163,27 @@ more information regarding MOE FAS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>9. Purchase School Books and Uniform</strong> 
-<br>
+<p><strong>9b. Apply for DigitalAccess@Home</strong>
 </p>
-<p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi&amp;Baba
-respectively. The default mode of sales is through their online sales channels
-listed below. They will also be operating in our school during the P1 Orientation
-on 18 October 2023 from <u>11 am to 3 pm</u> and on selected days during
-the year-end school holidays .
+<p>Students from low-income households who are interested to apply for subsidised
+broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
+via</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
+contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
+</p>
+<p></p>
+<p><strong>10. Purchase School Books and Uniform</strong> 
+</p>
+<p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
+Baba respectively. The default mode of sales is through their online sales
+channels listed below. They will also be operating in our school during
+the P1 Orientation on 14 October 2024 from&nbsp;<u>9 am to 4 pm</u>&nbsp;and
+on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
-<br><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
+<br>*School books Online Sale for collection on 14 Oct and 15 Oct will be
+start on 7 Oct to 11 Oct 2024</p>
+<p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>
 </p>
 <p>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
@@ -187,6 +198,13 @@ purchase.
 <br>Sun: 10:00 am to 6:00 pm
 <br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
 </p>
+<p><strong>December Holiday Opening Hours</strong>
+</p>
+<p></p>
+<p></p>
+<p>For Online purchase and collection at school, please note the following
+cut-off date:</p>
+<p></p>
 <p>
 <br><strong>10. Apply for POSB Smart Buddy Watch</strong>
 <br>
