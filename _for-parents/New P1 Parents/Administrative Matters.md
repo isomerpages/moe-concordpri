@@ -204,9 +204,11 @@ purchase.
 <p></p>
 <p>For Online purchase and collection at school, please note the following
 cut-off date:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform.png">
+</div>
 <p>
-<br><strong>10. Apply for POSB Smart Buddy Watch</strong>
+<br><strong>11. Apply for POSB Smart Buddy Watch</strong>
 <br>
 </p>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
@@ -215,7 +217,7 @@ Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registra
 more details.</p>
 <p></p>
 <p>
-<br><strong>11. Join M.A.D parents</strong>
+<br><strong>12. Join M.A.D parents</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
