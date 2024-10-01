@@ -172,7 +172,7 @@ via</p>
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
-<p><strong>10. Purchase School Books and Uniform</strong> 
+<p><strong>10. Purchase School Books and Uniform</strong>
 </p>
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
