@@ -66,74 +66,69 @@ login will be required.</p>
 <br><strong>4. Declare Travel Plans for 2024 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
 <p>If your child is travelling during the 2024 year-end school holidays,
-please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or QR code.</p>
-<p>
+please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or QR code.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/travel%20declaration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </div>
 <p>
 <br>
-<br><strong>4. Provide Additional Information for Form Teachers</strong>
+<br><strong>5. Provide Additional Information for Form Teachers</strong>
 <br>
 </p>
 <p>Please help your child’s Form Teacher to have a better understanding of
 your child by providing additional information about your child via this
-<a href="https://go.gov.sg/cps-pupilprofile" rel="noopener noreferrer" target="_blank">link.</a>
-</p>
+<a href="https://go.gov.sg/cps-pupilprofile" rel="noopener noreferrer" target="_blank">link</a>or QR code.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
+</div>
 <p>
-<br><strong>5. Complete Student Details Form (SDF) </strong>– To be updated!
-<br>
+<br><strong>6. Complete Student Details Form (SDF) </strong>
 </p>
-<p>As your child/ward will be starting primary one in January 2024, the Ministry
+<p>As your child/ward will be starting primary one in January 2025, the Ministry
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
 in our schools.</p>
 <p>You will be able to submit via the Student Details Form portal from late
-November onwards. We will notify you via PG when the portal is available.</p>
+November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a>.
+We will notify you via PG when the portal is available.</p>
 <p>
 <br>
 </p>
 <p><strong><u>Section B: Optional Tasks</u></strong>
 </p>
 <p>
-<br><strong>6. Apply for School Bus Services</strong>
+<br><strong>7. Apply for School Bus Services</strong>
 <br>
 </p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
-the link below to express your interest and they will contact you for more
-details.
-<br>
-<br><strong>School Bus Vendor: </strong><a href="https://forms.gle/mAakGAAHrt2mt7cY8" rel="noopener no referrer" target="_blank">https://forms.gle/mAakGAAHrt2mt7cY8</a>
-<br>
-<br>
-</p>
-<p>
-<br><strong>7. Enrol into School-Based Student Care</strong>
-<br>
-</p>
-<p>Our School-based Student Care provider is Big Heart Student Care. They
-will be having an Open House after the P1 Orientation on 18 Oct 2023.</p>
-<p>If you would like to enrol your child with them, please complete their
-application form <a href="https://bigheartstudentcare.com/interest/" rel="no opener noreferrer" target="_blank">here</a>  <strong><u>by Tuesday, 31 October 2023.</u></strong> For
-more information, please refer to the <a href="/files/big%20heart%20pamphlet.pdf" rel="noopener no referrer" target="_blank">Big Heart Pamphlet.</a>
-</p>
-<p>
-<br><strong>8. Apply for 2024 MOE Financial Assistance Scheme (FAS)</strong>
-<br>
-<br>
-</p>
-<p>Please do <strong><u>NOT</u></strong> purchase any textbook or school attire
-before you are notified through the school official letter of the outcome
-of your FAS application as there is <strong><u>strictly no refund.</u></strong>
-</p>
-<p>Below is the Eligibility Criteria and Subsidy information for 2023 FAS.
-We will inform you via PG once the application for 2024 FAS is opened and
-if there are any revisions.</p>
+the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link </a>below
+to express your interest and they will contact you for more details.</p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/2023%20income%20eligibility%20tier.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_bus_QR.png">
 </div>
+<p>
+<br><strong>8. Enrol into School-Based Student Care</strong>
+</p>
+<p>If you would like to enrol your child with our School-based Student Care,
+you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
+QR code</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BH_QR.png">
+</div>
+<p>For more information, please refer to <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>
+<br><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
+<br>
+</p>
+<p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
+or school attire before you are notified through the school official letter
+of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no refund.</u></strong>
+</p>
+<p>Below is the Eligibility Criteria and Subsidy information for 2025 FAS.</p>
 <p>
 <br>
 </p>
