@@ -72,7 +72,7 @@ below:</p>
 your child by providing additional information about your child via this
 <a href="https://go.gov.sg/cpspupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
 </div>
 <p><strong>6. Complete Student Details Form (SDF)</strong>
 </p>
