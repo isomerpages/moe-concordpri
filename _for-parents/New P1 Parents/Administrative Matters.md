@@ -61,8 +61,7 @@ login will be required.
 <br><strong>4. Declare Travel Plans for 2024 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
 <p>If your child is travelling during the 2024 year-end school holidays,
-please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or the QR code
-below:</p>
+please declare your travel plans through this <a href="https://go.gov.sg/cps2025p1travel" rel="noopener no referrer" target="_blank">link</a> or the QR code below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </div>
