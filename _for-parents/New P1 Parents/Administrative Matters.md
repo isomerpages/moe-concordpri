@@ -136,7 +136,7 @@ via <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
-<p><strong>10. Purchase School Books and Uniform</strong>
+<p><strong>10. Purchase of School Books and Uniform</strong>
 </p>
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
@@ -146,7 +146,7 @@ on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 <br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
-be start on 7 Oct to 11 Oct 2024</p>
+start on 7 Oct to 11 Oct 2024</p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
