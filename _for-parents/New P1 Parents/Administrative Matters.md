@@ -93,7 +93,7 @@ more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/f
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
-<p>For more information, please refer to <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more information, please refer <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
