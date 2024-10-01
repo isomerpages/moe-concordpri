@@ -27,9 +27,7 @@ Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
 under the Services tab. Parents will have up till 15 January 2025 to sign
 up for GIRO for the first deduction in Feb 2025. Please refer to this
-<a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for more information.
-<br>
-</p>
+<a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/giro%20picture.png">
 </div>
