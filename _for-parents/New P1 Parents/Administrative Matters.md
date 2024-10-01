@@ -62,17 +62,14 @@ login will be required.
 </p>
 <p>If your child is travelling during the 2024 year-end school holidays,
 please declare your travel plans through this <a href="https://go.gov.sg/cps2025p1travel" rel="noopener no referrer" target="_blank">link</a> or the QR code below:</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/cps2025p1travel">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
-</div>
+</a>
 <p><strong>5. Provide Additional Information for Form Teachers</strong>
 </p>
 <p>Please help your child’s Form Teacher to have a better understanding of
 your child by providing additional information about your child via this
-<a href="https://go.gov.sg/cpspupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
-</div>
+<a href="https://go.gov.sg/cpspupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/cpspupilprofile"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png"></a>
 <p><strong>6. Complete Student Details Form (SDF)</strong>
 </p>
 <p>As your child/ward will be starting primary one in January 2025, the Ministry
@@ -89,19 +86,13 @@ We will notify you via PG when the portal is available.</p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
 this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below to express your interest and they will contact you for
-more details.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png">
-</div>
+more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png"></a>
 <p>
 <br><strong>8. Enrol into School-Based Student Care</strong>
 </p>
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
-the QR code below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png">
-</div>
+the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
 <p>For more information, please refer to <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
@@ -132,10 +123,7 @@ via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopen
 <p>
 <br>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/fas%20qr%20code.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6666a548f71e023bcbe7c9b7"><img style="width: 100%;" height="auto" width="100%" src="/images/fas%20qr%20code.png"></a>
 </td>
 </tr>
 </tbody>
@@ -187,8 +175,5 @@ Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registra
 more details.</p>
 <p>
 <br><strong>12. Join M.A.D parents</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform"><img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg"></a>
 <p></p>
