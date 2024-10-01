@@ -10,33 +10,24 @@ variant: tiptap
 the following items before the <strong>P1 Orientation Day</strong> on <strong>14 October 2024, Monday 1.30 pm - 3 pm</strong>:</p>
 <p><strong><u>Section A: Mandatory Tasks</u></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Onboard Parent Gateway</strong>
+<p><strong>1. Onboard Parent Gateway</strong>
 </p>
-</li>
-</ol>
 <p>Developed by the Ministry of Education and GovTech, Parents Gateway is
 a one-stop portal that strengthens school-home partnership to support our
 children in their education journey.</p>
 <p>You may download Parent Gateway via this <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> or Download “Parents Gateway” from
 the official app stores (Google Play, App Store or Huawei AppGallery).</p>
 <p></p>
-<p></p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Apply for GIRO</strong>
+<p><strong>2. Apply for GIRO</strong>
 </p>
-</li>
-</ol>
 <p>GIRO is a convenient, paperless, and cashless payment method to make hassle-free
 payments for your child’s school fees and miscellaneous fees. The same
 GIRO arrangement will also be extended to cover their payment of enrichment
 programmes, school charges and deduction of Primary School Leaving Examination
 Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
-under the Services tab. Parents will have up till 15 January 2024 to sign
-up for GIRO for the first deduction in Feb 2024. Please refer to this
+under the Services tab. Parents will have up till 15 January 2025 to sign
+up for GIRO for the first deduction in Feb 2025. Please refer to this
 <a href="/files/egiro%20user%20guide%20sep23.pdf" rel="noopner noreferrer" target="_blank">guide</a>for more information.</p>
 <p>
 <br>
@@ -45,7 +36,7 @@ up for GIRO for the first deduction in Feb 2024. Please refer to this
 <img style="width:30%" height="auto" width="100%" src="/images/giro%20picture.png">
 </div>
 <p>
-<br><strong>2. Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></strong>
+<br><strong>3. Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></strong>
 </p>
 <p>Every Singapore Citizen (SC) will have an Edusave account created automatically
 for them.</p>
@@ -72,9 +63,9 @@ login will be required.</p>
 </div>
 <p>
 <br>
-<br><strong>3. Declare Travel Plans for 2023 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
+<br><strong>4. Declare Travel Plans for 2024 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
-<p>If your child is travelling during the 2023 year-end school holidays,
+<p>If your child is travelling during the 2024 year-end school holidays,
 please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or QR code.</p>
 <p>
 <br>
