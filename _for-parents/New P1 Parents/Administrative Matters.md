@@ -146,7 +146,8 @@ on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 <br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
-start on 7 Oct to 11 Oct 2024</p>
+start on <strong>7 Oct to 11 Oct 2024</strong>
+</p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
