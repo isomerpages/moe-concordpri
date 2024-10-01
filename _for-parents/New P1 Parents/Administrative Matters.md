@@ -163,11 +163,8 @@ on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
 be start on 7 Oct to 11 Oct 2024</p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
-<br>
-</p>
-<p>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
+<br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
-<br>
 <br><strong>*Far East Shopping Centre</strong>
 <br>545 Orchard Road, #02-28
 <br>Singapore 238882
@@ -180,9 +177,9 @@ purchase.
 <p>For Online purchase and collection at school, please note the following
 cut-off dates:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniform.png">
 </div>
-<p>You may refer here for more information.</p>
+<p>You may refer to here for more information.</p>
 <p>
 <br><strong>11. Apply for POSB Smart Buddy Watch</strong>
 </p>
@@ -190,7 +187,6 @@ cut-off dates:</p>
 Smart Buddy watch. If you would like to register your child for a POSB
 Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" rel="no opener noreferrer" target="_blank">Pamphlet</a> for
 more details.</p>
-<p></p>
 <p>
 <br><strong>12. Join M.A.D parents</strong>
 </p>
