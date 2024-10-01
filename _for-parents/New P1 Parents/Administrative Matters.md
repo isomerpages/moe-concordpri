@@ -90,7 +90,7 @@ We will notify you via PG when the portal is available.</p>
 <p><strong>7. Apply for School Bus Services</strong>
 </p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
-this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link </a>or
+this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below to express your interest and they will contact you for
 more details.</p>
 <div class="isomer-image-wrapper">
@@ -179,7 +179,7 @@ cut-off dates:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniform.png">
 </div>
-<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for more
+<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
 <p>
 <br><strong>11. Apply for POSB Smart Buddy Watch</strong>
