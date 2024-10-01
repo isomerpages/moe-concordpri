@@ -177,18 +177,14 @@ purchase.
 <br>Sun: 10:00 am to 6:00 pm
 <br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
 </p>
-<p><strong>December Holiday Opening Hours</strong>
-</p>
-<p></p>
-<p></p>
 <p>For Online purchase and collection at school, please note the following
-cut-off date:</p>
+cut-off dates:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform.png">
 </div>
+<p>You may refer here for more information.</p>
 <p>
 <br><strong>11. Apply for POSB Smart Buddy Watch</strong>
-<br>
 </p>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
 Smart Buddy watch. If you would like to register your child for a POSB
@@ -197,7 +193,6 @@ more details.</p>
 <p></p>
 <p>
 <br><strong>12. Join M.A.D parents</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg">
