@@ -70,7 +70,7 @@ below:</p>
 </p>
 <p>Please help your child’s Form Teacher to have a better understanding of
 your child by providing additional information about your child via this
-<a href="https://go.gov.sg/cps-pupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p>
+<a href="https://go.gov.sg/cpspupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
 </div>
