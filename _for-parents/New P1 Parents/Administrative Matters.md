@@ -8,8 +8,7 @@ variant: tiptap
 <h3>Administrative Matters</h3>
 <p>In preparation for your child’s entry to Primary One in 2025, please complete
 the following items before the <strong>P1 Orientation Day</strong> on <strong>14 October 2024, Monday 1.30 pm - 3 pm</strong>:</p>
-<p><strong><u>Section A: Mandatory Tasks</u></strong>
-</p>
+<h4><strong><u>Section A: Mandatory Tasks</u></strong></h4>
 <p><strong>1. Onboard Parent Gateway</strong>
 </p>
 <p>Developed by the Ministry of Education and GovTech, Parents Gateway is
@@ -28,8 +27,7 @@ Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
 under the Services tab. Parents will have up till 15 January 2025 to sign
 up for GIRO for the first deduction in Feb 2025. Please refer to this
-<a href="/files/egiro%20user%20guide%20sep23.pdf" rel="noopner noreferrer" target="_blank">guide</a>for more information.</p>
-<p>
+<a href="/files/egiro%20user%20guide%20sep23.pdf" rel="noopner noreferrer" target="_blank">guide</a>for more information.
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -54,8 +52,7 @@ your child’s/ward’s participation before the withdrawal of Edusave funds.
 If you subsequently decide that to use alternative funding sources for
 enrichment programmes, you can terminate the Standing Order at any time.</p>
 <p>You can sign up for the Standing Order <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener referrer" target="_blank">here</a>. Singpass
-login will be required.</p>
-<p>
+login will be required.
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -66,26 +63,20 @@ login will be required.</p>
 <br><strong>4. Declare Travel Plans for 2024 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
 <p>If your child is travelling during the 2024 year-end school holidays,
-please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or QR code.
-<br>
-</p>
+please declare your travel plans through this <a href="https://form.gov.sg/651bc5f265e8b9001168876a" rel="noopener no referrer" target="_blank">link</a> or the QR code
+below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </div>
-<p>
-<br>
-<br><strong>5. Provide Additional Information for Form Teachers</strong>
-<br>
+<p><strong>5. Provide Additional Information for Form Teachers</strong>
 </p>
 <p>Please help your child’s Form Teacher to have a better understanding of
 your child by providing additional information about your child via this
-<a href="https://go.gov.sg/cps-pupilprofile" rel="noopener noreferrer" target="_blank">link</a>or QR code.</p>
-<p></p>
+<a href="https://go.gov.sg/cps-pupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png">
 </div>
-<p>
-<br><strong>6. Complete Student Details Form (SDF)</strong>
+<p><strong>6. Complete Student Details Form (SDF)</strong>
 </p>
 <p>As your child/ward will be starting primary one in January 2025, the Ministry
 of Education (MOE) would like to collect necessary information about you
@@ -94,35 +85,28 @@ in our schools.</p>
 <p>You will be able to submit via the Student Details Form portal from late
 November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a>.
 We will notify you via PG when the portal is available.</p>
-<p>
-<br>
-</p>
-<p><strong><u>Section B: Optional Tasks</u></strong>
-</p>
-<p>
-<br><strong>7. Apply for School Bus Services</strong>
-<br>
+<p></p>
+<h4><strong><u>Section B: Optional Tasks</u></strong></h4>
+<p><strong>7. Apply for School Bus Services</strong>
 </p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
-the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link </a>below
-to express your interest and they will contact you for more details.</p>
+this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link </a>or
+the QR code below to express your interest and they will contact you for
+more details.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_bus_QR.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png">
 </div>
 <p>
 <br><strong>8. Enrol into School-Based Student Care</strong>
 </p>
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
-QR code</p>
-<p></p>
+the QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BH_QR.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png">
 </div>
 <p>For more information, please refer to <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>
-<br><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
-<br>
+<p><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
 or school attire before you are notified through the school official letter
@@ -132,13 +116,9 @@ of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no r
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FAS_Eligibility.png">
 </div>
-<p></p>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
-more information regarding MOE FAS.</p>
-<p>Parents can apply through PG app or via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer" target="_blank">link</a>.</p>
-<p>
-<br>
-</p>
+more information regarding MOE FAS. Parents can apply through PG app or
+via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer" target="_blank">link</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -148,7 +128,7 @@ more information regarding MOE FAS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/fas%20service%20pic.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/fas%20service%20pic.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +137,7 @@ more information regarding MOE FAS.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/fas%20qr%20code.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/fas%20qr%20code.png">
 </div>
 </td>
 </tr>
@@ -167,8 +147,7 @@ more information regarding MOE FAS.</p>
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
 broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
-via</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
+via <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
@@ -181,8 +160,8 @@ the P1 Orientation on 14 October 2024 from&nbsp;<u>9 am to 4 pm</u>&nbsp;and
 on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
-<br>*School books Online Sale for collection on 14 Oct and 15 Oct will be
-start on 7 Oct to 11 Oct 2024</p>
+<br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
+be start on 7 Oct to 11 Oct 2024</p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>
 </p>
