@@ -163,7 +163,7 @@ purchase.
 <p>For Online purchase and collection at school, please note the following
 cut-off dates:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniform.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/uniform_cut_off_dates.png">
 </div>
 <p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
