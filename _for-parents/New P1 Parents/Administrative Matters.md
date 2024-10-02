@@ -65,12 +65,7 @@ please declare your travel plans through this <a href="https://go.gov.sg/cps2025
 <a class="isomer-image-wrapper" href="https://go.gov.sg/cps2025p1travel">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </a>
-<p><strong>5. Provide Additional Information for Form Teachers</strong>
-</p>
-<p>Please help your child’s Form Teacher to have a better understanding of
-your child by providing additional information about your child via this
-<a href="https://go.gov.sg/cpspupilprofile" rel="noopener noreferrer" target="_blank">link</a>or the QR code blow:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/cpspupilprofile"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Add_info_QR.png"></a>
-<p><strong>6. Complete Student Details Form (SDF)</strong>
+<p><strong>5. Complete Student Details Form (SDF)</strong>
 </p>
 <p>As your child/ward will be starting primary one in January 2025, the Ministry
 of Education (MOE) would like to collect necessary information about you
@@ -81,20 +76,20 @@ November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopene
 We will notify you via PG when the portal is available.</p>
 <p></p>
 <h4><strong><u>Section B: Optional Tasks</u></strong></h4>
-<p><strong>7. Apply for School Bus Services</strong>
+<p><strong>6. Apply for School Bus Services</strong>
 </p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
 this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below to express your interest and they will contact you for
 more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png"></a>
 <p>
-<br><strong>8. Enrol into School-Based Student Care</strong>
+<br><strong>7. Enrol into School-Based Student Care</strong>
 </p>
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
-<p>For more information, please refer to <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>9a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
+<p>For more information, please refer <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>8a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
 or school attire before you are notified through the school official letter
@@ -128,7 +123,7 @@ via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopen
 </tr>
 </tbody>
 </table>
-<p><strong>9b. Apply for DigitalAccess@Home</strong>
+<p><strong>8b. Apply for DigitalAccess@Home</strong>
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
 broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
@@ -136,7 +131,7 @@ via <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
-<p><strong>10. Purchase School Books and Uniform</strong>
+<p><strong>9. Purchase of School Books and Uniform</strong>
 </p>
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
@@ -146,7 +141,8 @@ on 15 October 2024 from <u>9 am to 3 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 <br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
-be start on 7 Oct to 11 Oct 2024</p>
+start on <strong>7 Oct to 11 Oct 2024</strong>
+</p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
@@ -162,18 +158,18 @@ purchase.
 <p>For Online purchase and collection at school, please note the following
 cut-off dates:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniform.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/uniform_cut_off_dates.png">
 </div>
 <p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
 <p>
-<br><strong>11. Apply for POSB Smart Buddy Watch</strong>
+<br><strong>10. Apply for POSB Smart Buddy Watch</strong>
 </p>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
 Smart Buddy watch. If you would like to register your child for a POSB
 Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" rel="no opener noreferrer" target="_blank">Pamphlet</a> for
 more details.</p>
 <p>
-<br><strong>12. Join M.A.D parents</strong>
+<br><strong>11. Join M.A.D parents</strong>
 </p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform"><img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg"></a>
 <p></p>
