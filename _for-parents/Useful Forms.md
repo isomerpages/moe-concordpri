@@ -2,14 +2,8 @@
 title: Useful Forms
 permalink: /for-parents/useful-forms/
 description: ""
+variant: markdown
 ---
-<!--<h4>Admin Forms</h4>
-<ul>
-	<li>
-<a rel="noopener noreferrer" target="_blank" href="/files/form%20c%20(address%20updates).pdf"><span style="text-decoration:none;color:#1A7BDF; font-size:16px; font-weight:bold;">Update on family information</span></a>
-	</li>
-</ul>-->
-
 <h5>1. Finance Assistance Scheme</h5>
 <ul>
 <li><a href="/files/document4a_moe%20fas%20pamphet%20el.pdf" target="_blank" rel="noopener noreferrer">Infograph</a> about MOE FAS</li>
