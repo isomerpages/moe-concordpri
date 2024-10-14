@@ -100,10 +100,10 @@ Product Fact Sheet
 	<td class="tg-info">3.</td>
 	<td class="tg-title">
 	<span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br><br>
-	<span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br><br>
-Phone: 98552563<br><br>
+	<span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br>
+Phone: <b>98552563</b><br>
 <span style="font-weight:400;font-style:normal">Website: </span>
-<a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br><br>
+<a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br>
 Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
 
 
@@ -114,9 +114,10 @@ Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noope
 		<span style="font-weight:400;font-style:normal"><b>Bibi&amp;Baba Retail Outlets:</b><br><br>
 			<b style="color:blue">Far East Shopping Centre Outlet</b><br>
 545 Orchard Road, #02-28<br>
-Singapore 238882<br><br>Tel: <u><b>6732 7022</b></u><br>SMS: <u><b>9234 1033</b></u><br><br>Mon to Sat: <u><b>10:00 am to 7:00 pm</b></u><br>Sun: <u><b>10:00 am to 6:00 pm</b></u><br><br><br><b style="color:blue">Henderson Outlet</b><br>
-213 Henderson Road, #01-12<br>Singapore 159553<br><br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><br><br><b style="color:red">*Please call Bibi&amp;Baba to reserve stock before going.</b><br><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
-For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements. Stock will only be available from February 2024.<br><br><b style="color:blue">*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b><br><br><b>~</b> Students can purchase during their recess or lunch break.<br><br><b>~</b> Parents can walk-in to purchase from 2.00pm to 2.45pm.<br><br><br>If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>.<br><br>The dates, once finalised, will be communicated to all parents and guardians by the end of this term.<br><br>Please call the General Office at <b>67632139</b> if you have any enquires.<br>Thank you.</span>
+Singapore 238882<br>Tel: <u><b>6732 7022</b></u><br>SMS: <u><b>9234 1033</b></u><br><br>Mon to Sat: <u><b>10:00 am to 7:00 pm</b></u><br>Sun: <u><b>10:00 am to 6:00 pm</b></u><br><br><b style="color:blue">Henderson Outlet</b><br>
+213 Henderson Road, #01-12<br>Singapore 159553<br>Tel: <u><b>6271 9248</b></u><br><br>Mon to Fri: <u><b>9:00 am to 6:00 pm</b></u><br>Sat: <u><b>9:00 am to 1:00 pm</b></u><br><br><b style="color:red">*Please call Bibi&amp;Baba to reserve stock before going.</b><br><br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" target="_blank" rel="noopener noreferrer"> https://www.schooluniforms.sg/concord-primary-school</a><br><br>
+For purchases in the school bookshop, it is recommended only for small quantities uniform purchase and urgent replacements.<br><b style="color:blue">*Do note that stocks available in the bookshop are on consignment basis and in limited quantities.</b><br><b>~</b> Students can purchase during their recess or lunch break.<br>~ Parents can walk-in to purchase from 2.00pm to 2.45pm.<br><br>If you require custom sizes, you can enquire with their Henderson Outlet.<br><br>As per in the past, there will also be sale of uniforms in our school <b>during the year-end school holidays</b>
+	<br><img src="/images/2024_Year_end_sale_Uniform.png" style="width:100%"><br></span>
 </td>
 </tr>
 
@@ -126,19 +127,20 @@ For purchases in the school bookshop, it is recommended only for small quantitie
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bookshop-info">School Bookshop</span><br><br>
 <span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Open to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)<br>
 Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><br>
-<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">9091 9850</span><br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
-</td>
+<span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">9091 9850</span><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
+<img src="/images/2024_Year_end_sale_Bookshop.png" style="width:100%"><br>
+	</td>
 </tr>
 
 
 <tr>
     <td class="tg-info">6.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bus-service">School Bus Service </span><br><br>
-		<span>DKJ Transport Service</span><br><br>
-			Tel: 9772 3370, 9650 0512<br><br>
+		<span>DKJ Transport Service</span><br>
+			Tel: <b>9772 3370, 9650 0512</b><br><br>
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
-<br><br>
-<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br><br>
+<br>
+<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
 </td></tr>
 
@@ -146,10 +148,10 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 <tr>
     <td class="tg-info">7.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="smart-watch-buddy">POSB Smart Buddy Watch</span><br><br>
-		<span>For SMART watch replacement, please make replacement at:</span><br><br>
-			Smart Buddy Watch Service Centre (c/o STYL Solutions Pte Ltd)<br><br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
+		<span>For SMART watch replacement, please make replacement at:</span><br>
+			Smart Buddy Watch Service Centre (c/o STYL Solutions Pte Ltd)<br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
 			<span style="font-weight:bold;text-decoration:underline">Operation hours:</span>
-<br><br>Monday to Friday, 9.30am to 5.30pm<br><br>Saturday, 9am to 12.30pm<br><br><b>(Closed on Public Holiday)</b><br><br>
+<br>Monday to Friday, 9.30am to 5.30pm<br>Saturday, 9am to 12.30pm<br><b>(Closed on Public Holiday)</b><br><br>
 </td>
 </tr>
 </tbody>
