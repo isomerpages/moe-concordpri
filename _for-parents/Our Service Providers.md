@@ -101,7 +101,7 @@ Product Fact Sheet
 	<td class="tg-title">
 	<span style="font-weight:bold;text-decoration:underline" id="studentcare-info">Student Care Centre</span><br><br>
 	<span style="font-weight:400;font-style:normal">Big Heart Student Care @ Concord Primary</span><br>
-Phone: 98552563<br>
+Phone: <b>98552563</b><br>
 <span style="font-weight:400;font-style:normal">Website: </span>
 <a href="https://bigheartstudentcare.com/" target="_blank" rel="noopener noreferrer">https://bigheartstudentcare.com/</a><br>
 Email: <a href="mailto:Concord@shgstudentcare.com.sg" target="_blank" rel="noopener noreferrer">Concord@shgstudentcare.com.sg</a></td></tr>
@@ -137,7 +137,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
     <td class="tg-info">6.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="bus-service">School Bus Service </span><br><br>
 		<span>DKJ Transport Service</span><br>
-			Tel: 9772 3370, 9650 0512<br><br>
+			Tel: <b>9772 3370, 9650 0512</b><br><br>
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br>
 <a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br>
