@@ -2,42 +2,78 @@
 title: Learning Platforms
 permalink: /learning-platforms/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul>
-<li><a href="https://vle.learning.moe.edu.sg/login"><span style="color:#FD6500; font-size:14px; font-weight:bold">Student Learning Space (SLS)</span></a></li>
-	<li><a href="https://workspace.google.com/dashboard"><span style="color:#FD6500; font-size:14px; font-weight:bold">Student ICON</span></a></li>
-<li><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><span style="color:#FD6500; font-size:14px; font-weight:bold">MySkillsFuture</span></a></li>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a></strong>
+</p>
+<p></p>
+</li>
 </ul>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5o1s{background-color:#FFF;color:#0C463A;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8n5d{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250">
-<col style="width: 250px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-5o1s">English<br><br><a href="http://www.kinglishschool.com/game_eng.htm"><span style="text-decoration:none;color:#FD6500">Kinglish School</span></a><br><a href="http://www.english-online.org.uk/games/gamezone2.htm"><span style="text-decoration:none;color:#FD6500">English Online</span></a></td>
-    <td class="tg-5o1s">Mathematics<br><br><a href="http://www.primarygames.com/math.htm"><span style="text-decoration:none;color:#FD6500">Primary Games</span></a><br><a href="http://www.coolmath-games.com/"><span style="text-decoration:none;color:#FD6500">Cool Math Game</span></a><br><a href="http://www.mathplayground.com/math-html"><span style="text-decoration:none;color:#FD6500">Math Playground</span></a><br><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login"><span style="text-decoration:none;color:#FD6500">KooBits</span></a><br><a href="https://seab.assess.ai/"><span style="text-decoration:none;color:#FD6500">Math CATalytics</span></a><br>
-<a href="https://go.gov.sg/p6cat2024"><span style="text-decoration:none;color:#FD6500">Fractions post-test survey</span></a><br>
-		</td>
-    <td class="tg-5o1s">Science<br><br><a href="http://www.primarygames.com/science.htm"><span style="text-decoration:none;color:#FD6500">Primary Games</span></a><br><a href="http://games.pppst.com/science.html"><span style="text-decoration:none;color:#FD6500">PPPST Games</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-5o1s">Malay<br><br><a href="http://nadi.edumall.sg/nadi/slot/u100/index.htm"><span style="text-decoration:none;color:#FD6500">Nadi</span></a></td>
-    <td class="tg-5o1s">Chinese Language<br><br><a href="http://cultureb.edumall.sg/"><span style="text-decoration:none;color:#FD6500">Culture</span></a><br><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html"><span style="text-decoration:none;color:#FD6500">Xuele</span></a><br><a href="http://www.xuele.edumall.sg/"><span style="text-decoration:none;color:#FD6500">HappyTown</span></a></td>
-    <td class="tg-8n5d"></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English
+<br>
+<br><a href="http://www.kinglishschool.com/game_eng.htm" rel="noopener noreferrer nofollow" target="_blank">Kinglish School</a>
+<br><a href="http://www.english-online.org.uk/games/gamezone2.htm" rel="noopener noreferrer nofollow" target="_blank">English Online</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics
+<br>
+<br><a href="http://www.primarygames.com/math.htm" rel="noopener noreferrer nofollow" target="_blank">Primary Games</a>
+<br><a href="http://www.coolmath-games.com/" rel="noopener noreferrer nofollow" target="_blank">Cool Math Game</a>
+<br><a href="http://www.mathplayground.com/math-html" rel="noopener noreferrer nofollow" target="_blank">Math Playground</a>
+<br><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login" rel="noopener noreferrer nofollow" target="_blank">KooBits</a>
+<br><a href="https://seab.assess.ai/" rel="noopener noreferrer nofollow" target="_blank">Math CATalytics</a>
+<br><a href="https://go.gov.sg/p6cat2024" rel="noopener noreferrer nofollow" target="_blank">Fractions post-test survey</a>
+<br><a href="https://seab.assess.ai" rel="noopener noreferrer nofollow" target="_blank">Math Check</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science
+<br>
+<br><a href="http://www.primarygames.com/science.htm" rel="noopener noreferrer nofollow" target="_blank">Primary Games</a>
+<br><a href="http://games.pppst.com/science.html" rel="noopener noreferrer nofollow" target="_blank">PPPST Games</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay
+<br>
+<br><a href="http://nadi.edumall.sg/nadi/slot/u100/index.htm" rel="noopener noreferrer nofollow" target="_blank">Nadi</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language
+<br>
+<br><a href="http://cultureb.edumall.sg/" rel="noopener noreferrer nofollow" target="_blank">Culture</a>
+<br><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html" rel="noopener noreferrer nofollow" target="_blank">Xuele</a>
+<br><a href="http://www.xuele.edumall.sg/" rel="noopener noreferrer nofollow" target="_blank">HappyTown</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
