@@ -10,8 +10,8 @@ description: ""
 </div>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
+<p>1. Download and complete the application form. You may also request a
+hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Form BF7 Canteen <a href="BF7_canteen_application_form___Concord" rel="noopener nofollow" target="_blank">Application Form</a>
