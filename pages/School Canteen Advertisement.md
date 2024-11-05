@@ -14,7 +14,7 @@ description: ""
 a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Form BF7 Canteen <a href="BF7_canteen_application_form___Concord" rel="noopener nofollow" target="_blank">BF7 Form</a>
+<p>Form BF7 Canteen <a href="BF7_canteen_application_form___Concord" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
