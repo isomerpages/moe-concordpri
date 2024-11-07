@@ -79,6 +79,7 @@ Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">911
 			<img src="/images/2024_Nov_Dental.png" style="width:100%">
 <br>
 	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
+		<br> https://consent.hpb.gov.sg <br>
 <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
 	</td>
