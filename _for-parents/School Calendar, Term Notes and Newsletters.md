@@ -153,6 +153,12 @@ Term 3 Issue #03</a></td>
 <td class="tg-ppzb"></td>
 </tr><tr>
 </tr><tr>
+<td class="tg-ppzb"><a href="/files/LP_newsletter_Issue_8.pdf" target="_blank" rel="noopener noreferrer">Term 4 Issue #01</a></td>
+	<td class="tg-ppzb"><a href="-" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"></td>
+</tr><tr>
+</tr><tr>
 </tr></tbody><tbody>
 </tbody></table>
 <h3>2023 Newsletter for Parents</h3>
