@@ -23,21 +23,20 @@ variant: markdown
 <col style="width: 200px">
 	<col style="width: 450px">
 </colgroup>
-
 <tbody>
   <tr>
     <td class="tg-yhj7"><b>Events</b><br></td>
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
 	<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Year-End <br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 16 November 2024<br>to<br>Sunday, 31 December 2024</b></td>
+	<td class="tg-yhj8"><b style="color:#FF7F50">Year-End <br>School Holidays<br></b></td>
+	<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 16 November 2024<br>to<br>Sunday, 31 December 2024</b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Christmas Day<br></td>
 		<td class="tg-yhj8">Wednesday, 25 December 2024</td>
-	
-	</tr><tr>
+	</tr>
+	<tr>
     <td class="tg-yhj8">First Day of School<br></td>
     <td class="tg-yhj8">Thursday, 2 January 2025<br><b style="color:blue"><em>(Only P1 students report to school)</em></b>
 	</td></tr>
@@ -94,7 +93,7 @@ variant: markdown
   </tr>
 <tr>
     <td class="tg-yhj8">National Day<br></td>
-    <td class="tg-yhj8">Saturday, 9 August 2024<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
+    <td class="tg-yhj8">Saturday, 9 August 2025<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">PSLE Oral (TBC)<br></td>
