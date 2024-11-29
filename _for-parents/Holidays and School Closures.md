@@ -4,7 +4,7 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 26 June 2024</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 28 November 2024</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -23,138 +23,138 @@ variant: markdown
 <col style="width: 200px">
 	<col style="width: 450px">
 </colgroup>
-
 <tbody>
   <tr>
     <td class="tg-yhj7"><b>Events</b><br></td>
 		<td class="tg-yhj7"><b>Dates</b><br></td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">First Day of School<br></td>
-    <td class="tg-yhj8">Tuesday, 2 January 2024<br><b style="color:blue"><em>(Only P1 students report to school)</em></b>
-	</td></tr>
-	<tr>
-    <td class="tg-yhj8">Eve of Chinese New Year<br></td>
-    <td class="tg-yhj8">Friday, 9 February 2024<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b>
-	</td></tr>
-	<tr>
-    <td class="tg-yhj8">Chinese New Year<br></td>
-    <td class="tg-yhj8">Saturday, 10 February 2024<br>to<br>Sunday, 11 February 2024<br><b style="color:blue"><em>(Monday, 12 February 2024 will<br>be a Public Holiday,<br>Tuesday, 13 February 2024 will<br>be a School Holiday)</em></b></td>
- </tr>
-<tr><td class="tg-yhj8"><b style="color:#FF7F50">March<br>School Holiday<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 9 March 2024<br>to<br>Sunday, 17 March 2024</b></td>
-</tr>
-		<tr>
-    <td class="tg-yhj8">Good Friday<br></td>
-    <td class="tg-yhj8">Friday, 29 March 2024<br>
-	</td></tr>
-	<tr>
-    <td class="tg-yhj8">Eve of Hari Raya Puasa<br></td>
-    <td class="tg-yhj8">Tuesday, 9 April 2024<br><b style="color:blue"><em>(Early dismissal for Muslim students at 10.30am)</em></b>
-	</td></tr>
-	<tr>
-    <td class="tg-yhj8">Hari Raya Puasa<br></td>
-    <td class="tg-yhj8">Wednesday, 10 April 2024<br>
-	</td></tr>
-	<tr>
-    <td class="tg-yhj8">Labour Day<br></td>
-    <td class="tg-yhj8">Wednesday, 1 May 2024<br>
-	</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Vesak Day<br></td>
-    <td class="tg-yhj8">Wednesday, 22 May 2024<br>
-	</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Home-based Learning <br>(All students)</td>
-    <td class="tg-yhj8">Friday, 24 May 2024<br><b style="color:blue"><em>(Parent-Teacher Conference for P2 to P6)</em></b>
-	</td>
-	</tr>	
-	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Mid Year<br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 25 May 2024<br>to<br>Sunday, 23 June 2024</b></td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Hari Raya Haji<br></td>
-    <td class="tg-yhj8">Monday, 17 June 2024<br>
-	</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Youth Day<br></td>
-    <td class="tg-yhj8">Sunday, 30 June 2024<br><b style="color:blue"><em>(Monday, 1 July 2024 will<br>be a scheduled School Holiday)</em></b></td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Eve of National Day<br></td>
-    <td class="tg-yhj8">Thursday, 8 August 2024<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
-  </tr>
-<tr>
-    <td class="tg-yhj8">National Day<br></td>
-    <td class="tg-yhj8">Friday, 9 August 2024<br></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj8">PSLE Oral<br></td>
-    <td class="tg-yhj8">Tuesday, 13 August 2024<br>Wednesday, 14 August 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj8">Teachers' Day Celebration<br></td>
-    <td class="tg-yhj8">Thursday, 29 August 2024<br><b style="color:blue"><em>(Early dismissal at 10.30am)<br></em></b></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj8">Teachers' Day<br></td>
-    <td class="tg-yhj8">Friday, 30 August 2024<br></td>
-  </tr>
-	<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">September<br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 31 August 2024<br>to<br>Sunday, 8 September 2024</b></td>
-		</tr>
-	 <tr>
-    <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
-    <td class="tg-yhj8">Friday, 13 September 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
-  </tr>
- <tr>
-    <td class="tg-yhj8">P6 Study Break<br></td>
-    <td class="tg-yhj8">Monday, 23 September 2024<br>to<br>Wednesday, 25 September 2024<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
-  </tr>
-<tr>
- <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Thursday, 26 September 2024<br>to<br>Friday, 27 September 2024<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
-</tr>
-<tr>
- <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Monday, 30 September 2024<br>to<br>Tuesday, 1 October 2024<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
-</tr>
-<tr>
-  <td class="tg-yhj8">Children's Day<br></td>
-  <td class="tg-yhj8">Friday, 4 October 2024</td>
-</tr>
-<tr>
-  <td class="tg-yhj8">PSLE Marking Days<br></td>
-  <td class="tg-yhj8">Monday, 14 October 2024<br>to<br>Wednesday, 16 October 2024<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
-</tr>
-<tr>
-    <td class="tg-yhj8">Eve of Deepavali<br></td>
-    <td class="tg-yhj8">Wednesday, 30 October 2024<br><b style="color:blue"><em>(Early dismissal for Hindu students at 10.30am)</em></b></td>
-</tr>
-<tr>
-    <td class="tg-yhj8">Deepavali<br></td>
-    <td class="tg-yhj8">Thursday, 31 October 2024</td>
-</tr>
-<tr>
-    <td class="tg-yhj8">Admin Day<br></td>
-    <td class="tg-yhj8">Friday, 8 November 2024<br><b style="color:blue"><em>(Students from all levels do not report to school)</em></b></td>
-</tr>
-
-<tr>
-    <td class="tg-yhj8">Grace Day<br></td>
-    <td class="tg-yhj8">Friday, 15 November 2024<br><b style="color:blue"><em>(Non-school day  for all students except<br> for those involved in the event)</em></b></td>
-</tr>
-<tr>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Year-End <br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 16 November 2024<br>to<br>Sunday, 31 December 2024</b></td>
+	<td class="tg-yhj8"><b style="color:#FF7F50">Year-End <br>School Holidays<br></b></td>
+	<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 16 November 2024<br>to<br>Sunday, 31 December 2024</b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Christmas Day<br></td>
 		<td class="tg-yhj8">Wednesday, 25 December 2024</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">First Day of School<br></td>
+    <td class="tg-yhj8">Thursday, 2 January 2025<br><b style="color:blue"><em>(Only P1 students report to school)</em></b>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Eve of Chinese New Year<br></td>
+    <td class="tg-yhj8">Tuesday, 28 January  2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b>
+	</td></tr>
+	<tr>
+    <td class="tg-yhj8">Chinese New Year<br></td>
+    <td class="tg-yhj8">Wednesday, 29 January 2025<br>to<br>Thursday, 30 January 2025<br><b style="color:blue"></b></td>
+ </tr>
+<tr><td class="tg-yhj8"><b style="color:#FF7F50">March<br>School Holiday<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 15 March 2025<br>to<br>Sunday, 23 March 2025</b></td>
+</tr>
+	<tr>
+    <td class="tg-yhj8">Hari Raya Puasa<br></td>
+    <td class="tg-yhj8">Monday, 31 March 2025 (TBC)<br>
+	</td></tr>
+		<tr>
+    <td class="tg-yhj8">Good Friday<br></td>
+    <td class="tg-yhj8">Friday, 18 April 2025<br>
+	</td></tr>
+	<tr>
+	</tr><tr>
+    <td class="tg-yhj8">Labour Day<br></td>
+    <td class="tg-yhj8">Thursday, 1 May 2025<br>
+	</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Vesak Day<br></td>
+    <td class="tg-yhj8">Monday, 12 May 2025<br>
+	</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Home-based Learning <br>(All students)</td>
+    <td class="tg-yhj8">Friday, 30 May 2025<br><b style="color:blue"><em>(Parent-Teacher Conference for P2 to P6)</em></b>
+	</td>
+	</tr>	
+	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Mid Year<br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 31 May 2025<br>to<br>Sunday, 29 June 2025</b></td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Hari Raya Haji<br></td>
+    <td class="tg-yhj8">Saturday, 7 June 2025<br><b style="color:blue"><em>(Monday, 9 June 2025 will<br>be a scheduled School Holiday) (TBC)</em></b>
+	</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Youth Day<br></td>
+    <td class="tg-yhj8">Sunday, 6 July 2025<br><b style="color:blue"><em>(Monday, 7 July 2024 will<br>be a scheduled School Holiday)</em></b></td>
+	</tr>
+	<tr>
+    <td class="tg-yhj8">Eve of National Day<br></td>
+    <td class="tg-yhj8">Friday, 8 August 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
+  </tr>
+<tr>
+    <td class="tg-yhj8">National Day<br></td>
+    <td class="tg-yhj8">Saturday, 9 August 2025<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj8">PSLE Oral (TBC)<br></td>
+    <td class="tg-yhj8">Tuesday, 19 August 2025<br>Wednesday, 20 August 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj8">Teachers' Day Celebration<br></td>
+    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)<br></em></b></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj8">Teachers' Day<br></td>
+    <td class="tg-yhj8">Friday, 5 September 2025<br></td>
+  </tr>
+	<tr>
+		<td class="tg-yhj8"><b style="color:#FF7F50">September<br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 6 September  2025<br>to<br>Sunday, 14 September 2025</b></td>
+		</tr>
+	 <tr>
+    <td class="tg-yhj8">PSLE Listening Comprehension (TBC)<br></td>
+    <td class="tg-yhj8">Friday, 19 September 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+  </tr>
+ <tr>
+    <td class="tg-yhj8">P6 Study Break (TBC)<br></td>
+    <td class="tg-yhj8">Monday, 29 September 2025<br>to<br>Wednesday, 1 October 2025<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
+  </tr>
+<tr>
+ <td class="tg-yhj8">PSLE Written Examination (TBC)<br></td>
+ <td class="tg-yhj8">Thursday, 2 October 2025<br>to<br>Friday, 3 October 2025<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
+</tr>
+<tr>
+ <td class="tg-yhj8">PSLE Written Examination (TBC)<br></td>
+ <td class="tg-yhj8">Monday, 6 October 2025<br>to<br>Tuesday, 7 October 2025<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
+</tr>
+<tr>
+  <td class="tg-yhj8">Children's Day<br></td>
+  <td class="tg-yhj8">Friday, 3 October 2025</td>
+</tr>
+<tr>
+  <td class="tg-yhj8">PSLE Marking Days (TBC)<br></td>
+  <td class="tg-yhj8">Monday, 21 October 2025<br>to<br>Wednesday, 23 October 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+</tr>
+<tr>
+    <td class="tg-yhj8">Deepavali<br></td>
+    <td class="tg-yhj8">Monday, 20 October 2025 (TBC)</td>
+</tr>
+<tr>
+    <td class="tg-yhj8">Admin Day<br></td>
+    <td class="tg-yhj8">Friday, 14 November 2025<br><b style="color:blue"><em>(Students from all levels do not report to school)</em></b></td>
+</tr>
+
+<tr>
+    <td class="tg-yhj8">Grace Day<br></td>
+    <td class="tg-yhj8">Friday, 21 November 2025<br><b style="color:blue"><em>(Non-school day for all students except<br> for those involved in the event)</em></b></td>
+</tr>
+<tr>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Year-End <br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 22 November 2025<br>to<br>Sunday, 31 December 2025</b></td>
+</tr>
+<tr>
+    <td class="tg-yhj8">Christmas Day<br></td>
+		<td class="tg-yhj8">Thursday, 25 December 2025</td>
 </tr>
 </tbody>
 </table>
