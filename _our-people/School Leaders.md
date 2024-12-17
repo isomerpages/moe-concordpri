@@ -18,33 +18,26 @@ variant: markdown
 <colgroup>
 <col style="width: 300px">
 <col style="width: 220px">
-<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-feqv"><span style="color:#666">Name</span></td>
     <td class="tg-feqv"><span style="color:#666">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#666">Email address</span></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mrs Quek-Chua Leng Yin<br></td>
     <td class="tg-yhj3">Principal<br></td>
-    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mrs Jenny Kam<br></td>
     <td class="tg-yhj3">Vice Principal (Academic)</td>
-    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a><br></td>
   </tr>
 	 <tr>
     <td class="tg-yhj3">Mdm Salbiah Binte Abas<br></td>
     <td class="tg-yhj3">Vice Principal (Academic)</td>
-    <td class="tg-o5fr"><a href="mailto:Salbiah_Abas@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">Salbiah_Abas@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-yhj3">Mr Andrew Lee<br></td>
     <td class="tg-yhj3">Vice Principal (Administration)</td>
-    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a> </td>
   </tr>
 </tbody>
 </table>
