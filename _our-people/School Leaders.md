@@ -43,7 +43,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Andrew Lee<br></td>
-    <td class="tg-yhj3">Vice Principal (Admin)</td>
+    <td class="tg-yhj3">Vice Principal (Administration)</td>
     <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a> </td>
   </tr>
 </tbody>
