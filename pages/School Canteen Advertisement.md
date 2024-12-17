@@ -28,8 +28,8 @@ Asian Cuisine
 <p>(Non-halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2024</p>
-</td>
+<p>2 January 2025&gt;
+</p></td>
 <td rowspan="1" colspan="1">
 Open to all proposals except for Chinese cooked food and noodles.
 <p>Korean, Japanese, Thai etc. are acceptable.</p>
