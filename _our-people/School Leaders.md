@@ -37,7 +37,7 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a><br></td>
   </tr>
 	 <tr>
-    <td class="tg-yhj3">Mdm Salbiah Abas<br></td>
+    <td class="tg-yhj3">Mdm Salbiah Binte Abas<br></td>
     <td class="tg-yhj3">Vice Principal (Academic)</td>
     <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#FD6500"></span></a><br></td>
   </tr>
