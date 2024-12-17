@@ -4,10 +4,42 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asian Cuisine</p>
+<p>(Non-halal, Open to Proposal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to all proposals except for Chinese cooked food and noodles.</p>
+<p>Korean, Japanese, Thai etc. are acceptable.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen_Ad.png">
-</div>
+<p>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request a
