@@ -2,6 +2,5 @@
 title: School Leaders
 permalink: /our-people/school-leaders/
 description: ""
+variant: markdown
 ---
-![](/images/principal2022.png)
-![](/images/viceprincipals2022.png)
