@@ -24,66 +24,45 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asian Cuisine</p>
+Asian Cuisine
 <p>(Non-halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open to all proposals except for Chinese cooked food and noodles.</p>
+Open to all proposals except for Chinese cooked food and noodles.
 <p>Korean, Japanese, Thai etc. are acceptable.</p>
-<p></p>
-<p>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</p>
+	<p><b>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</b></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Download and complete the application form. You may also request a
-hardcopy from the School’s General Office.</p>
+1. Download and complete the application form. You may also request a
+hardcopy from the School’s General Office.
 <ul data-tight="true" class="tight">
-<li>
-<p>Form BF7 Canteen <a href="/files/BF7_canteen_application_form___Concord.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
-</p>
-</li>
-</ul>
-<p>2. Attached the following documents together with the application form:</p>
+<li>Form BF7 Canteen <a href="/files/BF7_canteen_application_form___Concord.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</li></ul>
+2. Attached the following documents together with the application form:
 <ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
-</li>
-<li>
-<p>List of proposed menu and pricing for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-</li>
-</ul>
-<p>3. Submit the completed application form and documents by closing date
-via email OR to the School’s General Office.</p>
-<p>Concord Primary School</p>
-<p>3 Choa Chu Kang Ave 4, &nbsp;Singapore 689814
+<li>Photocopy of the NRIC (front and back)</li>
+<li>List of proposed menu and pricing for all items</li>
+<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li></ul>
+3. Submit the completed application form and documents by closing date via email OR to the School’s General Office:
+<br>
+<br>Concord Primary School
+<br>3 Choa Chu Kang Ave 4, &nbsp;Singapore 689814
 <br>Contact No: 67632139
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">concord_ps@moe.edu.sg</a>
-<br>Contact Person: Mr Henry Tan, Operations Manager</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>How to get there?</strong>
-</p>
+<br>Contact Person: Mr Henry Tan, Operations Manager
+<br>
+<br><strong>How to get there?</strong>
 <ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT: Choa Chu Kang MRT, Bus Interchange</p>
-</li>
-<li>
-<p>Bus number: 300, 983 (3<sup>rd</sup> bus stop from Interchange)</p>
-</li>
-</ul>
-<p><strong>Interest applicants must meet the following criteria:</strong>
-</p>
+<li>Nearest MRT: Choa Chu Kang MRT, Bus Interchange</li>
+<li>Bus number: 300, 983 (3<sup>rd</sup> bus stop from Interchange)</li></ul>
+<p><strong>Interest applicants must meet the following criteria:</strong> </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
