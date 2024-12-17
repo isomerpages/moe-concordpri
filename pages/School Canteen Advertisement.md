@@ -28,11 +28,10 @@ Asian Cuisine
 <br>(Non-halal, Open to Proposal)
 </td>
 <td rowspan="1" colspan="1">
-<p>2 January 2025</p></td>
+2 January 2025</td>
 <td rowspan="1" colspan="1">
-Open to all proposals except for Chinese cooked food and noodles.
-<p>Korean, Japanese, Thai etc. are acceptable.</p>
-	<p><b>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</b></p>
+Korean, Japanese, Thai cuisine etc are acceptable.
+<br><br><b>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</b>
 </td>
 </tr>
 </tbody>
