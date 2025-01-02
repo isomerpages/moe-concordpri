@@ -29,23 +29,25 @@ variant: markdown
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Class</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
+	 <td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
   </tr>
 
-<!-- Primary 1 Form Teachers --> 
+ 
 <tr>
     <td class="tg-yhj3">P1A<br></td>
     <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Chew Ning Jie, Eunice</a><br></td>
-<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:r-suganthan@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mr G Suganthan</a><br></td>
 </tr>
 <tr>
    <td class="tg-yhj3">P1B<br></td>
-   <td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Ms Ker Leng Leng</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tan_kim_keong@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mr Tan Kim Keong</a><br></td>
+   <td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Nur Alifah Binte Samsudin     </a><br></td>
+<td class="tg-yhj3"><a href="" style="text-decoration:none; color:#1ABC9C">Mdm Nur Rasyiqah Syakirah Binte Roslan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Sabrina Yap Yan Ting</a><br></td>
 </tr>
 <tr>
   <td class="tg-yhj3">P1C<br></td>
-  <td class="tg-yhj3"><a href="mailto:nornizah_hamzah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
-<td class="tg-yhj3"><a href="mailto:loy_xue_ying@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loy Xue Ying</a><br></td>
+  <td class="tg-yhj3"><a href="mailto:yeo_liew_ee_wendy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Yeo Liew Ee Wendy</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ng_hui_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ng Hui Leng</a><br></td>
 </tr>
 <tr>
   <td class="tg-yhj3">P1D<br></td>
@@ -94,7 +96,7 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
  </tr>
   
-<!-- Primary 2 Form Teachers -->	
+	
 <tr>
  <td class="tg-yhj3">P2A<br></td>
  <td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</a><br></td>
@@ -156,7 +158,7 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 </tr>
 
-<!-- Primary 3 Form Teachers -->
+
 <tr>
 <td class="tg-yhj3">P3A<br></td>
 <td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
@@ -212,7 +214,7 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
  </tr>
   
-<!-- Primary 4 Form Teachers -->
+
 <tr>
 <td class="tg-yhj3">P4A<br></td>
 <td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia</a><br></td>
@@ -264,7 +266,7 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 </tr>
 
-<!-- Primary 5 Form Teachers -->  
+  
 <tr>
     <td class="tg-yhj3">P5A<br></td>
     <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Bte Sawandi</a><br></td>
@@ -321,7 +323,7 @@ variant: markdown
 		<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teachers</b></span></td>
   </tr>
 
-<!-- Primary 6 Form Teachers -->	
+	
 <tr>
  <td class="tg-yhj3">P6A<br></td>
  <td class="tg-yhj3"><a href="mailto:low_ming_lee_charlena@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Low Ming Lee Charlena</a><br></td>
