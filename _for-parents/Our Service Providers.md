@@ -75,7 +75,7 @@ Opening Hours:<br>
 Mon, Wed &amp; Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
 Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
-Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Mobile Clinic: <span style="font-weight:bold;text-decoration:underline">91864607</span><br><br>
 			<img src="/images/Dental_Jan_2025.png" style="width:100%">
 <br>
 	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
@@ -90,7 +90,7 @@ Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">911
     <td class="tg-title">
 		<span style="font-weight:bold;text-decoration:underline" id="insurance-info">Group Personal Accident Insurance For Students</span><br><br>
 Product Fact Sheet 
-<a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
+<a href="/files/Product_Fact_Sheet__Year_2025_.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a> (NTUC Income)<br><br>Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at<br>
 <a href="https://studentgpa.incomegroupins.com.sg" target="_blank" rel="noopener noreferrer">https://studentgpa.incomegroupins.com.sg</a>
 	</td>
 </tr>
