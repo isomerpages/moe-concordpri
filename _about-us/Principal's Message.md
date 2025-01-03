@@ -12,7 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Principle_Msg_Mrs_Quek.jpg">
 </div>
-<p></p>
 <p>Dear Parents / Guardians,</p>
 <p>"Soaring Together: A New Year of Growth and Discovery"</p>
 <p>A Happy New Year to all. I hope you had a fulfilling year-end break with
@@ -44,7 +43,6 @@ school. As we work together to create a warm and supportive environment,
 I am excited about the possibilities that this year holds for our students
 and look forward to partnering with you in their educational journey.</p>
 <p>Here’s to a meaningful and enriching year ahead!</p>
-<p></p>
 <p>Yours truly</p>
 <p>Mrs Quek-Chua Leng Yin</p>
 <p>Principal</p>
