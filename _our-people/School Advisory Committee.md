@@ -22,13 +22,13 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-nrix"><img src="/images/sac1.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/sac2.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/Principle_Msg_Mrs_Quek.jpg"></td>
     <td class="tg-nrix"><img src="/images/sac3.jpeg"></td>
     <td class="tg-nrix"><img src="/images/sac4.jpeg"></td>
   </tr>
   <tr>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Perumal Arumai Chandran PBM</b><br>Chairman</td>
-    <td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Siew Tiong,
+    <td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mrs Quek-Chua Leng Yin,
 			Principal</b><br>Secretary</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Ganesan S/O Maniam</b><br>Member</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Vincent</b><br>Member </td>
