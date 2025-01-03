@@ -127,7 +127,6 @@ For purchases in the school bookshop, it is recommended only for small quantitie
 <span style="font-weight:400;font-style:normal">Opening Hours: </span><span style="font-weight:bold;text-decoration:underline">8 am to 3 pm</span><br><span style="font-weight:400;font-style:normal">Open to parents from </span><span style="font-weight:bold;text-decoration:underline">2pm to 2:45pm</span><br><span style="font-weight:400;font-style:normal">(1st Feb 2022 onwards)<br>
 Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 pm to 1 pm</span><br><br>
 <span style="font-weight:400;font-style:normal">Tel: </span><span style="font-weight:bold;text-decoration:underline">9091 9850</span><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer">http://www.pacificbookstores.com</a><br><br>
-<img src="/images/2024_Year_end_sale_Bookshop.png" style="width:100%"><br>
 	</td>
 </tr>
 
@@ -147,7 +146,8 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 <tr>
     <td class="tg-info">7.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="smart-watch-buddy">POSB Smart Buddy Watch</span><br><br>
-		<span>For SMART watch application, please refer here</span><br>
+		<span>For SMART watch application, please refer to <a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a></span><br>
+			<br>
 			<span>For SMART watch replacement, please make replacement at:</span><br>
 			Smart Buddy Watch Service Centre (c/o STYL Solutions Pte Ltd)<br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
 			<span style="font-weight:bold;text-decoration:underline">Operation hours:</span>
