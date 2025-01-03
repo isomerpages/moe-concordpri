@@ -75,7 +75,7 @@ Opening Hours:<br>
 Mon, Wed &amp; Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
 Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
-Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Bukit Panjang Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91142186</span><br><br>
+Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Mobile Clinic: <span style="font-weight:bold;text-decoration:underline">91864607</span><br><br>
 			<img src="/images/Dental_Jan_2025.png" style="width:100%">
 <br>
 	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
