@@ -146,7 +146,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 <tr>
     <td class="tg-info">7.</td>
     <td class="tg-title"><span style="font-weight:bold;text-decoration:underline" id="smart-watch-buddy">POSB Smart Buddy Watch</span><br><br>
-		<span>For SMART watch application, please refer to <a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" target="_blank" rel="noopener noreferrer">StudentGPA</a></span><br>
+		<span>For SMART watch application, please refer to <a href="/files/Smart_Buddy_Registration_Letter.pdf" target="_blank" rel="noopener noreferrer">here</a></span><br>
 			<br>
 			<span>For SMART watch replacement, please make replacement at:</span><br>
 			Smart Buddy Watch Service Centre (c/o STYL Solutions Pte Ltd)<br>3015A Ubi Road 1, #06-02, Singapore 408705<br><br>
