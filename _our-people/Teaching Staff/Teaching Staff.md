@@ -54,25 +54,25 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-yhj3">P1D<br></td>
-  <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei (Mrs Wong)</a><br></td>
+  <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei (Mrs Wong)</a><br></td>
  <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Heng Chwee Hong</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
   <td class="tg-yhj3">P1E<br></td>
-  <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</a><br></td>
+  <td class="tg-yhj3"><a href="mailto:lau_huizhen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lau Huizhen</a><br></td>
 	<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Bte Senor</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
   <td class="tg-yhj3">P1F<br></td>
   <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
+<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P1G<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</a><br></td>
+<td class="tg-yhj3"><a href="mailto:liow_hui_min@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Liow Hui Min</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Liao Han</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
@@ -104,25 +104,25 @@ variant: markdown
 	
 <tr>
  <td class="tg-yhj3">P2A<br></td>
- <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie Eunice</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:chew_ning_jie_eunice@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chew Ning Jie Eunice</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_hoon_nee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Tan Hoon Nee</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2B<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng </a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ker_leng_leng@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Ker Leng Leng </a><br></td>
+<td class="tg-yhj3"><a href="mailto:junaidah_aan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Junaidah Binte Amran</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2C<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nornizah Binte Hamzah</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Loy Xue Ying</a><br></td>
+<td class="tg-yhj3"><a href="mailto:loy_xue_ying@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loy Xue Ying</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P2D<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy d/o Ramachandran</a><br></td>
+<td class="tg-yhj3"><a href="mailto:maheswari_saraswathy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Maheswari Saraswathy d/o Ramachandran</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Yuan Huiling</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
@@ -231,7 +231,7 @@ variant: markdown
 
 <tr>
 <td class="tg-yhj3">P4A<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</a><br></td>
+<td class="tg-yhj3"><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Siti Khamsiah Bte Sapuan</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nurfirdawati Iryani Bte Abdullah</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
@@ -305,7 +305,7 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P5D<br></td>
- <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Chen Qiuru</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:chen_qiuru@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Chen Qiuru</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Ang Si Wen </a><br></td>
 <td><br></td>
 </tr>
@@ -345,8 +345,8 @@ variant: markdown
 <tr>
  <td class="tg-yhj3">P6A<br></td>
  <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Norhisham B Saadon</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
-	<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Ooi Sze Jia Dawn</a><br></td>
+<td class="tg-yhj3"><a href="mailto:nur_jihan_kahar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Jihan Bte Kahar</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:ooi_sze_jia_dawn@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Ooi Sze Jia Dawn</a><br></td>
 <td class="tg-yhj3"><br></td>
   </tr>
 	<tr>
@@ -365,7 +365,7 @@ variant: markdown
 <tr>
 <td class="tg-yhj3">P6D<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
 <td><br></td>
 </tr>
 <tr>
