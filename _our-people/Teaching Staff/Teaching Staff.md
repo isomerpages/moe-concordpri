@@ -173,7 +173,7 @@ variant: markdown
 
 <tr>
 <td class="tg-yhj3">P3A<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia </a><br></td>
+<td class="tg-yhj3"><a href="mailto:ang_huey_chia@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ang Huey Chia </a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Nurul Sakinah Binte Isha'ak</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
@@ -193,13 +193,13 @@ variant: markdown
 <tr>
 <td class="tg-yhj3">P3D<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P3E<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Aryane Binte Mohamed Ali </a></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Ping Sibo</a><br></td>
+<td class="tg-yhj3"><a href="mailto:ping_sibo@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Ping Sibo</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
@@ -237,9 +237,9 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4B<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</a><br></td>
-	<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long </a><br></td>
+<td class="tg-yhj3"><a href="mailto:ong_kwee_bee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Ong Kwee Bee</a><br></td>
+<td class="tg-yhj3"><a href="mailto:sasi_santa@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Sasi Santa</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:chin_wei_long_sebastian@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Sebastian Chin Wei Long </a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P4C<br></td>
@@ -261,7 +261,7 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P4F<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Hafiz Bin Mohamed Osman </a><br></td>
+<td class="tg-yhj3"><a href="mailto:muhammad_hafiz_mohamed_osm@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Muhammad Hafiz Bin Mohamed Osman </a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Teoh Kah Min </a><br></td>
 </tr>
 </tbody>
@@ -293,13 +293,13 @@ variant: markdown
 <td class="tg-yhj3">P5B<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Norlita Bte Muhamad Sah</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Suzanne Lim </a><br></td>
-	<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr T S Charleston s/o VN </a><br></td>
+	<td class="tg-yhj3"><a href="mailto:ts_charleston@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr T S Charleston s/o VN </a><br></td>
 <td class="tg-yhj3"><br></td>
 
 </tr>
 <tr>
 <td class="tg-yhj3">P5C<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo (Goh Seow Wen)  </a><br></td>
+<td class="tg-yhj3"><a href="mailto:goh_seow_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Tracy Neo (Goh Seow Wen)  </a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Tan Yoke Yin</a><br></td>
 <td><br></td>
 </tr>
@@ -351,32 +351,32 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-yhj3">P6B<br></td>
-    <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi d/o Periasamy</a><br></td>
+    <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi d/o Periasamy</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
 		<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6C<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</a><br></td>
+<td class="tg-yhj3"><a href="mailto:lee_yi_ling@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lee Yi Ling</a><br></td>
+<td class="tg-yhj3"><a href="mailto:huang_kaixin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Huang Kaixin</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6D<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
+<td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
 <td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6E<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</a><br></td>
+<td class="tg-yhj3"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6F<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
+<td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Daryl Sim</a><br></td>
 </tr>
 </tbody>
