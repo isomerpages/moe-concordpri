@@ -365,7 +365,7 @@ variant: markdown
 <tr>
 <td class="tg-yhj3">P6D<br></td>
 <td class="tg-yhj3"><a href="mailto:norishah_anwar@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Norishah Binte Anwar</a><br></td>
-<td class="tg-yhj3"><a href="mailto:lee_kah_hong@schools.gov.sg" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
+<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Lee Kah Hong</a><br></td>
 <td><br></td>
 </tr>
 <tr>
