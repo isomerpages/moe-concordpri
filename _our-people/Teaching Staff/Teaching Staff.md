@@ -267,9 +267,7 @@ variant: markdown
 </tbody>
 </table>
 
-
-
-
+<span style="font-size:24px"><b>Primary 4 Form Teachers</b></span><br>
 
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 794px">
 <colgroup>
@@ -285,8 +283,6 @@ variant: markdown
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 	<td class="tg-feqv"><span style="color:#666;background-color:#DDD"><b>Form Teacher</b></span></td>
 </tr>
-
-  
 <tr>
     <td class="tg-yhj3">P5A<br></td>
     <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Christine Tan Shi Qi</a><br></td>
@@ -326,11 +322,9 @@ variant: markdown
 <td><br></td>
 </tr>
 </tbody>
-
-			
-	
-	
- </table><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+</table>
+ 
+ <table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
@@ -382,7 +376,6 @@ variant: markdown
 <td class="tg-yhj3">P6F<br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Daryl Sim</a><br></td>
-
 </tr>
 </tbody>
 </table>
