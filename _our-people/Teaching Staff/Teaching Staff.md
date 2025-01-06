@@ -324,7 +324,8 @@ variant: markdown
 </tbody>
 </table>
  
- <span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br><table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
+<span style="font-size:24px"><b>Primary 6 Form Teachers</b></span><br>
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 234px">
