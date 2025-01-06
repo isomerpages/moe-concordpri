@@ -353,7 +353,7 @@ variant: markdown
     <td class="tg-yhj3">P6B<br></td>
     <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi d/o Periasamy</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
-		<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
+		<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
 <td><br></td>
 </tr>
 <tr>
