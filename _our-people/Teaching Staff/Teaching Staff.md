@@ -318,7 +318,7 @@ variant: markdown
 <tr>
 <td class="tg-yhj3">P5F<br></td>
     <td class="tg-yhj3"><a href="mailto:cheong_kah_wai@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Belinda Lee (Cheong Kah Wai)</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Aidil Sharil Bin Solikin </a><br></td>
+<td class="tg-yhj3"><a href="mailto:aidil_sharil_solikin@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Aidil Sharil Bin Solikin </a><br></td>
 <td><br></td>
 </tr>
 </tbody>
@@ -352,7 +352,7 @@ variant: markdown
 	<tr>
     <td class="tg-yhj3">P6B<br></td>
     <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi d/o Periasamy</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tnor_hayati_salimik@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
 		<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
 <td><br></td>
 </tr>
@@ -370,14 +370,14 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P6E<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
+<td class="tg-yhj3"><a href="mailto:thanaletchimi_ganeson@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mrs Thanaletchimi Ganeson</a><br></td>
 <td class="tg-yhj3"><a href="mailto:norhariaty_mohamed_ismail@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Norhariaty Bte Mohamed Ismail</a><br></td>
 <td><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P6F<br></td>
 <td class="tg-yhj3"><a href="mailto:haslindah_safini@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Haslindah Binte Safini</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Daryl Sim</a><br></td>
+<td class="tg-yhj3"><a href="mailto:daryl_sim@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Daryl Sim</a><br></td>
 </tr>
 </tbody>
 </table>
