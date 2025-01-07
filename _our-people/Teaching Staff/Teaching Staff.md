@@ -192,7 +192,7 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-yhj3">P3D<br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
+<td class="tg-yhj3"><a href="mailto:tan_xinpei_rebecca@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Tan Xinpei, Rebecca</a><br></td>
 <td class="tg-yhj3"><a href="mailto:loh_sock_yee@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Loh Sock Yee</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
