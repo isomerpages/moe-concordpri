@@ -250,7 +250,7 @@ variant: markdown
 <tr>
 <td class="tg-yhj3">P4D<br></td>
 <td class="tg-yhj3"><a href="mailto:lee_aiy_suan_mona@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mona Lee Aiy Suan</a><br></td>
-<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Miss Sonia Low Wen Qing </a><br></td>
+<td class="tg-yhj3"><a href="mailto:sonia_low_wen_qing@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Sonia Low Wen Qing </a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ variant: markdown
 </tr>
 <tr>
     <td class="tg-yhj3">P5A<br></td>
-    <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Christine Tan Shi Qi</a><br></td>
+    <td class="tg-yhj3"><a href="mailto:tan_shi_qi_christine@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Christine Tan Shi Qi</a><br></td>
 <td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mr Shahrulnizam B Padawi</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
