@@ -245,7 +245,7 @@ variant: markdown
 <td class="tg-yhj3">P4C<br></td>
 <td class="tg-yhj3"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Widiah Halwa Binti Sawandi</a><br></td>
 <td class="tg-yhj3"><a href="mailto:jee_jin_de@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Jee Jin De</a><br></td>
-	<td class="tg-yhj3"><a href="" style="text-decoration:none;color:#1ABC9C">Mdm Lau Hui Wen</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:Lau_hui_wen@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Lau Hui Wen</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">P4D<br></td>
