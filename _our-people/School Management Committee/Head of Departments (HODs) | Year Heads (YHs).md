@@ -78,7 +78,7 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 		</tr>
   <tr>
-    <td class="tg-yhj3">Mohammad Hisham B Amat<br></td>
+    <td class="tg-yhj3">Mr Mohammad Hisham B Amat<br></td>
     <td class="tg-yhj3">Year Head Lower Primary<br></td>
     <td class="tg-o5fr"><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">mohammad_hisham_b_amat@moe.edu.sg</span></a> </td>
 	</tr>
