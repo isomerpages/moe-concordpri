@@ -48,14 +48,9 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:padma_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">padma_subramaniam@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mr Yow Jit Sin</td>
-    <td class="tg-yhj3">Lead SEN Officer </td>
-    <td class="tg-o5fr"><a href="mailto:yow_jit_sin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yow_jit_sin@moe.edu.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Santhi D/O Lembodharan Pillai</td>
-    <td class="tg-yhj3">School Counsellor </td>
-    <td class="tg-o5fr"><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">santhi_lembodharan_pillai@moe.edu.sg</span></a> </td>
+  <td class="tg-yhj3">Mdm Santhi D/O Lembodharan Pillai</td>
+  <td class="tg-yhj3">School Counsellor </td>
+  <td class="tg-o5fr"><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">santhi_lembodharan_pillai@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
