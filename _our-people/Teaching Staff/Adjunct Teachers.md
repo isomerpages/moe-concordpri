@@ -54,7 +54,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Miss Yeong Shook Fern </td>
-    <td class="tg-yhj3"> English Language/Mathematics</td>
+    <td class="tg-yhj3">English Language/Mathematics</td>
     <td class="tg-o5fr"><a href="mailto:yeong_shook_fern@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yeong_shook_fern@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -77,5 +77,28 @@ variant: markdown
     <td class="tg-yhj3">Science</td>
     <td class="tg-o5fr"><a href="mailto:ow_tong_lan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">ow_tong_lan@moe.edu.sg</span></a> </td>
   </tr>
-</tbody>
+	<tr>
+    <td class="tg-yhj3">Mrs Sio Kim Hwa (Sally Gan)</td>
+    <td class="tg-yhj3">English Language</td>
+    <td class="tg-o5fr"><a href="mailto:sio_kim_hwa@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sio_kim_hwa@moe.edu.sg</span></a> </td>
+		</tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Sum Siu Leng</td>
+    <td class="tg-yhj3">English Language/Mathematics</td>
+    <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a> </td>
+		</tr><tr>
+			<td class="tg-yhj3">Abdul Rashid Bin Ismail</td>
+    <td class="tg-yhj3">Mathematics/Science</td>
+    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
+		</tr><tr>
+			<td class="tg-yhj3">Mdm Phoon Sui Hoi </td>
+    <td class="tg-yhj3">English Language</td>
+    <td class="tg-o5fr"><a href="mailto:phoon_sui_hoi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">phoon_sui_hoi@moe.edu.sg</span></a> </td>
+			</tr><tr>
+			<td class="tg-yhj3">Miss Hee Chwee Li Sharon</td>
+    <td class="tg-yhj3">Music</td>
+    <td class="tg-o5fr"><a href="mailto:hee_chwee_li_sharon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">hee_chwee_li_sharon@moe.edu.sg</span></a> </td>
+		</tr><tr>
+		</tr><tr>
+</tr></tbody>
 </table>
