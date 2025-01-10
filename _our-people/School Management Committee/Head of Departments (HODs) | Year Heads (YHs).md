@@ -53,28 +53,28 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mr Muhammad Osman Bin Rahmat Ali</td>
-    <td class="tg-yhj3"> HOD Character &amp; Citizenship Education (CCE) / HOD Mathematics (Covering)<br></td>
-    <td class="tg-o5fr"><a href="mailto:muhammad_osman_rahmat_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>muhammad_osman_rahmat_ali@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Shahrulnizam B Padawi</td>
+    <td class="tg-yhj3"> HOD Malay Language<br></td>
+    <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Toh Li Hiong<br></td>
+    <td class="tg-yhj3">Mdm Norlita Bte Muhamad Sah<br></td>
     <td class="tg-yhj3"> School Staff Developer (SSD)<br></td>
-    <td class="tg-o5fr"><a href="mailto:toh_li_hiong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">toh_li_hiong@moe.edu.sg</span></a> </td>
+    <td class="tg-o5fr"><a href="mailto:norlita_muhamad_sah@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norlita_muhamad_sah@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mrs Noelle Chong-Yee Lai Wan<br></td>
-    <td class="tg-yhj3">Year Head Lower Primary<br></td>
-    <td class="tg-yhj3"><a href="mailto:chong-yee_lai_wan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chong-yee_lai_wan@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mdm Tan Yoke Yin<br></td>
+    <td class="tg-yhj3">HOD CCE<br></td>
+    <td class="tg-yhj3"><a href="mailto:tan_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_yoke_yin@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mdm Quek Bee Ha</td>
-    <td class="tg-yhj3">  Year Head Middle Primary</td>
-    <td class="tg-o5fr"><a href="mailto:quek_bee_ha@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">quek_bee_ha@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3"> Mr Aidil Sharil Bin Solikin</td>
+    <td class="tg-yhj3">  HOD PE</td>
+    <td class="tg-o5fr"><a href="mailto:aidil_sharil_solikin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">aidil_sharil_solikin@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Upper Primary/ <br>HOD PE &amp; Aesthetics (Covering) <br></td>
+    <td class="tg-yhj3">Year Head Middle Primary <br></td>
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 </tr>
 </tbody>
