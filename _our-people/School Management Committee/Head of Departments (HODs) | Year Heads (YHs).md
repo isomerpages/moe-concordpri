@@ -55,7 +55,7 @@ variant: markdown
   <tr>
     <td class="tg-yhj3">Mr Shahrulnizam B Padawi</td>
     <td class="tg-yhj3"> HOD Malay Language<br></td>
-    <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
+    <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Norlita Bte Muhamad Sah<br></td>
