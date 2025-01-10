@@ -48,9 +48,9 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:lim_gek_khim_michelle@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lim_gek_khim_michelle@moe.edu.sg</span></a> </td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mrs Sum Siu Leng Constance</td>
+    <td class="tg-yhj3">Mdm Noorhani Bte Adenan</td>
     <td class="tg-yhj3"> English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a></td>
+    <td class="tg-o5fr"><a href="mailto:noorhani_btb_adenan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">noorhani_btb_adenan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Miss Yeong Shook Fern </td>
@@ -63,9 +63,9 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:wong_lye_hoong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_lye_hoong@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mrs Tng Yoke Yin</td>
-    <td class="tg-yhj3"> Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mdm Nur Anamaria Binte Mohamed Amin</td>
+    <td class="tg-yhj3"> Malay Language</td>
+    <td class="tg-o5fr"><a href="mailto:nur_anamaria_mohamed_ami@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">nur_anamaria_mohamed_ami@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
