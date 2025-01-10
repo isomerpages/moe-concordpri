@@ -43,19 +43,9 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Aryane Binte Mohamed Ali</td>
-    <td class="tg-yhj3">LH Mathematics (Internal)</td>
-    <td class="tg-o5fr"><a href="mailto:aryane_mohamed_ali@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">aryane_mohamed_ali@moe.edu.sg</span></a></td>
-  </tr>
-	<tr>
     <td class="tg-yhj3">Miss Huang Kaixin</td>
-    <td class="tg-yhj3">LH Chinese Language (Internal)</td>
+    <td class="tg-yhj3">SH Chinese Language</td>
     <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr T S Charleston s/o VN </td>
-    <td class="tg-yhj3">SH Co-Curricular Activities (CCA)</td>
-    <td class="tg-o5fr"><a href="mailto:ts_charleston@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">ts_charleston@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Siti Khamsiah Bte Sapuan </td>
@@ -68,34 +58,16 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">widiah_halwa_sawandi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mdm Nithiya d/o Krishnasamy </td>
-    <td class="tg-yhj3"> SH Information &amp; Communications Technology (ICT)</td>
-    <td class="tg-o5fr"><a href="mailto:nithiya_krishnasamy@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nithiya_krishnasamy@moe.edu.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3"> Ms Zaneth Bte Mohd Kassim</td>
-    <td class="tg-yhj3"> SH Modular CCA (Internal)</td>
-    <td class="tg-o5fr"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">zaneth_mohd_kassim@moe.edu.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3"> Miss Yeo Hui Qi</td>
-    <td class="tg-yhj3"> SH Aesthetics (Internal) </td>
-    <td class="tg-o5fr"><a href="mailto:yeo_hui_qi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">yeo_hui_qi@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
     <td class="tg-yhj3">AYH Lower Primary </td>
     <td class="tg-o5fr"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chua_baofeng_jenny@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-yhj3"> Mdm Nur Jihan Bte Kahar</td>
-    <td class="tg-yhj3">AYH Middle Primary </td>
+    <td class="tg-yhj3">AYH Upper Primary </td>
     <td class="tg-o5fr"><a href="mailto:nur_jihan_kahar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nur_jihan_kahar@moe.edu.sg</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-yhj3">Mr See Kai Wen</td>
-    <td class="tg-yhj3">AYH Upper Primary (Internal)</td>
-    <td class="tg-o5fr"><a href="mailto:see_kai_wen@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">see_kai_wen@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
