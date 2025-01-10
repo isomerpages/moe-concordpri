@@ -53,7 +53,7 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Shahrulnizam B Padawi</td>
+    <td class="tg-yhj3">Mr Shahrulnizam B Padawi</td>
     <td class="tg-yhj3"> HOD Malay Language<br></td>
     <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500"><br>shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
   </tr>
@@ -78,19 +78,19 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 		</tr>
   <tr>
-    <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Middle Primary <br></td>
-    <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mohammad Hisham B Amat<br></td>
+    <td class="tg-yhj3">Year Head Lower Primary<br></td>
+    <td class="tg-o5fr"><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">mohammad_hisham_b_amat@moe.edu.sg</span></a> </td>
 	</tr>
   <tr>
-    <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Middle Primary <br></td>
-    <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Mdm Quek Bee Ha (Mrs Lau)<br></td>
+    <td class="tg-yhj3">Year Head Lower Primary <br></td>
+    <td class="tg-o5fr"><a href="mailto:quek_bee_ha@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">quek_bee_ha@moe.edu.sg</span></a> </td>
 	</tr>
   <tr>
-    <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Middle Primary <br></td>
-    <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
+    <td class="tg-yhj3">Noelle Yee Lai Wan (Mrs Noelle Chong)<br></td>
+    <td class="tg-yhj3">Year Head Lower Primary<br></td>
+    <td class="tg-o5fr"><a href="mailto:chong-yee_lai_wan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chong-yee_lai_wan@moe.edu.sg</span></a> </td>
 </tr>
 </tbody>
 </table>
