@@ -54,7 +54,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Shahrulnizam B Padawi</td>
-    <td class="tg-yhj3"> HOD Mathematic<br></td>
+    <td class="tg-yhj3"> HOD Mathematics<br></td>
     <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
