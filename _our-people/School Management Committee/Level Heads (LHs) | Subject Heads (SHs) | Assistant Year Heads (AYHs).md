@@ -32,16 +32,6 @@ variant: markdown
     <td class="tg-yhj3">LH English Language<br></td>
 			<td class="tg-o5fr"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Nur Eva Binte Jailani<br></td>
-    <td class="tg-yhj3">LH Mathematics<br></td>
-    <td class="tg-o5fr"><a href="mailto:nur_eva_jailani@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">nur_eva_jailani@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Christine Tan Shi Qi </td>
-    <td class="tg-yhj3">LH Science </td>
-    <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a></td>
-  </tr>
 	<tr>
     <td class="tg-yhj3">Miss Huang Kaixin</td>
     <td class="tg-yhj3">SH Chinese Language</td>
