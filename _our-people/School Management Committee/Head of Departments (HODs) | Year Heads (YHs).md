@@ -49,12 +49,12 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3"> Mr Tay Soo Hong</td>
-    <td class="tg-yhj3"> HOD Science</td>
+    <td class="tg-yhj3"> HOD Student Management</td>
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3">Mr Shahrulnizam B Padawi</td>
-    <td class="tg-yhj3"> HOD Malay Language<br></td>
+    <td class="tg-yhj3"> HOD Mathematic<br></td>
     <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-yhj3">Mr Mohammad Hisham B Amat<br></td>
-    <td class="tg-yhj3">Year Head Lower Primary<br></td>
+    <td class="tg-yhj3">Year Head Upper Primary<br></td>
     <td class="tg-o5fr"><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">mohammad_hisham_b_amat@moe.edu.sg</span></a> </td>
 	</tr>
   <tr>
