@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Applied Learning Programme T/Interdisciplinary Project Work (IPW).md
-      - Applied Learning Programme T/Applied Learning Programme (ALP).md
-      - Applied Learning Programme T/.keep
+      - APL & IPW/Interdisciplinary Project Work (IPW).md
+      - APL & IPW/Applied Learning Programme (ALP).md
+      - APL & IPW/.keep
       - Concord’s SOAR Programme.md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
