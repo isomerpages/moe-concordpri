@@ -2,15 +2,16 @@
 title: Interdisciplinary Project Work (IPW)
 permalink: /programmes/ipw/
 description: ""
+third_nav_title: APL & IPW
 ---
-<p style="text-align:justify; font-size: 18px"><b>IPW – The Thinking Chef Programme</b> is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.</p>
+<p style="text-align:justify; font-size: 18px"><b>IPW – The Thinking Chef Programme</b>&nbsp;is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, critically and creatively apply it to real-life situations.</p>
 
 <p style="text-align:justify"><b>Through IPW students will be able to:</b>
-<ol>
+</p><ol>
 <li type="a">apply creative and critical thinking skills</li>
-<li type="a">improve communication skills (both oral & written</li>     
+<li type="a">improve communication skills (both oral &amp; written</li>     
 <li type="a">foster collaborative learning skills</li>
-<li type="a">develop self-directed & independent learning and life-long learning skills.</li>
+<li type="a">develop self-directed &amp; independent learning and life-long learning skills.</li>
 <li type="a">experience lessons that are experiential and innovative in terms of cooking and/or baking</li>
 </ol>
   
@@ -69,7 +70,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="text-align:justify; font-size: 18px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools*, ICT, Thinking Skills Routines & E3 Reasoning as they work on their IPW.
+</p><p style="text-align:justify; font-size: 18px">IPW cuts across the various subjects and students will learn to incorporate the use of Creative Thinking Tools*, ICT, Thinking Skills Routines &amp; E3 Reasoning as they work on their IPW.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -139,7 +140,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 </tbody>
 </table>
 
-<p style="text-align:justify; font-size: 18px"><center><b>Cooking Lessons @ NEWTON LAB</b></center>
+</p><p style="text-align:justify; font-size: 18px"></p><center><b>Cooking Lessons @ NEWTON LAB</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
