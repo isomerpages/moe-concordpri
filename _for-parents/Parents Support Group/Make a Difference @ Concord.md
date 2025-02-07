@@ -6,12 +6,6 @@ third_nav_title: Parents Support Group
 variant: markdown
 ---
 
-<h4>Back to School 2025</h4>
-<center>
-<iframe allowfullscreen="true" height="660" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYpZ2fu8g2xG8M6NEYybltdbb8p0jhYe5Ifar8oGHLqZboH9-0vsqZwXRF_90FsG8tvfuiIBp-te8a/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</center>
-<br><br>
-
 <img src="/images/mad_psg.jpeg" style="width:50%">
 <br>
 <h4>Join M.A.D parents</h4>
