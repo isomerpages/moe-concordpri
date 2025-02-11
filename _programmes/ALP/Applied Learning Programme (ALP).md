@@ -128,6 +128,6 @@ in collaboration, communication, and critical and inventive thinking.</p>
 learning—reflecting on their learning and taking appropriate actions to
 improve it.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp12.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/alp12.jpg">
 </div>
 <p></p>
