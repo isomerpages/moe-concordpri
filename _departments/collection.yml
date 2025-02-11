@@ -2,15 +2,15 @@ collections:
   departments:
     output: true
     order:
-      - Student Management.md
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
+      - Science/.keep
       - Science/Science.md
       - Science/Outdoor Science Learning Trails.md
       - Science/Eco Pals @ Concord.md
       - Science/Our Achievements.md
-      - Science/.keep
+      - Student Management.md
       - PE & Aesthetics.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
