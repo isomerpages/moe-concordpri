@@ -5,23 +5,18 @@ description: ""
 third_nav_title: ALP
 variant: tiptap
 ---
-<p><strong>ALP - E3 Reasoning (Enable, Enrich, Empower) @ Concord</strong>
-</p>
+<h2><strong>ALP - E3 Reasoning (Enable, Enrich, Empower) @ Concord</strong></h2>
 <p>Our E3 Reasoning Programme was officially endorsed by MOE and awarded
 ALP status in 2014. This initiative is one of Concord's strategic levers
 to nurture students holistically.</p>
 <p>To prepare and equip our students for the complex challenges ahead, Concord
 places a premium on enabling them to analyze, solve problems, and make
 good decisions in life.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.jpg">
 </div>
 <hr>
-<p><strong>E3 Reasoning Lessons</strong>
-</p>
-<p><strong>(Primary 1 – 2)</strong>
-</p>
+<h3><strong>E3 Reasoning Lessons (Primary 1 – 2)</strong></h3>
 <p>For our Primary 1 and 2 students, their weekly double-period E3 Reasoning
 lessons aim to enable, enrich, and empower them to acquire critical and
 inventive thinking skills, which are essential 21st-century competencies.
@@ -42,10 +37,7 @@ learning during and beyond the classroom. Our ultimate goal is to nurture
 Concordians who are equipped with the ability to think deeply, rationalize
 effectively, and decide wisely.</p>
 <hr>
-<p><strong>E3 Reasoning+ <em>(E3 Reasoning &amp; IPW)</em></strong>
-</p>
-<p><strong>(Primary 3 – 6)</strong>
-</p>
+<h3><strong>E3 Reasoning+ <em>(E3 Reasoning &amp; IPW) </em></strong><br><strong>(Primary 3 – 6)</strong></h3>
 <p>For our Primary 3 to Primary 6 students, the 9-day “E3 Reasoning+” programme
 in Term 2 integrates our <strong><em>Applied Learning Programme</em></strong> (E3
 Reasoning) with <strong><em>Interdisciplinary Project Work</em></strong> (IPW).
@@ -53,7 +45,6 @@ Under E3 Reasoning+, IPW serves as a platform for students to collaborate
 and solve authentic tasks in an interdisciplinary setting. This programme
 develops and enhances students’ E3 Reasoning skills while using the Design
 Thinking process to guide their project work.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
 </div>
@@ -61,7 +52,6 @@ Thinking process to guide their project work.</p>
 apply their knowledge across subjects to address real life issues pertaining
 to sustainable living such as water, food and energy sustainability and
 contribute to a more sustainable future.&nbsp; &nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1_1.png">
 </div>
@@ -78,7 +68,6 @@ gaining a deeper understanding of the importance of water conservation.
 Through building water filters, they developed the ability to make connections
 across different areas of knowledge and realized the need to make water
 conservation a way of life.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP5.jpg">
 </div>
@@ -92,7 +81,6 @@ and its vulnerability in food supply. By creating innovative menus using
 alternative food sources, they applied what they had learned and understood
 that food security requires a collective effort, with everyone playing
 a part.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP6.png">
 </div>
@@ -106,7 +94,6 @@ of embracing renewable energy in Singapore. By building innovative prototypes
 of a green school, students were encouraged to think about how they can
 help save energy and were motivated to take proactive steps toward sustainable
 energy practices.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP7.png">
 </div>
@@ -119,7 +106,6 @@ energy practices.</p>
 their knowledge and understanding of sustainable living. They also shared
 ideas for futuristic green buildings with their classmates during class
 presentations.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP8.jpg">
 </div>
@@ -129,22 +115,18 @@ this programme, our Primary 3 to 6 students have the opportunity to apply
 their knowledge and skills across disciplines, see interconnections, hone
 their inquisitiveness and imagination, and enhance their 21st-century competencies
 in collaboration, communication, and critical and inventive thinking.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp9.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp10.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP11.png">
 </div>
 <p>Most importantly, the programme helps students acquire skills for independent
 learning—reflecting on their learning and taking appropriate actions to
 improve it.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp12.jpg">
 </div>
