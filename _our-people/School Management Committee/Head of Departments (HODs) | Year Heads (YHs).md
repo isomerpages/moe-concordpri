@@ -43,11 +43,6 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">teoh_kah_min@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Miss Norishah Binte Anwar<br></td>
-    <td class="tg-yhj3"> HOD Information &amp; Communications Technology (ICT) (Internal)</td>
-    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a> </td>
-	</tr>
-  <tr>
     <td class="tg-yhj3">Mdm Christine Tan Shi Qi<br></td>
     <td class="tg-yhj3"> HOD Science (Internal)</td>
     <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a> </td>
