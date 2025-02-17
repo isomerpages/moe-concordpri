@@ -33,7 +33,12 @@ variant: markdown
 			<td class="tg-o5fr"><a href="mailto:maslina_nis_bee@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">maslina_nis_bee@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Miss Huang Kaixin</td>
+		 <td class="tg-yhj3">Miss Norishah Binte Anwar</td>
+    <td class="tg-yhj3">SH Education Technology</td>
+    <td class="tg-o5fr"><a href="mailto:norishah_anwar@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norishah_anwar@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+	<td class="tg-yhj3">Miss Huang Kaixin</td>
     <td class="tg-yhj3">SH Chinese Language</td>
     <td class="tg-o5fr"><a href="mailto:huang_kaixin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">huang_kaixin@moe.edu.sg</span></a></td>
   </tr>
