@@ -36,4 +36,4 @@ variant: markdown
 
 <h5>6. School Wait List Application</h5>
 <ul>
-<li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a> - Currently Under Construction</li></ul>
+<li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a></li></ul>
