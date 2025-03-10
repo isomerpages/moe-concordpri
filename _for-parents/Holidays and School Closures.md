@@ -129,7 +129,7 @@ variant: markdown
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
-    <td class="tg-yhj8">Monday, 20 October 2025 (TBC)</td>
+    <td class="tg-yhj8">Monday, 20 October 2025</td>
 </tr>
 <tr>
     <td class="tg-yhj8">Admin Day<br></td>
