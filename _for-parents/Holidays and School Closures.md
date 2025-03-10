@@ -45,7 +45,7 @@ variant: markdown
 </tr>
 	<tr>
     <td class="tg-yhj8">Hari Raya Puasa<br></td>
-    <td class="tg-yhj8">Monday, 31 March 2025 (TBC)<br>
+    <td class="tg-yhj8">Monday, 31 March 2025<br>
 	</td></tr>
 		<tr>
     <td class="tg-yhj8">Good Friday<br></td>
@@ -88,8 +88,8 @@ variant: markdown
     <td class="tg-yhj8">Saturday, 9 August 2025<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">PSLE Oral (TBC)<br></td>
-    <td class="tg-yhj8">Tuesday, 19 August 2025<br>Wednesday, 20 August 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+    <td class="tg-yhj8">PSLE Orall<br></td>
+    <td class="tg-yhj8">Wednesday, 13 August 2025<br>Thursday, 14 August 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day Celebration<br></td>
@@ -104,20 +104,20 @@ variant: markdown
 		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 6 September  2025<br>to<br>Sunday, 14 September 2025</b></td>
 		</tr>
 	 <tr>
-    <td class="tg-yhj8">PSLE Listening Comprehension (TBC)<br></td>
-    <td class="tg-yhj8">Friday, 19 September 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+    <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
+    <td class="tg-yhj8">Tuesday, 16 September 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
  <tr>
     <td class="tg-yhj8">P6 Study Break (TBC)<br></td>
-    <td class="tg-yhj8">Monday, 29 September 2025<br>to<br>Wednesday, 1 October 2025<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
+    <td class="tg-yhj8">Monday, 22 September 2025<br>to<br>Wednesday, 24 September 2025<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
   </tr>
 <tr>
- <td class="tg-yhj8">PSLE Written Examination (TBC)<br></td>
- <td class="tg-yhj8">Thursday, 2 October 2025<br>to<br>Friday, 3 October 2025<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
+ <td class="tg-yhj8">PSLE Written Examination<br></td>
+ <td class="tg-yhj8">Thursday, 25 September 2025<br>to<br>Friday, 26 September 2025<br><b style="color:blue"><em>(HBL for P1 &amp; P2 students only)<br></em></b></td>
 </tr>
 <tr>
- <td class="tg-yhj8">PSLE Written Examination (TBC)<br></td>
- <td class="tg-yhj8">Monday, 6 October 2025<br>to<br>Tuesday, 7 October 2025<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
+ <td class="tg-yhj8">PSLE Written Examination<br></td>
+ <td class="tg-yhj8">Monday, 29 September 2025<br>to<br>Tuesday, 30 September 2025<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students only)<br></em></b></td>
 </tr>
 <tr>
   <td class="tg-yhj8">Children's Day<br></td>
