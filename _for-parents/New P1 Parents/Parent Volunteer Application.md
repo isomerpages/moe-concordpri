@@ -18,8 +18,9 @@ in <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel=
 Registration as a Parent Volunteer (PV) falls under Phase 2B. 
 Please submit the PV application via <a href="https://form.gov.sg/67cfc2fcefe1ff9d53886f7d">online form</a> (FormSG).
 <br>
+
 	
 <b>2. Parent Volunteers (PV) Application</b>
 
 </p><p style="text-align:justify">The application window will open on <b><u>10 March 2025 and closes on 1 May 2025</u></b>. Please refer to the flow chart below for more information.
-<br><br><img src="/images/Parent_Volunteer_Application_for_P1_2026_Registration_Flow_chart_page_0001__1_.jpg"><br></p>
+<br><img src="/images/Parent_Volunteer_Application_for_P1_2026_Registration_Flow_chart_page_0001__1_.jpg"><br></p>
