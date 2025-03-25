@@ -23,7 +23,8 @@ and maintaining consistent routines at home make a significant difference.
 A conducive learning environment and adequate rest help them manage their
 studies effectively. Through our partnership, we can nurture Concordians
 who approach learning with confidence and resilience, embodying the values
-of Caring Hearts, Enriched Minds and Determined Spirits.</p>
+of <strong><em>Caring Hearts, Enriched Minds and Determined Spirits.</em></strong>
+</p>
 <p>We look forward to working closely with you and your child this term.</p>
 <p></p>
 <p>Yours truly
