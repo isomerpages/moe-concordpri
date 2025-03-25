@@ -28,7 +28,7 @@ Asian Cuisine
 <br>(Non-halal, Open to Proposal)
 </td>
 <td rowspan="1" colspan="1">
-21 March 2025, Friday</td>
+30 April 2025, Wednesday</td>
 <td rowspan="1" colspan="1">
 Korean, Japanese, Thai cuisine etc are acceptable.
 <br><br><b>All meals must comply with HPB's Healthy Meals in Schools Programme (HMSP)</b>

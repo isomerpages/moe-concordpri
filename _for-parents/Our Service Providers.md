@@ -77,7 +77,9 @@ Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Mobile Clinic: <span style="font-weight:bold;text-decoration:underline">91864607</span><br>
 			<img src="/images/Dental_Mar_2025.png" style="width:100%">
-<br>
+		<br>
+			<img src="/images/Dental_Apr_2025.png" style="width:100%">
+		<br>
 	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://consent.hpb.gov.sg/" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
