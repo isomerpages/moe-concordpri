@@ -83,7 +83,7 @@ variant: markdown
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
 </tr></tbody>
 </table>
-<h3>2025 Newsletter for Parents</h3>
+ <h3>2025 Newsletter for Parents</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
