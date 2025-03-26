@@ -77,7 +77,7 @@ variant: markdown
 <td class="tg-xuj5"><a href="/files/2024_CPS_Term_Note___Term_4.pdf" target="_blank" rel="noopener noreferrer">2024 Term 4 Note</a><br></td>
 </tr>
 <tr>
-<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
+<td class="tg-xuj5"><a href="/files/Term_Notes_for_Term_1_2025.pdf" target="_blank" rel="noopener noreferrer">2025 Term 1 Note</a><br></td>
  <td class="tg-xuj5"><a href="/files/Term_Notes_for_Term_2_2025.pdf" target="_blank" rel="noopener noreferrer">2025 Term 2 Note</a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
