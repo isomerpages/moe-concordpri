@@ -72,7 +72,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td class="tg-yhj8">Hari Raya Haji<br></td>
-    <td class="tg-yhj8">Saturday, 7 June 2025<br><b style="color:blue"><em>(Monday, 9 June 2025 will<br>be a scheduled School Holiday) (TBC)</em></b>
+    <td class="tg-yhj8">Saturday, 7 June 2025<br><b style="color:blue"><em>(Monday, 9 June 2025 will<br>be a scheduled School Holiday)</em></b>
 	</td>
 	</tr>
 	<tr>
