@@ -113,9 +113,12 @@ variant: markdown
  <tr>
  <td class="tg-ppzb"><a href="/files/Term_1_Issue__01__Lower_Pri_.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
  <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-	 <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
 </tr>
 <tr>
+ <td class="tg-ppzb"><a href="/files/T2W4_2025_Newsletter_LP.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #01</a></td>
+<td class="tg-ppzb"><a href="/files/Newsletter_for_Middle_Primary_Term_2.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #01</a></td> 
+<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
 
 </tr><tr>
 </tr><tr>
