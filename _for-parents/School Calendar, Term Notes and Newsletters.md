@@ -118,7 +118,7 @@ variant: markdown
 <tr>
  <td class="tg-ppzb"><a href="/files/T2W4_2025_Newsletter_LP.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #01</a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Middle_Primary_Term_2.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #01</a></td> 
-<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="/files/T2W4_UP_Newsletter.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #01</a></td>
 
 </tr><tr>
 </tr><tr>
