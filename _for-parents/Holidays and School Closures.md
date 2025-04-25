@@ -4,7 +4,7 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 10 March 2025</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 25 April 2025</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -56,6 +56,13 @@ variant: markdown
     <td class="tg-yhj8">Labour Day<br></td>
     <td class="tg-yhj8">Thursday, 1 May 2025<br>
 	</td>
+	</tr><tr>
+<td class="tg-yhj8">Prepration for <br>General Elections (GE)<br></td>
+<td class="tg-yhj8">Friday, 2 May 2025<br><b style="color:blue"><em>(Early dismissal at 10.30 am)</em></b></td>
+	</tr><tr>
+	<td class="tg-yhj8">School Holiday <br>(Day off in Lieu for GE)<br></td>
+    <td class="tg-yhj8">Monday, 5 May 2025<br>
+	</td>
 	</tr>
 	<tr>
     <td class="tg-yhj8">Vesak Day<br></td>
@@ -88,7 +95,7 @@ variant: markdown
     <td class="tg-yhj8">Saturday, 9 August 2025<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
   </tr>
 	<tr>
-    <td class="tg-yhj8">PSLE Orall<br></td>
+    <td class="tg-yhj8">PSLE Oral<br></td>
     <td class="tg-yhj8">Wednesday, 13 August 2025<br>Thursday, 14 August 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
   </tr>
 	<tr>
