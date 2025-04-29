@@ -140,8 +140,7 @@ Lunch Hours: </span><span style="font-weight:bold;text-decoration:underline">12 
 			Tel: <b>9772 3370, 9650 0512</b><br><br>
 			<span style="font-weight:bold;text-decoration:underline">School Bus Operator and Bus Fare</span>
 <br>
-<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2023.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2023</a><br>
-<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024</a>
+<a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" target="_blank" rel="noopener noreferrer">School Bus Services 2024 to 2025</a>
 </td></tr>
 
 
