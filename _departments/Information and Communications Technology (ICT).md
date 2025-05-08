@@ -4,7 +4,6 @@ permalink: /departments/ict/
 description: ""
 variant: markdown
 ---
-<img src="/images/ICT%20Dept%20photos.jpeg" style="width:80%">
 <br>
 <p style="text-align:justify">The ICT department strives to harness ICT to transform teaching and learning landscape by Exploring, Experimenting and Enriching teaching and learning through ICT. Aspiring for our students to become Future-Ready and Responsible Digital Learners, the school approaches the use of technology through 2 dimensions, namely Learning about ICT and Learning With ICT. To prepare our students to be Future-Ready Digital Learners, we aim to</p>
 <ul>
