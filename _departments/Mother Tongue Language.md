@@ -2,14 +2,13 @@
 title: Mother Tongue Language
 permalink: /departments/mtl/
 description: ""
+variant: markdown
 ---
-<img src="/images/Mother%20Tongue%20Dept%20Photos.jpeg" style="width:80%">
-
 <h2>Vision</h2>
 
 <p style="text-align:justify">Concordians will love and feel proud of their chosen Mother Tongue language (MTL).
 
-<h2>Mission</h2>
+</p><h2>Mission</h2>
 
 <ul>
 <li>To make Mother Tongue a “living” language.</li>
@@ -23,11 +22,11 @@ description: ""
 
   
 
-<h4>Customised Curriculum</h4>
+</p><h4>Customised Curriculum</h4>
 
 <p style="text-align:justify">To cater to the varying language mastery of Concordians, the department:
 
-<ul>
+</p><ul>
 <li>Customises teaching and learning of MTL according to Concordians’ language mastery level.</li>
 <li>Adopts progressive and age-appropriate strategies for listening, oracy and language skills.</li>
 </ul>
@@ -43,7 +42,7 @@ description: ""
 
   
 
-<h4>Conversational Chinese & Malay (CCM)</h4>
+<h4>Conversational Chinese &amp; Malay (CCM)</h4>
 
 <ul>
 	<li>CCM programme is introduced to provide Concordians with an opportunity to learn and use another MT language, other than their own Mother Tongue language, to communicate and interact more with their schoolmates of different races.</li>
@@ -58,36 +57,32 @@ description: ""
 <li>Wide-range of beyond-classroom activities is conducted in conjunction with MTF to provide authentic situations for Concordians to appreciate their Mother Tongue languages.</li>
 </ul>  
 
-<h4>Internal & External Competitions</h4>
+<h4>Internal &amp; External Competitions</h4>
 
 <ul>
 <li>Competitions are held to encourage and motivate Concordians to channel their energies towards meaningful learning processes and outcomes, while showcasing what they have learnt in class.</li>
 <li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
 </ul>
 
-<p>For tips on <b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click 
+<p>For tips on&nbsp;<b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click&nbsp;
 <a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" target="_blank" rel="noopener noreferrer">here</a>.<br>
 <br>
-<p>For the <b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
+</p><p>For the&nbsp;<b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
-<figure>
-<img src="/images/mtl1.jpeg" 
-     style="width:40%">
+</p><figure>
+<img src="/images/mtl1.jpeg" style="width:40%">
 <b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></figure>
 <br>
 <figure>
-<img src="/images/mtl2.jpeg" 
-     style="width:70%">
+<img src="/images/mtl2.jpeg" style="width:70%">
 <b>Concordians engaged in community singing during CNY celebration</b></figure>
 <br>
 <figure>
-<img src="/images/mtl3.jpeg" 
-     style="width:70%">
+<img src="/images/mtl3.jpeg" style="width:70%">
 <b>Concordians sharing the meanings of Chinese New Year food</b></figure>
 <br>
 <figure>
-<img src="/images/mtl4.jpeg" 
-     style="width:70%">
+<img src="/images/mtl4.jpeg" style="width:70%">
 <b>ML students prepared healthy sandwiches for snack time</b>
 </figure>
 <br>
@@ -107,18 +102,14 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/mtl5.jpeg" 
-     style="width:65%">Origami making (animal) for ML storytelling activity	</td>
-    <td class="tg-nrix"><img src="/images/mtl6.jpeg" 
-     style="width:65%">Batik painting activity conducted for ML students 
+    <td class="tg-nrix"><img src="/images/mtl5.jpeg" style="width:65%">Origami making (animal) for ML storytelling activity	</td>
+    <td class="tg-nrix"><img src="/images/mtl6.jpeg" style="width:65%">Batik painting activity conducted for ML students 
 </td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/mtl7.png" 
-     style="width:65%">TL Reading Activity – Clay Making 
+    <td class="tg-nrix"><img src="/images/mtl7.png" style="width:65%">TL Reading Activity – Clay Making 
 </td>
-    <td class="tg-nrix"><img src="/images/mtl8.jpeg" 
-     style="width:65%">Kolam Drawing</td>
+    <td class="tg-nrix"><img src="/images/mtl8.jpeg" style="width:65%">Kolam Drawing</td>
   </tr>
 </tbody>
 </table>
