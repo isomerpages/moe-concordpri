@@ -4,8 +4,6 @@ permalink: /departments/english/
 description: ""
 variant: markdown
 ---
-<img src="/images/A__Updated_EL_Department_Photo.jpg" style="width:80%">
-
 <h2>Vision</h2>
 
 
