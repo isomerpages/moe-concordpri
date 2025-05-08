@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-<img src="/images/Science%20Dept%20Photos.jpeg" style="width:80%">
-
 <h2>Vision</h2>
 
 Every student an inquirer.
