@@ -18,7 +18,4 @@ sections:
         - title: Holidays and  school closures
           description: ""
           url: /for-parents/holidays-and-school-closures/
-        - title: School Canteen Advertisement
-          description: ""
-          url: /school-canteen-advertisement/
 ---
