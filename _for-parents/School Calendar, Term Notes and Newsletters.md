@@ -37,7 +37,7 @@ variant: markdown
 </tr>
 <tr>
 	<td class="tg-xuj5"><a href="/files/2025_CPS_Calendar_For_Parents.pdf" target="_blank" rel="noopener noreferrer">2025 Term 1 Calendar</a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2025 Term 2 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_2_Calendar_V3__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 2 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2025 Term 3 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2025 Term 4 Calendar</a><br>
 </td><td class="tg-xuj5"><br></td>
