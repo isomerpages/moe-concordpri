@@ -4,7 +4,7 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 25 April 2025</p>
+<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 21 May 2025</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -131,8 +131,8 @@ variant: markdown
   <td class="tg-yhj8">Friday, 3 October 2025</td>
 </tr>
 <tr>
-  <td class="tg-yhj8">PSLE Marking Days (TBC)<br></td>
-  <td class="tg-yhj8">Monday, 21 October 2025<br>to<br>Wednesday, 23 October 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+  <td class="tg-yhj8">PSLE Marking Days<br></td>
+  <td class="tg-yhj8">Monday, 13 October 2025<br>to<br>Wednesday, 15 October 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
