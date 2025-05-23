@@ -53,11 +53,6 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mr Shahrulnizam B Padawi</td>
-    <td class="tg-yhj3"> HOD Mathematics<br></td>
-    <td class="tg-o5fr"><a href="mailto:shahrulnizam_b_padawi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">shahrulnizam_b_padawi@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
     <td class="tg-yhj3">Mdm Norlita Bte Muhamad Sah<br></td>
     <td class="tg-yhj3"> School Staff Developer (SSD)<br></td>
     <td class="tg-o5fr"><a href="mailto:norlita_muhamad_sah@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norlita_muhamad_sah@moe.edu.sg</span></a> </td>
@@ -88,9 +83,7 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:quek_bee_ha@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">quek_bee_ha@moe.edu.sg</span></a> </td>
 	</tr>
   <tr>
-    <td class="tg-yhj3">Noelle Yee Lai Wan (Mrs Noelle Chong)<br></td>
-    <td class="tg-yhj3">Year Head Lower Primary<br></td>
-    <td class="tg-o5fr"><a href="mailto:chong-yee_lai_wan@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chong-yee_lai_wan@moe.edu.sg</span></a> </td>
+    
 </tr>
 </tbody>
 </table>
