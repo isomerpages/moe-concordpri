@@ -66,10 +66,15 @@ variant: markdown
 <li>Melanie Chua Sher Yan (5F) <b style="color:#9900FF">(Participation)</b></li>
 <li>Tan Jun Kai, Matthew (5F) <b style="color:#9900FF">(Participation)</b></li>
 	
-	
+<p><b style="color:#3333FF">Year 2023 winners:</b>
+	</p><ul>
+<li>Marip Rachel Lee Lin Pin<b style="color:#9900FF"> (Participation)</b></li>
+<li>Gragori Stalin Jessiel<b style="color:#9900FF">(Participation)</b></li>
+<li>Tan Jia Qi<b style="color:#9900FF">(Participation)</b></li>
+<li>Eaden Goh Guan Xian<b style="color:#9900FF">(Participation)</b></li>
+<li>Nandha Saravana <b style="color:#9900FF">(Participation)</b></li>
 
 <p><b style="color:#3333FF">Year 2022 winners:</b>
-
 </p><ul>
 <li>Wan Mika<b style="color:#9900FF"> (Merit)</b></li>
 <li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
@@ -205,4 +210,4 @@ variant: markdown
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table></ul></ul></ul></ul>
+</table></ul></ul></ul></ul></ul>
