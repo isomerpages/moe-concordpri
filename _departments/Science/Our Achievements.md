@@ -57,7 +57,17 @@ variant: markdown
 	
 <h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
-<br>
+
+<p><b style="color:#3333FF">Year 2024 winners:</b>
+	</p><ul>
+<li>Chan Kah Phoon (5F)<b style="color:#9900FF"> (Merit)</b></li>
+<li>Dharrshen Subaraj (5F)<b style="color:#9900FF">(Participation)</b></li>
+<li>Macarius Chong Jun Yip (5F)<b style="color:#9900FF">(Participation)</b></li>
+<li>Melanie Chua Sher Yan (5F) <b style="color:#9900FF">(Participation)</b></li>
+<li>Tan Jun Kai, Matthew (5F) <b style="color:#9900FF">(Participation)</b></li>
+	
+	
+
 <p><b style="color:#3333FF">Year 2022 winners:</b>
 
 </p><ul>
@@ -184,4 +194,4 @@ variant: markdown
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table></ul></ul>
+</table></ul></ul></ul>
