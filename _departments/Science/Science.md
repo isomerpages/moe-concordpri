@@ -27,8 +27,8 @@ Every student an inquirer.
 <center><b>Experiential Learning</b>
   <img style="width:55%" src="/images/Experiential Learning.jpg">
 <br>
-<center><b>Outdoor Learning</b>
-<img style="width:55%" src="/images/Outdoor Learning.jpg">
+<center><b>P1 Orientation Science Booth</b>
+<img style="width:55%" src="/images/P1_Orientation_Science_Booth.png">
 <br>
 <h3><b>KEY PROGRAMMES</b></h3>
 <br>
@@ -132,43 +132,6 @@ Every student an inquirer.
 	
 <p style="text-align:justify">This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
 
-</p><p></p><center><b style="color:#0000FF">Primary 4 to 6 - Scientist-In-School</b></center>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-	
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width:100px">
-<col style="width: 100px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img style="width:70%" src="/images/Picture2.png">
-		</td><td class="tg-0lax"><img style="width:50%" src="/images/Scientist in School_Dr Ashar.png"></td>
-  </tr>
-</tbody>
-</table>
-	
-<p style="text-align:justify">We are honoured to partner Dr Ashar, an A* STAR scientist, in the implementation of the following programmes for selected students.
-
-</p><p>
-</p><ol style="text-align:left">
-	<li><b>P6 “Meet the Scientist” career guidance talk</b></li>
-<li><b>P5 Science Inquiry Project on the impact of light on photosynthesis and growth of plants using hydroponics</b></li>
-<li><b>P4 Science enrichment lesson on Electromagnets</b></li>
-</ol>
-<br>
-	<p style="color:#B233FF; font-size:18px"><b>Check out the video below for more information.</b><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iDS8ABj5abk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<br><br>
 </p><p></p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center>
 <br>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
