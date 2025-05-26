@@ -107,8 +107,9 @@ variant: markdown
 <li>Neo Zheng Xiang<b style="color:#9900FF"> (Merit)</b></li>
 <li>Gragori Stalin Jessiel<b style="color:#9900FF"> (Participation)</b></li>
 <li>Nandha Saravana <b style="color:#9900FF"> (Participation)</b></li>
+	<li>Putta Suchitha <b style="color:#9900FF"> (Participation)</b></li>
+	<li>Shou Xinran<b style="color:#9900FF"> (Participation)</b></li>
 
-	
 	
 	
 <p><b style="color:#3333FF">Year 2022 winners:</b>
