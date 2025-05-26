@@ -29,7 +29,11 @@ variant: markdown
     <td class="tg-a5i5"></td>
 		 </tr>
   <tr>
-		<td class="tg-d0eu"><br><b>Green Schools@South West 2023</b><br>- 3 Starts for year 2023<br> </td>
+		<td class="tg-d0eu"><br><b>Green Schools@South West 2024</b><br>- 3 Stars for year 2024<br> </td>
+    <td class="tg-da8v"><img style="width:30%" src="/images/Green_Schools_SouthWest_2024_3_Stars_Award_CPS.png"></td>
+		 </tr>
+  <tr>
+		<td class="tg-d0eu"><br><b>Green Schools@South West 2023</b><br>- 3 Stars for year 2023<br> </td>
     <td class="tg-da8v"><img style="width:30%" src="/images/GreenSchools_SW2023.png"></td>
   </tr>
   <tr>
@@ -53,9 +57,24 @@ variant: markdown
 	
 <h4>Student Awards</h4>
 <h5>1. Raffles Science Olympiad</h5>
-<br>
-<p><b style="color:#3333FF">Year 2022 winners:</b>
 
+<p><b style="color:#3333FF">Year 2024 winners:</b>
+	</p><ul>
+<li>Chan Kah Phoon (5F)<b style="color:#9900FF"> (Merit)</b></li>
+<li>Dharrshen Subaraj (5F)<b style="color:#9900FF">(Participation)</b></li>
+<li>Macarius Chong Jun Yip (5F)<b style="color:#9900FF">(Participation)</b></li>
+<li>Melanie Chua Sher Yan (5F) <b style="color:#9900FF">(Participation)</b></li>
+<li>Tan Jun Kai, Matthew (5F) <b style="color:#9900FF">(Participation)</b></li>
+	
+<p><b style="color:#3333FF">Year 2023 winners:</b>
+	</p><ul>
+<li>Marip Rachel Lee Lin Pin<b style="color:#9900FF"> (Participation)</b></li>
+<li>Gragori Stalin Jessiel<b style="color:#9900FF">(Participation)</b></li>
+<li>Tan Jia Qi<b style="color:#9900FF">(Participation)</b></li>
+<li>Eaden Goh Guan Xian<b style="color:#9900FF">(Participation)</b></li>
+<li>Nandha Saravana <b style="color:#9900FF">(Participation)</b></li>
+
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 </p><ul>
 <li>Wan Mika<b style="color:#9900FF"> (Merit)</b></li>
 <li>Titus Soh Yu Miao<b style="color:#9900FF"> (Merit)</b></li>
@@ -70,9 +89,35 @@ variant: markdown
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
-<br>
-<p><b style="color:#3333FF">Year 2022 winners:</b>
 
+<p><b style="color:#3333FF">Year 2024 winners:</b>
+</p><ul>
+<li>Joann Mah Jia Xuan (5F) <b style="color:#9900FF"> (Participation)</b></li>
+<li>Fan Jia Rui (5F) <b style="color:#9900FF"> (Participation)</b></li>
+<li>Chan Kah Phoon (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Cherukuri Devagna Sriansh (5F)<b style="color:#9900FF"> (Participation)</b></li>
+<li>Melanie Chua Sher Yan (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Tan Jun Kai, Matthew (5F) <b style="color:#9900FF"> (Merit)</b></li>
+<li>Kwan Xyn Yi (5F) <b style="color:#9900FF"> (Merit)</b></li>
+<li>Dharrshen Subaraj (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+	<li>Macarius Chong Jun Yip (5F) <b style="color:#9900FF"> (Merit)</b></li>
+	<li>Cheah Ka En Ashton (5E)<b style="color:#9900FF"> (Participation)</b></li>
+	
+	
+<p><b style="color:#3333FF">Year 2023 winners:</b>
+</p><ul>
+<li>Eaden Goh<b style="color:#9900FF"> (Silver)</b></li>
+<li>Tan Jia Qi<b style="color:#9900FF"> (Bronze)</b></li>
+<li> Chen Ziling<b style="color:#9900FF"> (Merit)</b></li>
+<li>Neo Zheng Xiang<b style="color:#9900FF"> (Merit)</b></li>
+<li>Gragori Stalin Jessiel<b style="color:#9900FF"> (Participation)</b></li>
+<li>Nandha Saravana <b style="color:#9900FF"> (Participation)</b></li>
+	<li>Putta Suchitha <b style="color:#9900FF"> (Participation)</b></li>
+	<li>Shou Xinran<b style="color:#9900FF"> (Participation)</b></li>
+
+	
+	
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 </p><ul>
 <li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
 <li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
@@ -115,11 +160,16 @@ variant: markdown
 </ul>
 
 <h5>4. Abbott Young Scientist Award</h5>
-<img align="left" style="width:25%" src="/images/Students award 2.jpg">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p><b style="color:#3333FF">Year 2022 Winner:</b>
-	
+  <p><b style="color:#3333FF"> Year 2024 Winners:</b>
+ </p><ul>
+  <li>Anaqi Danish (5F)  - Certificate Of Achievement</li>
+	<li>Chua Rui Han, Karine (5E)  - Certificate Of Achievement</li>
+   </ul>	
+
+   <p><b style="color:#3333FF">Year 2022 Winner:</b>
 </p><ul>
+<img align="left" style="width:25%" src="/images/Students award 2.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><ul>
 <li>Sofia Amirah</li>
 </ul>	
 
@@ -160,4 +210,4 @@ variant: markdown
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table>
+</table></ul></ul></ul></ul></ul>
