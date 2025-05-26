@@ -99,6 +99,16 @@ variant: markdown
 	<li>Cheah Ka En Ashton (5E)<b style="color:#9900FF"> (Participation)</b></li>
 	
 	
+<p><b style="color:#3333FF">Year 2023 winners:</b>
+</p><ul>
+<li>Eaden Goh<b style="color:#9900FF"> (Silver)</b></li>
+<li>Tan Jia Qi<b style="color:#9900FF"> (Bronze)</b></li>
+<li> Chen Ziling<b style="color:#9900FF"> (Merit)</b></li>
+<li>Neo Zheng Xiang<b style="color:#9900FF"> (Merit)</b></li>
+<li>Gragori Stalin Jessiel<b style="color:#9900FF"> (Participation)</b></li>
+<li>Nandha Saravana <b style="color:#9900FF"> (Participation)</b></li>
+
+	
 	
 	
 <p><b style="color:#3333FF">Year 2022 winners:</b>
@@ -194,4 +204,4 @@ variant: markdown
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table></ul></ul></ul>
+</table></ul></ul></ul></ul>
