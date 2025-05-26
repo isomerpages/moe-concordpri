@@ -74,9 +74,24 @@ variant: markdown
 </ul>
 	
 <h5>2. Singapore Primary Science Olympiad</h5>
-<br>
-<p><b style="color:#3333FF">Year 2022 winners:</b>
 
+<p><b style="color:#3333FF">Year 2024 winners:</b>
+</p><ul>
+<li>Joann Mah Jia Xuan (5F) <b style="color:#9900FF"> (Participation)</b></li>
+<li>Fan Jia Rui (5F) <b style="color:#9900FF"> (Participation)</b></li>
+<li>Chan Kah Phoon (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Cherukuri Devagna Sriansh (5F)<b style="color:#9900FF"> (Participation)</b></li>
+<li>Melanie Chua Sher Yan (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+<li>Tan Jun Kai, Matthew (5F) <b style="color:#9900FF"> (Merit)</b></li>
+<li>Kwan Xyn Yi (5F) <b style="color:#9900FF"> (Merit)</b></li>
+<li>Dharrshen Subaraj (5F) <b style="color:#9900FF"> (Bronze)</b></li>
+	<li>Macarius Chong Jun Yip (5F) <b style="color:#9900FF"> (Merit)</b></li>
+	<li>Cheah Ka En Ashton (5E)<b style="color:#9900FF"> (Participation)</b></li>
+	
+	
+	
+	
+<p><b style="color:#3333FF">Year 2022 winners:</b>
 </p><ul>
 <li>Ang Zhen Bin Leonel <b style="color:#9900FF"> (Participation)</b></li>
 <li>Chua Jia Xi Reannen <b style="color:#9900FF"> (Bronze)</b></li>
@@ -169,4 +184,4 @@ variant: markdown
 	 <td class="tg-0lax"></td>
 </tr>
 </tbody>
-</table></ul>
+</table></ul></ul>
