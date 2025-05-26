@@ -29,7 +29,11 @@ variant: markdown
     <td class="tg-a5i5"></td>
 		 </tr>
   <tr>
-		<td class="tg-d0eu"><br><b>Green Schools@South West 2023</b><br>- 3 Starts for year 2023<br> </td>
+		<td class="tg-d0eu"><br><b>Green Schools@South West 2024</b><br>- 3 Stars for year 2024<br> </td>
+    <td class="tg-da8v"><img style="width:30%" src="/images/Green_Schools_SouthWest_2024_3_Stars_Award_CPS.png"></td>
+		 </tr>
+  <tr>
+		<td class="tg-d0eu"><br><b>Green Schools@South West 2023</b><br>- 3 Stars for year 2023<br> </td>
     <td class="tg-da8v"><img style="width:30%" src="/images/GreenSchools_SW2023.png"></td>
   </tr>
   <tr>
