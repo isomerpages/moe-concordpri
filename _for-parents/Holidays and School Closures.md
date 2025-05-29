@@ -96,8 +96,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-yhj8">PSLE Oral<br></td>
-    <td class="tg-yhj8">Wednesday, 13 August 2025<br>Thursday, 14 August 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
-  </tr>
+    <td class="tg-yhj8">Wednesday, 13 August 2025<br>Thursday, 14 August 2025<br>
+  </td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day Celebration<br></td>
     <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)<br></em></b></td>
@@ -112,7 +112,7 @@ variant: markdown
 		</tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
-    <td class="tg-yhj8">Tuesday, 16 September 2025<br><b style="color:blue"><em>(HBL for P1 to P5 students)<br></em></b></td>
+    <td class="tg-yhj8">Tuesday, 16 September 2025<br></td>
   </tr>
  <tr>
     <td class="tg-yhj8">P6 Study Break (TBC)<br></td>
