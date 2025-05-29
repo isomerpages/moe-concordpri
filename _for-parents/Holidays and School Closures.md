@@ -132,7 +132,7 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-yhj8">PSLE Marking Days<br></td>
-  <td class="tg-yhj8">Monday, 13 October 2025<br>to<br>Wednesday, 15 October 2025<br><b style="color:blue"><em>(HBL for selected students. TBC)<br></em></b></td>
+  <td class="tg-yhj8">Monday, 13 October 2025<br>to<br>Wednesday, 15 October 2025<br></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
