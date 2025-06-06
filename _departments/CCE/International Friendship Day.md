@@ -17,12 +17,10 @@ and participated in engaging recess activities, Through the varied activities, s
 	<br>
 	sensitized to Singapore's geopolitical realities, and to reflect on the importance of:
 	<br>
-	openness to the international flow of trade , ideas and talents;
-	<br>
-	cross-cultural skills and global orientation ; and
-	<br>
-	the spirit of friendship and collaboration amongst different people.
-</p> 
+	</p><li> openness to the international flow of trade , ideas and talents;
+	</li><li>cross-cultural skills and global orientation ; and
+	</li><li>the spirit of friendship and collaboration amongst different people.
+<p></p> 
 
 <p style="text-align:justify"></p>
 
@@ -41,4 +39,4 @@ and participated in engaging recess activities, Through the varied activities, s
 
 
 
-</figure>
+</figure></li>
