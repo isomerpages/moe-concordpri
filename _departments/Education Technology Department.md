@@ -1,5 +1,5 @@
 ---
-title: Information and Communications Technology (ICT)
+title: Education Technology Department
 permalink: /departments/ict/
 description: ""
 variant: markdown
