@@ -4,28 +4,41 @@ permalink: /departments/ict/
 description: ""
 variant: markdown
 ---
-<br>
-<p style="text-align:justify">The ICT department strives to harness ICT to transform teaching and learning landscape by Exploring, Experimenting and Enriching teaching and learning through ICT. Aspiring for our students to become Future-Ready and Responsible Digital Learners, the school approaches the use of technology through 2 dimensions, namely Learning about ICT and Learning With ICT. To prepare our students to be Future-Ready Digital Learners, we aim to</p>
+<h3>Education Technology Department </h3>
+
+<p style="text-align:justify">The EdTech Department leads the school in designing meaningful, 
+inclusive and student-directed digital learning experiences. We support teachers and student
+in using technology effectively for teaching, learning,collaboration and innovation. The Edtech
+department strives to harness technology to transform teaching and learning landscape;strengthening the development of students' digital literacy by Enabling, Exploring and Enriching teaching and learning
+through the use of technology.
+</p>
 <ul>
-<li>Develop our students’ literacy in the use of Google Applications for learning</li>
-<li>Leverage ICT to facilitate Self-directed and collaborative learning</li>
-<li>Nurture our students to be responsible and discerned online users</li>
 </ul>
+<h3>Vision</h3>
 
-<h3>Learning about ICT</h3>
-
-<p style="text-align:justify">Our students go through a 6-year ICT Skills Development Programme. Through the programme, we equip all students with Google Applications skills as well as Cyber wellness awareness so that they are empowered to leverage the ICT skills for Self-directed and Collaborative Learning during lessons and at home.</p>
+<p style="text-align:justify">Enable, Explore, Enrich Teaching and Learning Effectively through ICT</p>
 <br>
-<img src="/images/Active%20Learning%20ICT.jpeg" style="width:65%">
+<h3>Digi(IT)ai@Concord</h3>
+
+<p style="text-align:justify">Digital literacy (DL) is defined as a set of knowledge, skills and dispositions
+that would help our Concordians to be confident, critical and resposible users of digital technologies for information, communication and problem solving. 
+	
+</p><p style="text-align:justify">Aligned to the The Find, Think, Apply, Create(FTAC) framework, students will acquire digital skills across four components in the FTAC framework.
+</p>  
+
+<img src="/images/EDTech_1.png" style="width:90%">
+
+<p style="text-align:justify">The FTAC framework is unpacked into nine Digital Competencies (DCs)to support deepening of digital literacy in schools. The development of the Digital Competencies will equip students with the abilities to Find, Think, Apply and Create effectively in digitalised environment. </p>
 
 
-<h3>Learning with ICT in Curriculum</h3>
 
-<p style="text-align:justify">To support the holistic development of our students as self-directed and collaborative learners, teachers design ICT-enriched learning activities to deepen their understanding of concepts learned in various subjects. To activate our students’ thinking, the use of digital resources such as videos, online quiz or games with careful scaffold are being designed by teachers. Opportunities for our students to discuss concepts and issues in lessons are facilitated by various open source such as Padlet, Kahoot, Google Documents and many other Apps. Through these collaborative platforms, our students work in small groups or pairs to surface their understanding of their lessons. With immediate feedback from such ICT collaborative tools, both students and teachers are able to instantly assess for themselves if learning objectives have been achieved.</p>  
 
-<p style="text-align:justify">Students from P1 - P6 engage in group research using information from the internet to gather information related to healthy food choices for their projects. Students use Google forms and Linoit to put together their understanding before deciding their concept for presentation.</p>
-<br><br>
-<img src="/images/ict2.jpeg" style="width:65%">
+
+
+
+
+
+
 
 <h3>Student Learning Space (SLS)</h3>
 
