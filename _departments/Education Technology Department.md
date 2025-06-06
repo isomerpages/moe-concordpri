@@ -4,35 +4,51 @@ permalink: /departments/ict/
 description: ""
 variant: markdown
 ---
-<br>
-<p style="text-align:justify">The ICT department strives to harness ICT to transform teaching and learning landscape by Exploring, Experimenting and Enriching teaching and learning through ICT. Aspiring for our students to become Future-Ready and Responsible Digital Learners, the school approaches the use of technology through 2 dimensions, namely Learning about ICT and Learning With ICT. To prepare our students to be Future-Ready Digital Learners, we aim to</p>
+<h3>Education Technology Department </h3>
+
+<p style="text-align:justify">The EdTech Department leads the school in designing meaningful, 
+inclusive and student-directed digital learning experiences. We support teachers and student
+in using technology effectively for teaching, learning,collaboration and innovation. The Edtech
+department strives to harness technology to transform teaching and learning landscape;strengthening the development of students' digital literacy by Enabling, Exploring and Enriching teaching and learning
+through the use of technology.
+</p>
 <ul>
-<li>Develop our students’ literacy in the use of Google Applications for learning</li>
-<li>Leverage ICT to facilitate Self-directed and collaborative learning</li>
-<li>Nurture our students to be responsible and discerned online users</li>
 </ul>
+<h3>Vision</h3>
 
-<h3>Learning about ICT</h3>
-
-<p style="text-align:justify">Our students go through a 6-year ICT Skills Development Programme. Through the programme, we equip all students with Google Applications skills as well as Cyber wellness awareness so that they are empowered to leverage the ICT skills for Self-directed and Collaborative Learning during lessons and at home.</p>
+<p style="text-align:justify">Enable, Explore, Enrich Teaching and Learning Effectively through ICT
+</p>
 <br>
-<img src="/images/Active%20Learning%20ICT.jpeg" style="width:65%">
+<h3>Digi(IT)ai@Concord</h3>
 
-
-<h3>Learning with ICT in Curriculum</h3>
-
-<p style="text-align:justify">To support the holistic development of our students as self-directed and collaborative learners, teachers design ICT-enriched learning activities to deepen their understanding of concepts learned in various subjects. To activate our students’ thinking, the use of digital resources such as videos, online quiz or games with careful scaffold are being designed by teachers. Opportunities for our students to discuss concepts and issues in lessons are facilitated by various open source such as Padlet, Kahoot, Google Documents and many other Apps. Through these collaborative platforms, our students work in small groups or pairs to surface their understanding of their lessons. With immediate feedback from such ICT collaborative tools, both students and teachers are able to instantly assess for themselves if learning objectives have been achieved.</p>  
-
-<p style="text-align:justify">Students from P1 - P6 engage in group research using information from the internet to gather information related to healthy food choices for their projects. Students use Google forms and Linoit to put together their understanding before deciding their concept for presentation.</p>
-<br><br>
-<img src="/images/ict2.jpeg" style="width:65%">
-
-<h3>Student Learning Space (SLS)</h3>
-
-<p style="text-align:justify">As one of the primary school piloting the Student Learning Space since 2017, teachers are exploring a wide range of ICT-facilitated strategies to engage our students in a student-centric learning environment. Tapping on the affordances of SLS and other ICT tools, students’ learning experiences are centered on the belief that quality learning is in the hands of the learners when we empower them with appropriate technology. With a shift of our focus to deepening the process of learning, development of 21st-century competencies such as communication, collaboration, and information skills takes shape when our students learn with technology.</p>
+<p style="text-align:justify">Digital literacy (DL) is defined as a set of knowledge, skills and dispositions
+that would help our Concordians to be confident, critical and resposible users of digital technologies for information, communication and problem solving. 
 	
-<h3>Learning Beyond Four Walls</h3>
+</p><p style="text-align:justify">Aligned to the The Find, Think, Apply, Create(FTAC) framework, students will acquire digital skills across four components in the FTAC framework.
+</p>  
 
-<p style="text-align:justify">Under Concord’s Total Curriculum Framework, technology is designed into our Learning for Life Programme, Outdoor Education (OE). Outdoor Trails, I AM CONCORD!, are designed as opportunities for students to discover the heritage of Concord with their peers. Social-emotional learning is enriched as students work with their peers to navigate the tasks in the trail. The use of various iPad apps and QR Codes heighten our students' interests and spur their appetite for self-directed learning as they go about making connections with the ready information around them. Similar authentic ICT-enriched learning trails are also customised for Learning Journey to places such as Singapore Philatelic Museum and Little India.</p>
+<img src="/images/EDTech_1.png" style="width:90%">
+
+<p style="text-align:justify">The FTAC framework is unpacked into nine Digital Competencies (DCs)to support deepening of digital literacy in schools. The development of the Digital Competencies will equip students with the abilities to Find, Think, Apply and Create effectively in digitalised environment. </p>
+
+
+<h3>Integrating EdTech into Teaching and Learning</h3>
+
+<p style="text-align:justify">In Concord, we leveraged the use of technology to create engaging and meaningful learning experiences. Digital tools are thoughtfully integrated into our E3 Reasoning+ Programme. Through this- integration, students develop essential baseline ICT skills, digital literacy and technological skills - while thinking critically, collaborating effectively, and taking ownership of their learning.</p>
+<br>
+<img src="/images/EDTech__2.png" style="width:80%">
+
+<p style="text-align:justify">To further strengthen their digital literacy and technology skills, students also engage in self-directed learning via the Student Learning Space (SLS). These SLS modules are mapped to the nine Digital Competencies across all levels and support the attainment of specific learning outcomes aligned with the FTAC framework.</p>
+
+
+<h3>EdTech Beyond the Classroom</h3>
+
+<p style="text-align:justify"></p>As part or our post-PSLE-activity, Primary 6 students participate in the Code for Fun Programme, in ,collaboration with the Infocomm Media Development Authority(IMDA).
+This programme introduces students to block-based programming through interactive, hands-on activities. Through the programme, students:
+
+<li>Learn about core computational thinking concepts and how it can be applied to daily life
+</li><li>Understand basic programming concepts such as debugging, events, loops, variables, functions,  and conditionals.
+</li><li>Develop logical thinking and problem-solving.
+	
 <br><br>
-<img src="/images/ict3.jpeg" style="width:55%">
+<img src="/images/EdTech_3.png" style="width:80%"></li>
