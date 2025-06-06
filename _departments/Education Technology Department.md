@@ -16,7 +16,8 @@ through the use of technology.
 </ul>
 <h3>Vision</h3>
 
-<p style="text-align:justify">Enable, Explore, Enrich Teaching and Learning Effectively through ICT</p>
+<p style="text-align:justify">Enable, Explore, Enrich Teaching and Learning Effectively through ICT
+</p>
 <br>
 <h3>Digi(IT)ai@Concord</h3>
 
@@ -31,21 +32,23 @@ that would help our Concordians to be confident, critical and resposible users o
 <p style="text-align:justify">The FTAC framework is unpacked into nine Digital Competencies (DCs)to support deepening of digital literacy in schools. The development of the Digital Competencies will equip students with the abilities to Find, Think, Apply and Create effectively in digitalised environment. </p>
 
 
+<h3>Integrating EdTech into Teaching and Learning</h3>
+
+<p style="text-align:justify">In Concord, we leveraged the use of technology to create engaging and meaningful learning experiences. Digital tools are thoughtfully integrated into our E3 Reasoning+ Programme. Through this- integration, students develop essential baseline ICT skills, digital literacy and technological skills - while thinking critically, collaborating effectively, and taking ownership of their learning.</p>
+<br>
+<img src="/images/EDTech__2.png" style="width:80%">
+
+<p style="text-align:justify">To further strengthen their digital literacy and technology skills, students also engage in self-directed learning via the Student Learning Space (SLS). These SLS modules are mapped to the nine Digital Competencies across all levels and support the attainment of specific learning outcomes aligned with the FTAC framework.</p>
 
 
+<h3>EdTech Beyond the Classroom</h3>
 
+<p style="text-align:justify"></p>As part or our post-PSLE-activity, Primary 6 students participate in the Code for Fun Programme, in ,collaboration with the Infocomm Media Development Authority(IMDA).
+This programme introduces students to block-based programming through interactive, hands-on activities. Through the programme, students:
 
-
-
-
-
-
-<h3>Student Learning Space (SLS)</h3>
-
-<p style="text-align:justify">As one of the primary school piloting the Student Learning Space since 2017, teachers are exploring a wide range of ICT-facilitated strategies to engage our students in a student-centric learning environment. Tapping on the affordances of SLS and other ICT tools, students’ learning experiences are centered on the belief that quality learning is in the hands of the learners when we empower them with appropriate technology. With a shift of our focus to deepening the process of learning, development of 21st-century competencies such as communication, collaboration, and information skills takes shape when our students learn with technology.</p>
+<li>Learn about core computational thinking concepts and how it can be applied to daily life
+</li><li>Understand basic programming concepts such as debugging, events, loops, variables, functions,  and conditionals.
+</li><li>Develop logical thinking and problem-solving.
 	
-<h3>Learning Beyond Four Walls</h3>
-
-<p style="text-align:justify">Under Concord’s Total Curriculum Framework, technology is designed into our Learning for Life Programme, Outdoor Education (OE). Outdoor Trails, I AM CONCORD!, are designed as opportunities for students to discover the heritage of Concord with their peers. Social-emotional learning is enriched as students work with their peers to navigate the tasks in the trail. The use of various iPad apps and QR Codes heighten our students' interests and spur their appetite for self-directed learning as they go about making connections with the ready information around them. Similar authentic ICT-enriched learning trails are also customised for Learning Journey to places such as Singapore Philatelic Museum and Little India.</p>
 <br><br>
-<img src="/images/ict3.jpeg" style="width:55%">
+<img src="/images/EdTech_3.png" style="width:80%"></li>
