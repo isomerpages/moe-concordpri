@@ -19,7 +19,7 @@ variant: markdown
 <table class="tg" style="undefined;table-layout: fixed; width: 727px">
 <colgroup>
 <col style="width: 337px">
-<col style="width: 390px">
+<col style="width: 800px">
 </colgroup>
 	
 <tbody>
