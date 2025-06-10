@@ -49,6 +49,9 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-xi4p"><br>Use of Smartphones and Smartwatches</td>
-  <td class="tg-8jx4"><ul><li>Students are not to use smartphones</li></ul></td></tr>
+  <td class="tg-8jx4"><ul><li>Students are not to use smartphones and/or smartwatches^ during school hours including recess, CCA and after-school programme (e.g. supplementary/enrichment/remedial lessons).</li><li>Students who bring smartphones are to put in lockers or their school bags ( in the absence of lockers) before school start time. They can retrieve their smartphones after school ends. Students will bear responsibility for the safekeeping of devices.</li><li>Students are only allowed to use smartphones and/or smartwatches at designated  areas ( foyer or security guard post) after  school hours.</li><li>Smartphones and/or smartwatches are strictly prohibited in the exam venue during school and national examinations.
+<br>
+		^Exclude non-telecommunication devices, e,g, POSB SmartBuddy Watch, which allow contactless payment in school.
+</li></ul></td></tr>
 </tbody>
 </table>
