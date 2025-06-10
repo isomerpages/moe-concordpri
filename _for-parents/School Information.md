@@ -2,6 +2,7 @@
 title: School Information
 permalink: /for-parents/School-Information/school-information/
 description: ""
+variant: markdown
 ---
 **1\.  School Curriculum Hours**
 
@@ -25,8 +26,8 @@ For the safety of the students and staff of the school, we seek the cooperation 
 
 **3\. Student Arrival In The Morning**
 
-*   Students who arrive before 7.00am are to wait in the canteen until instructed to move to their respective venues.
-*   &nbsp;Students walking to school can enter via the following gates:
+*   Students who arrive before 7.10am are to wait in the canteen until instructed to move to their respective venues for the flag-raising ceremony.
+*   Students walking to school can enter via the following gates:
 	* Main Gate, 6.45am onwards (Monday to Friday)
 	* Gate 4, 6.50am to 7.30am (Monday to Friday)
 	* Gate 12, 6.50am to 7.30am (Monday to Friday)  
@@ -82,11 +83,10 @@ For the safety of the students and staff of the school, we seek the cooperation 
 *   Students are not allowed to bring the following items to school:
 	* Large amounts of money
 	* Electronic games or toys
-	* Mobile phones
 	* Sharp objects (pen knives, pointed head scissors, paper-cutters, etc)
 
-*   The school hopes to instil personal responsibility in students to care for their own belongings. Do write your child’s / ward’s name on his/ her belongings such wallets, files, pencil case, water bottles, etc. This will facilitate the returning of lost items to their rightful owners.
-*   Students are also strongly encouraged to pack their school bag daily and be responsible to bring all required items for the day’s learning and activities. Parents are strongly encouraged to refrain from bringing non-essential items (eg. stationeries, water bottles etc.) in the event that your child forgets to bring these non- essential items.
+*   The school hopes to instill personal responsibility in students to care for their own belongings. Do write your child’s/ward’s name on his/ her belongings such wallets, files, pencil case, water bottles, etc. This will facilitate the returning of lost items to their rightful owners.
+*   Students are also strongly encouraged to pack their school bag daily and be responsible to bring all required items for the day’s learning and activities. Parents are strongly encouraged to refrain from bringing non-essential items (eg. stationeries, water bottles etc.) in the event that your child forgets to bring these non- essential items to school.
 
   
 
