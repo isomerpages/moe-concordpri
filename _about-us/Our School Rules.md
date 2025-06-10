@@ -45,7 +45,7 @@ variant: markdown
 </tr>
 <tr>
     <td class="tg-wrbi"><br>Prohibited items</td>
-    <td class="tg-icg1"><ul><li>Students should not bring unauthorised electronic devices and card games that can lead to gambling activities.</li><li>All students are not allowed to have in their possession any weapon. They are also not allowed  to bring any weapon-like item which can be used or intended to be used to cause harm to others.</li><li>Students are reminded that it is against the law and the school rules to purchase, use and/or possess a prohibited tobacco product ( e.g. cigarettes/e-vaporisers</li></ul></td>
+    <td class="tg-icg1"><ul><li>Students should not bring unauthorised electronic devices and card games that can lead to gambling activities.</li><li>All students are not allowed to have in their possession any weapon. They are also not allowed  to bring any weapon-like item which can be used or intended to be used to cause harm to others.</li><li>Students are reminded that it is against the law and the school rules to purchase, use and/or possess a prohibited tobacco product ( e.g. cigarettes/e-vaporisers)</li></ul></td>
 </tr>
 <tr>
   <td class="tg-xi4p"><br>Use of Smartphones and Smartwatches</td>
