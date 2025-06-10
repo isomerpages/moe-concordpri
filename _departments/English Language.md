@@ -22,8 +22,9 @@ speaking and writing.
 <p></p>
 <p>The school has an extensive and whole-school approach Reading Programme
 to cater to the varied needs of our students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/B__Reading_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Department_Reading.png">
 </div>
 <p>
 <br>
@@ -43,18 +44,15 @@ to cater to the varied needs of our students.</p>
 <p>Students are taught various writing styles in class. The usage of questioning
 techniques in writing is one of the key areas of focus for teachers during
 writing lessons. Students are also exposed to planning their lessons using
-graphic organisers and story plot.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/e1.png">
-</div>
-<p>
+graphic organisers. Students can reference mentor texts to improve on their
+writing.
 <br>
 </p>
 <p><strong><u>LISTENING &amp; SPEAKING</u></strong>
 </p>
 <p></p>
-<p>Students will be exposed to a variety of listening texts, encouraged to
-speak confidently by the EL teachers in the classroom. The school has embarked
+<p>Students are exposed to a variety of listening texts, encouraged to speak
+confidently by the EL teachers in the classroom. The school has embarked
 on 2 main strategies for Oral Communication – ACE for Reading Aloud &amp;
 TREES for Stimulus-Based Conversation.
 <br>
