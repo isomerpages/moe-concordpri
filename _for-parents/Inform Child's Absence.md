@@ -7,9 +7,7 @@ variant: markdown
 <p></p><h3><b>Update of your child's absence</b></h3>
 <p style="text-align:justify">Please inform the school in advance if your child is not attending  school via  the QR code below.
 
-
-<a href="https://form.gov.sg/682a8c5cb11aac0ff96aed96" target="_blank" rel="noopener noreferrer"><img style="width:40%" src="/images/qr code.jpg">
-	</a>	
+<a href="https://go.gov.sg/cps-childabsence" target="_blank" rel="noopener noreferrer"><img style="width:40%" src="/images/cps_childabsence.png"></a>	
 
 </p><p style="text-align:justify">An automated SMS will be sent to the parent/ guardian by <b>9.00am</b> should the student be absent from school and the school is not informed of the reason/s.
 	
