@@ -38,7 +38,7 @@ variant: markdown
 </li><li>Exercising Executive Function - Managing time, tasks, and responsibilities effectively.
 </li><li>Being Timely - Showing punctuality and respect for time in school routines.
 </li><li>Displaying Leadership - Taking initiative and setting a positive example of peers.
-<p></p><p style="text-align:justify">By reinforcing these behaviuors, the SOAR Remption Programme supports the holistic development of every Concordian, nurturing them into responsible and confident individuals who contribute positively to the school community.
+<p></p><p style="text-align:justify">By reinforcing these behaviuors, the SOAR Redemption Programme supports the holistic development of every Concordian, nurturing them into responsible and confident individuals who contribute positively to the school community.
 
 <br>
 <br>
