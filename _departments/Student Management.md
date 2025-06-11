@@ -29,8 +29,9 @@ variant: markdown
 </p><p style="text-align:justify">&nbsp;<b>
 </b></p><h3><b> </b></h3><b>
 <br>
-<img src="/images/SM_1.png" style="width:50%">
-<img src="/images/SM_2.png" style="width:50%">
+<img src="/images/SM_1.png" style="width:58%">
+<br>
+<img src="/images/SM_2.png" style="width:58%">
 <br>
 <h3> </h3>
 <img src="/images/SM_3.png" style="width:68%">
@@ -48,18 +49,21 @@ variant: markdown
 <br>
 <br>
 <br>
-<img src="/images/SM_4.png" style="width:68%">![](/images/SM_8.png)
+<img src="/images/SM_4.png" style="width:68%">
+<br>
 <img src="/images/SM_5.png" style="width:48%">
+<br>
 <img src="/images/SM_6.png" style="width:72%">
 	
 </p><p></p><h4>Pre-Assembly and Assembly Programme</h4>
-<p></p><p style="text-align:justify">
+<p></p><p style="text-align:justify">Our Pre-Asembly and Assembly Programme plays a key rolein shaping a positive school culture and nurturing 
 
 	
 </p></li><li>
 
 	
 <img src="/images/SM_7.png" style="width:72%">
+	<br>
 <img src="/images/SM_8.png" style="width:72%">
 
 <h3></h3>
