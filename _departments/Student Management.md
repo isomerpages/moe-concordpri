@@ -2,6 +2,7 @@
 title: Student Management
 permalink: /departments/Student-Management/student-management/
 description: ""
+variant: markdown
 ---
 <h2>Vision</h2>
 
@@ -10,6 +11,11 @@ description: ""
 </p><h2>Mission</h2>
 
 <p style="text-align:justify">To provide a positive and safe environment for Concordians to grow and learn.
+</p><p style="text-align:justify">Student Management department enriches every Concordian's educational journey through Student Discipline, Leadership, and Safety.
+	
+	
+	
+	
 
 </p><h2>Department's Framework</h2>
 
