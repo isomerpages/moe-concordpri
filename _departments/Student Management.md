@@ -48,14 +48,19 @@ variant: markdown
 <br>
 <br>
 <br>
-<img src="/images/SM_4.png" style="width:68%">
+<img src="/images/SM_4.png" style="width:68%">![](/images/SM_8.png)
 <img src="/images/SM_5.png" style="width:48%">
-	<img src="/images/SM_6.png" style="width:72%">
+<img src="/images/SM_6.png" style="width:72%">
 	
 </p><p></p><h4>Pre-Assembly and Assembly Programme</h4>
 <p></p><p style="text-align:justify">
+
+	
 </p></li><li>
 
+	
+<img src="/images/SM_7.png" style="width:72%">
+<img src="/images/SM_8.png" style="width:72%">
 
 <h3></h3>
 <br>
