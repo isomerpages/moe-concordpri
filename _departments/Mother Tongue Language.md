@@ -67,8 +67,22 @@ variant: markdown
 <br>
 <p></p></li><li>As students develop their language proficiency, curiosity, and creativity through reading, we also provide platforms - such as various forms of internal competitions - for them to showcase their talents and demonstrate their growing mastery of the Mother Tongue languages.
 <p>Through this integrated approach, we remain dedicated to nurturing lifelong learners who are passionate and proficient in their Mother Tongue languages.
-
-
+	
+<br>
+<br>
+<img src="/images/MT_1.png" style="width:70%">
+<br>
+<img src="/images/MT_2.png" style="width:70%">
+<br>
+<img src="/images/MT_3.png" style="width:48%">
+<br>
+<img src="/images/MT_4.png" style="width:70%">
+<br>
+<img src="/images/MT_5.png" style="width:48%">
+<br>
+<img src="/images/MT_6.png" style="width:70%">
+<br>
+<img src="/images/MT_7.png" style="width:70%">
 <br>
 </p><h4>Internal &amp; External Competitions</h4>
 <ul>
