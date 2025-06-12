@@ -13,10 +13,9 @@ variant: markdown
 <h3>Concord Daddies</h3>
 <center>
 	
-<iframe allowfullscreen="true" height="660" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs7Q7oxB7kt_00NaxbSFzjccnSplAoUZWHOzHuCJI3itWkIzoDF0ITpZjcYb6BMw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-	
+<iframe allowfullscreen="true" height="450" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs7Q7oxB7kt_00NaxbSFzjccnSplAoUZWHOzHuCJI3itWkIzoDF0ITpZjcYb6BMw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<br>	
 <br>
-<iframe frameborder="0" width="660" height="660" allowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6Hp560wpjpZuWi7IAQDCtZlPqyUrOq-GjyUzBz35so1PcOQlYQeNBc-n2f0stcbRT7N7wxVMODN3/embed?start=false&amp;loop=false&amp;delayms=3000">
+<iframe frameborder="0" width="680" height="450" allowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6Hp560wpjpZuWi7IAQDCtZlPqyUrOq-GjyUzBz35so1PcOQlYQeNBc-n2f0stcbRT7N7wxVMODN3/embed?start=false&amp;loop=false&amp;delayms=3000">
 </iframe>
 </center>
-
