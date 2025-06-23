@@ -1,0 +1,4 @@
+collections:
+  out-of-office:
+    output: true
+    order: []
