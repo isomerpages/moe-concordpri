@@ -4,9 +4,7 @@ title: Concord Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Color School Logo 1.png
 permalink: /
-notification: Please be informed that our General Office will be closed on
-  Tuesday, 24 June 2025 for a Staff Workshop. Big Heart Student Care Centre will
-  operate as per usual. Thank you.
+notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
