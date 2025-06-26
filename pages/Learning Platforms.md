@@ -57,17 +57,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay
+<p>
 <br>
-<br><a href="http://nadi.edumall.sg/nadi/slot/u100/index.htm" rel="noopener noreferrer nofollow" target="_blank">Nadi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language
+<p>
 <br>
-<br><a href="http://cultureb.edumall.sg/" rel="noopener noreferrer nofollow" target="_blank">Culture</a>
-<br><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html" rel="noopener noreferrer nofollow" target="_blank">Xuele</a>
-<br><a href="http://www.xuele.edumall.sg/" rel="noopener noreferrer nofollow" target="_blank">HappyTown</a>
+<br>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
