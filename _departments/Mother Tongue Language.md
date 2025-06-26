@@ -80,15 +80,15 @@ variant: markdown
 </p><figure>
 <img src="/images/mtl1.jpeg" style="width:40%">
 <b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl2.jpeg" style="width:70%">
 <b>Concordians engaged in community singing during CNY celebration</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl3.jpeg" style="width:70%">
 <b>Concordians sharing the meanings of Chinese New Year food</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl4.jpeg" style="width:70%">
 <b>ML students prepared healthy sandwiches for snack time</b>
@@ -108,8 +108,8 @@ variant: markdown
 <col style="width: 385px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix"><img src="/images/mtl5.jpeg" style="width:65%">Origami making (animal) for ML storytelling activity	</td>
+ <tr>
+ <td class="tg-nrix"><img src="/images/mtl5.jpeg" style="width:65%">Origami making (animal) for ML storytelling activity	</td>
     <td class="tg-nrix"><img src="/images/mtl6.jpeg" style="width:65%">Batik painting activity conducted for ML students 
 </td>
   </tr>
