@@ -75,7 +75,7 @@ variant: markdown
 <li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
 </ul>
 
-<p></p><p>For the&nbsp;<b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/calculators-and-dictionaries" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
+<p></p><p>For the&nbsp;<b>“List of approved calculators and dictionaries”</b>, please click <a href="https://www.seab.gov.sg/calculators-and-dictionaries" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
 </p><figure>
 <img src="/images/mtl1.jpeg" style="width:40%">
