@@ -74,7 +74,7 @@ variant: markdown
 <li>Competitions are held to encourage and motivate Concordians to channel their energies towards meaningful learning processes and outcomes, while showcasing what they have learnt in class.</li>
 <li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
 </ul>
-<br>
+
 <p></p><p>For the&nbsp;<b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/calculators-and-dictionaries" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
 </p><figure>
