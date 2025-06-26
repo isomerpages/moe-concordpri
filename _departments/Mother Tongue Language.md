@@ -41,12 +41,11 @@ variant: markdown
 </ul>
 
   
-
-<h4>Conversational Chinese &amp; Malay (CCM)</h4>
+<h4></h4>
 
 <ul>
-	<li>CCM programme is introduced to provide Concordians with an opportunity to learn and use another MT language, other than their own Mother Tongue language, to communicate and interact more with their schoolmates of different races.</li>
-<li>Learning another MT language for conversational purposes will help to nurture interaction among the ethnic communities and friendships between students, across races and religions.</li>
+
+
 </ul>
 
 
@@ -68,21 +67,7 @@ variant: markdown
 <p></p></li><li>As students develop their language proficiency, curiosity, and creativity through reading, we also provide platforms - such as various forms of internal competitions - for them to showcase their talents and demonstrate their growing mastery of the Mother Tongue languages.
 <p>Through this integrated approach, we remain dedicated to nurturing lifelong learners who are passionate and proficient in their Mother Tongue languages.
 	
-<br>
-<br>
-<img src="/images/MT_1.png" style="width:70%">
-<br>
-<img src="/images/MT_2.png" style="width:70%">
-<br>
-<img src="/images/MT_3.png" style="width:48%">
-<br>
-<img src="/images/MT_4.png" style="width:70%">
-<br>
-<img src="/images/MT_5.png" style="width:48%">
-<br>
-<img src="/images/MT_6.png" style="width:70%">
-<br>
-<img src="/images/MT_7.png" style="width:70%">
+
 <br>
 </p><h4>Internal &amp; External Competitions</h4>
 <ul>
@@ -90,29 +75,25 @@ variant: markdown
 <li>Aside from school-initiated programme, the department create opportunities for Concordians to participate in external competitions to provide authentic application of their language learning, stretch their language abilities, and build up their self-confidence and repertoire of experiences to face life challenges.</li>
 </ul>
 
-<p>For tips on&nbsp;<b>“How to support your children in the learning of Mother Tongue Languages”</b>, please click&nbsp;
-<a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" target="_blank" rel="noopener noreferrer">here</a>.<br>
-<br>
-</p><p>For the&nbsp;<b>“List of approved dictionaries”</b>, please click <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=47d1854f_2" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
+<p></p><p>For the&nbsp;<b>“List of approved calculators and dictionaries”</b>, please click <a href="https://www.seab.gov.sg/calculators-and-dictionaries" target="_blank" rel="noopener noreferrer">here</a>.<br><br>
 
 </p><figure>
 <img src="/images/mtl1.jpeg" style="width:40%">
 <b>CL Story Telling activity conducted as part of Mother Tongue Fortnight programme</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl2.jpeg" style="width:70%">
 <b>Concordians engaged in community singing during CNY celebration</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl3.jpeg" style="width:70%">
 <b>Concordians sharing the meanings of Chinese New Year food</b></figure>
-<br>
+
 <figure>
 <img src="/images/mtl4.jpeg" style="width:70%">
 <b>ML students prepared healthy sandwiches for snack time</b>
 </figure>
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -127,8 +108,8 @@ variant: markdown
 <col style="width: 385px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix"><img src="/images/mtl5.jpeg" style="width:65%">Origami making (animal) for ML storytelling activity	</td>
+ <tr>
+ <td class="tg-nrix"><img src="/images/mtl5.jpeg" style="width:65%">Origami making (animal) for ML storytelling activity	</td>
     <td class="tg-nrix"><img src="/images/mtl6.jpeg" style="width:65%">Batik painting activity conducted for ML students 
 </td>
   </tr>
@@ -136,6 +117,21 @@ variant: markdown
     <td class="tg-nrix"><img src="/images/mtl7.png" style="width:65%">TL Reading Activity – Clay Making 
 </td>
     <td class="tg-nrix"><img src="/images/mtl8.jpeg" style="width:65%">Kolam Drawing</td>
+
   </tr>
 </tbody>
 </table></li></ul>
+
+<img src="/images/MT_1.png" style="width:70%">
+<br>
+<img src="/images/MT_2.png" style="width:70%">
+<br>
+<img src="/images/MT_3.png" style="width:48%">
+<br>
+<img src="/images/MT_4.png" style="width:70%">
+<br>
+<img src="/images/MT_5.png" style="width:48%">
+<br>
+<img src="/images/MT_6.png" style="width:70%">
+<br>
+<img src="/images/MT_7.png" style="width:70%">
