@@ -125,47 +125,6 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <br><br>
 
 	
-<p></p><p></p><center><b style="color:#0000FF"></b></center>
-<br>
-
-<br>
-<p style="text-align:justify">
-<br><br>
-</p><h4></h4><br>
-
-<b></b>
-<br><br>
-
-
-<p style="text-align:justify">
-<br><br>
-
-</p><center><b></b></center>
-<br>
-
-
-<p style="text-align:justify">
+<a href="/departments/Science/our-achievements"><img style="width:30%" src="/images/BUTTON3.png"></a>
 	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-
-<table style="undefined;table-layout: fixed; width: 790px" class="tg">
-<colgroup>
-<col style="width:250px">
-<col style="width: 270px">
-<col style="width: 270px">
-</colgroup>
-<tbody>
- <tr>
-
-<td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
-</tr>
-</tbody>
-</table></p></b></b></li>
+</b></b></li>
