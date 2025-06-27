@@ -64,9 +64,9 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 </tbody>
 </table>
 	
-<p style="text-align:justify">Primary 3 students are given an opportunity to experience urban farming first-hand in our school’s garden during their Modular CCA. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
+<p style="text-align:justify"></p></li><li>Primary 3 students are given an opportunity to experience urban farming first-hand in our school’s garden during their Modular CCA. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
 <br><br>
-</p><p></p><center><b style="color:#0000FF">Primary 4 - Hydroponics</b></center>
+<p></p><p></p><center><b style="color:#0000FF">Primary 4 - Hydroponics</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -91,19 +91,24 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 </tbody>
 </table>
 	
-<p style="text-align:justify">Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after 3 weeks!
+<p style="text-align:justify"></p></li><li>Hydroponics is a soilless farming technology commonly used in Singapore. This hands-on programme provides a good opportunity for students to reinforce their learning on plants and plant parts. Primary 4 students get to grow vegetables in our school’s hydroponics system, from transplanting seedlings to harvesting the adult plant after three to four weeks!
 <br><br>
-</p><p></p><center><b style="color:#0000FF">Primary 5 - High Achievers</b></center>
-<img style="width:40%" src="/images/High Achievers.jpg">
+<p></p><p></p><center><b style="color:#0000FF">Primary 5 - High Achievers in Science Programme (for selected students)</b></center>
 
-<p style="text-align:justify">It is a special programme that aims to nurture selected Science High Progress Concordians to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE Primary Science Syllabus. This customised programme also provides opportunity for them to represent our school for Science competitions.
+
+<p style="text-align:justify"></p></li><li>The High Achievers in Science programme aims to nurture selected Concordians who demonstrates high readiness and strong passion in the learning of science to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE- Primary Science Syllabus. Students are given opportunities to participate in E2K Science and also provides opportunities for them to represent our school for Science competitions.                                                                                     
 <br><br>
+	
+	
+	
+	
+	
+	
+	
+	
   
-</p><p></p><center><b style="color:#0000FF">Primary 6 - PASS and ACE</b></center>
-<img style="width:30%" src="/images/Pass and Ace.png">
-
-<p style="text-align:justify">PASS and ACE programmes aim to provide students with additional resources and support in preparation for Science PSLE. Science concepts, process skills and answering skills learnt from P3 to P6 are revised. ACE programme also extends the learning of our students.<br>
-
+<p></p><p></p><center><b style="color:#0000FF"></b></center>
+<p style="text-align:justify"><br>
 <br>
 </p><p></p><center><b style="color:#0000FF">Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></center>
 
