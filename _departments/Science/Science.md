@@ -99,45 +99,36 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <p style="text-align:justify"></p></li><li>The High Achievers in Science programme aims to nurture selected Concordians who demonstrates high readiness and strong passion in the learning of science to be self-directed students with 21st Century skills such as Critical and Inventive thinking. We aim to inspire these students to learn beyond the MOE- Primary Science Syllabus. Students are given opportunities to participate in E2K Science and also provides opportunities for them to represent our school for Science competitions.                                                                                     
 <br><br>
 	
-	
-	
-	
-	
-	
-	
-	
   
+ <img style="width:45%" src="/images/E2K_Science_2.jpg">
+	 <b><p></p>
+ <img style="width:45%" src="/images/E2K_Science_1.jpg">
+	 <b><p></p>
+	<img style="width:45%" src="/images/E2k_Science_3.jpg">
+  
+
+	
+	 
 <p></p><p></p><center><b style="color:#0000FF"></b></center>
 <p style="text-align:justify"><br>
-<br>
-</p><p></p><center><b style="color:#0000FF">Primary 1 to 6 - ecopals @Concord(Environmental Education)</b></center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<br>	
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width:400px">
-<col style="width: 400px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img style="width:100%" src="/images/ecopal@Concord logo.png"></td>
-		<td class="tg-0lax"><img style="width:70%" src="/images/Environmental Education.png"></td>
-  </tr>
-</tbody>
-</table>
+</p><p></p><center><b style="color:#0000FF">Primary 1 to 6 - Ecopals @Concord(Environmental Education)</b></center>
+<br><br>
+
+    <img style="width:50%" src="/images/ecopal@Concord logo.png">
+		<br>
+		<img style="width:35%" src="/images/EcoPals_1.jpg">
+	<br>
+	  <img style="width:55%" src="/images/EcoPal2.jpg">
+  
+
+
 	
-<p style="text-align:justify">This programme is in line with our school values and iCare culture. It aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes. As a recognised Green School, the programme engages our students with “Green” programmes so that every student can take action to keep our environment sustainable for the future.<br><br>
+<p style="text-align:justify"></p></b></b></li><li><b><b>This programme aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes.
+</b></b></li><li><b><b>As a recognised Green School, the programme engages our students with "Green" programmes so that every student can take action to keep our environment sustainable for the future.
+<br><br>
 
-</p><p></p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center>
+<p></p><p></p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center>
 <br>
 <img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
 <br>
@@ -181,4 +172,4 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
 </tr>
 </tbody>
-</table></p></li>
+</table></p></b></b></li>
