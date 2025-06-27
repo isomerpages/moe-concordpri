@@ -36,9 +36,7 @@ the classroom.
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/Opportunities_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/Oppurtunities_2.jpg">
 </div>
@@ -70,6 +68,7 @@ of Science by nurturing inquisitive minds and a sense of wonder in every
 child.
 <br>
 </p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Primary 3 - Little Farmers</strong>
@@ -102,6 +101,7 @@ first-hand in our school’s garden during their Modular CCA. Besides reinforcin
 their Science learning on plants, it inculcates outdoor education life
 skills, shelter building, dengue prevention as well as the values of responsibility,
 teamwork and care towards plants and our environment.</p>
+<p></p>
 <p><strong>3. Primary 4 - Hydroponics</strong>
 </p>
 <table style="minWidth: 50px">
@@ -131,6 +131,7 @@ vegetables in our school’s hydroponics system, from transplanting seedlings
 to harvesting the adult plant after three to four weeks!
 <br>
 </p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Primary 5 - High Achievers in Science Programme (for selected students)</strong>
@@ -158,9 +159,6 @@ represent our school for Science competitions.
 <img style="width:38%" height="auto" width="100%" src="/images/E2k_Science_3.jpg">
 </div>
 <p></p>
-<p></p>
-<p><strong><br></strong>
-</p>
 <p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
