@@ -100,11 +100,11 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <br><br>
 	
   
- <img style="width:45%" src="/images/E2K_Science_2.jpg">
+ <img style="width:38%" src="/images/E2K_Science_2.jpg">
 	 <b><p></p>
- <img style="width:45%" src="/images/E2K_Science_1.jpg">
+ <img style="width:38%" src="/images/E2K_Science_1.jpg">
 	 <b><p></p>
-	<img style="width:45%" src="/images/E2k_Science_3.jpg">
+	<img style="width:38%" src="/images/E2k_Science_3.jpg">
   
 
 	
@@ -114,11 +114,11 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 
 </p><p></p><center><b style="color:#0000FF">Primary 1 to 6 - Ecopals @Concord(Environmental Education)</b></center>
 <br><br>
- <img style="width:50%" src="/images/ecopal@Concord logo.png">
+ <img style="width:60%" src="/images/ecopal@Concord logo.png">
 	<br>
-	<img style="width:35%" src="/images/EcoPals_1.jpg">
-	<br>
-	<img style="width:55%" src="/images/EcoPal2.jpg">
+	<img style="width:40%" src="/images/EcoPals_1.jpg">
+		 <br>
+	<img style="width:40%" src="/images/EcoPal2.jpg">
   
 <p style="text-align:justify"></p></b></b></li><li><b><b>This programme aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes.
 </b></b></li><li><b><b>As a recognised Green School, the programme engages our students with "Green" programmes so that every student can take action to keep our environment sustainable for the future.
