@@ -18,19 +18,21 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <p style="text-align:justify">The Science Curriculum Framework encapsulates the thrust of Science education in Singapore to provide students with strong fundamentals in Science for life, learning, citizenry and work.
 <br>
 <br>
-<img src="/images/framework 2.png" style="width:80%">
+<img src="/images/framework 2.png" style="width:90%">
 </p><h2></h2>
 
-<p style="text-align:justify">Conco
-
-
-
+<p style="text-align:justify">Concordians are given opportunities to develop the ways of thinking and doing science through various learning experiences. They engage in discussions, hands-on activiries and the use of SPAKLE kits bring Science to life in the classroom.
 <br>
-</p><h3><b>KEY PROGRAMMES</b></h3>
+<br>
+<img src="/images/Opportunities_1.jpg" style="width:35%">
+	<br>
+<img src="/images/Oppurtunities_2.jpg" style="width:40%">
+<br>
+</p><h3><b>Science Key Programmes</b></h3>
 <br>
 <b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
 <br><br>
-<img style="width:40%" src="/images/Colours.jpg">
+<img style="width:35%" src="/images/Colours.jpg">
 	
 <p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
 
