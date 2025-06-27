@@ -21,7 +21,7 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <img src="/images/framework 2.png" style="width:90%">
 </p><h2></h2>
 
-<p style="text-align:justify">Concordians are given opportunities to develop the ways of thinking and doing science through various learning experiences. They engage in discussions, hands-on activiries and the use of SPAKLE kits bring Science to life in the classroom.
+<p style="text-align:justify">Concordians are given opportunities to develop the ways of thinking and doing science through various learning experiences. They engage in discussions, hands-on activities and the use of SPAKLE kits bring Science to life in the classroom.
 <br>
 <br>
 <img src="/images/Opportunities_1.jpg" style="width:40%">
@@ -34,8 +34,8 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 
 <img style="width:45%" src="/images/Colours.jpg">
 	
-<p style="text-align:justify"></p><li>At COL.OURS, we believe that the spirit of scientific inquiry begins early. Although there is no formal Science curriculum at the Primary 1 and 2 levels, our young learners are immersed in richand exciting experiences that ignite their curiousity about the world around them.
-</li><li>Through engaging science videos, hand-on activities both inside and outside the classroom, and a thoughtfully curated selection of non-frictionScience books, students are encourageed to explore, ask questions, and discover.
+<p style="text-align:justify"></p><li>At COL.OURS, we believe that the spirit of scientific inquiry begins early. Although there is no formal Science curriculum at the Primary 1 and 2 levels, our young learners are immersed in rich and exciting experiences that ignite their curiosity about the world around them.
+</li><li>Through engaging science videos, hand-on activities both inside and outside the classroom, and a thoughtfully curated selection of non-fiction Science books, students are encouraged to explore, ask questions, and discover.
 </li><li>COL.OURS@ Primary 1&amp;2 lays a strong foundation for a lifelong love of Science by nurturing inquisitive minds and a sense of wonder in every child.
 
 <br>
