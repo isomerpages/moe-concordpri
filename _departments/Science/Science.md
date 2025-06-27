@@ -29,10 +29,10 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <img src="/images/Oppurtunities_2.jpg" style="width:45%">
 <br>
 </p><h3><b>Science Key Programmes</b></h3>
-<br>
-<b style="color:#0000FF">COL.OURS @ Primary 1 &amp; 2: Centre of Learning - Our Unique Research in Science</b>
-<br><br>
-<img style="width:35%" src="/images/Colours.jpg">
+
+<p></p><center><b style="color:#0000FF">COL.OURS @ Primary 1 &amp; 2: Centre of Learning - Our Unique Research in Science</b></center>
+
+<img style="width:45%" src="/images/Colours.jpg">
 	
 <p style="text-align:justify"></p><li>At COL.OURS, we believe that the spirit of scientific inquiry begins early. Although there is no formal Science curriculum at the Primary 1 and 2 levels, our young learners are immersed in richand exciting experiences that ignite their curiousity about the world around them.
 </li><li>Through engaging science videos, hand-on activities both inside and outside the classroom, and a thoughtfully curated selection of non-frictionScience books, students are encourageed to explore, ask questions, and discover.
