@@ -24,20 +24,22 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 <p style="text-align:justify">Concordians are given opportunities to develop the ways of thinking and doing science through various learning experiences. They engage in discussions, hands-on activiries and the use of SPAKLE kits bring Science to life in the classroom.
 <br>
 <br>
-<img src="/images/Opportunities_1.jpg" style="width:35%">
+<img src="/images/Opportunities_1.jpg" style="width:40%">
 	<br>
-<img src="/images/Oppurtunities_2.jpg" style="width:40%">
+<img src="/images/Oppurtunities_2.jpg" style="width:45%">
 <br>
 </p><h3><b>Science Key Programmes</b></h3>
 <br>
-<b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
+<b style="color:#0000FF">COL.OURS @ Primary 1 &amp; 2: Centre of Learning - Our Unique Research in Science</b>
 <br><br>
 <img style="width:35%" src="/images/Colours.jpg">
 	
-<p style="text-align:justify">COL.OURS stands for Centre Of Learning -Our Unique Researches in Science. It is to support Science learning for the Primary 1 and 2 students. Our students are exposed to exciting science videos, science activities in and out of the classroom so that they can explore different things around them as well as interesting non-fiction Science books to bring them into the world of wonder!
+<p style="text-align:justify"></p><li>At COL.OURS, we believe that the spirit of scientific inquiry begins early. Although there is no formal Science curriculum at the Primary 1 and 2 levels, our young learners are immersed in richand exciting experiences that ignite their curiousity about the world around them.
+</li><li>Through engaging science videos, hand-on activities both inside and outside the classroom, and a thoughtfully curated selection of non-frictionScience books, students are encourageed to explore, ask questions, and discover.
+</li><li>COL.OURS@ Primary 1&amp;2 lays a strong foundation for a lifelong love of Science by nurturing inquisitive minds and a sense of wonder in every child.
 
-<br><br>
-</p><p></p><center><b style="color:#0000FF">Primary 3 - Little Farmers</b></center>
+<br>
+<p></p><p></p><center><b style="color:#0000FF">Primary 3 - Little Farmers</b></center>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -174,4 +176,4 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
 </tr>
 </tbody>
-</table></p>
+</table></p></li>
