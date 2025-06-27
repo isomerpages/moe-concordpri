@@ -7,30 +7,26 @@ variant: markdown
 ---
 <h2>Vision</h2>
 
-Every student an inquirer.
+Every students is a lifelong learner with a curious mind and a spirit of scientific inquiry.
 
 <h2>Mission</h2>
 
-<p style="text-align:justify">To develop students to be curious about the world and to equip them with the necessary skills for Science inquiry.
+<p style="text-align:justify">To nurture the joy of learning in Science by developing inquiring minds, responsible decision-making, and an appreciation of how Science connects us to the world around us.
 
 </p><h2>Our Science Curriculum Framework</h2>
-
-<p style="text-align:justify">It encapsulates the thrust of Science education in Singapore to provide students with strong fundamentals in Science for life, learning, citizenry and work.
-	
+<p></p><h4>(Source: MOE Primary Science Syllabus)</h4>
+<p style="text-align:justify">The Science Curriculum Framework encapsulates the thrust of Science education in Singapore to provide students with strong fundamentals in Science for life, learning, citizenry and work.
+<br>
+<br>
 <img src="/images/framework 2.png" style="width:80%">
+</p><h2></h2>
 
-</p><h2>Different Types of Learning</h2>
+<p style="text-align:justify">Conco
 
-<center><b>Inquisitive Learning</b>
-	<img style="width:55%" src="/images/Inquistive Learning.jpg">
+
+
 <br>
-<center><b>Experiential Learning</b>
-  <img style="width:55%" src="/images/Experiential Learning.jpg">
-<br>
-<center><b>P1 Orientation Science Booth</b>
-<img style="width:55%" src="/images/P1_Orientation_Science_Booth.png">
-<br>
-<h3><b>KEY PROGRAMMES</b></h3>
+</p><h3><b>KEY PROGRAMMES</b></h3>
 <br>
 <b style="color:#0000FF">Primary 1 to 2 - COL.OURS</b>
 <br><br>
@@ -176,4 +172,4 @@ Every student an inquirer.
 	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
 </tr>
 </tbody>
-</table></p></center></center></center>
+</table></p>
