@@ -14,7 +14,8 @@ responsible decision-making, and an appreciation of how Science connects
 us to the world around us.</p>
 <h2>Our Science Curriculum Framework</h2>
 <p></p>
-<h4>(Source: MOE Primary Science Syllabus)</h4>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener nofollow" target="_blank">(Source: MOE Primary Science Syllabus)</a>
+</p>
 <p>The Science Curriculum Framework encapsulates the thrust of Science education
 in Singapore to provide students with strong fundamentals in Science for
 life, learning, citizenry and work.
