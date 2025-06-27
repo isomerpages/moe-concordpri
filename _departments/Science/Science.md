@@ -58,13 +58,13 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img style="width:85%" src="/images/Little Farmers Logo.jpg"></td>
-		<td class="tg-0lax"><img style="width:65%" src="/images/Little Farmers 1.jpg"></td>
+    <td class="tg-0lax"><img src="/images/Little_Farmers_logo.png"></td>
+		<td class="tg-0lax"><img src="/images/Little_Farmers_3.jpg"></td>
   </tr>
 </tbody>
 </table>
 	
-<p style="text-align:justify">Students are given an opportunity to experience urban farming first-hand in our school’s garden during their MCCA period. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
+<p style="text-align:justify">Primary 3 students are given an opportunity to experience urban farming first-hand in our school’s garden during their Modular CCA. Besides reinforcing their Science learning on plants, it inculcates outdoor education life skills, shelter building, dengue prevention as well as the values of responsibility, teamwork and care towards plants and our environment.
 <br><br>
 </p><p></p><center><b style="color:#0000FF">Primary 4 - Hydroponics</b></center>
 
@@ -85,8 +85,8 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img style="width:75%" src="/images/Hydroponics in school logo.png"></td>
-		<td class="tg-0lax"><img style="width:85%" src="/images/Hydroponics.jpg"></td>
+    <td class="tg-0lax"><img style="width:85%" src="/images/Hydroponics in school logo.png"></td>
+		<td class="tg-0lax"><img style="width:95%" src="/images/Hydroponics.jpg"></td>
   </tr>
 </tbody>
 </table>
