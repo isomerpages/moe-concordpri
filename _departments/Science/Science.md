@@ -114,40 +114,37 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 
 </p><p></p><center><b style="color:#0000FF">Primary 1 to 6 - Ecopals @Concord(Environmental Education)</b></center>
 <br><br>
-
-    <img style="width:50%" src="/images/ecopal@Concord logo.png">
-		<br>
-		<img style="width:35%" src="/images/EcoPals_1.jpg">
+ <img style="width:50%" src="/images/ecopal@Concord logo.png">
 	<br>
-	  <img style="width:55%" src="/images/EcoPal2.jpg">
+	<img style="width:35%" src="/images/EcoPals_1.jpg">
+	<br>
+	<img style="width:55%" src="/images/EcoPal2.jpg">
   
-
-
-	
 <p style="text-align:justify"></p></b></b></li><li><b><b>This programme aims to help students understand the environment, be aware of the current complex issues facing our earth and the future prospect or impact of environmental changes.
 </b></b></li><li><b><b>As a recognised Green School, the programme engages our students with "Green" programmes so that every student can take action to keep our environment sustainable for the future.
 <br><br>
 
-<p></p><p></p><center><b style="color:#0000FF">Primary 3 to 5 - Creative Toy Making Workshop</b></center>
+	
+<p></p><p></p><center><b style="color:#0000FF"></b></center>
 <br>
-<img style="width:40%" src="/images/Creative Toy Making Workshop.jpg">
+
 <br>
-<p style="text-align:justify">Selected students were invited to attend the toy making workshop conducted by the Science Department. They were given opportunities to make a toy, play with the toy, discover the Science behind the toy, make the toy better by reflecting on his/her learning and brainstorm ideas for the toy-making competition to enter the Sony Creative Science Award 2022.
+<p style="text-align:justify">
 <br><br>
-</p><h4>Other Programmes</h4><br>
+</p><h4></h4><br>
 
-<b>Parent Symposium</b>
-<br><br>
-<img style="width:65%" src="/images/Parent Symposium.png">
-
-<p style="text-align:justify">Organised once yearly, the parents’ Science workshops are open to parents whose child is studying Science from Primary 3 to Primary 6. This event lets parents be familiar with the Science syllabus and some key concepts taught. We aim to equip parents with some strategies to support their child in the learning of Science at home.
+<b></b>
 <br><br>
 
-</p><center><b>Professional Learning Team (PLT)</b></center>
-<br>
-<img style="width:65%" src="/images/PLT.jpg">
 
-<p style="text-align:justify">Every year, Professional Learning Teams of Science teachers will be formed and we will work collaboratively to develop NEW strategies or methodologies to improve the teaching and learning of selected science topics.
+<p style="text-align:justify">
+<br><br>
+
+</p><center><b></b></center>
+<br>
+
+
+<p style="text-align:justify">
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -167,9 +164,8 @@ Every students is a lifelong learner with a curious mind and a spirit of scienti
 </colgroup>
 <tbody>
  <tr>
-    <td class="tg-0lax"><a href="/departments/Science/outdoor-science-learning-trails"><img style="width:80%" src="/images/button1.png"></a></td>
-		<td class="tg-0lax"><a href="/departments/Science/eco-pals-at-concord"><img style="width:85%" src="/images/BUTTON2.png"></a></td>
-	 <td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
+
+<td class="tg-0lax"><a href="/departments/Science/our-achievements"><img style="width:80%" src="/images/BUTTON3.png"></a></td>
 </tr>
 </tbody>
 </table></p></b></b></li>
