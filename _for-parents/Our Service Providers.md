@@ -126,7 +126,7 @@ The renovation works will commence from 10 July 2025 and will take around 3 mont
 2.	Child to be in school attire <br>
 3.	Stay within the clinic vicinity <br>
 4.	Leave the school upon completion of treatment <br>
-	<br><br><span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
+<br><span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://consent.hpb.gov.sg/" target="_blank" rel="noopener noreferrer">
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a></td>
 	
