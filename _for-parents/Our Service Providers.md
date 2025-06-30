@@ -84,8 +84,6 @@ Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">911
 <div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a><br><br><br><br><br><br><br>
 	<span style="font-weight:bold;text-decoration:underline">Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</span><br>
 The renovation works will commence from 10 July 2025 and will take around 3 months. During this period, the School Dental Clinic will close. Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School. <br>   <br>      
-         
-
 <table style="width:12.0cm;margin-left:28.1pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt" width="454" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:4.0cm;border:solid windowtext 1.0pt;mso-border-alt:
@@ -124,13 +122,14 @@ The renovation works will commence from 10 July 2025 and will take around 3 mont
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td><td style="width:77.95pt;border:none;mso-border-top-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p style="margin-bottom:0cm;text-align:right;
   line-height:normal" align="right" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table><br> 
-	**HPB Instructions to parents/students:** <br>
+  &quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table> 
+<span style="font-weight:bold">HPB Instructions to parents/students:</span><br>
 1.	Call/WhatsApp the clinic for an appointment<br>
 2.	Child to be in school attire <br>
 3.	Stay within the clinic vicinity <br>
 4.	Leave the school upon completion of treatment <br>
 	</td>
+	
 </tr>
 <tr>
     <td class="tg-info">2.</td>
