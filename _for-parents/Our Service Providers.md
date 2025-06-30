@@ -79,9 +79,7 @@ Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">911
 <br>
 		<img src="/images/Dental_Jul_2025.png" style="width:100%">
 		<br>
-	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
-<a href="https://consent.hpb.gov.sg/" target="_blank" rel="noopener noreferrer">
-<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a><br><br><br><br><br><br><br>
+
 	<span style="font-weight:bold;text-decoration:underline">Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</span><br>
 The renovation works will commence from 10 July 2025 and will take around 3 months. During this period, the School Dental Clinic will close. Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School. <br>   <br>      
 <table style="width:12.0cm;margin-left:28.1pt;border-collapse:collapse;border:none;
@@ -128,7 +126,9 @@ The renovation works will commence from 10 July 2025 and will take around 3 mont
 2.	Child to be in school attire <br>
 3.	Stay within the clinic vicinity <br>
 4.	Leave the school upon completion of treatment <br>
-	</td>
+	<br><br><span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
+<a href="https://consent.hpb.gov.sg/" target="_blank" rel="noopener noreferrer">
+<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a></td>
 	
 </tr>
 <tr>
