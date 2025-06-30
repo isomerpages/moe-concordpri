@@ -91,7 +91,7 @@ The renovation works will commence from 10 July 2025 and will take around 3 mont
 | Chua Chu Kang Primary     | 20 Choa Chu Kang Ave 2 S689905     | 9822 8628     |
 | South View Primary     | 6 Choa Chu Kang Central S689762     | 9115 6994     |
 
-**HPB Instructions to parents/students:** <br>
+<br>**HPB Instructions to parents/students:** <br>
 1.	Call/WhatsApp the clinic for an appointment<br>
 2.	Child to be in school attire <br>
 3.	Stay within the clinic vicinity <br>
