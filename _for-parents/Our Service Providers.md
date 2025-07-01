@@ -77,15 +77,59 @@ Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 
 Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
 Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Mobile Clinic: <span style="font-weight:bold;text-decoration:underline">91864607</span><br>
 <br>
-		<img src="/images/Dental_Jun_2025.png" style="width:100%">
-		<br>
-	<span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
+		<img src="/images/Dental_Jul_2025.png" style="width:100%">
+
+<span style="font-weight:bold;text-decoration:underline">Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</span><br>
+The renovation works will commence from 10 July 2025 and will take around 3 months. During this period, the School Dental Clinic will close. Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School. <br>   <br>      
+<table style="width:12.0cm;margin-left:28.1pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt" width="454" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:4.0cm;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="151"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">Buddy Clinic</span></b></p></td><td style="width:148.85pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="198"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">Address</span></b></p></td><td style="width:77.95pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="104"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">Contact Number</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:4.0cm;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="151"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Chua Chu Kang Primary</span></p></td><td style="width:148.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">20 Choa Chu Kang Ave 2 S689905</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="104"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">9822 8628</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:4.0cm;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="151"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">South View Primary</span></p></td><td style="width:148.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">6 Choa Chu Kang Central SS689762</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="104"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">9115 6994</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:4.0cm;border:none;mso-border-top-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td><td style="width:148.85pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td><td style="width:77.95pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p style="margin-bottom:0cm;text-align:right;
+  line-height:normal" align="right" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table> 
+<span style="font-weight:bold">HPB Instructions to parents/students:</span><br>
+1.	Call/WhatsApp the clinic for an appointment<br>
+2.	Child to be in school attire <br>
+3.	Stay within the clinic vicinity <br>
+4.	Leave the school upon completion of treatment <br>
+	<br><span style="font-weight:bold;text-decoration:underline">Child Consent Portal</span>
 <a href="https://consent.hpb.gov.sg/" target="_blank" rel="noopener noreferrer">
-<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a>
-	</td>
+<div style="text-align:left;"><img src="/images/DentalQRCode.png" style="width:25%" align="left"></div></a></td>
+	
 </tr>
-
-
 <tr>
     <td class="tg-info">2.</td>
     <td class="tg-title">
