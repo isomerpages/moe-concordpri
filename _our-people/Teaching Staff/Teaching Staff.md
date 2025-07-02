@@ -17,7 +17,7 @@ variant: markdown
 </style>
 <span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>
 
-<a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
