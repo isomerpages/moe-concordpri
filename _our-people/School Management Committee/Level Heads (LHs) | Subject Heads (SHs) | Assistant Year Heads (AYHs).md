@@ -52,9 +52,10 @@ variant: markdown
     <td class="tg-yhj3">SH Educational Support </td>
     <td class="tg-o5fr"><a href="mailto:widiah_halwa_sawandi@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">widiah_halwa_sawandi@moe.edu.sg</span></a></td>
   </tr>
+
   <tr>
     <td class="tg-yhj3">Mdm Chua Baofeng Jenny </td>
-    <td class="tg-yhj3">AYH Lower Primary </td>
+    <td class="tg-yhj3">AYH Middle Primary </td>
     <td class="tg-o5fr"><a href="mailto:chua_baofeng_jenny@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">chua_baofeng_jenny@moe.edu.sg</span></a></td>
   </tr>
   <tr>

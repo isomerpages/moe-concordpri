@@ -44,11 +44,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yhj3">Mdm Christine Tan Shi Qi<br></td>
-    <td class="tg-yhj3"> HOD Science (Internal)</td>
+    <td class="tg-yhj3"> HOD Science (Covering)</td>
     <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-yhj3"> Mr Tay Soo Hong</td>
+    <td class="tg-yhj3"> Mr Mohammad Hisham B Amat</td>
     <td class="tg-yhj3"> HOD Student Management</td>
     <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
   </tr>
@@ -56,11 +56,6 @@ variant: markdown
     <td class="tg-yhj3">Mdm Norlita Bte Muhamad Sah<br></td>
     <td class="tg-yhj3"> School Staff Developer (SSD)<br></td>
     <td class="tg-o5fr"><a href="mailto:norlita_muhamad_sah@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norlita_muhamad_sah@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Tan Yoke Yin<br></td>
-    <td class="tg-yhj3">HOD CCE<br></td>
-    <td class="tg-yhj3"><a href="mailto:tan_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_yoke_yin@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-yhj3"> Mr Aidil Sharil Bin Solikin</td>
@@ -73,7 +68,7 @@ variant: markdown
     <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
 		</tr>
   <tr>
-    <td class="tg-yhj3">Mr Mohammad Hisham B Amat<br></td>
+    <td class="tg-yhj3">Mdm Tan Yoke Yin<br></td>
     <td class="tg-yhj3">Year Head Upper Primary<br></td>
     <td class="tg-o5fr"><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">mohammad_hisham_b_amat@moe.edu.sg</span></a> </td>
 	</tr>

@@ -17,7 +17,7 @@ variant: markdown
 </style>
 <span style="font-size:24px"><b>Primary 1 Form Teachers</b></span><br>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
+<a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br><table align="left" class="tg" style="undefined; table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 80px">
 <col style="width: 234px">
@@ -43,7 +43,6 @@ variant: markdown
    <td class="tg-yhj3">P1B<br></td>
    <td class="tg-yhj3"><a href="mailto:nur_alifah_samsudin@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Nur Alifah Binte Samsudin     </a><br></td>
 <td class="tg-yhj3"><a href="mailto:nur_rasyiqah_syakirah_roslan@moe.edu,sg" style="text-decoration:none; color:#1ABC9C">Mdm Nur Rasyiqah Syakirah Binte Roslan</a><br></td>
-<td class="tg-yhj3"><a href="mailto:yap_yan_ting_sabrina@moe.edu.sg" style="text-decoration:none; color:#1ABC9C">Mdm Sabrina Yap Yan Ting</a><br></td>
 </tr>
 <tr>
   <td class="tg-yhj3">P1C<br></td>
@@ -55,7 +54,7 @@ variant: markdown
 <tr>
   <td class="tg-yhj3">P1D<br></td>
   <td class="tg-yhj3"><a href="mailto:seow_siew_mei@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Seow Siew Mei (Mrs Wong)</a><br></td>
- <td class="tg-yhj3"><a href="mailto:heng_chwee_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Miss Heng Chwee Hong</a><br></td>
+ <td class="tg-yhj3"><a href="mailto:li_siwan@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Li Siwan</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
@@ -67,7 +66,8 @@ variant: markdown
 <tr>
   <td class="tg-yhj3">P1F<br></td>
   <td class="tg-yhj3"><a href="mailto:zaneth_mohd_kassim@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Ms Zaneth Bte Mohd Kassim</a><br></td>
-<td class="tg-yhj3"><a href="mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
+<td class="tg-yhj3"><a href="mailto:mailto:nur_eva_jailani@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nur Eva Binte Jailani</a><br></td>
+	<td class="tg-yhj3"><a href="mailto:mailto:mailto:mumtaj_jinnah@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Mumtaj Jinnah</a><br></td>
 	<td class="tg-yhj3"><br></td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ variant: markdown
     <td class="tg-yhj3">P6B<br></td>
     <td class="tg-yhj3"><a href="mailto:vijayletchumi_periasamy@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Vijayletchumi d/o Periasamy</a><br></td>
 <td class="tg-yhj3"><a href="mailto:tnor_hayati_salimik@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mdm Nor Hayati Bte Salimik</a><br></td>
-		<td class="tg-yhj3"><a href="mailto:tay_soo_hong@moe.edu.sg" style="text-decoration:none;color:#1ABC9C">Mr Tay Soo Hong</a><br></td>
+		
 <td><br></td>
 </tr>
 <tr>
