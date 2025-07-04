@@ -3,82 +3,144 @@ title: Head of Departments (HODs) | Year Heads (YHs)
 permalink: /our-people/School-Management-Committee/HODs-YHs/
 description: ""
 third_nav_title: School Management Committee
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined; table-layout: fixed; width: 820px">
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 300px">
-<col style="width: 220px">
-<col style="width: 300px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-feqv"><span style="color:#666">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#666">Email address</span></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Tan Kim Keong<br></td>
-    <td class="tg-yhj3">HOD Special Projects<br></td>
-    <td class="tg-o5fr"><a href="mailto:tan_kim_keong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_kim_keong@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Siti Rianawati Bte S A Shukor<br></td>
-    <td class="tg-yhj3">HOD English Language</td>
-    <td class="tg-o5fr"><a href="mailto:siti_rianawati_shukor@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">siti_rianawati_shukor@moe.edu.sg</span></a><br></td>
-  </tr>
-	 <tr>
-    <td class="tg-yhj3">Mdm Teoh Kah Min<br></td>
-    <td class="tg-yhj3">HOD Mother Tongue Languages</td>
-    <td class="tg-o5fr"><a href="mailto:teoh_kah_min@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">teoh_kah_min@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Christine Tan Shi Qi<br></td>
-    <td class="tg-yhj3"> HOD Science (Covering)</td>
-    <td class="tg-o5fr"><a href="mailto:tan_shi_qi_christine@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tan_shi_qi_christine@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3"> Mr Mohammad Hisham B Amat</td>
-    <td class="tg-yhj3"> HOD Student Management</td>
-    <td class="tg-o5fr"><a href="mailto:tay_soo_hong@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">tay_soo_hong@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Norlita Bte Muhamad Sah<br></td>
-    <td class="tg-yhj3"> School Staff Developer (SSD)<br></td>
-    <td class="tg-o5fr"><a href="mailto:norlita_muhamad_sah@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">norlita_muhamad_sah@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3"> Mr Aidil Sharil Bin Solikin</td>
-    <td class="tg-yhj3">  HOD PE</td>
-    <td class="tg-o5fr"><a href="mailto:aidil_sharil_solikin@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">aidil_sharil_solikin@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Kumaran s/o Veerapandian<br></td>
-    <td class="tg-yhj3">Year Head Middle Primary <br></td>
-    <td class="tg-o5fr"><a href="mailto:kumaran_veerapandian@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">kumaran_veerapandian@moe.edu.sg</span></a> </td>
-		</tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Tan Yoke Yin<br></td>
-    <td class="tg-yhj3">Year Head Upper Primary<br></td>
-    <td class="tg-o5fr"><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">mohammad_hisham_b_amat@moe.edu.sg</span></a> </td>
-	</tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Quek Bee Ha (Mrs Lau)<br></td>
-    <td class="tg-yhj3">Year Head Lower Primary <br></td>
-    <td class="tg-o5fr"><a href="mailto:quek_bee_ha@moe.edu.sg"><span style="text-decoration:none;color:#FD6500">quek_bee_ha@moe.edu.sg</span></a> </td>
-	</tr>
-  <tr>
-    
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Rianawati Bte S A Shukor
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_rianawati_shukor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rianawati_shukor@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teoh Kah Min
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teoh_kah_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_kah_min@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Aidil Sharil Bin Solikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aidil_sharil_solikin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_sharil_solikin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Hisham B Amat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_soo_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soo_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kim Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norlita Bte Muhamad Sah
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norlita_muhamad_sah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlita_muhamad_sah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Quek Bee Ha (Mrs Lau)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_bee_ha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_bee_ha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaran s/o Veerapandian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kumaran_veerapandian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Yoke Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hisham_b_amat@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
