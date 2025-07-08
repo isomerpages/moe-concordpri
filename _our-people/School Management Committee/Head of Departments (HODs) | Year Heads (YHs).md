@@ -73,7 +73,7 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_soo_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soo_hong@moe.edu.sg</a>
+<p><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hisham_b_amat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>Year Head Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hisham_b_amat@moe.edu.sg</a>
+<p><a href="mailto:tan_yoke_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
