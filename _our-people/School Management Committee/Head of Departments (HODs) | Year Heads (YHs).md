@@ -85,7 +85,7 @@ variant: tiptap
 <p>HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
+<p><a href="mailto:tan_kim_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
