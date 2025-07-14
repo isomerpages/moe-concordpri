@@ -17,7 +17,11 @@ Vision and Motto and the Desired Outcome of Education.
 </p>
 <p>The Five Practices of The Leadership Challenge Model and the key behavior
 of Prefects are as shown in the table below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,20 +200,5 @@ the official appointment of Prefects.
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/15)%20Training%203.jpeg">
-</div>
-<h4><strong>Teachers’ Day Celebration</strong></h4>
-<p>Every year, the prefects put together a performance and the Executive
-Committee prefects will put together a gift to show appreciation to the
-school on this special day.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/pb17.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/pb18.jpeg">
 </div>
 <p></p>
