@@ -159,10 +159,9 @@ hours including recess, CCA and after-school programme (e.g. supplementary/enric
 lessons).</p>
 </li>
 <li>
-<p>Students who bring smartphones are to put in lockers or their school bags
-( in the absence of lockers) before school start time. They can retrieve
-their smartphones after school ends. Students will bear responsibility
-for the safekeeping of devices.</p>
+<p>Students who bring smartphones are to put in lockers provided outside
+classrooms before school starts. They can retrieve their smartphones after
+school ends. Students will bear responsibility for the safekeeping of devices.</p>
 </li>
 <li>
 <p>Students are only allowed to use smartphones and/or smartwatches at designated
