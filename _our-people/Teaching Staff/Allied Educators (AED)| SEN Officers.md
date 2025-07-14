@@ -25,6 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Santhi D/O Lembodharan Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_lembodharan_pillai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chin Wei Long Sebastian
 <br>
 </p>
@@ -76,18 +88,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_hidayah_nasri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_hidayah_nasri@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Santhi D/O Lembodharan Pillai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_lembodharan_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_lembodharan_pillai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
