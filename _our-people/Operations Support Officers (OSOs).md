@@ -2,47 +2,62 @@
 title: Operations Support Officers (OSOs)
 permalink: /our-people/operations-support-officers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix"><img src="/images/oso1.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/oso2.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/oso3.jpeg"></td>
-    <td class="tg-nrix"><img src="/images/oso4.jpeg"></td>
-  </tr>
-  <tr>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Siam Seng</b><br>OSO</td>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Hoo Yoke Mooi</b><br>OSO</td>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Anita</b><br>OSO</td>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Rokiah</b><br>OSO</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><img src="/images/oso5.jpeg"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-  </tr>
-  <tr>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mdm Loke Sue Feng</b><br>OSO</td>
-		<td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Siam Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hoo Yoke Mooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rokiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loke Sue Feng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
