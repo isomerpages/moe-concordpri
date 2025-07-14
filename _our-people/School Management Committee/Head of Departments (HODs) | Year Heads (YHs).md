@@ -134,7 +134,7 @@ variant: tiptap
 <p>Mdm Tan Yoke Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head Upper Primary</p>
+<p>Year Head Upper Primary / HOD CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_yin@moe.edu.sg</a>
