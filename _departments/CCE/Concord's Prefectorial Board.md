@@ -137,16 +137,6 @@ process.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_prefect_board_2024.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-<p>Click here to read about the experiences of our past head prefects.
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCb8XQzKE0_IFPE76BiLX-_Y5UnEaVjFDpoNssSxj1b4VjLdEJHrn40GQ3E6VEyJWr7JeckcTdhmp0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <h2>Key Programmes/events</h2>
 <h4><strong>Daily Duties</strong></h4>
