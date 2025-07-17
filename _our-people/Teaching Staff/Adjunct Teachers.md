@@ -3,102 +3,123 @@ title: Adjunct Teachers
 permalink: /our-people/Teaching-Staff/adjunct-teachers/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 257px">
-<col style="width: 234px">
-<col style="width: 300px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Email address</span></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Lee Mei Zu Peggy<br></td>
-    <td class="tg-yhj3">English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:lee_mei_zu_peggy_a@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lee_mei_zu_peggy_a@moe.edu.sg</span></a><br></td>
-  </tr>
-	 <tr>
-    <td class="tg-yhj3"> Mdm Liew Yu Jia</td>
-    <td class="tg-yhj3"> Chinese Language </td>
-     <td class="tg-o5fr"><a href="mailto:liew_yu_jia@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">liew_yu_jia@moe.edu.sg</span></a><br></td>
-	</tr>
-  <tr>
-    <td class="tg-yhj3"> Lee Yoke Yin (Mrs Tng)</td>
-    <td class="tg-yhj3">Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:tng_yoke_yin@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">tng_yoke_yin@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Ms Lim Gek Khim Michelle </td>
-    <td class="tg-yhj3"> Science</td>
-    <td class="tg-o5fr"><a href="mailto:lim_gek_khim_michelle@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">lim_gek_khim_michelle@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Noorhani Bte Adenan</td>
-    <td class="tg-yhj3"> English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:noorhani_btb_adenan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">noorhani_btb_adenan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Miss Yeong Shook Fern </td>
-    <td class="tg-yhj3">English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:yeong_shook_fern@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">yeong_shook_fern@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Wong Lye Hoong </td>
-    <td class="tg-yhj3"> Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:wong_lye_hoong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">wong_lye_hoong@moe.edu.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Nur Anamaria Binte Mohamed Amin</td>
-    <td class="tg-yhj3"> Malay Language</td>
-    <td class="tg-o5fr"><a href="mailto:nur_anamaria_mohamed_ami@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">nur_anamaria_mohamed_ami@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Thang Cheong Foong </td>
-    <td class="tg-yhj3">Music </td>
-   <td class="tg-o5fr"><a href="mailto:thang_cheong_foong@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">thang_cheong_foong@moe.edu.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Ow Tong Lan Connie</td>
-    <td class="tg-yhj3">Science</td>
-    <td class="tg-o5fr"><a href="mailto:ow_tong_lan@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">ow_tong_lan@moe.edu.sg</span></a> </td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mrs Sio Kim Hwa (Sally Gan)</td>
-    <td class="tg-yhj3">English Language</td>
-    <td class="tg-o5fr"><a href="mailto:sio_kim_hwa@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sio_kim_hwa@moe.edu.sg</span></a> </td>
-		</tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Sum Siu Leng</td>
-    <td class="tg-yhj3">English Language/Mathematics</td>
-    <td class="tg-o5fr"><a href="mailto:sum_siu_leng@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">sum_siu_leng@moe.edu.sg</span></a> </td>
-		</tr><tr>
-			<td class="tg-yhj3">Abdul Rashid Bin Ismail</td>
-    <td class="tg-yhj3">Mathematics/Science</td>
-    <td class="tg-o5fr"><a href="mailto:"><span style="text-decoration:none;color:#1ABC9C"></span></a> </td>
-		</tr><tr>
-			<td class="tg-yhj3">Mdm Phoon Sui Hoi </td>
-    <td class="tg-yhj3">English Language</td>
-    <td class="tg-o5fr"><a href="mailto:phoon_sui_hoi@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">phoon_sui_hoi@moe.edu.sg</span></a> </td>
-			</tr><tr>
-			<td class="tg-yhj3">Miss Hee Chwee Li Sharon</td>
-    <td class="tg-yhj3">Music</td>
-    <td class="tg-o5fr"><a href="mailto:hee_chwee_li_sharon@moe.edu.sg"><span style="text-decoration:none;color:#1ABC9C">hee_chwee_li_sharon@moe.edu.sg</span></a> </td>
-		</tr><tr>
-		</tr><tr>
-</tr></tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liew Yu Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_yu_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_jia@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yoke Yin (Mrs Tng)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tng_yoke_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tng_yoke_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorhani Bte Adenan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noorhani_btb_adenan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorhani_btb_adenan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yeong Shook Fern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeong_shook_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_shook_fern@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Anamaria Binte Mohamed Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_anamaria_mohamed_ami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_anamaria_mohamed_ami@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Thang Cheong Foong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thang_cheong_foong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thang_cheong_foong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sum Siu Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sum_siu_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sum_siu_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rashid Bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_rashid_ismail_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rashid_ismail_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>

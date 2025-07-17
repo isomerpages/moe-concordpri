@@ -4,13 +4,13 @@ permalink: /cca/ccaconcord/modularccaprogramme/
 description: ""
 variant: tiptap
 ---
-<h3>Overview: </h3>
+<h3>Overview:</h3>
 <div class="iframe-wrapper">
 <iframe height="506" width="675" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IlHRUciX-3Q"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_at_Concord_Framework.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Framework.png">
 </div>
 <p>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Co-Curricular Activity Programme
