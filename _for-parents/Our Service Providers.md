@@ -69,16 +69,6 @@ variant: markdown
 <tr>
 	<td class="tg-info">1.</td>
 	<td class="tg-title">
-	<span style="font-weight:bold;text-decoration:underline" id="dental-clinic">School Dental Clinic</span>
-<br><br>
-Opening Hours:<br>
-Mon, Wed &amp; Fri: <span style="font-weight:bold;text-decoration:underline">8 am to 5 pm</span><br>
-Tue &amp; Thu: <span style="font-weight:bold;text-decoration:underline">8 am to 5.30 pm</span><br>
-Lunchtime: <span style="font-weight:bold;text-decoration:underline">1pm - 2pm</span><br><br>
-Concord Pri Clinic: <span style="font-weight:bold;text-decoration:underline">91143917</span><br>Mobile Clinic: <span style="font-weight:bold;text-decoration:underline">91864607</span><br>
-<br>
-		<img src="/images/Dental_Jul_2025.png" style="width:100%">
-
 <span style="font-weight:bold;text-decoration:underline">Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</span><br>
 The renovation works will commence from 10 July 2025 and will take around 3 months. During this period, the School Dental Clinic will close. Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School. <br>   <br>      
 <table style="width:12.0cm;margin-left:28.1pt;border-collapse:collapse;border:none;
