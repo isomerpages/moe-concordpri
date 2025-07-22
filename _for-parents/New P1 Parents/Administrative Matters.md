@@ -103,7 +103,7 @@ of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no r
 </div>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
 more information regarding MOE FAS. Parents can apply through PG app or
-via this&nbsp;<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer" target="_blank">link</a>.</p>
+via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank">link</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
