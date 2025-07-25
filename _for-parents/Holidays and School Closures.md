@@ -4,8 +4,6 @@ permalink: /for-parents/holidays-and-school-closures/
 description: ""
 variant: markdown
 ---
-<p style="font-family:Arial, sans-serif; font-size:16px">Last updated: 21 May 2025</p>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -100,8 +98,8 @@ variant: markdown
   </td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day Celebration<br></td>
-    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)<br></em></b></td>
-  </tr>
+    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue">
+  </b></td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 5 September 2025<br></td>
