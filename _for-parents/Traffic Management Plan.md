@@ -41,7 +41,7 @@ All School Buses will park within the bus bay in front of the School Foyer. The 
 <b>For All:</b>
 </p><ul>
 <li>Vehicles must strictly keep within the speed limit of 15km/h within the school compound.</li>
-<li>No vehicles should park within the school compound unless given prior permissions by the school or picking up unwell or injured students.</li>
+<li>Please be advised that parking within school premises is restricted to valid season car park holders and pre-approved short-term visitors such as parents and MOE officials with authorisation from the school administration.</li>
 <li>Drivers must follow the instructions of duty personnel and any directional signs so as not to impede traffic flows.</li>
 
 <li>Vehicles exiting the school should:</li>
