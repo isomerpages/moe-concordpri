@@ -98,8 +98,7 @@ variant: markdown
   </td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day Celebration<br></td>
-    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue">
-  </b></td></tr>
+    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
     <td class="tg-yhj8">Friday, 5 September 2025<br></td>
