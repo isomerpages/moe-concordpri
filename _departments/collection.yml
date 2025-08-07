@@ -8,7 +8,6 @@ collections:
       - Science/.keep
       - Science/Science.md
       - Science/Our Achievements.md
-      - Student Management.md
       - PE & Aesthetics.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
@@ -16,4 +15,7 @@ collections:
       - CCE/International Friendship Day.md
       - CCE/Racial Harmony Day.md
       - CCE/Concord's Prefectorial Board.md
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Student Leadership.md
       - Education Technology Department.md

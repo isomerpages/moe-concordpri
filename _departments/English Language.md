@@ -24,11 +24,9 @@ speaking and writing.
 to cater to the varied needs of our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Department_Reading.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Reading.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>#TheQUEST Library</strong>
 <br>
 </p>
