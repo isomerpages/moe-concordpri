@@ -126,7 +126,13 @@ variant: markdown
 <tr>
  <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
 <td class="tg-ppzb"><a href="/files/Newsletter_for_Middle_Primary__P4_Term_2_Week_10.pdf" target="_blank" rel="noopener noreferrer">Term 2 Issue #03</a></td> 
+<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td> </tr>
+<tr>
+</tr><tr>
+ <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="/files/Newsletter_for_Middle_Primary__P3_P4_Term_3_Week_3.pdf" target="_blank" rel="noopener noreferrer">Term 3 Issue #01</a></td> 
 <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+	
 
 </tr><tr>
 </tr><tr>
