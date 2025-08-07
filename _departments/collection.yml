@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Student Leadership/Student Management.md
-      - Student Leadership/.keep
+      - Student Management/Student Management.md
+      - Student Management/.keep
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
