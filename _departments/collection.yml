@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Management/.keep
-      - Student Management/Student Management.md
-      - Student Management/Student Leadership.md
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
@@ -18,4 +15,7 @@ collections:
       - CCE/International Friendship Day.md
       - CCE/Racial Harmony Day.md
       - CCE/Concord's Prefectorial Board.md
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Student Leadership.md
       - Education Technology Department.md
