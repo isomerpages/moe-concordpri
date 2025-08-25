@@ -31,7 +31,7 @@ variant: markdown
     <td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mrs Quek-Chua Leng Yin,
 			Principal</b><br>Secretary</td>
 		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Ganesan S/O Maniam</b><br>Member</td>
-		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Vincent</b><br>Member </td>
+		<td style="text-align:center" class="tg-nrix"><b style="color:#1ABC9C">Mr Tan Vincent PBM</b><br>Member </td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/sac8.jpeg"></td>
