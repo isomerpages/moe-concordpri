@@ -2,7 +2,7 @@
 title: Our Service Providers
 permalink: /for-parents/school-information/our-service-providers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -26,7 +26,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#studentcare-info" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
+<p><a href="#Student-Care-Centre" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
 <br>
 <br><a href="#bus-service" rel="noopener noreferrer nofollow" target="_blank">School Bus Service</a>
 </p>
@@ -162,9 +162,9 @@ Plan for Students can be found on NTUC Income’s website at
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Student Care Centre</u></strong>
-<br>
-<br>Big Heart Student Care @ Concord Primary
+<h4><strong><u>Student Care Centre</u></strong><br></h4>
+<p></p>
+<p>Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
 <br>Email: <a href="mailto:Concord@shgstudentcare.com.sg" rel="noopener noreferrer" target="_blank">Concord@shgstudentcare.com.sg</a>
