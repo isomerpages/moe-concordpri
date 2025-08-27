@@ -14,7 +14,7 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#dental-clinic" rel="noopener noreferrer nofollow" target="_blank">School Dental Clinic</a>
+<p><a href="#dental-clinic" rel="noopener noreferrer nofollow" target="#1.">School Dental Clinic</a>
 <br>
 <br><a href="#uniform-info" rel="noopener noreferrer nofollow" target="_blank">School Uniform Supplier</a>
 </p>
