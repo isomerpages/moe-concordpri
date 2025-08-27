@@ -2,47 +2,8 @@
 title: Our Service Providers
 permalink: /for-parents/school-information/our-service-providers/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#dental-clinic" rel="noopener noreferrer nofollow" target="_blank">School Dental Clinic</a>
-<br>
-<br><a href="#uniform-info" rel="noopener noreferrer nofollow" target="_blank">School Uniform Supplier</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#insurance-info" rel="noopener noreferrer nofollow" target="_blank">Group Personal Insurance For Students</a>
-<br>
-<br><a href="#bookshop-info" rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#studentcare-info" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
-<br>
-<br><a href="#bus-service" rel="noopener noreferrer nofollow" target="_blank">School Bus Service</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#smart-watch-buddy" rel="noopener noreferrer nofollow" target="_blank">POSB Smart Buddy Watch</a>
-<br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,7 +78,7 @@ Clinics at Choa Chu Kang Primary School and South View Primary School.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teck Whye Primary</p>
+<p>Teck Whye Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;11 Teck Whye Walk S688261</p>
@@ -162,9 +123,9 @@ Plan for Students can be found on NTUC Income’s website at
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Student Care Centre</u></strong>
-<br>
-<br>Big Heart Student Care @ Concord Primary
+<p><strong><u>Student Care Centre<br></u></strong>
+</p>
+<p>Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
 <br>Email: <a href="mailto:Concord@shgstudentcare.com.sg" rel="noopener noreferrer" target="_blank">Concord@shgstudentcare.com.sg</a>
