@@ -162,8 +162,8 @@ Plan for Students can be found on NTUC Income’s website at
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Student Care Centre</u></strong><br></h4>
-<p></p>
+<p><strong><u>Student Care Centre<br></u></strong>
+</p>
 <p>Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
