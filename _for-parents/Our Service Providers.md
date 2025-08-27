@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#Student-Care-Centre" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
+<p><a href="#student-care-centre" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
 <br>
 <br><a href="#bus-service" rel="noopener noreferrer nofollow" target="_blank">School Bus Service</a>
 </p>
@@ -162,8 +162,7 @@ Plan for Students can be found on NTUC Income’s website at
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Student Care Centre<br></u></strong>
-</p>
+<h4><strong><u>Student Care Centre<br></u></strong></h4>
 <p>Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
