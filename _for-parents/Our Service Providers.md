@@ -4,45 +4,6 @@ permalink: /for-parents/school-information/our-service-providers/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#dental-clinic" rel="noopener noreferrer nofollow" target="#1.">School Dental Clinic</a>
-<br>
-<br><a href="#uniform-info" rel="noopener noreferrer nofollow" target="_blank">School Uniform Supplier</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#insurance-info" rel="noopener noreferrer nofollow" target="_blank">Group Personal Insurance For Students</a>
-<br>
-<br><a href="#bookshop-info" rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#student-care-centre" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre</a>
-<br>
-<br><a href="#bus-service" rel="noopener noreferrer nofollow" target="_blank">School Bus Service</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#smart-watch-buddy" rel="noopener noreferrer nofollow" target="_blank">POSB Smart Buddy Watch</a>
-<br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
