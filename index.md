@@ -4,8 +4,7 @@ title: Concord Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Color School Logo 1.png
 permalink: /
-notification: The General Office will close at 2pm on 27 August 2025 as all
-  staff will be away for early Teachers’ Day celebrations.
+notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
