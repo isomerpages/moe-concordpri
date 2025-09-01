@@ -18,5 +18,8 @@ sections:
         - title: Holidays and  school closures
           description: "Last updated: 4 August 2025"
           url: /for-parents/holidays-and-school-closures/
+        - title: Alumni visiting Concord on Teachers Day Celebrations 2025
+          description: ""
+          url: ""
       variant: center
 ---
