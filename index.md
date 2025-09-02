@@ -4,9 +4,9 @@ title: Concord Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Color School Logo 1.png
 permalink: /
-notification: Alumni can reconnect with teachers on Thursday, 4 Sep 2025,
-  between 11am to 12pm. If possible, contact your teacher(s) via email or any
-  other means before 4 Sep, to let them know you’ll be visiting.
+notification: Ex-Concordians can reconnect with teachers on Thursday, 4 Sep
+  2025, between 11am to 12pm. If possible, contact your teacher(s) via email or
+  any other means before 4 Sep, to let them know you’ll be visiting.
 sections:
   - hero:
       background: /images/homepage.gif
