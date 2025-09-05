@@ -4,7 +4,7 @@ permalink: /for-parents/child-absence/
 description: ""
 variant: markdown
 ---
-<p></p><h3><b>Update of your child's absence</b></h3>
+<p></p><h3><b>Update child's absence</b></h3>
 <p style="text-align:justify">Please inform the school in advance if your child is not attending  school via  the QR code below.
 
 <a href="https://form.gov.sg/63313ff45abb570012c95a91" target="_blank" rel="noopener noreferrer"><img style="width:40%" src="/images/child absence.jpg"></a>	
