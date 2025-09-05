@@ -14,5 +14,5 @@ variant: markdown
 </p><p style="text-align:justify">Please contact the General Office at <b>6763 2139</b>, as soon as possible, upon receiving the SMS if he/ she is supposed to be in school.</p>
 
 <p></p><p style="text-align:justify">You can refer to these guides for more information:</p>
-[User Guide](/files/Parent_User_Guide_PG_Mobile_App__Notify_absence_.pdf)
-[FAQs](/files/FAQs_for_Parents__Notify_absence_.pdf)
+<li><a href="/files/Parent_User_Guide_PG_Mobile_App__Notify_absence_.pdf" target="_blank" rel="noopener noreferrer">User Guide for Parents</a></li>
+<li><a href="/files/FAQs_for_Parents__Notify_absence_.pdf" target="_blank" rel="noopener noreferrer">FAQs for Parents</a></li>
