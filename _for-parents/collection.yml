@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Inform Child's Absence.md
+      - Update Child's Absence.md
       - Useful Forms.md
       - Traffic Management Plan.md
       - Our Service Providers.md
