@@ -112,8 +112,8 @@ variant: markdown
     <td class="tg-yhj8">Tuesday, 16 September 2025<br></td>
   </tr>
  <tr>
-    <td class="tg-yhj8">P6 Study Break (TBC)<br></td>
-    <td class="tg-yhj8">Monday, 22 September 2025<br>to<br>Wednesday, 24 September 2025<br><b style="color:blue"><em>(P6 students need not report to school<br> unless instructed otherwise)<br></em></b></td>
+    <td class="tg-yhj8">P6 Study Break<br></td>
+    <td class="tg-yhj8">Monday, 22 September 2025<br>to<br>Wednesday, 24 September 2025<br><b style="color:blue"><em>(P6D, 6E &amp; 6F students need not report to school)<br></em></b></td>
   </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
