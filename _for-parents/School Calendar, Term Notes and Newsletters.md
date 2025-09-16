@@ -39,7 +39,7 @@ variant: markdown
 	<td class="tg-xuj5"><a href="/files/2025_CPS_Calendar_For_Parents.pdf" target="_blank" rel="noopener noreferrer">2025 Term 1 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_2_Calendar_V3__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 2 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_3_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 3 Calendar</a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2025 Term 4 Calendar</a><br>
+		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_4_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 4 Calendar</a><br>
 
 </td></tr>
 </tbody>
@@ -78,7 +78,7 @@ variant: markdown
 <td class="tg-xuj5"><a href="/files/Term_Notes_for_Term_1_2025.pdf" target="_blank" rel="noopener noreferrer">2025 Term 1 Note</a><br></td>
  <td class="tg-xuj5"><a href="/files/Term_Notes_for_Term_2_2025.pdf" target="_blank" rel="noopener noreferrer">2025 Term 2 Note</a><br></td>
 <td class="tg-xuj5"><a href="/files/2025_CPS_Term_Note___Term_3.pdf" target="_blank" rel="noopener noreferrer">2025 Term 3 Note</a><br></td>
-<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
+<td class="tg-xuj5"><a href="/files/2025_CPS_Term_Note___Term_4.pdf" target="_blank" rel="noopener noreferrer">2025 Term 4 Note</a><br></td>
 </tr></tbody>
 </table>
  <h3>2025 Newsletter for Parents</h3>
