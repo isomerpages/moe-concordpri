@@ -105,10 +105,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Group Personal Accident Insurance For Students</u></strong>
-<br>
 <br>Product Fact Sheet <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer" target="_blank">StudentGPA</a> (NTUC
 Income)
-<br>
 <br>Information on claims, FAQs and other details pertaining to the GPA Insurance
 Plan for Students can be found on NTUC Income’s website at
 <br><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
@@ -121,8 +119,7 @@ Plan for Students can be found on NTUC Income’s website at
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Student Care Centre<br></u></strong>
-</p>
-<p>Big Heart Student Care @ Concord Primary
+Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
 <br>Email: <a href="mailto:Concord@shgstudentcare.com.sg" rel="noopener noreferrer" target="_blank">Concord@shgstudentcare.com.sg</a>
@@ -135,9 +132,7 @@ Plan for Students can be found on NTUC Income’s website at
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Uniform Supplier</u></strong>
-<br>
 <br><strong>Bibi&amp;Baba Retail Outlets:</strong>
-<br>
 <br><strong>Far East Shopping Centre Outlet</strong>
 <br>545 Orchard Road, #02-28
 <br>Singapore 238882
@@ -164,7 +159,6 @@ quantities uniform purchase and urgent replacements.
 <br><strong>*Do note that stocks available in the bookshop are on consignment basis and in limited quantities. It will end on 31 May 2025.</strong>
 <br><strong>~</strong> Students can purchase during their recess or lunch break.
 <br>~ Parents can walk-in to purchase from 2.00pm to 2.45pm.
-<br>
 <br>If you require custom sizes, you can enquire with their Henderson Outlet.
 <br>
 </p>
@@ -176,7 +170,6 @@ quantities uniform purchase and urgent replacements.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Bookshop</u></strong>
-<br>
 <br>Opening Hours: <strong><u>8 am to 3 pm</u></strong>
 <br>Open to parents from <strong><u>2pm to 2:45pm</u></strong>
 <br>(1st Feb 2022 onwards)
@@ -195,7 +188,6 @@ quantities uniform purchase and urgent replacements.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Bus Service </u></strong>
-<br>
 <br>DKJ Transport Service
 <br>Tel: <strong>9772 3370, 9650 0512</strong>
 <br>
@@ -210,7 +202,6 @@ quantities uniform purchase and urgent replacements.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>POSB Smart Buddy Watch</u></strong>
-<br>
 <br>For SMART watch application, please refer to <a href="/files/Smart_Buddy_Registration_Letter.pdf" rel="noopener noreferrer" target="_blank">here</a>
 <br>
 <br>For SMART watch replacement, please make replacement at:
