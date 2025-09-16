@@ -26,11 +26,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</u></strong>
-<br>The renovation works will commence from 10 July 2025 and will take around
-3 months. During this period, the School Dental Clinic will close. Students
-who require dental services during this period can approach the Dental
-Clinics at Choa Chu Kang Primary School and South View Primary School.
-<br>
+<br>The renovation works will commence from 10 July 2025. 
+<br>During this period, the School Dental Clinic will be closed until further notice. <br>Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School.
 <br>
 </p>
 <table style="minWidth: 75px">
