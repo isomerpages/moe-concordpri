@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Administrative Matters</h3>
 <p>In preparation for your child’s entry to Primary One in 2025, please complete
-the following items before the <strong>P1 Orientation Day</strong> on <strong>14 October 2024, Monday 1.30 pm - 3 pm</strong>:</p>
+the following items before the <strong>P1 Orientation Day</strong> on <strong>13 October 2024, Wednesday, 9 am - 10.30 am</strong>:</p>
 <h4><strong><u>Section A: Mandatory Tasks</u></strong></h4>
 <p><strong>1. Onboard Parent Gateway</strong>
 </p>
@@ -25,8 +25,8 @@ GIRO arrangement will also be extended to cover their payment of enrichment
 programmes, school charges and deduction of Primary School Leaving Examination
 Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
-under the Services tab. Parents will have up till 15 January 2025 to sign
-up for GIRO for the first deduction in Feb 2025. Please refer to this
+under the Services tab. Parents will have up till 15 January 2026 to sign
+up for GIRO for the first deduction in Feb 2029. Please refer to this
 <a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for more information.</p>
 <p>Please note that each child requires a separate GIRO application, do ensure
 you submit an individual application for each student.</p>
@@ -60,16 +60,16 @@ login will be required.
 </div>
 <p>
 <br>
-<br><strong>4. Declare Travel Plans for 2024 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
+<br><strong>4. Declare Travel Plans for 2025 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
-<p>If your child is travelling during the 2024 year-end school holidays,
+<p>If your child is travelling during the 2025 year-end school holidays,
 please declare your travel plans through this <a href="https://go.gov.sg/cps2025p1travel" rel="noopener no referrer" target="_blank">link</a> or the QR code below:</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/cps2025p1travel">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </a>
 <p><strong>5. Complete Student Details Form (SDF)</strong>
 </p>
-<p>As your child/ward will be starting primary one in January 2025, the Ministry
+<p>As your child/ward will be starting primary one in January 2026, the Ministry
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
 in our schools.</p>
@@ -91,13 +91,13 @@ more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/f
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
 <p>For more information, please refer <a href="/files/BHSCC___Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>8a. Apply for 2025 MOE Financial Assistance Scheme (FAS)</strong>
+<p><strong>8a. Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
 or school attire before you are notified through the school official letter
 of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no refund.</u></strong>
 </p>
-<p>Below is the Eligibility Criteria and Subsidy information for 2025 FAS:</p>
+<p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FAS_Eligibility.png">
 </div>
@@ -138,12 +138,11 @@ contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blan
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
 channels listed below. They will also be operating in our school during
-the P1 Orientation on 14 October 2024 from&nbsp;<u>9 am to 4 pm</u>&nbsp;and
-on 15 October 2024 from <u>9 am to 3 pm</u>.
+the P1 Orientation on 15 October 2024 from&nbsp;<u>10.30 am to 4 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
-<br>*School books Online Sale for collection on <strong>14 Oct and 15 Oct</strong> will
-start on <strong>7 Oct to 11 Oct 2024</strong>
+<br>*School books Online Sale for collection on <strong>15 Oct</strong> will
+start on <strong>7 Oct to 11 Oct 2025</strong>
 </p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
