@@ -117,11 +117,11 @@ variant: markdown
   </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Thursday, 25 September 2025<br>to<br>Friday, 26 September 2025<br><b style="color:blue"><em>(HBL for P3-P5 students. TBC)<br></em></b></td>
+ <td class="tg-yhj8">Thursday, 25 September 2025<br>to<br>Friday, 26 September 2025<br><b style="color:blue"><em>(HBL for P3 &amp; P4 students)<br></em></b></td>
 </tr>
 <tr>
  <td class="tg-yhj8">PSLE Written Examination<br></td>
- <td class="tg-yhj8">Monday, 29 September 2025<br>to<br>Tuesday, 30 September 2025<br><b style="color:blue"><em>(HBL for P3-P5 students. TBC)<br></em></b></td>
+ <td class="tg-yhj8">Monday, 29 September 2025<br>to<br>Tuesday, 30 September 2025<br><b style="color:blue"><em>(HBL for P3-P5 students on 29 Sep, HBL for P4 students on 30 Sep)<br></em></b></td>
 </tr>
 <tr>
   <td class="tg-yhj8">Children's Day<br></td>
