@@ -6,8 +6,8 @@ third_nav_title: New P1 Parents
 variant: tiptap
 ---
 <h3>Administrative Matters</h3>
-<p>In preparation for your child’s entry to Primary One in 2025, please complete
-the following items before the <strong>P1 Orientation Day</strong> on <strong>13 October 2024, Wednesday, 9 am - 10.30 am</strong>:</p>
+<p>In preparation for your child’s entry to Primary One in 2026, please complete
+the following items before the <strong>P1 Orientation Day</strong> on <strong>15 October 2025, Wednesday, 9 am - 10.30 am</strong>:</p>
 <h4><strong><u>Section A: Mandatory Tasks</u></strong></h4>
 <p><strong>1. Onboard Parent Gateway</strong>
 </p>
@@ -138,7 +138,7 @@ contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blan
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
 channels listed below. They will also be operating in our school during
-the P1 Orientation on 15 October 2024 from&nbsp;<u>10.30 am to 4 pm</u>.
+the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 <br>*School books Online Sale for collection on <strong>15 Oct</strong> will
