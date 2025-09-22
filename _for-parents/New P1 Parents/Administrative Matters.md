@@ -141,8 +141,7 @@ channels listed below. They will also be operating in our school during
 the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
-<br>*School books Online Sale for collection on <strong>15 Oct</strong> will
-start on <strong>7 Oct to 11 Oct 2025</strong>
+<br>
 </p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
@@ -156,11 +155,7 @@ purchase.
 <br>Sun: 10:00 am to 6:00 pm
 <br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
 </p>
-<p>For Online purchase and collection at school, please note the following
-cut-off dates:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniformv2.png">
-</div>
+<p></p>
 <p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
 <p>
