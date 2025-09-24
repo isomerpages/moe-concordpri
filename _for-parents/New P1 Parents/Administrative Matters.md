@@ -141,6 +141,9 @@ channels listed below. They will also be operating in our school during
 the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
+</p>
+<p>Online purchase for collection on 15 October 2025 is also available.</p>
+<p>Cut-off date for book purchase online is from (3 Oct - 10 Oct 2025)
 <br>
 </p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
