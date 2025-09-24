@@ -25,7 +25,7 @@ variant: markdown
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Temporary Closure of School Dental Clinic Due to Construction of the Student Services Hub from 10 July 2025</u></strong>
+<p><strong><u>School Dental Clinic - Temporary Closure due to construction of the Student Services Hub from 10 July 2025</u></strong>
 <br>The renovation works will commence from 10 July 2025. 
 <br>During this period, the School Dental Clinic will be closed until further notice. <br>Students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School and South View Primary School.
 <br>
@@ -154,11 +154,16 @@ Big Heart Student Care @ Concord Primary
 <br>
 <br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener noreferrer" target="_blank"> https://www.schooluniforms.sg/concord-primary-school</a>
 <br>
-<br>For purchases in the school bookshop, it is recommended only for small
-quantities uniform purchase and urgent replacements.
-<br><strong>*Do note that stocks available in the bookshop are on consignment basis and in limited quantities. It will end on 31 May 2025.</strong>
-<br><strong>~</strong> Students can purchase during their recess or lunch break.
-<br>~ Parents can walk-in to purchase from 2.00pm to 2.45pm.
+<br>
+<u><strong>Uniform Sales in School </strong>(Last Friday of every month from 1:45 PM to 3:00 PM)</u>
+<br>Dates of 2025 Uniform Sales in School:
+<br>- 27 June 2025
+<br>- 25 July 2025
+<br>- 29 August 2025
+<br>- 26 September 2025
+<br>- 31 October 2025
+<br>On the above dates, you can purchase uniforms and/or collect your online order.
+<br><br>Details of year-end sales in November and December will be shared at a later date.
 <br>If you require custom sizes, you can enquire with their Henderson Outlet.
 <br>
 </p>
