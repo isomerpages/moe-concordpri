@@ -157,11 +157,11 @@ Big Heart Student Care @ Concord Primary
 <br>
 <u><strong>Uniform Sales in School </strong>(Last Friday of every month from 1:45 PM to 3:00 PM)</u>
 <br>Dates of 2025 Uniform Sales in School:
-<br>27 June 2025
-<br>25 July 2025
-<br>29 August 2025
-<br>26 September 2025
-<br>31 October 2025
+<br>- 27 June 2025
+<br>- 25 July 2025
+<br>- 29 August 2025
+<br>- 26 September 2025
+<br>- 31 October 2025
 <br>On the above dates, you can purchase uniforms and/or collect your online order.
 <br><br>Details of year-end sales in November and December will be shared at a later date.
 <br>If you require custom sizes, you can enquire with their Henderson Outlet.
