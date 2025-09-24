@@ -26,7 +26,7 @@ programmes, school charges and deduction of Primary School Leaving Examination
 Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
 under the Services tab. Parents will have up till 15 January 2026 to sign
-up for GIRO for the first deduction in Feb 2029. Please refer to this
+up for GIRO for the first deduction in Feb 2026. Please refer to this
 <a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for more information.</p>
 <p>Please note that each child requires a separate GIRO application, do ensure
 you submit an individual application for each student.</p>
@@ -51,7 +51,7 @@ via the PG app. Schools will continue to inform and seek your consent for
 your child’s/ward’s participation before the withdrawal of Edusave funds.
 If you subsequently decide that to use alternative funding sources for
 enrichment programmes, you can terminate the Standing Order at any time.</p>
-<p>You can sign up for the Standing Order <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener referrer" target="_blank">here</a>. Singpass
+<p>You can sign up for the Standing Order <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener referrer" target="_blank">here</a>. Singpass
 login will be required.
 <br>
 </p>
