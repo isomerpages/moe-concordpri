@@ -9,7 +9,7 @@ variant: tiptap
 <p>In preparation for your child’s entry to Primary One in 2026, please complete
 the following items before the <strong>P1 Orientation Day</strong> on <strong>15 October 2025, Wednesday, 9 am - 10.30 am</strong>:</p>
 <h4><strong><u>Section A: Mandatory Tasks</u></strong></h4>
-<p><strong>1. Onboard Parent Gateway</strong>
+<p>1.<strong> Onboard Parent Gateway</strong>
 </p>
 <p>Developed by the Ministry of Education and GovTech, Parents Gateway is
 a one-stop portal that strengthens school-home partnership to support our
@@ -17,7 +17,7 @@ children in their education journey.</p>
 <p>You may download Parent Gateway via this <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> or Download “Parents Gateway” from
 the official app stores (Google Play, App Store or Huawei AppGallery).</p>
 <p></p>
-<p><strong>2. Apply for GIRO</strong>
+<p>2.<strong> Apply for GIRO</strong>
 </p>
 <p>GIRO is a convenient, paperless, and cashless payment method to make hassle-free
 payments for your child’s school fees and miscellaneous fees. The same
@@ -34,7 +34,7 @@ you submit an individual application for each student.</p>
 <img style="width:30%" height="auto" width="100%" src="/images/giro%20picture.png">
 </div>
 <p>
-<br><strong>3. Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></strong>
+<br>3. <strong>Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></strong>
 </p>
 <p>Every Singapore Citizen (SC) will have an Edusave account created automatically
 for them.</p>
@@ -60,15 +60,19 @@ login will be required.
 </div>
 <p>
 <br>
-<br><strong>4. Declare Travel Plans for 2025 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
+<br>4. <strong>Declare Travel Plans for 2025 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
 <p>If your child is travelling during the 2025 year-end school holidays,
 please declare your travel plans through this <a href="https://go.gov.sg/cps2025p1travel" rel="noopener no referrer" target="_blank">link</a> or the QR code below:</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/cps2025p1travel">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
 </a>
-<p><strong>5. Complete Student Details Form (SDF)</strong>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Complete Student Details Form (SDF)</strong>
 </p>
+</li>
+</ol>
 <p>As your child/ward will be starting primary one in January 2026, the Ministry
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
@@ -77,21 +81,52 @@ in our schools.</p>
 November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a>.
 We will notify you via PG when the portal is available.</p>
 <p></p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>Purchase of School Books and Uniform</strong>
+</p>
+</li>
+</ol>
+<p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
+Baba respectively. The default mode of sales is through their online sales
+channels listed below. They will also be operating in our school during
+the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
+<br>
+<br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
+</p>
+<p>Online purchase for collection on 15 October 2025 is also available.</p>
+<p>Cut-off date for book purchase online is from (3 Oct - 10 Oct 2025)</p>
+<p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
+<br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
+purchase.
+<br><strong>*Far East Shopping Centre</strong>
+<br>545 Orchard Road, #02-28
+<br>Singapore 238882
+<br>Tel: 6732 7022
+<br>SMS: 9234 1033
+<br>Mon to Sat: 10:00 am to 7:00 pm
+<br>Sun: 10:00 am to 6:00 pm
+<br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
+</p>
+<p></p>
+<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information.</p>
+<p></p>
 <h4><strong><u>Section B: Optional Tasks</u></strong></h4>
-<p><strong>6. Apply for School Bus Services</strong>
+<p><strong>1. Apply for School Bus Services</strong>
 </p>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
 this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below to express your interest and they will contact you for
 more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png"></a>
 <p>
-<br><strong>7. Enrol into School-Based Student Care</strong>
+<br><strong>2. Enrol into School-Based Student Care</strong>
 </p>
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
 <p>For more information, please refer <a href="/files/CC_Cover_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>8a. Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
+<p><strong>3a. Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
 or school attire before you are notified through the school official letter
@@ -125,7 +160,7 @@ via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" tar
 </tr>
 </tbody>
 </table>
-<p><strong>8b. Apply for DigitalAccess@Home</strong>
+<p><strong>3b. Apply for DigitalAccess@Home</strong>
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
 broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
@@ -133,35 +168,7 @@ via <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
-<p><strong>9. Purchase of School Books and Uniform</strong>
-</p>
-<p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
-Baba respectively. The default mode of sales is through their online sales
-channels listed below. They will also be operating in our school during
-the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
-<br>
-<br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
-</p>
-<p>Online purchase for collection on 15 October 2025 is also available.</p>
-<p>Cut-off date for book purchase online is from (3 Oct - 10 Oct 2025)
-<br>
-</p>
-<p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
-<br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
-purchase.
-<br><strong>*Far East Shopping Centre</strong>
-<br>545 Orchard Road, #02-28
-<br>Singapore 238882
-<br>Tel: 6732 7022
-<br>SMS: 9234 1033
-<br>Mon to Sat: 10:00 am to 7:00 pm
-<br>Sun: 10:00 am to 6:00 pm
-<br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
-</p>
-<p></p>
-<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information.</p>
-<p>
+<p><strong>9. </strong>
 <br><strong>10. Apply for POSB Smart Buddy Watch</strong>
 </p>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
