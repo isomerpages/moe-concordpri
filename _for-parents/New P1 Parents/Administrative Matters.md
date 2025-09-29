@@ -113,20 +113,28 @@ purchase.
 information.</p>
 <p></p>
 <h4><strong><u>Section B: Optional Tasks</u></strong></h4>
-<p><strong>1. Apply for School Bus Services</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Apply for School Bus Services</strong>
 </p>
+</li>
+</ol>
 <p>Our school bus service provider is DKJ School Bus Services. Please use
 this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below to express your interest and they will contact you for
 more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfnlNvib4gd4HPs3uEKe7_WAjqfnH3APerZtPV5nh4-jdre0g/viewform"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/School_bus_QR.png"></a>
-<p>
-<br><strong>2. Enrol into School-Based Student Care</strong>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Enrol into School-Based Student Care</strong>
 </p>
+</li>
+</ol>
 <p>If you would like to enrol your child with our School-based Student Care,
 you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
 the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
 <p>For more information, please refer <a href="/files/CC_Cover_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>3a. Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
+<p>3a.<strong> Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
 or school attire before you are notified through the school official letter
@@ -160,7 +168,7 @@ via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" tar
 </tr>
 </tbody>
 </table>
-<p><strong>3b. Apply for DigitalAccess@Home</strong>
+<p>3b.<strong> Apply for DigitalAccess@Home</strong>
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
 broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
@@ -168,14 +176,17 @@ via <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
-<p><strong>9. </strong>
-<br><strong>10. Apply for POSB Smart Buddy Watch</strong>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Apply for POSB Smart Buddy Watch</strong>
 </p>
+</li>
+</ol>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
 Smart Buddy watch. If you would like to register your child for a POSB
 Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" rel="no opener noreferrer" target="_blank">Pamphlet</a> for
 more details.</p>
 <p>
-<br><strong>11. Join M.A.D parents</strong>
+<br>5.<strong> Join M.A.D parents</strong>
 </p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform"><img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg"></a>
 <p></p>
