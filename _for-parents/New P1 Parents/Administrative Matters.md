@@ -116,9 +116,9 @@ purchase.
 <p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
 <p></p>
-<p>* Parents/Guardian who intend to apply for MOE Financial Assistance Scheme
-(FAS) <u>SHOULD NOT</u> purchase any books or uniforms. No refunds will be
-given if you purchased prior to the outcome of your FAS application.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applying_for_FAS_Should_Not_Purchase.png">
+</div>
 <p></p>
 <h4><strong><u>Section B: Optional Tasks</u></strong></h4>
 <ol data-tight="true" class="tight">
