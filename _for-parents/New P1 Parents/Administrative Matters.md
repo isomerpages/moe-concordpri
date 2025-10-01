@@ -90,12 +90,15 @@ We will notify you via PG when the portal is available.</p>
 <p>Our Bookshop and Uniform vendors are Pacific Bookstores and Bibi &amp;
 Baba respectively. The default mode of sales is through their online sales
 channels listed below. They will also be operating in our school during
-the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.
+the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.</p>
+<p>Online purchase for collection on <u>15 October 2025 (P1 Orientation Day)</u> is
+also available.</p>
+<p>The online purchase cut-off date for P1 Orientation Day collection date
+is 10 October 2025.
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 </p>
-<p>Online purchase for collection on 15 October 2025 is also available.</p>
-<p>Cut-off date for book purchase online is from (3 Oct - 10 Oct 2025)</p>
+<p></p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
 <br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
