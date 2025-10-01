@@ -116,6 +116,10 @@ purchase.
 <p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applying_for_FAS_Should_Not_Purchase.png">
+</div>
+<p></p>
 <h4><strong><u>Section B: Optional Tasks</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -192,5 +196,5 @@ Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registra
 more details.</p>
 <p>
 <br>5.<strong> Join M.A.D parents</strong>
-</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform"><img style="width:30%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg"></a>
-<p></p>
+</p>
+<p>To join our Parent Support Group please click <a href="https://www.concordpri.moe.edu.sg/for-parents/parent-support-group/psg/" rel="noopener nofollow" target="_blank">here</a>.</p>

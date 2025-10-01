@@ -3,19 +3,24 @@ title: Make a Difference @ Concord
 permalink: /for-parents/parent-support-group/psg/
 description: ""
 third_nav_title: Parents Support Group
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/mad_psg.jpeg" style="width:50%">
+<h3><strong>Join M.A.D parents</strong></h3>
+<p>Our Parent Support Group is known as M.A.D@Concord. M.A.D refers to "make
+a difference" and we welcome all parents to join this community to partner
+the school for the development of our students. The EXCO members of M.A.D@Concord
+liaise with school personnel to plan for school events and improve collaborations
+through a more coordinated support efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/mad%20sign%20up.jpeg">
+</div>
+<p>
 <br>
-<h4>Join M.A.D parents</h4>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWzpLC22F8bSvZazD84Z4wo6tZB2yLRUBJGnqXia0O3FxSIw/viewform" target="_blank" rel="noopener noreferrer"><img src="/images/mad%20sign%20up.jpeg" style="width:20%"></a>
-
-<h3>Concord Daddies</h3>
-<center>
-	
-<iframe allowfullscreen="true" height="450" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs7Q7oxB7kt_00NaxbSFzjccnSplAoUZWHOzHuCJI3itWkIzoDF0ITpZjcYb6BMw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-<br>	
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/mad_psg.jpeg">
+</div>
+<p>
 <br>
-<iframe frameborder="0" width="680" height="450" allowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6Hp560wpjpZuWi7IAQDCtZlPqyUrOq-GjyUzBz35so1PcOQlYQeNBc-n2f0stcbRT7N7wxVMODN3/embed?start=false&amp;loop=false&amp;delayms=3000">
-</iframe>
-</center>
+</p>
+<p></p>
