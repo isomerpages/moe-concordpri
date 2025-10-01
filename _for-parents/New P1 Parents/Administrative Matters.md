@@ -99,7 +99,9 @@ the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.</p>
 </p>
 <p></p>
 <p><strong>Uniform Vendor: </strong><a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener no referrer" target="_blank">https://www.schooluniforms.sg/concord-primary-school</a>
-<br>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
+<br>
+</p>
+<p>For uniforms, you can also walk in to Bibi&amp;Baba's retail outlet to
 purchase.
 <br><strong>*Far East Shopping Centre</strong>
 <br>545 Orchard Road, #02-28
