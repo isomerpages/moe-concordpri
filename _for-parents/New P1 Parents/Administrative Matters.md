@@ -91,10 +91,9 @@ We will notify you via PG when the portal is available.</p>
 Baba respectively. The default mode of sales is through their online sales
 channels listed below. They will also be operating in our school during
 the P1 Orientation on 15 October 2025 from&nbsp;<u>10.30 am to 4 pm</u>.</p>
-<p>Online purchase for collection on <u>15 October 2025 (P1 Orientation Day)</u> is
-also available.</p>
-<p>The online purchase cut-off date for P1 Orientation Day collection date
-is 10 October 2025.
+<p><strong>*Online purchase for collection on <u>15 October 2025 (P1 Orientation Day)</u> is also available.</strong>
+</p>
+<p><strong>The online purchase cut-off date for P1 Orientation Day collection date is <u>10 October 2025. </u></strong>
 <br>
 <br><strong>Bookshop: </strong><a href="https://www.pacificbookstores.com" rel="noopener no referrer" target="_blank">https://www.pacificbookstores.com</a>
 </p>
