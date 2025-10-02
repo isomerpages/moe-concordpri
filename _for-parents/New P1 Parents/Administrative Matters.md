@@ -25,11 +25,12 @@ GIRO arrangement will also be extended to cover their payment of enrichment
 programmes, school charges and deduction of Primary School Leaving Examination
 Examinations fees.</p>
 <p>The GIRO application can be made through the Parents Gateway (PG) app
-under the Services tab. Parents will have up till 15 January 2026 to sign
-up for GIRO for the first deduction in Feb 2026. Please refer to this
-<a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for more information.</p>
-<p>Please note that each child requires a separate GIRO application, do ensure
-you submit an individual application for each student.</p>
+under the Services tab. Parents will have up till <strong>15 January 2026</strong> to
+sign up for GIRO for the <strong>first deduction in Feb 2026.</strong> Please
+refer to this <a href="/files/egiro user guide sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>for
+more information.</p>
+<p>Please note that <u>each child requires a separate GIRO application</u>,
+do ensure you submit an individual application for each student.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/giro%20picture.png">
 </div>
