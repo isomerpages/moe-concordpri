@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Administrative Matters</h3>
 <p>In preparation for your child’s entry to Primary One in 2026, please complete
-the following items before the <strong>P1 Orientation Day</strong> on <strong>15 October 2025, Wednesday, 9 am - 10.30 am</strong>:</p>
+the following items before the <strong>P1 Orientation Day</strong> on <strong>15 October 2025, Wednesday, 9 am - 10.30 am</strong>.</p>
 <h4><strong><u>Section A: Mandatory Tasks</u></strong></h4>
 <p>1.<strong> Onboard Parent Gateway</strong>
 </p>
