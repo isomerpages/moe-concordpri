@@ -144,10 +144,9 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstud
 <p>For more information, please refer <a href="/files/CC_Cover_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>3a.<strong> Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
-<p>Please do&nbsp;<strong><u>NOT</u></strong>&nbsp;purchase any textbook
-or school attire before you are notified through the school official letter
-of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no refund.</u></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_MOE_FAS_has_not_started.png">
+</div>
 <p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FAS_Eligibility.png">
@@ -155,27 +154,10 @@ of the outcome of your FAS application as there is&nbsp;<strong><u>strictly no r
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
 more information regarding MOE FAS. Parents can apply through PG app or
 via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank">link</a>.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/fas%20service%20pic.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6666a548f71e023bcbe7c9b7"><img style="width: 100%;" height="auto" width="100%" src="/images/fas%20qr%20code.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p>3b.<strong> Apply for DigitalAccess@Home</strong>
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
@@ -192,7 +174,7 @@ contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blan
 </ol>
 <p>Our school canteen and bookshop accept cashless payments via the POSB
 Smart Buddy watch. If you would like to register your child for a POSB
-Smart Buddy watch, please refer to this <a href="/files/smart%20buddy%20registration%20pamphlet.pdf" rel="no opener noreferrer" target="_blank">Pamphlet</a> for
+Smart Buddy watch, please click <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <p>
 <br>5.<strong> Join M.A.D parents</strong>
