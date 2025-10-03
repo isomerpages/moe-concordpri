@@ -163,7 +163,7 @@ via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" tar
 </p>
 <p>Students from low-income households who are interested to apply for subsidised
 broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply
-via <a href="www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
+via <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
 contact 6377 3800 or e-mail: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p></p>
