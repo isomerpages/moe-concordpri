@@ -159,7 +159,7 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstud
 more information regarding MOE FAS. Parents can apply through PG app or
 via this&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank">link</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/FAS.png">
 </div>
 <p>3b.<strong> Apply for DigitalAccess@Home</strong>
 </p>
