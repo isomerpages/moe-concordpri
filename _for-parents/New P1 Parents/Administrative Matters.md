@@ -32,7 +32,7 @@ more information.</p>
 <p>Please note that <u>each child requires a separate GIRO application</u>,
 do ensure you submit an individual application for each student.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eGiro.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/eGiro.png">
 </div>
 <p>
 <br>3. <strong>Apply for Edusave Standing Order <em>(For Singapore Citizens only)</em></strong>
@@ -57,7 +57,7 @@ login will be required.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EduSave.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/EduSave.png">
 </div>
 <p>
 <br>
@@ -82,7 +82,7 @@ in our schools.</p>
 November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
 via PG. We will notify you via PG when the portal is available.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDF.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SDF.png">
 </div>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
