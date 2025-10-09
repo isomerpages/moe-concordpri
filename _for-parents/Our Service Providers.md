@@ -122,6 +122,7 @@ Plan for Students can be found on NTUC Income’s website at
 Big Heart Student Care @ Concord Primary
 <br>Phone: <strong>98552563</strong>
 <br>Website: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://bigheartstudentcare.com/</a>
+	<br>Video: <a href="https://bigheartstudentcare.com/" rel="noopener noreferrer" target="_blank">https://youtu.be/vQKoE2luc20?si=4vTeSdp8RnSsu1B1/</a>
 <br>Email: <a href="mailto:Concord@shgstudentcare.com.sg" rel="noopener noreferrer" target="_blank">Concord@shgstudentcare.com.sg</a>
 </p>
 </td>
