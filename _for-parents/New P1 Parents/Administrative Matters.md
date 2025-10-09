@@ -143,9 +143,13 @@ more details.</p><a class="isomer-image-wrapper" href="https://docs.google.com/f
 </li>
 </ol>
 <p>If you would like to enrol your child with our School-based Student Care,
-you may indicate your interest online via the URL online <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a> or
-the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheartstudentcare.com/interest/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BH_QR.png"></a>
+you may indicate your interest online via the URL online <a href="https://bigheart.cyberland.sg/interest.php" rel="noopener nofollow" target="_blank">link</a> or
+the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheart.cyberland.sg/interest.php"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Interest_Link_QR_code.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concord_Info.png">
+</div>
 <p>For more information, please refer <a href="/files/CC_Cover_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To view our corporate video, please click <a href="https://youtu.be/vQKoE2luc20" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>3a.<strong> Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <div class="isomer-image-wrapper">
