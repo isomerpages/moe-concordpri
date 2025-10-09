@@ -149,6 +149,7 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheart.cyb
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concord_Info.png">
 </div>
 <p>For more information, please refer <a href="/files/CC_Cover_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To view our corporate video, please click <a href="https://youtu.be/vQKoE2luc20" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>3a.<strong> Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
 <div class="isomer-image-wrapper">
