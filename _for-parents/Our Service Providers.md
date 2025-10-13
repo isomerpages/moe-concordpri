@@ -25,10 +25,20 @@ variant: markdown
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>School Dental Clinic</u></strong> - Temporary Closure for the Construction of the Student Services Hub
-<br>The renovation works will commence from 10 July 2025. 
-<br>During this period, students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School, South View Primary School and Teck Whye Primary.
-	<br>
+<p><strong><u>School Dental Clinic</u></strong>
+<br>Due to delays in the renovation works, our Dental Clinic will re-open from this Wednesday, 15 Oct 2025.
+	<br><u>The schedule for October 2025 is as follows:</u>
+<br>15 Oct: 1.30 pm to 5 pm
+<br>16 Oct: 8 am to 2 pm
+<br>17 Oct: 11 am to 5 pm
+<br>27-31 Oct: 8 am to 5 pm
+<br>
+<br>For November and December 2025, the clinic will be open on most days. The detailed schedule would be updated monthly.
+<br>	
+<br>The Dental Therapist will see all walk-in cases. You may also make appointments via the phone (9114 3917). 
+<br>While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
+<br>During adhoc closure of Concord Pri dental clinic, the three buddy dental clinics at Chua Chu Kang Primary, South View Primary and Teck Whye Primary, would still function to receive emergency cases.
+<br>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
