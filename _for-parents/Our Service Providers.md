@@ -32,12 +32,11 @@ variant: markdown
 <br>16 Oct: 8 am to 2 pm
 <br>17 Oct: 11 am to 5 pm
 <br>27-31 Oct: 8 am to 5 pm
-<br>
 <br>For November and December 2025, the clinic will be open on most days. The detailed schedule would be updated monthly.
 <br>	
 <br>The Dental Therapist will see all walk-in cases. You may also make appointments via the phone (9114 3917). 
 <br>While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
-<br>During adhoc closure of Concord Pri dental clinic, the three buddy dental clinics at Chua Chu Kang Primary, South View Primary and Teck Whye Primary, would still function to receive emergency cases.
+<br>During adhoc closure of our dental clinic, the three buddy dental clinics at Chua Chu Kang Primary, South View Primary and Teck Whye Primary, would still function to receive emergency cases.
 <br>
 <table style="minWidth: 75px">
 <colgroup>
