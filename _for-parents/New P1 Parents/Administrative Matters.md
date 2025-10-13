@@ -78,16 +78,11 @@ app under the Services tab:</p>
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
 in our schools.</p>
-<p>You will be able to submit the Student Details Form from <strong>10 am</strong> onwards
-on 1 Dec 2025 via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
-via PG. We will remind you via PG when the Form is available.</p>
+<p>You will be able to submit the SDF from 1 Dec 2025 <strong>10 am</strong> onwards
+via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
+via PG.</p>
 <p><strong>Only one parent</strong> (father or mother) is required to submit
-the pupil data to MOE. However, if the parent indicates that he/she is
-unable to provide his/her spouse’s highest educational level attended,
-the other parent will need to log in to submit the information.</p>
-<p>Schools will receive a weekly report on the P1 SDF submission status from
-8 Dec 2025 onwards and shall remind parents who have yet to submit SDF
-to do so by 31 Dec 2025.</p>
+the data.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SDF.png">
 </div>
