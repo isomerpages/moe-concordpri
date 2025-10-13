@@ -64,10 +64,12 @@ login will be required.
 <br>4. <strong>Declare Travel Plans for 2025 Year-end School Holidays <em>(Not needed if not travelling)</em></strong>
 </p>
 <p>If your child is travelling during the 2025 year-end school holidays,
-please declare your travel plans through this <a href="https://go.gov.sg/cps2025p1travel" rel="noopener no referrer" target="_blank">link</a> or the QR code below:</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/cps2025p1travel">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Year_End_Travel_QR.png">
-</a>
+please declare your travel plans through through the Parents Gateway (PG)
+app under the Services tab:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Travel_Decl.png">
+</div>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Complete Student Details Form (SDF)</strong>
