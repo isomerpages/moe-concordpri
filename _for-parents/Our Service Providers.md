@@ -25,7 +25,7 @@ variant: markdown
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>School Dental Clinic</u></strong> - Temporary Closure Construction of the Student Services Hub
+<p><strong><u>School Dental Clinic</u></strong> - Temporary Closure for the Construction of the Student Services Hub
 <br>The renovation works will commence from 10 July 2025. 
 <br>During this period, students who require dental services during this period can approach the Dental Clinics at Choa Chu Kang Primary School, South View Primary School and Teck Whye Primary.
 	<br>
