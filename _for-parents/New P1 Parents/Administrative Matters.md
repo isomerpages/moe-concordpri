@@ -53,9 +53,7 @@ your child’s/ward’s participation before the withdrawal of Edusave funds.
 If you subsequently decide that to use alternative funding sources for
 enrichment programmes, you can terminate the Standing Order at any time.</p>
 <p>You can sign up for the Standing Order <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener referrer" target="_blank">here</a>. Singpass
-login will be required.
-<br>
-</p>
+login will be required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/EduSave.png">
 </div>
