@@ -27,15 +27,16 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong><u>School Dental Clinic</u></strong>
 <br>Due to delays in the renovation works, our Dental Clinic will re-open from this Wednesday, 15 Oct 2025.
-	<br><u>The schedule for October 2025 is as follows:</u>
-<br>15 Oct: 1.30 pm to 5 pm
-<br>16 Oct: 8 am to 2 pm
-<br>17 Oct: 11 am to 5 pm
-<br>27-31 Oct: 8 am to 5 pm
-<br>For November and December 2025, the clinic will be open on most days. The detailed schedule would be updated monthly.
+<br>
+<br><u>The schedule for October 2025 is as follows:</u>
+<br>- 15 Oct: 1.30pm to 5pm
+<br>- 16 Oct: 8am to 2pm
+<br>- 17 Oct: 11am to 5pm
+<br>- 27-31 Oct: 8am to 5pm
+<br>
+<br>For November and December 2025, the clinic will be open on most days. The detailed schedule would be updated here.
 <br>	
-<br>The Dental Therapist will see all walk-in cases. You may also make appointments via the phone (9114 3917). 
-<br>While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
+<br>The Dental Therapist will see all walk-in cases. You may also make an appointment via 9114 3917. While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
 <br>
 <br>During adhoc closure of our dental clinic, the three buddy dental clinics at Chua Chu Kang Primary, South View Primary and Teck Whye Primary, would still function to receive emergency cases.
 <br>
