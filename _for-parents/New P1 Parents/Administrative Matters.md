@@ -86,6 +86,9 @@ on 1 Dec 2025 via PG. We will notify you via PG when the Form is available.</p>
 the pupil data to MOE. However, if the parent indicates that he/she is
 unable to provide his/her spouse’s highest educational level attended,
 the other parent will need to log in to submit the information.</p>
+<p>Schools will receive a weekly report on the P1 SDF submission status from
+8 Dec 2025 onwards and shall remind parents who have yet to submit SDF
+to do so by 31 Dec 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SDF.png">
 </div>
