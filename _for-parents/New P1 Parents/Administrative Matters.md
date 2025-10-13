@@ -80,8 +80,8 @@ app under the Services tab:</p>
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
 in our schools.</p>
-<p>You will be able to submit the Student Details Form from <strong>10 am</strong> on
-1 Dec 2025 via PG. We will notify you via PG when the Form is available.</p>
+<p>You will be able to submit the Student Details Form from <strong>10 am</strong> onwards
+on 1 Dec 2025 via PG. We will notify you via PG when the Form is available.</p>
 <p><strong>Only one parent</strong> (father or mother) is required to submit
 the pupil data to MOE. However, if the parent indicates that he/she is
 unable to provide his/her spouse’s highest educational level attended,
