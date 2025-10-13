@@ -53,9 +53,7 @@ your child’s/ward’s participation before the withdrawal of Edusave funds.
 If you subsequently decide that to use alternative funding sources for
 enrichment programmes, you can terminate the Standing Order at any time.</p>
 <p>You can sign up for the Standing Order <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener referrer" target="_blank">here</a>. Singpass
-login will be required.
-<br>
-</p>
+login will be required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/EduSave.png">
 </div>
@@ -72,7 +70,7 @@ app under the Services tab:</p>
 <p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong>Complete Student Details Form (SDF)</strong>
+<p><strong>Complete Student Details Form (SDF) - Available from 1 Dec 2025 to 31 Dec 2025</strong>
 </p>
 </li>
 </ol>
@@ -80,9 +78,11 @@ app under the Services tab:</p>
 of Education (MOE) would like to collect necessary information about you
 and your child/ward to provide educational services for your child/ward
 in our schools.</p>
-<p>You will be able to submit via the Student Details Form portal from late
-November onwards via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
-via PG. We will notify you via PG when the portal is available.</p>
+<p>You will be able to submit the SDF from 1 Dec 2025 <strong>10 am</strong> onwards
+via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
+via PG.</p>
+<p><strong>Only one parent</strong> (father or mother) is required to submit
+the data.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SDF.png">
 </div>
