@@ -119,8 +119,8 @@ purchase.
 <br><strong>*not to be confused with Far East Plaza which is along Scotts Road.</strong>
 </p>
 <p></p>
-<p>You may refer to <a href="/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information.</p>
+<p>You may refer to <a href="/files/BibiBaba_2025_6_Year_End_Sales_Opening_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applying_for_FAS_Should_Not_Purchase.png">
