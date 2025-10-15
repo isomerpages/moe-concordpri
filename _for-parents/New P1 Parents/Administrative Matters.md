@@ -79,8 +79,7 @@ in our schools.</p>
 <p>You will be able to submit the SDF from 1 Dec 2025 <strong>10 am</strong> onwards
 via this <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">link</a> or
 via PG.</p>
-<p><strong>Only one parent</strong> (father or mother) is required to submit
-the data.</p>
+<p><strong>Only one parent</strong> is required to submit the data.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SDF.png">
 </div>
