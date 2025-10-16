@@ -151,7 +151,6 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheart.cyb
 <p>To view our corporate video, please click <a href="https://youtu.be/vQKoE2luc20" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>3a.<strong> Apply for 2026 MOE Financial Assistance Scheme (FAS)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/No_refund.png">
 </div>
