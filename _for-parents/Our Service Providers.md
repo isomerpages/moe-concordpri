@@ -32,7 +32,7 @@ variant: markdown
 <br>- 15 Oct: 1.30pm to 5pm
 <br>- 16 Oct: 8am to 2pm
 <br>- 17 Oct: 11am to 5pm
-<br>- 27-31 Oct: 8am to 5pm
+<br>- 23 to 31 Oct: 8am to 5pm
 <br>
 <br>For November and December 2025, the clinic will be open on most days. The detailed schedule would be updated here.
 <br>	
