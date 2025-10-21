@@ -154,7 +154,8 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheart.cyb
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/No_refund.png">
 </div>
-<p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS:</p>
+<p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS
+(Revised on 16 October 25):</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_FAS_Criteria.png">
 </div>
