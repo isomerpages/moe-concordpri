@@ -154,13 +154,14 @@ the QR code below:</p><a class="isomer-image-wrapper" href="https://bigheart.cyb
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/No_refund.png">
 </div>
-<p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS:</p>
+<p>Below is the Eligibility Criteria and Subsidy information for 2026 FAS
+(Revised on 16 October 25):</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_FAS_Criteria.png">
 </div>
 <p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
 more information regarding MOE FAS. Parents can apply through PG app or
-via this&nbsp;<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer" target="_blank">link</a>.</p>
+via this&nbsp;<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer" target="_blank">link</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/FAS.png">
 </div>
