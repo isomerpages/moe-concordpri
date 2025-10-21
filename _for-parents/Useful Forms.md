@@ -7,7 +7,7 @@ variant: markdown
 <h5>1. Finance Assistance Scheme</h5>
 <ul>
 <li>For more information: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener noreferrer"> MOE FAS</a> page</li>
-<li>Parents can apply via the PG app or via this <a href="https://form.gov.sg/68b7e92465cd36be287889c6" target="_blank" rel="noopener noreferrer">link</a>.</li>
+<li>Parents can apply via the PG app or via this <a href="https://go.gov.sg/moe-efasggas" target="_blank" rel="noopener noreferrer">link</a>.</li>
 <li>Should you not meet the MOE FAS eligibility requirements but is in need of financial assistance, please write in to <a href="mailto:concord_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer">concord_ps@moe.edu.sg</a>. The school will review your request on a case-by-case basis.</li>
 </ul>
 <h5>2. DigitalAccess@ Home Application</h5>
