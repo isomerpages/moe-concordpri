@@ -27,7 +27,7 @@ variant: markdown
 <ul>
 <li><a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer">GIRO Termination Form</a></li>
 <li>eGIRO and Edusave Standing Order<i>(for Singapore Citizens only)</i> can be applied thru the Parents Gateway app<br>
-<img src="/images/eGiro_and_EPSO.png">
+<img style="width:40%" src="/images/eGiro_and_EPSO.png">
 
 <h5>5. School-Based Student Care Services</h5>
 <ul>
