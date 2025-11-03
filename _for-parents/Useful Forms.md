@@ -27,7 +27,7 @@ variant: markdown
 <ul>
 <li><a href="/files/giro_termination_form_revisedsep19.pdf" target="_blank" rel="noopener noreferrer">GIRO Termination Form</a></li>
 <li>eGIRO and Edusave Standing Order<i>(for Singapore Citizens only)</i> can be applied thru the Parents Gateway app<br>
-<div style="align:left; width:30%"><img src="/images/eGiro_and_EPSO.png">
+<img src="/images/eGiro_and_EPSO.png">
 
 <h5>5. School-Based Student Care Services</h5>
 <ul>
@@ -36,4 +36,4 @@ variant: markdown
 
 <h5>6. School Wait List Application</h5>
 <ul>
-<li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a></li></ul></div></li></ul>
+<li><a href="https://go.gov.sg/cpswaitlist" target="_blank" rel="noopener noreferrer">School Wait List Form</a></li></ul></li></ul>
