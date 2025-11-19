@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Staff Awards Nomination 2025.md
       - Update Child's Absence.md
       - Useful Forms.md
       - Traffic Management Plan.md
