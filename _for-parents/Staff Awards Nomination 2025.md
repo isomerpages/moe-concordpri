@@ -17,6 +17,8 @@ description: ""
 <p></p>
 <p>Nomination closes on&nbsp;<strong><u>9 January 2026, Friday, at 12pm.</u></strong>
 </p>
+<p></p>
+<h4><strong>Teachers Eligible For OYEA</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
