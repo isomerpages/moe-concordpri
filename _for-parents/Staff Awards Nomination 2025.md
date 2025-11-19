@@ -114,6 +114,7 @@ description: ""
 </tbody>
 </table>
 <h2><strong>NIE Caring Teacher Award 2025-2026</strong></h2>
+<p>Express your appreciation by submitting a nomination here: <a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a>
+</p>
 <p></p>
-<p></p>
-<p></p>
+<p>Nomination closing date:&nbsp;31 December 2025</p>
