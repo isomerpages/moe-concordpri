@@ -161,7 +161,8 @@ Big Heart Student Care @ Concord Primary
 <br>
 <br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener noreferrer" target="_blank"> https://www.schooluniforms.sg/concord-primary-school</a>
 <br>
-<br>Details of year-end sales in November and December will be shared at a later date.
+<br>Year-end sales dates in November and December 
+<img style="width:100%" height="auto" width="100%" src="/images/bbbb_yr_end_sale_dates.png">
 <br>If you require custom sizes, you can enquire with their Henderson Outlet.
 <br>
 <br>
