@@ -28,8 +28,6 @@ variant: markdown
 <p><strong><u>School Dental Clinic</u></strong>
 <br>Due to delays in the renovation works, our Dental Clinic will re-open from this Wednesday, 15 Oct 2025.
 <br>
-<br><u>The schedule for November 2025 is as follows:</u>
-<img style="width:100%" height="auto" width="100%" src="/images/Dental_Nov_2025.png">
 	<br><u>The schedule for December 2025 is as follows:</u>
 <img style="width:100%" height="auto" width="100%" src="/images/Dental_Dec_2025.png">
 <br>The Dental Therapist will see all walk-in cases. You may also make an appointment via 9114 3917. While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
