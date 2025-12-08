@@ -196,7 +196,7 @@ School bookshop will start uniform consignment from 01 March 2026 onwards.
 <br>Tel: <strong>9772 3370, 9650 0512</strong>
 <br>
 <br><strong><u>School Bus Operator and Bus Fare</u></strong>
-<br><a href="/files/school%20bus%20operator%20and%20bus%20fare_cps_2024v2.pdf" rel="noopener noreferrer" target="_blank">School Bus Services 2024 to 2025</a>
+<br><a href="/files/School_Bus_Services_2026.pdf" rel="noopener noreferrer" target="_blank">School Bus Services 2026</a>
 </p>
 </td>
 </tr>
