@@ -119,18 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kumaran s/o Veerapandian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kumaran_veerapandian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Yin</p>
 </td>
 <td rowspan="1" colspan="1">
