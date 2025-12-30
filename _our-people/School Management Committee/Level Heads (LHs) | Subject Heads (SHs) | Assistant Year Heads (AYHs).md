@@ -68,19 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Norishah Binte Anwar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Education Technology</p>
-<p>/ HOD ICT (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norishah_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norishah_anwar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Siti Khamsiah Bte Sapuan</p>
 </td>
 <td rowspan="1" colspan="1">
