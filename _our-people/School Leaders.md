@@ -50,16 +50,6 @@ variant: tiptap
 <p>Vice Principal (Academic)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andrew Lee
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Administration)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
