@@ -28,22 +28,22 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-yhj8">First Day of School<br></td>
-    <td class="tg-yhj8">Thursday, 2 January 2025<br><b style="color:blue"><em>(Only P1 students report to school)</em></b>
+    <td class="tg-yhj8">Friday, 2 January 2026<br><b style="color:blue"><em>(Only P1 students report to school)</em></b>
 	</td></tr>
 	<tr>
     <td class="tg-yhj8">Eve of Chinese New Year<br></td>
-    <td class="tg-yhj8">Tuesday, 28 January  2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b>
+    <td class="tg-yhj8">Monday, 16 February 2026<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b>
 	</td></tr>
 	<tr>
     <td class="tg-yhj8">Chinese New Year<br></td>
-    <td class="tg-yhj8">Wednesday, 29 January 2025<br>to<br>Thursday, 30 January 2025<br><b style="color:blue"></b></td>
+    <td class="tg-yhj8">Tuesday, 17 February 2026<br>to<br>Wednesday, 18 January 2026<br><b style="color:blue"></b></td>
  </tr>
 <tr><td class="tg-yhj8"><b style="color:#FF7F50">March<br>School Holiday<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 15 March 2025<br>to<br>Sunday, 23 March 2025</b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 14 March 2026<br>to<br>Sunday, 22 March 2026</b></td>
 </tr>
 	<tr>
     <td class="tg-yhj8">Hari Raya Puasa<br></td>
-    <td class="tg-yhj8">Monday, 31 March 2025<br>
+    <td class="tg-yhj8">Sunday, 22 March 2026<br><b style="color:blue"><em>(Monday, 23 March 2026 will<br>be a scheduled Public Holiday)</em></b>
 	</td></tr>
 		<tr>
     <td class="tg-yhj8">Good Friday<br></td>
