@@ -26,8 +26,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Dental Clinic</u></strong>
-<br>Due to delays in the renovation works, our Dental Clinic will re-open from this Wednesday, 15 Oct 2025.
-<br>
 	<br><u>The schedule for December 2025 is as follows:</u>
 <img style="width:100%" height="auto" width="100%" src="/images/Dental_Dec_2025.png">
 <br>The Dental Therapist will see all walk-in cases. You may also make an appointment via 9114 3917. While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
@@ -159,12 +157,10 @@ Big Heart Student Care @ Concord Primary
 <br>
 <br>For online purchases, please visit their website:<a href="https://www.schooluniforms.sg/concord-primary-school" rel="noopener noreferrer" target="_blank"> https://www.schooluniforms.sg/concord-primary-school</a>
 <br>
-<br>Year-end sales dates in November and December 2025
-<img style="width:100%" height="auto" width="100%" src="/images/bbbb_yr_end_sale_dates.png">
 <br>If you require custom sizes, you can enquire with their Henderson Outlet.
 <br>
 <br>
-School bookshop will start uniform consignment from 01 March 2026 onwards.
+	School bookshop will start uniform consignment from <b>1 March 2026</b> onwards.
 </p>
 </td>
 </tr>
