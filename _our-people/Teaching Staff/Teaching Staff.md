@@ -82,7 +82,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorasmaedah Bte Ahmad</p>
+<p><a href="mailto:noorasmaedah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorasmaedah Bte Ahmad</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -517,7 +518,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener nofollow" target="_blank">Mr Muhammad Haziq Bin Zailani</a>
+<p><a href="mailto:Muhammad_Haziq_Zailani_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Haziq Bin Zailani</a>
 <br>
 </p>
 </td>
@@ -741,7 +742,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Radhiah Bte Jais </a>
+<p><a href="mailto:radhiah_jais@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Radhiah Bte Jais </a>
 <br>
 </p>
 </td>
@@ -844,7 +845,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener nofollow" target="_blank">Ms Eldora Kok Ying Zhi</a>
+<p><a href="mailto:eldora_kok_ying_zhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Eldora Kok Ying Zhi</a>
 <br>
 </p>
 </td>
@@ -912,7 +913,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Xianghao Keith</a>
+<p><a href="mailto:chen_xianghao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Xianghao Keith</a>
 <br>
 </p>
 </td>
