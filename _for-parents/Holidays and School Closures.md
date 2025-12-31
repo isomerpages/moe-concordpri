@@ -47,65 +47,52 @@ variant: markdown
 	</td></tr>
 		<tr>
     <td class="tg-yhj8">Good Friday<br></td>
-    <td class="tg-yhj8">Friday, 18 April 2025<br>
+    <td class="tg-yhj8">Friday, 3 April 2026<br>
 	</td></tr>
 	<tr>
 	</tr><tr>
     <td class="tg-yhj8">Labour Day<br></td>
-    <td class="tg-yhj8">Thursday, 1 May 2025<br>
+    <td class="tg-yhj8">Friday, 1 May 2026<br>
 	</td>
-	</tr><tr>
-<td class="tg-yhj8">Prepration for <br>General Elections (GE)<br></td>
-<td class="tg-yhj8">Friday, 2 May 2025<br><b style="color:blue"><em>(Early dismissal at 10.30 am)</em></b></td>
-	</tr><tr>
-	<td class="tg-yhj8">School Holiday <br>(Day off in Lieu for GE)<br></td>
-    <td class="tg-yhj8">Monday, 5 May 2025<br>
+	</tr>
+    <tr><td class="tg-yhj8">Hari Raya Haji<br></td>
+    <td class="tg-yhj8">Wednesday, 27 May 2026<br>
+</td></tr><tr>
+		</tr><tr><td class="tg-yhj8"><b style="color:#FF7F50">Mid Year<br>School Holidays<br></b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 30 May 2026<br>to<br>Sunday, 28 June 2026</b></td>
+	</tr>
+    <tr><td class="tg-yhj8">Vesak Day<br></td>
+    <td class="tg-yhj8">Sunday, 31 May 2026<br><b style="color:blue"><em>(Monday, 1 June 2026 will<br>be a scheduled Public Holiday)</em></b>
 	</td>
 	</tr>
 	<tr>
-    <td class="tg-yhj8">Vesak Day<br></td>
-    <td class="tg-yhj8">Monday, 12 May 2025<br>
-	</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Home-based Learning <br>(All students)</td>
-    <td class="tg-yhj8">Friday, 30 May 2025<br><b style="color:blue"><em>(Parent-Teacher Conference for P2 to P6)</em></b>
-	</td>
-	</tr>	
-	<tr><td class="tg-yhj8"><b style="color:#FF7F50">Mid Year<br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 31 May 2025<br>to<br>Sunday, 29 June 2025</b></td>
-	</tr>
-	<tr>
-    <td class="tg-yhj8">Hari Raya Haji<br></td>
-    <td class="tg-yhj8">Saturday, 7 June 2025<br><b style="color:blue"><em>(Monday, 9 June 2025 will<br>be a scheduled School Holiday)</em></b>
-	</td>
 	</tr>
 	<tr>
     <td class="tg-yhj8">Youth Day<br></td>
-    <td class="tg-yhj8">Sunday, 6 July 2025<br><b style="color:blue"><em>(Monday, 7 July 2024 will<br>be a scheduled School Holiday)</em></b></td>
+    <td class="tg-yhj8">Sunday, 5 July 2026<br><b style="color:blue"><em>(Monday, 6 July 2026 will<br>be a scheduled School Holiday)</em></b></td>
 	</tr>
 	<tr>
-    <td class="tg-yhj8">Eve of National Day<br></td>
-    <td class="tg-yhj8">Friday, 8 August 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
+    <td class="tg-yhj8">National Day Celebration<br><b style="color:blue"><em>(TBC)</em></b>
+    </td><td class="tg-yhj8">Friday, 7 August 2026<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
   </tr>
 <tr>
     <td class="tg-yhj8">National Day<br></td>
-    <td class="tg-yhj8">Saturday, 9 August 2025<br><b style="color:blue"><em>(Monday, 11 August 2025 will<br>be a scheduled School Holiday)</em></b></td>
+    <td class="tg-yhj8">Sunday, 9 August 2026<br><b style="color:blue"><em>(Monday, 10 August 2026 will<br>be a scheduled Public Holiday)</em></b></td>
   </tr>
 	<tr>
     <td class="tg-yhj8">PSLE Oral<br></td>
-    <td class="tg-yhj8">Wednesday, 13 August 2025<br>Thursday, 14 August 2025<br>
+    <td class="tg-yhj8">Wednesday, 12 August 2026<br>Thursday, 14 August 2026<br>
   </td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day Celebration<br></td>
-    <td class="tg-yhj8">Thursday, 4 September 2025<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td></tr>
+    <td class="tg-yhj8">Thursday, 3 September 2026<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td></tr>
 	<tr>
     <td class="tg-yhj8">Teachers' Day<br></td>
-    <td class="tg-yhj8">Friday, 5 September 2025<br></td>
+    <td class="tg-yhj8">Friday, 4 September 2026<br></td>
   </tr>
 	<tr>
 		<td class="tg-yhj8"><b style="color:#FF7F50">September<br>School Holidays<br></b></td>
-		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 6 September  2025<br>to<br>Sunday, 14 September 2025</b></td>
+		<td class="tg-yhj8"><b style="color:#FF7F50">Saturday, 5 September  2026<br>to<br>Sunday, 13 September 2026</b></td>
 		</tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
