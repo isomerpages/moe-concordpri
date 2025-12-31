@@ -174,13 +174,12 @@ School bookshop will start uniform consignment from 01 March 2026 onwards.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Bookshop</u></strong>
-<br>Opening Hours: <strong><u>8 am to 3 pm</u></strong>
+<br>Opening Hours: <strong><u>8.30 am to 3 pm</u></strong>
 <br>Open to parents from <strong><u>2pm to 2:45pm</u></strong>
-<br>(1st Feb 2022 onwards)
 <br>Lunch Hours: <strong><u>12 pm to 1 pm</u></strong>
 <br>
-<br>Tel: <strong><u>9091 9850</u></strong>
-<br>Website: <a href="http://www.pacificbookstores.com/" rel="noopener noreferrer" target="_blank">http://www.pacificbookstores.com</a>
+<br>Tel: <strong><u>6284 8785</u></strong>
+<br>Website: <a href="www.blmarketing.com.sg" rel="noopener noreferrer" target="_blank">www.blmarketing.com.sg</a>
 <br>
 <br>
 </p>
