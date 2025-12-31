@@ -135,7 +135,7 @@ Big Heart Student Care @ Concord Primary
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Uniform Supplier</u></strong>
-	<br>School bookshop will start uniform consignment from <b>1 March 2026</b> onwards or you can head to the Bibi&amp; Baba Retail Outlets.
+	<br>School bookshop will start uniform consignment from <b>1 March 2026</b> onwards or you can head to the Bibi&amp;Baba Retail Outlets.
 	<br>
 <br><strong>Bibi&amp;Baba Retail Outlets:</strong>
 <br><strong>Far East Shopping Centre Outlet</strong>
