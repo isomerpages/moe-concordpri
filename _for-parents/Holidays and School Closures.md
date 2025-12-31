@@ -96,10 +96,10 @@ variant: markdown
 		</tr>
 	 <tr>
     <td class="tg-yhj8">PSLE Listening Comprehension<br></td>
-    <td class="tg-yhj8">Tuesday, 16 September 2025<br></td>
+    <td class="tg-yhj8">Tuesday, 15 September 2026<br></td>
   </tr>
  <tr>
-    <td class="tg-yhj8">P6 Study Break<br></td>
+    <td class="tg-yhj8">P6 Study Break<br><b style="color:blue"><em>(TBC)</em></b></td>
     <td class="tg-yhj8">Monday, 22 September 2025<br>to<br>Wednesday, 24 September 2025<br><b style="color:blue"><em>(P6D, 6E &amp; 6F students need not report to school)<br></em></b></td>
   </tr>
 <tr>
