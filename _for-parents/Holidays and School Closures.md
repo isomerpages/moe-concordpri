@@ -123,7 +123,7 @@ variant: markdown
 </tr>
 <tr>
     <td class="tg-yhj8">Deepavali<br></td>
-    <td class="tg-yhj8">Sunday, 8 October 2026<br><b style="color:blue"><em>(Monday, 9 October 2026 will<br>be a scheduled Public Holiday)</em></b></td>
+    <td class="tg-yhj8">Sunday, 8 November 2026<br><b style="color:blue"><em>(Monday, 9 November 2026 will<br>be a scheduled Public Holiday)</em></b></td>
 </tr>
 <tr>
     <td class="tg-yhj8">Admin Day<br><b style="color:blue"><em>(TBC)</em></b></td>
