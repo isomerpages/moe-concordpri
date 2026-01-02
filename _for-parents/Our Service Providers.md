@@ -107,7 +107,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Group Personal Accident Insurance For Students</u></strong>
-<br>Product Fact Sheet <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer" target="_blank">StudentGPA</a> (NTUC
+<br>Product Fact Sheet <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer" target="_blank">StudentGPA</a> (NTUC
 Income)
 <br>Information on claims, FAQs and other details pertaining to the GPA Insurance
 Plan for Students can be found on NTUC Income’s website at
@@ -135,7 +135,7 @@ Big Heart Student Care @ Concord Primary
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Uniform Supplier</u></strong>
-	<br>School bookshop will start uniform consignment from <b>1 March 2026</b> onwards or you can head to the Bibi&amp; Baba Retail Outlets.
+	<br>School bookshop will start uniform consignment from <b>1 March 2026</b> onwards or you can head to the Bibi&amp;Baba Retail Outlets.
 	<br>
 <br><strong>Bibi&amp;Baba Retail Outlets:</strong>
 <br><strong>Far East Shopping Centre Outlet</strong>
@@ -176,7 +176,7 @@ Big Heart Student Care @ Concord Primary
 <br>Lunch Hours: <strong><u>12 pm to 1 pm</u></strong>
 <br>
 <br>Tel: <strong><u>6284 8785</u></strong>
-<br>Website: <a href="www.blmarketing.com.sg" rel="noopener noreferrer" target="_blank">www.blmarketing.com.sg</a>
+<br>Website: <a href="https://www.blmarketing.com.sg" rel="noopener noreferrer" target="_blank"> www.blmarketing.com.sg</a>
 <br>
 <br>
 </p>
