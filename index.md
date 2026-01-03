@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /for-parents/term-calendar-and-note/
         - title: Holidays and  school closures
-          description: "Last updated: 31 December 2025"
+          description: "Last updated: 2 January 2026"
           url: /for-parents/holidays-and-school-closures/
       variant: center
 ---
