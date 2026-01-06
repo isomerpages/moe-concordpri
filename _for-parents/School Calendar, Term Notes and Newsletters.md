@@ -40,7 +40,12 @@ variant: markdown
 		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_2_Calendar_V3__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 2 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_3_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 3 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="/files/2025_CPS_Term_4_Calendar_V2__For_Parents_.pdf" target="_blank" rel="noopener noreferrer">2025 Term 4 Calendar</a><br>
-
+</td></tr>
+<tr>
+	<td class="tg-xuj5"><a href="/files/2026_Term_1_School_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2026 Term 1 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br>
 </td></tr>
 </tbody>
 </table>
