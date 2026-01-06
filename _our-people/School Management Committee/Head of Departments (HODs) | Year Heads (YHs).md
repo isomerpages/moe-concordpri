@@ -82,7 +82,7 @@ variant: tiptap
 <p>Mr Tan Kim Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE (Covering)</p>
+<p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_ei_ei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
@@ -131,18 +131,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Bee Ha (Mrs Lau)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_bee_ha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_bee_ha@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Yin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,6 +138,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shalini D/O Thanakodi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">shalini_thanakodi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Quek Bee Ha (Mrs Lau)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_bee_ha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_bee_ha@moe.edu.sg</a>
 </p>
 </td>
 </tr>
