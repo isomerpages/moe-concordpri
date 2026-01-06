@@ -135,13 +135,12 @@ of the teacher.</p>
 that can lead to gambling activities.</p>
 </li>
 <li>
-<p>All students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which can be used or
-intended to be used to cause harm to others.</p>
+<p><strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong>
+</p>
 </li>
 <li>
-<p>Students are reminded that it is against the law and the school rules
-to purchase, use and/or possess a prohibited tobacco product ( e.g. cigarettes/e-vaporisers)</p>
+<p><strong>Students are reminded that it is against the law and the school rules to purchase, use and/or possess a prohibited tobacco product ( e.g. cigarettes/e-vaporisers)</strong>
+</p>
 </li>
 </ul>
 </td>
