@@ -97,7 +97,8 @@ variant: tiptap
 <p>HOD Curriculum &amp; Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chia_ei_ei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_ei_ei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +109,8 @@ variant: tiptap
 <p>HOD Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_chin_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_boon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
