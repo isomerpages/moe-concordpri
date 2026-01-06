@@ -46,7 +46,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
-<p>/ AYH Upper Primary (Covering)</p>
+<p>AYH Upper Primary (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_kaixin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaixin@moe.edu.sg</a>
@@ -73,7 +73,8 @@ variant: tiptap
 <p>YH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shalini_thanakodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shalini_thanakodi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
