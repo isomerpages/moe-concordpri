@@ -62,25 +62,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yeong Shook Fern</p>
+<p>Mdm Ow Tong Lan Connie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language/Mathematics</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeong_shook_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_shook_fern@moe.edu.sg</a>
+<p><a href="mailto:ow_tong_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_tong_lan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Anamaria Binte Mohamed Amin</p>
+<p>Mdm Hamimah Binti Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_anamaria_mohamed_ami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_anamaria_mohamed_ami@moe.edu.sg</a>
+<p><a href="mailto:hamimah_sulaiman_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamimah_sulaiman_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
