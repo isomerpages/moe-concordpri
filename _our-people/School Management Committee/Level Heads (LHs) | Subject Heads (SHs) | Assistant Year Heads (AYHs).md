@@ -67,18 +67,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shalini D/O Thanakodi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shalini_thanakodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shalini_thanakodi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Widiah Halwa Binti Sawandi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,18 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Baofeng Jenny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AYH Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_baofeng_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_baofeng_jenny@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nur Jihan Bte Kahar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,6 +86,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_jihan_kahar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_jihan_kahar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Baofeng Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_baofeng_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_baofeng_jenny@moe.edu.sg</a>
 </p>
 </td>
 </tr>
