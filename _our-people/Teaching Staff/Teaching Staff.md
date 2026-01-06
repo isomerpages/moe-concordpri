@@ -978,12 +978,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shi_qi_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Christine Tan Shi Qi</a>
+<p><a href="mailto:mohammad_isham_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Isham Bin Rahmat</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_isham_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Isham Bin Rahmat</a>
+<p><a href="mailto:tan_shi_qi_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Christine Tan Shi Qi</a>
 <br>
 </p>
 </td>
