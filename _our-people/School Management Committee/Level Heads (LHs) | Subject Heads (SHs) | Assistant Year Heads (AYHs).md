@@ -46,7 +46,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
-<p>/ AYH Upper Primary (Covering)</p>
+<p>AYH Upper Primary (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_kaixin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaixin@moe.edu.sg</a>
@@ -58,8 +58,7 @@ variant: tiptap
 <p>Mdm Christine Tan Shi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Science</p>
-<p>/ HOD Science (Covering)</p>
+<p>LH Science / HOD Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_shi_qi_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shi_qi_christine@moe.edu.sg</a>
@@ -68,13 +67,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khamsiah Bte Sapuan</p>
+<p>Mdm Shalini D/O Thanakodi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Character &amp; Citizenship Education (CCE)</p>
+<p>YH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_khamsiah_sapuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khamsiah_sapuan@moe.edu.sg</a>
+<p><a href="mailto:shalini_thanakodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shalini_thanakodi@schools.gov.sg</a>
 </p>
 </td>
 </tr>

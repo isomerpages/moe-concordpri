@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mr Aidil Sharil Bin Solikin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE</p>
+<p>HOD PE &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aidil_sharil_solikin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_sharil_solikin@moe.edu.sg</a>
@@ -82,10 +82,34 @@ variant: tiptap
 <p>Mr Tan Kim Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
+<p>HOD CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kim_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
+<p><a href="mailto:chia_ei_ei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_keong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Ei Ei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Curriculum &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_ei_ei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_ei_ei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chin Boon Matt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_chin_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -122,7 +146,7 @@ variant: tiptap
 <p>Mdm Tan Yoke Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head Upper Primary / HOD CCE (Covering)</p>
+<p>Year Head Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_yin@moe.edu.sg</a>
