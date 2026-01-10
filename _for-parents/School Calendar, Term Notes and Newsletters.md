@@ -43,9 +43,9 @@ variant: markdown
 </td></tr>
 <tr>
 	<td class="tg-xuj5"><a href="/files/2026_Term_1_School_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2026 Term 1 Calendar</a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer"></a><br>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 2 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 3 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 4 Calendar</a><br>
 </td></tr>
 </tbody>
 </table>
