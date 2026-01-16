@@ -169,7 +169,7 @@ Big Heart Student Care @ Concord Primary
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>School Bookshop</u></strong>
+<p><strong><u>School Bookshop - BL Marketing</u></strong>
 <br>Opening Hours: <strong><u>8.30 am to 3 pm</u></strong>
 <br>Open to parents from <strong><u>2pm to 2:45pm</u></strong>
 <br>Lunch Hours: <strong><u>12 pm to 1 pm</u></strong>
