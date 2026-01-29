@@ -50,7 +50,7 @@ an incorrect password.
 </p>
 <p>Following which, you can do any of the following:
 <br>1) Complete the form: <strong><a href="https://go.gov.sg/concordsls" rel="noopener noreferrer" target="_blank">https://go.gov.sg/concordslshelpdesk</a></strong>
-<br>2) Email school SLS Administrator:&nbsp;<strong><a href="mailto:norhafizah_pungut@schools.gov.sg" rel="noopener noreferrer" target="_blank">suhaimi_mahuan@schools.gov.sg</a></strong>
+<br>2) Email school SLS Administrator:&nbsp;<strong><a href="mailto:norhafizah_pungut@schools.gov.sg" rel="noopener noreferrer" target="_blank">suhaimi_mahuan@moe.edu.sg</a></strong>
 <br>3) Email SLS Helpdesk after school hours: <strong><a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer" target="_blank">helpdesk@sls.ufinity.com</a></strong>&nbsp;
 <br><em>* The SLS Central Helpline will operate after school operating hours</em>
 <br><em>(4pm - 9pm on weekdays, 9am - 9pm on Saturday).</em>
