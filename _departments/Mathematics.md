@@ -4,30 +4,73 @@ permalink: /departments/mathematics/
 description: ""
 variant: markdown
 ---
-<h2>Vision</h2>
-<p style="text-align:justify">Cultivating interest, developing problem solving skills and confidence in Mathematics.</p>
-<h2>Mission</h2>
-<p style="text-align:justify">Explore, Experience and Discover Mathematics.</p>
-<h2>Department Framework</h2>
-<p style="text-align:justify">The Math Department aims to equip our students with a strong foundation in Mathematics. Opportunities are created to allow our students to acquire important basic numeracy concepts and skills, develop logical reasoning and problem solving skills required in many disciplines in the students’ lives.</p>
-<br><br>
-<b>Aims of the Mathematics Department:</b>
-<ul>
-<li>Develop students’ interest in Mathematics.</li>
-<li>Develop students’ understanding of Math concepts.</li>
-<li>Enable students to acquire Mathematical skills and then apply to real-life situations.</li>
-<li>Enable students to think flexibly and use creative approaches to solve problems.</li>
-<li>Enable students to use Mathematical language to communicate Mathematical ideas confidently and logically.</li>
-<li>Develop students’ metacognitive skills to monitor own thinking and regulation of self-learning.</li>
-</ul>
-<h2>Key Programmes</h2>
+<h2>Vision:</h2>
+<p style="text-align:justify">To develop resilient and reflective problem-solvers who can
+apply Mathematics confidently in everyday life.</p>
+<h2>Mission:</h2>
+<p style="text-align:justify">To provide authentic and rigorous Mathematics learning
+experiences that develop students’ ability to discover, reason
+and communicate mathematics with confidence.</p>
+<h2>Department’s highlights/framework:</h2>
+
+<p style="text-align:justify">The Maths Department aims to nurture confident learners with
+a strong foundation in Mathematics. We design learning
+experiences that build essential numeracy skills, logical
+reasoning and problem-solving abilities that empower students
+to thrive in school, navigate real-world challenges and embrace
+future opportunities.</p>
+<br>
+<p style="text-align:justify">Our Maths Eagle Mascot is a natural extension of our school
+mascots- Connor and Caylee. Inspired by the same spirit of
+strength, curiosity and excellence, our Maths Eagle represents
+how Concordians approach Mathematics- with confidence,
+resilience and a love for learning. It carries forward the same
+core values while highlighting our five focus areas in
+Mathematics: Maths is Fun, Maths in Daily Life, Maths Grows
+With Me, Every Mind Can Maths, and Maths Connects Us.
+
+</p><h2>Key Programmes</h2>
 <br>
 <b style="color:#0000FF">Fostering Joy of Learning through Learning Experiences</b>
-<p style="text-align:justify">Opportunities are created for our students to explore, experience and discover Mathematics through the daily lessons and Math programmes. The use of manipulative, ICT tools and Math conversation/ Math talks are ways to enhance the learning experiences in the Math lessons to instil joy of learning. Besides enhancing our students’ experiences so as to enable them to understand concepts, acquire Mathematical skills and be able to apply to real-life situations, activities are customised to allow our students to think flexibly and use creative approaches to solve problems.</p>
-<br>
+<p style="text-align:justify">Opportunities are created for our students to explore,
+experience and discover Mathematics through daily lessons
+and school-wide Maths programmes. The use of
+manipulatives, ICT tools, and Maths Talks enhances students’
+learning experiences and helps to instill the joy of learning.
+Beyond supporting students in understanding concepts and
+acquiring Mathematical skills, the learning experiences are
+designed to help them apply mathematics to real-life situations,
+think flexibly and use creative approaches to solve problems.
+These experiences are aligned to our five key aspects of
+Mathematics learning:
+</p><li>Maths Grows With Me: Students develop confidence
+and resilience as they learn, practise and strengthen
+their mathematical thinking.
+</li><li>Maths in Daily Life: Activities to help students see how
+mathematics is used around them, making learning
+relevant and meaningful.
+</li><li>Every Mind Can Maths: Learning experiences are
+designed to support and stretch students of all abilities,
+reinforcing the belief that every child can learn and
+succeed in mathematics
+</li><li>Maths Connects Us: Collaborative tasks and Math
+Talks that help students communicate, reason and
+learn with their peers, strengthening connection and
+teamwork.
+</li><li>Maths is Fun: Engaging games, hands-on activities
+and playful challenges that build enjoyment and
+positive attitudes towards mathematics.
+	
+<br>Overall, our approach ensures that every child experiences
+mathematics as a subject that is meaningful, connected and
+joyful.
+<p></p>
+
+<img src=">
+
 <u><b>Use of manipulative in the lessons (P1 to 6)</b></u>
 <br><br>
-<img src="/images/m1.png" style="width:80%">
+<img style=" style="wiwidth:80%">
 <img src="/images/m2.png" style="width:80%">
 <br>
 <u><b>Use of EdTech tools</b></u>   
@@ -138,5 +181,5 @@ The programme aims to foster independence in mathematical thinking skills, as we
 <p style="text-align:justify">The objectives of participating in Math competitions are to expose our students to intellectually challenging mathematical questions, to challenge and stretch their mathematical potential, to stimulate their interest and ignite their passion in Mathematics.&nbsp;Our students have been exposed to the following competitions: 
 
 
-</p><li>Singapore Mathematical Olympiad for Primary Schools <b>(SMOPS)</b></li>
+</p></li><li>Singapore Mathematical Olympiad for Primary Schools <b>(SMOPS)</b></li>
 <li>Singapore Math Kangaroo Contest <b>(SMKC)</b></li>
