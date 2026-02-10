@@ -141,7 +141,7 @@ The S.T.A.R. approach was customised into two versions. One for the Primary 1 an
 	
 	
 	
-<img src="/images/m4.png" style="width:100%">
+<img src="/images/Math_STAR.png" style="width:100%">
 <br><br>
 <b style="color:#0000FF; font-size:18px">Developing students' interest and talent in Mathematics</b>
 <br><br>
