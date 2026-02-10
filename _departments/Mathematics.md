@@ -131,6 +131,8 @@ for students and helps students build positive attitudes towards
 mathematics, turning learning into an experience that is fun and
 meaningful.
 <br>
+
+<br>
 	
 <u><b>Maths Trails Maths Trails (Primary 1 and 2)</b></u>
 	<br>
