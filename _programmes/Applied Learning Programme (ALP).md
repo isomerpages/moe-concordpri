@@ -118,7 +118,17 @@ their inquisitiveness and imagination, and enhance their 21st-century competenci
 in collaboration, communication, and critical and inventive thinking.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_24_113348.png">
+</div>
+<p></p>
+<p>Most importantly, the programme helps students acquire skills for independent
+learning—reflecting on their learning and taking appropriate actions to
+improve it.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/alp12.jpg">
+</div>
 <p></p>
 <p></p>
