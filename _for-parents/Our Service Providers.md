@@ -26,10 +26,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Dental Clinic</u></strong>
-<img style="width:100%" height="auto" width="100%" src="/images/Dental_Feb_2026.png">
-<br>The Dental Therapist will see walk-in cases on a case by case basis. You may also make an appointment via 9114 3917. While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
+<br><strong>The Dental Clinic will be closed from 16 February 2026 to 30 June 2026 due to renovation. </strong>
+<br>You may contact <strong>9114 3917</strong> for an appointment at an external School Dental Clinic. 
+<br>While WhatsApp messages are preferred, please call the number for emergency cases such as dental injury that cause severe pain, facial swelling and fever due to toothache.
 <br>
-<br>During adhoc closure of our dental clinic, the three buddy dental clinics at Chua Chu Kang Primary, South View Primary and Teck Whye Primary, would still function to receive emergency cases.
+<br>During the closure of our dental clinic, the four buddy dental clinics, which are located at Chua Chu Kang Primary, South View Primary, Teck Whye Primary and Unity Primary, would still operate to receive emergency cases. 
 <br>
 <table style="minWidth: 75px">
 <colgroup>
@@ -68,7 +69,7 @@ variant: markdown
 <p>South View Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Choa Chu Kang Central SS689762</p>
+<p>6 Choa Chu Kang Central S689762</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9115 6994</p>
@@ -85,16 +86,30 @@ variant: markdown
 <p>9839 6594</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> 21 Choa Chu Kang Cres S688268</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9115 8304</p>
+</td>
+</tr>
 </tbody>
 </table>
-</p><p><strong>HPB Instructions to parents/students:</strong>
-<br>1. Call/WhatsApp the clinic for an appointment
+</p><p><strong>Instructions to parents &amp; students from Health Promotion Board (HPB):</strong>
+<br>1. WhatsApp/call the clinic for an appointment
 <br>2. Child to be in school attire
-<br>3. Stay within the clinic vicinity
-<br>4. Leave the school upon completion of treatment
+<br>3. To stay within the clinic vicinity
+<br>4. Leave the school premises upon completion of treatment
+<br>5. Due to limited availability, appointments may be scheduled for afternoons or during school holidays.
+<br><strong></strong></p><div style="text-align: center;"><strong>
+Thank you for your understanding</strong></div>
 <br>
 <br><strong><u>Child Consent Portal</u></strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/DentalQRCode.png">
 </div>

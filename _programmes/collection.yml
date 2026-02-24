@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - ALP/Applied Learning Programme (ALP).md
-      - ALP/.keep
-      - Concord’s SOAR Programme.md
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
