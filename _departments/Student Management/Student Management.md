@@ -5,108 +5,109 @@ description: ""
 variant: tiptap
 third_nav_title: Student Management
 ---
-<h2>Vision</h2>
+<h4><strong>Vision</strong></h4>
 <p>Positive Role Models, Embodiment of Values and Culture</p>
-<h2>Mission</h2>
+<h4><strong>Mission</strong></h4>
 <p>To provide a positive and safe environment for Concordians to grow and
 learn.</p>
-<p>Student Management department enriches every Concordian's educational
-journey through Student Discipline, Leadership, and Safety.</p>
+<p>The Student Management Department enriches every Concordian’s educational
+journey by creating a caring, safe and enabling school environment where
+students are empowered to develop self-discipline, responsibility, and
+well-being.</p>
+<h4><strong>Discipline </strong></h4>
+<p>We nurture a positive yet firm environment where students uphold the school’s
+core values and practise self-management. Guided by our iGIVE culture,
+discipline is approached as a developmental process that builds responsibility
+and reflection, while providing opportunities for students to exercise
+voice and agency in making informed and positive choices.</p>
+<h4><strong>Safety &amp; Well-being </strong></h4>
+<p>We foster a safe, caring and enabling environment where students feel
+heard, respected, and supported. Through a whole school tiered approach,
+students are given appropriate platforms to express their needs, receive
+timely support, and build confidence. This ensures that every Concordian
+receives the care and guidance needed to thrive and soar to greater heights.</p>
+<h4><strong>Department’s highlights/framework:</strong></h4>
+<p><strong>SOAR in Action</strong> is Concord Primary School’s approach to
+strengthening student character, habits and identity through consistent
+daily practices. Building on our learning from past approaches, the school
+has intentionally moved away from the former SOAR Redemption Programme
+towards a more proactive, strengths-based model that emphasises early guidance
+rather than corrective follow-up.</p>
+<p>The focus is on making the school’s core values visible by translating
+them into clear, observable student behaviours, supported through routines,
+modelling and affirmation. Through weekly social stories,</p>
+<p>explicit demonstrations of expected behaviours, and timely teacher affirmations,
+students are guided to practise positive actions. Teachers use shared language
+to notice and affirm behaviours aligned with Concord’s core values. SOAR
+in Action adopts a light-touch, class-based approach that focuses on habit-building,
+reflection and identity development. By embedding these practices into
+daily classroom routines, the approach strengthens classroom climate, student
+engagement and relationships, and supports Concordians in becoming responsible,
+caring and reflective individuals.</p>
+<p></p>
+<p><strong>The Soar in Action page in our Student Handbook.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SOAR.png">
+</div>
+<h4><strong>Back to School Programme </strong></h4>
+<p>The Back-to-School Programme plays a vital role in helping students transition
+smoothly into the new school year by establishing a safe, caring and enabling
+environment from the very first day of school. Designed as a whole school
+effort, the programme supports students’ emotional readiness, strengthens
+relationships, and reinforces positive routines and expectations.</p>
+<p><strong>Supporting Student Well-being and Belonging </strong>
+</p>
+<p>The programme focuses on helping students feel welcomed, safe, and connected
+to the school community. Through structured activities and intentional
+interactions with teachers and peers, students are supported in settling
+into school routines while building a sense of belonging and trust.</p>
+<p></p>
+<p><strong>Year Head (Lower Primary) addressing parents during the P1 Day 1 programme.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Year_head.png">
+</div>
+<p><strong>The P1s accompanied by their P4 senior buddies as part of their recess buddy programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Back_to_school.png">
+</div>
+<p><strong><br>Whole School Collaboration and Partnerships </strong>
+</p>
+<p>The programme is implemented in close collaboration with Instructional
+Programme (IP) departments, Year Heads, Form Teachers, and support staff
+to ensure consistency in messages and practices across levels. Where appropriate,
+external partners are engaged to provide additional support and resources
+that enhance students’ socio-emotional well-being and readiness for learning.</p>
+<p><strong>Developing Student Voice and Agency</strong>
+</p>
+<p>Opportunities are built into the programme for students to share their
+thoughts, experiences, and expectations for the new school year. Through
+guided reflections and interactive activities, students are encouraged
+to exercise voice and agency, take ownership of their behaviour, and set
+personal goals aligned with school values.
+<br>
+</p>
+<p><strong>Reinforcing Values, Expectations and Routines</strong>
+</p>
+<p>Key school values, behavioural expectations, and safety routines are explicitly
+taught and modelled during the programme. This helps students understand
+the purpose behind school rules and supports the development of self-management
+and responsible decision-making.</p>
+<p>Through the Back-to-School Programme, we aim to establish strong foundations
+for learning by nurturing confident, well-supported and reflective Concordians
+who are ready to engage positively with their learning and the school community.</p>
+<p>
+<br><strong>P4 students enjoying their level bonding session facilitated by YHs and FTs.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_Bonding.png">
+</div>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Discipline : We nurture a positive and firm environment where students
-uphold school's core values and practice self-management, guided by our
-school's iGIVE culture.</p>
-</li>
-<li>
-<p>Leadership: We believe every Concordian is a leader. Through structured
-teaching and tiered opportunities, students develop leadership traits and
-apply them meaningfully.</p>
-</li>
-<li>
-<p>Safety and Well-being: We foster a safe, caring and enbling environment
-so that our students can explore their passions, receive timely support,and
-grow into confident individuals. A whole-school approach ensures every
-student receives the care and guidance needed to thrive and soar to greater
-heights!</p>
-<p></p>
-<h2>Key Programmes and Activities</h2>
-<p></p>
-<h4>Soar for Life Programme for Primary 3 to Primary 6</h4>
-<p>At Concord, we believe in nurturing students to become confident, responsible,
-and effective leaders. Our Soar for Life Programme is designed to equip
-students with age-appropriate skillsets such as critical thinking, a growth
-mindset, and key leadership competencies.</p>
-<p>Through engaging and experiential activities, students learn to communicate
-effectively, manage conflicts constructively, and apply these skills in
-real-life situations. By the end of the programme, our students will be
-more confident and competent, ready to lead at the self, peer, and community
-levels, and to contribute positively to the school and beyond.</p>
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/SM_1.png">
-</div>
-<p><strong><br></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/SM_2.png">
-</div>
-<p><strong><br></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:68%" height="auto" width="100%" src="/images/SM_3.png">
-</div>
-<p></p>
-<h4><strong>Soar Redemption Programme</strong></h4>
-<p></p>
-<p><strong>To recognise and reinforce positive student behaviours, the SOAR Redemption Programme is a school-wide initiative designed to encourage students to consistently demonstrate positive behaviours aligned with our school's values.</strong>
-</p>
-<p><strong>Through this programme, students are rewarded for:</strong>
-</p>
-</li>
-<li>
-<p>Demonstrating School Values - Upholding integrity, care, respect, responsibility,
-loyalty and resilience in their daily actions.</p>
-</li>
-<li>
-<p>Practising Safe Behaviours - Making thoughtful decisions that ensure personal
-safety and the safety of orders.</p>
-</li>
-<li>
-<p>Exercising Executive Function - Managing time, tasks, and responsibilities
-effectively.</p>
-</li>
-<li>
-<p>Being Timely - Showing punctuality and respect for time in school routines.</p>
-</li>
-<li>
-<p>Displaying Leadership - Taking initiative and setting a positive example
-of peers.</p>
-<p></p>
-<p>By reinforcing these behaviuors, the SOAR Redemption Programme supports
-the holistic development of every Concordian, nurturing them into responsible
-and confident individuals who contribute positively to the school community.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:68%" height="auto" width="100%" src="/images/SM_4.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:48%" height="auto" width="100%" src="/images/SM_5.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:72%" height="auto" width="100%" src="/images/SM_6.png">
-</div>
-<p></p>
-<p></p>
-<h4>Pre-Assembly and Assembly Programme</h4>
 <p></p>
 <p>Our Pre-Asembly and Assembly Programme plays a key role in shaping a positive
 school culture and nurturing the holistic development of our students.
