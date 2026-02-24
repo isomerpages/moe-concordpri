@@ -56,10 +56,67 @@ apply their knowledge across subjects to address real life issues pertaining
 to sustainable living such as water, food and energy sustainability and
 contribute to a more sustainable future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_24_112148.png">
+</div>
 <p></p>
 <p>To emphasize “project-based learning,” lesson packages and activity booklets
 were created, and learning journeys were organized for students based on
 specific level themes:</p>
+<p><strong>P3: Water Sustainability</strong>
+</p>
+<p>Primary 3 students learned about water sustainability efforts in Singapore,
+gaining a deeper understanding of the importance of water conservation.
+Through building water filters, they developed the ability to make connections
+across different areas of knowledge and realized the need to make water
+conservation a way of life.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP5.jpg">
+</div>
+<p></p>
+<p><strong>P4: Food Sustainability</strong>
+</p>
+<p>Primary 4 students explored Singapore’s challenges in food production
+and its vulnerability in food supply. By creating innovative menus using
+alternative food sources, they applied what they had learned and understood
+that food security requires a collective effort, with everyone playing
+a part.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP6.png">
+</div>
+<p></p>
+<p><strong>P5: Energy Sustainability</strong>
+</p>
+<p>Primary 5 students learned about energy sustainability and the importance
+of embracing renewable energy in Singapore. By building innovative prototypes
+of a green school, students were encouraged to think about how they can
+help save energy and were motivated to take proactive steps toward sustainable
+energy practices.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP7.png">
+</div>
+<p></p>
+<p><strong>P6: Sustainable Living</strong>
+</p>
+<p>Primary 6 students designed and built models of green buildings to showcase
+their knowledge and understanding of sustainable living. They also shared
+ideas for futuristic green buildings with their classmates during class
+presentations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP8.jpg">
+</div>
+<p></p>
+<p>The highlight of the programme is the group presentation, where students
+consolidate their learning and apply the skills they have acquired. Through
+this programme, our Primary 3 to 6 students have the opportunity to apply
+their knowledge and skills across disciplines, see interconnections, hone
+their inquisitiveness and imagination, and enhance their 21st-century competencies
+in collaboration, communication, and critical and inventive thinking.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
