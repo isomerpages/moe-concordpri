@@ -14,13 +14,13 @@ learn.</p>
 journey by creating a caring, safe and enabling school environment where
 students are empowered to develop self-discipline, responsibility, and
 well-being.</p>
-<h4><strong>Discipline </strong></h4>
+<h4><strong>Discipline</strong></h4>
 <p>We nurture a positive yet firm environment where students uphold the school’s
 core values and practise self-management. Guided by our iGIVE culture,
 discipline is approached as a developmental process that builds responsibility
 and reflection, while providing opportunities for students to exercise
 voice and agency in making informed and positive choices.</p>
-<h4><strong>Safety &amp; Well-being </strong></h4>
+<h4><strong>Safety &amp; Well-being</strong></h4>
 <p>We foster a safe, caring and enabling environment where students feel
 heard, respected, and supported. Through a whole school tiered approach,
 students are given appropriate platforms to express their needs, receive
@@ -50,13 +50,13 @@ caring and reflective individuals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SOAR.png">
 </div>
-<h4><strong>Back to School Programme </strong></h4>
+<h4><strong>Back to School Programme</strong></h4>
 <p>The Back-to-School Programme plays a vital role in helping students transition
 smoothly into the new school year by establishing a safe, caring and enabling
 environment from the very first day of school. Designed as a whole school
 effort, the programme supports students’ emotional readiness, strengthens
 relationships, and reinforces positive routines and expectations.</p>
-<p><strong>Supporting Student Well-being and Belonging </strong>
+<p><strong>Supporting Student Well-being and Belonging</strong>
 </p>
 <p>The programme focuses on helping students feel welcomed, safe, and connected
 to the school community. Through structured activities and intentional
@@ -73,7 +73,7 @@ into school routines while building a sense of belonging and trust.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Back_to_school.png">
 </div>
-<p><strong><br>Whole School Collaboration and Partnerships </strong>
+<p><strong><br>Whole School Collaboration and Partnerships</strong>
 </p>
 <p>The programme is implemented in close collaboration with Instructional
 Programme (IP) departments, Year Heads, Form Teachers, and support staff
@@ -105,79 +105,87 @@ who are ready to engage positively with their learning and the school community.
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_Bonding.png">
 </div>
 <p></p>
-<p></p>
+<p><strong>Pre-Assembly and Assembly Programme</strong>
+</p>
+<p>The Pre-Assembly and Assembly Programme play a key role in shaping a positive
+school culture and supporting the holistic development of our students.
+Held weekly on Mondays and Fridays, these sessions go beyond routine announcements
+and are intentionally designed to provide meaningful learning and reflection
+opportunities for all Concordians.</p>
+<p><strong>Promoting Character Development, Student Voice and Agency</strong>
+</p>
+<p>Through talks and values sharing facilitated by school leaders, teachers,
+students, and community partners, students are guided to reflect on the
+school’s values and apply them in their daily lives. The programme also
+provides platforms for students to express their thoughts, perspectives,
+and reflections, nurturing their voice and agency in a safe and supportive
+environment.</p>
+<p><strong>Whole School Collaboration and Partnerships</strong>
+</p>
+<p>The programme is planned and delivered in close collaboration with other
+Instructional Programme (IP) departments, ensuring coherence with curriculum
+goals and school-wide priorities. We also work with external partners to
+enrich students’ learning experiences, particularly in areas related to
+character education, well-being, citizenship, and real-world awareness.</p>
+<p><strong>National Education and School-wide Commemorations</strong>
+</p>
+<p>
+<br>Pre-Assembly and Assembly sessions are used to mark key National Student
+Management Department teacher addressing the students during Monday assembly.</p>
+<p>Education (NE) events, helping students develop a sense of identity, belonging,
+and responsibility as Singaporeans. These sessions provide age-appropriate
+contexts for students to understand national values and current issues.</p>
+<p>
+<br><strong>Celebrating Achievements and Positive Behaviour</strong>
+</p>
+<p>We regularly recognise students’ efforts and achievements in academics,
+character, leadership-related dispositions, and co-curricular involvement.
+This fosters a culture of encouragement, motivation, and appreciation for
+growth and positive contributions. Beyond silent reading, pre-assembly
+time is also used purposefully to engage students through motivational
+quotes, values-based messages, and guided reflections. Through this programme,
+we aim to nurture confident, reflective, and well-rounded Concordians who
+uphold school values and contribute positively to the school and wider
+community.
+<br>
+</p>
+<p><strong>Termly Affirmation Programme</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-<p>Our Pre-Asembly and Assembly Programme plays a key role in shaping a positive
-school culture and nurturing the holistic development of our students.
-Held weekly on Mondays and Fridays, these sessions, go beyond school announcements,
-they are designed to :</p>
-</li>
-<li>
-<p>Promote Chracter and Leadership Development</p>
-<p>Through talks and sharing by school leaders, teachers, student leaders
-and community partners, we provide platform for students to reflect on
-our school values, build character, and grow as useful citizen.</p>
-</li>
-<li>
-<p>Celebrate Achievements</p>
-<p>We take time to recognise students' efforts and successes, whether in
-academics, character, Leadership, or co-curricular activities - fostering
-a culture of encouragement and motivation.</p>
-<p>Other than silent reading, our pre assembly time is also used meaningfully
-to engage students with motivational quotes and key messages on school
-values. Through this programme, we aim to nurture confident and well-rounded
-Concordians who uphold school values and contribute positively to our community.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:72%" height="auto" width="100%" src="/images/SM_7.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:72%" height="auto" width="100%" src="/images/SM_8.png">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<h4>Termly Affirmation Programme</h4>
 <p>The termly Affirmation Programme recognises students who demonstrate good
 character, positive behaviour, and leadership qualities. It is designed
 to acknowledge those who consistently uphold our school values and serve
-as positive role models to their peers.</p>
-<p>Each term, teachers nominate students who have shown outstanding efforts
-in displaying school values or taking on leadership roles in class, across
-their level, or within the school. Nominated students will be presented
-with the Termly Affirmation Certificate during the first week of Term 2
-and 3, and at the end of Term 4.</p>
+as positive role models to their peers. Each term, teachers nominate students
+who have shown outstanding efforts in displaying school values or taking
+on leadership roles in class, across their level, or within the school.
+Nominated students will be presented with the Termly Affirmation Certificate
+during the first week of Term 2 and 3, and at the end of Term 4.</p>
 <p></p>
-<h4>Monthly Moments of Joy - Birthday Celebrations</h4>
+</li>
+</ul>
+<p><strong>Monthly Moments of Joy - Birthday Celebrations</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Each month, we hold simple in-class and level birthday celebrations to
-create joyful memories with our student together.</p>
-<p>These celebrations help strengthen bonds within the class and across the
-level, while reminding every child that they are remembered and cherished.
-While we do not give out birthday gifts as we focus on nurturing intrinsic
-motivation, teachers mark the occasion with warm wishes, birthday songs,
-and photos to capture the special moments.</p>
-<p>Through these small but meaningful celebrations, we aim to create a warm
-and caring environment where every child feels supported and celebrated.
+create joyful memories with our students together. These celebrations help
+strengthen bonds within the class and across the level, while reminding
+every child that they are remembered and cherished. While we do not give
+birthday gifts as we focus on nurturing intrinsic motivation, teachers
+mark the occasion with warm wishes, birthday songs, and photos to capture
+the special moments. Through these small but meaningful celebrations, we
+aim to create a warm and caring environment where every child feels supported
+and celebrated.
 <br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:72%" height="auto" width="100%" src="/images/SM_9.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/January_Babies.png">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:72%" height="auto" width="100%" src="/images/SM_10.png">
-</div>
 <p></p>
 <p>
 <br>
