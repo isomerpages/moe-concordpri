@@ -28,9 +28,9 @@ variant: markdown
 <p><strong><u>School Dental Clinic</u></strong>
 <br><strong>The Dental Clinic will be closed from 16 February 2026 to 30 June 2026 due to renovation. </strong>
 <br>You may contact <strong>9114 3917</strong> for an appointment at an external School Dental Clinic. 
-<br>While WhatsApp messages are preferred, you may call for emergency cases e.g. dental injury, facial swelling, fever due to toothache.
+<br>While WhatsApp messages are preferred, please call the number for emergency cases such as dental injury that cause severe pain, facial swelling and fever due to toothache.
 <br>
-<br>During the closure of our dental clinic, the four buddy dental clinics at Chua Chu Kang Primary, South View Primary, Teck Whye Primary and Unity Primary, would still function to receive emergency cases. 
+<br>During the closure of our dental clinic, the four buddy dental clinics, which are located at Chua Chu Kang Primary, South View Primary, Teck Whye Primary and Unity Primary, would still operate to receive emergency cases. 
 <br>
 <table style="minWidth: 75px">
 <colgroup>
@@ -69,7 +69,7 @@ variant: markdown
 <p>South View Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Choa Chu Kang Central SS689762</p>
+<p>6 Choa Chu Kang Central S689762</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9115 6994</p>
@@ -99,15 +99,15 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p><strong>HPB Instructions to parents/students:</strong>
-<br>1. Call/WhatsApp the clinic for an appointment
+</p><p><strong>Instructions to parents &amp; students from Health Promotion Board (HPB):</strong>
+<br>1. WhatsApp/call the clinic for an appointment
 <br>2. Child to be in school attire
-<br>3. Stay within the clinic vicinity
-<br>4. Leave the school upon completion of treatment
-<br>5. Due to limited availability, appointments may be scheduled for afternoons or school holidays.
+<br>3. To stay within the clinic vicinity
+<br>4. Leave the school premises upon completion of treatment
+<br>5. Due to limited availability, appointments may be scheduled for afternoons or during school holidays.
 <br>
 <br><strong></strong></p><div style="text-align: center;"><strong>
-Thank you for your kind understanding</strong></div>
+Thank you for your understanding</strong></div>
 <br>
 <br><strong><u>Child Consent Portal</u></strong>
 <p></p>
