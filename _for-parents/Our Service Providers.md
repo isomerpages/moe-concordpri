@@ -105,7 +105,6 @@ variant: markdown
 <br>3. To stay within the clinic vicinity
 <br>4. Leave the school premises upon completion of treatment
 <br>5. Due to limited availability, appointments may be scheduled for afternoons or during school holidays.
-<br>
 <br><strong></strong></p><div style="text-align: center;"><strong>
 Thank you for your understanding</strong></div>
 <br>
