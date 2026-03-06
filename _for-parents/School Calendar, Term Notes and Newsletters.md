@@ -91,7 +91,42 @@ variant: markdown
  <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 2 Note</a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 3 Note</a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 4 Note</a><br>
-</td>
+	</td>
+</tr></tbody>
+</table>
+ <h3>2026 Newsletter for Parents</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:middle}
+.tg .tg-ppzr{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-ppzc{background-color:#FFF;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jpkv{background-color:#FFF;color:#0C463A;text-align:center;vertical-align:top}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+<tr>
+ <td class="tg-a4yv">Lower Primary </td>
+ <td class="tg-a4yv">Middle Primary</td>
+ <td class="tg-a4yv">Upper Primary </td>
+</tr>
+ <tr>
+ <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+ <td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Middle_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
+<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+</tr>
+<tr>
+
 </tr></tbody>
 </table>
  <h3>2025 Newsletter for Parents</h3>
