@@ -121,9 +121,9 @@ variant: markdown
  <td class="tg-a4yv">Upper Primary </td>
 </tr>
  <tr>
- <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+ <td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Lower_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
  <td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Middle_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
-<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Upper_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 </tr>
 <tr>
 
