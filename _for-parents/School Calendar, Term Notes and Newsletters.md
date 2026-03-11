@@ -43,7 +43,7 @@ variant: markdown
 </td></tr>
 <tr>
 	<td class="tg-xuj5"><a href="/files/2026_Term_1_School_Calendar__for_Parents_.pdf" target="_blank" rel="noopener noreferrer">2026 Term 1 Calendar</a><br></td>
-		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 2 Calendar</a><br></td>
+		<td class="tg-xuj5"><a href="/files/2026_CPS_Calendar___Term_2__For_Parents_.pdf" target="_blank" rel="noopener noreferrer">2026 Term 2 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 3 Calendar</a><br></td>
 		<td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 4 Calendar</a><br>
 </td></tr>
@@ -121,9 +121,9 @@ variant: markdown
  <td class="tg-a4yv">Upper Primary </td>
 </tr>
  <tr>
- <td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+ <td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Lower_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
  <td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Middle_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
-<td class="tg-ppzb"><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+<td class="tg-ppzb"><a href="/files/2026_T1_Newsletter_Upper_Primary.pdf" target="_blank" rel="noopener noreferrer">Term 1 Issue #01</a></td>
 </tr>
 <tr>
 
