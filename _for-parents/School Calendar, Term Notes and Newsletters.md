@@ -88,7 +88,7 @@ variant: markdown
 </tr>
 <tr>
 <td class="tg-xuj5"><a href="/files/2026_CPS_Term_Notes___Term_1_FINAL.pdf" target="_blank" rel="noopener noreferrer">2026 Term 1 Note</a><br></td>
- <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 2 Note</a><br></td>
+ <td class="tg-xuj5"><a href="/files/2026_CPS_Term_Notes___Term_2_FINAL.pdf" target="_blank" rel="noopener noreferrer">2026 Term 2 Note</a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 3 Note</a><br></td>
 <td class="tg-xuj5"><a href="" target="_blank" rel="noopener noreferrer">2026 Term 4 Note</a><br>
 	</td>
