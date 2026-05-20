@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA@CONCORD PROGRAMME.md
-      - Niche CCA.md
       - Sports/.keep
       - Sports/Sepak Takraw.md
       - Sports/Floorball.md
