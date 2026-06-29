@@ -26,7 +26,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Dental Clinic</u></strong>
-<br><strong>The Dental Clinic will be closed from 16 February 2026 to 30 June 2026 due to renovation. </strong>
+<br><strong>The Dental Clinic will be closed from 16 February 2026 to 31 August 2026 due to renovation. </strong>
 <br>You may contact <strong>9114 3917</strong> for an appointment at an external School Dental Clinic. 
 <br>While WhatsApp messages are preferred, please call the number for emergency cases such as dental injury that cause severe pain, facial swelling and fever due to toothache.
 <br>
