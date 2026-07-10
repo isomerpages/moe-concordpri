@@ -865,7 +865,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_ning_shuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chong Ning Shuang Lynn</a>
+<p><a href="mailto:chong_ning_shuang_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chong Ning Shuang Lynn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
