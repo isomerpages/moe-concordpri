@@ -59,7 +59,7 @@ etc</p>
 <p>3.&nbsp;Submit the completed application form and documents by closing
 date via email OR to the School’s General Office.</p>
 <p>Concord Primary School</p>
-<p>3 Choa Chu Kang Ave 4, &nbsp;Singapore 689814
+<p>3 Choa Chu Kang Ave 4, Singapore 689814
 <br>Contact No: 67632139
 <br>Email:&nbsp;<a href="mailto:concord_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">concord_ps@moe.edu.sg</a>
 <br>Contact Person: Mr Frederick Tong, Operations Manager</p>
