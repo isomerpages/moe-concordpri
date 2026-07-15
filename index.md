@@ -20,6 +20,6 @@ sections:
           url: /for-parents/holidays-and-school-closures/
         - title: School Canteen Advertisement
           description: Advertisement for vacant stall
-          url: ""
+          url: https://www.concordpri.moe.edu.sg/school-canteen-advertisement/
       variant: center
 ---
