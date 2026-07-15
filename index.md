@@ -18,5 +18,8 @@ sections:
         - title: Holidays and  school closures
           description: "Last updated: 2 January 2026"
           url: /for-parents/holidays-and-school-closures/
+        - title: School Canteen Advertisement
+          description: Advertisement for vacant stall
+          url: https://www.concordpri.moe.edu.sg/school-canteen-advertisement/
       variant: center
 ---
