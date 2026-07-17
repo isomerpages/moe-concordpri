@@ -70,7 +70,7 @@ variant: markdown
     <td class="tg-yhj8">Sunday, 5 July 2026<br><b style="color:blue"><em>(Monday, 6 July 2026 will<br>be a scheduled School Holiday)</em></b></td>
 	</tr>
 	<tr>
-    <td class="tg-yhj8">National Day Celebration<br><b style="color:blue"><em>(TBC)</em></b>
+    <td class="tg-yhj8">National Day Celebration<br><b style="color:blue"><em></em></b>
     </td><td class="tg-yhj8">Friday, 7 August 2026<br><b style="color:blue"><em>(Early dismissal at 10.30am)</em></b></td>
   </tr>
 <tr>
